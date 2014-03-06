@@ -7,7 +7,7 @@ angular.module('graficos.controllers', [])
 
             $http({method: 'GET', url: 'data/variables.json'}).
                 success(function (data, status, headers, config) {
-                    $scope.data = data;
+                    $scope.data = data.menu;
                 }).
                 error(function (data, status, headers, config) {
                     $scope.data = {
@@ -18,3 +18,4 @@ angular.module('graficos.controllers', [])
                 });
         }
     ]);
+
