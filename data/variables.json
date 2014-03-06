@@ -1,0 +1,2713 @@
+{ "menu": [
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    }
+                ],
+                "id": "subcat5",
+                "nome": "Subcategoria 5"
+            }
+        ],
+        "id": "cat1",
+        "nome": "Categoria 1"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var17",
+                        "nome": "Variavel 17"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            }
+        ],
+        "id": "cat2",
+        "nome": "Categoria 2"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var17",
+                        "nome": "Variavel 17"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var18",
+                        "nome": "Variavel 18"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var19",
+                        "nome": "Variavel 19"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var20",
+                        "nome": "Variavel 20"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    }
+                ],
+                "id": "subcat5",
+                "nome": "Subcategoria 5"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    }
+                ],
+                "id": "subcat6",
+                "nome": "Subcategoria 6"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    }
+                ],
+                "id": "subcat7",
+                "nome": "Subcategoria 7"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    }
+                ],
+                "id": "subcat8",
+                "nome": "Subcategoria 8"
+            }
+        ],
+        "id": "cat3",
+        "nome": "Categoria 3"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var17",
+                        "nome": "Variavel 17"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    }
+                ],
+                "id": "subcat5",
+                "nome": "Subcategoria 5"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    }
+                ],
+                "id": "subcat6",
+                "nome": "Subcategoria 6"
+            }
+        ],
+        "id": "cat4",
+        "nome": "Categoria 4"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var17",
+                        "nome": "Variavel 17"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var18",
+                        "nome": "Variavel 18"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var19",
+                        "nome": "Variavel 19"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var20",
+                        "nome": "Variavel 20"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            }
+        ],
+        "id": "cat5",
+        "nome": "Categoria 5"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            }
+        ],
+        "id": "cat6",
+        "nome": "Categoria 6"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    }
+                ],
+                "id": "subcat5",
+                "nome": "Subcategoria 5"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    }
+                ],
+                "id": "subcat6",
+                "nome": "Subcategoria 6"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    }
+                ],
+                "id": "subcat7",
+                "nome": "Subcategoria 7"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    }
+                ],
+                "id": "subcat8",
+                "nome": "Subcategoria 8"
+            }
+        ],
+        "id": "cat7",
+        "nome": "Categoria 7"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var17",
+                        "nome": "Variavel 17"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var18",
+                        "nome": "Variavel 18"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var19",
+                        "nome": "Variavel 19"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var20",
+                        "nome": "Variavel 20"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    }
+                ],
+                "id": "subcat5",
+                "nome": "Subcategoria 5"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    }
+                ],
+                "id": "subcat6",
+                "nome": "Subcategoria 6"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    }
+                ],
+                "id": "subcat7",
+                "nome": "Subcategoria 7"
+            }
+        ],
+        "id": "cat8",
+        "nome": "Categoria 8"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    }
+                ],
+                "id": "subcat4",
+                "nome": "Subcategoria 4"
+            }
+        ],
+        "id": "cat9",
+        "nome": "Categoria 9"
+    },
+    {
+        "itens": [
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    }
+                ],
+                "id": "subcat1",
+                "nome": "Subcategoria 1"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    }
+                ],
+                "id": "subcat2",
+                "nome": "Subcategoria 2"
+            },
+            {
+                "itens": [
+                    {
+                        "itens": [],
+                        "id": "var1",
+                        "nome": "Variavel 1"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var2",
+                        "nome": "Variavel 2"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var3",
+                        "nome": "Variavel 3"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var4",
+                        "nome": "Variavel 4"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var5",
+                        "nome": "Variavel 5"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var6",
+                        "nome": "Variavel 6"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var7",
+                        "nome": "Variavel 7"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var8",
+                        "nome": "Variavel 8"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var9",
+                        "nome": "Variavel 9"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var10",
+                        "nome": "Variavel 10"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var11",
+                        "nome": "Variavel 11"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var12",
+                        "nome": "Variavel 12"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var13",
+                        "nome": "Variavel 13"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var14",
+                        "nome": "Variavel 14"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var15",
+                        "nome": "Variavel 15"
+                    },
+                    {
+                        "itens": [],
+                        "id": "var16",
+                        "nome": "Variavel 16"
+                    }
+                ],
+                "id": "subcat3",
+                "nome": "Subcategoria 3"
+            }
+        ],
+        "id": "cat10",
+        "nome": "Categoria 10"
+    }
+]}

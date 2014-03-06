@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-br" ng-app="graficos">
+<head>
+    <meta charset="UTF-8">
+    <title>Gráficos</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/graficos.css">
+    <link rel="stylesheet" href="css/angular-treeview.css">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="panel panel-default altura">
+                    <div class="panel-heading">
+                        Seleção de Variáveis
+                    </div>
+                    <div class="panel-body" ng-controller="menuController">
+                        <div angular-treeview="true" tree-id="item" tree-model="data" tree-data="data"
+                             node-id="id" node-label="nome" node-children="itens">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-9">
+                <div class="panel panel-default altura">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-2.1.0.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/angular.js"></script>
+    <script src="js/angular-ui-router.js"></script>
+    <script src="js/angular-resource.js"></script>
+    <script src="js/angular-treeview.js"></script>
+    <script src="js/app/app.js"></script>
+    <script src="js/app/directives.js"></script>
+    <script src="js/app/controllers.js"></script>
+</body>
+</html>
