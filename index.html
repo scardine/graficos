@@ -10,13 +10,13 @@
 </head>
 <body>
     <div class="container">
-        <div class="row">
+        <div class="row" ng-controller="menuController">
             <div class="col-lg-3">
                 <div class="panel panel-default altura">
                     <div class="panel-heading">
                         Seleção de Variáveis
                     </div>
-                    <div class="panel-body" ng-controller="menuController">
+                    <div class="panel-body">
                         <div angular-treeview="true" tree-id="item" tree-model="data" tree-data="data"
                              node-id="id" node-label="nome" node-children="itens">
                         </div>
@@ -24,8 +24,14 @@
                 </div>
             </div>
             <div class="col-lg-9">
-                <div class="panel panel-default altura">
-                </div>
+                <vega-map url="data/mun/{{ codigo }}/{{ ano }}.tsv" width="845" height="550" info="info"
+                        feature="municipios" geometry="data/municipios.topo.json" parse="{valor: 'number'}"
+                        title="{{ title }}" current="ano" options="anos">
+                    <div ng-show="info">
+                        <h3>{{ info.localidade }}</h3>
+                        <p>{{ info.label }}</p>
+                    </div>
+                </vega-map>
             </div>
         </div>
     </div>
@@ -38,5 +44,9 @@
     <script src="js/app/app.js"></script>
     <script src="js/app/directives.js"></script>
     <script src="js/app/controllers.js"></script>
+    <script src="http://trifacta.github.io/vega/lib/d3.v3.min.js"></script>
+    <script src="http://trifacta.github.io/vega/lib/d3.geo.projection.min.js"></script>
+    <script src="http://trifacta.github.io/vega/lib/topojson.js"></script>
+    <script src="http://trifacta.github.io/vega/vega.js"></script>
 </body>
 </html>

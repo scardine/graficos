@@ -54,7 +54,17 @@ div[data-tree-model] li i, div[data-tree-model] li span, div[tree-model] li i, d
 }
 
 div[data-tree-model]  li .selected , div[tree-model]  li .selected  {
-  background-color: #aaddff;
+  background-color: #99aadd;
   font-weight: bold;
   padding: 1px 5px;
+  color: #fff;
+}
+
+div[data-tree-model]  li .leaf , div[tree-model]  li .leaf  {
+    margin-left: 20px;
+    display: block;
+}
+
+div[data-tree-model]  li .fa-bar-chart-o , div[tree-model]  li .fa-bar-chart-o  {
+    float: left;
 }
