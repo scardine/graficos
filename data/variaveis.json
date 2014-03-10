@@ -10,7 +10,9 @@
               "anos": "2008,2010", 
               "itens": [], 
               "id": "7", 
-              "nome": "\u00cdndice Paulista de Responsabilidade Social - IPRS (grupos)"
+              "nome": "\u00cdndice Paulista de Responsabilidade Social - IPRS (grupos)",
+              "scale": "quantize",
+              "domain": [0, 5]
             }, 
             {
               "anos": "2000,2010", 
@@ -29,8 +31,10 @@
               "anos": "2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012", 
               "itens": [], 
               "id": "63", 
-              "nome": "Taxa de Mortalidade Infantil"
-            }, 
+              "nome": "Taxa de Mortalidade Infantil",
+              "scale": "quantile",
+              "domain": {"data": "source", "field": "data.valor"}
+            },
             {
               "anos": "2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012", 
               "itens": [], 

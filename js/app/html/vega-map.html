@@ -6,9 +6,9 @@
         <div scope-ref="vis"></div>
         <div class="info" ng-transclude ng-show="info.id"></div>
         <div class="navigate" scope-ref="prev">
-            <i class="fa fa-angle-left" ng-hide="current == options[0]"></i>
+            <a scope-ref="prev"><i class="fa fa-angle-left" ng-hide="current == options[0]"></i></a>
             {{ current }}
-            <i class="fa fa-angle-right" scope-ref="next" ng-hide="current == options.slice(-1)[0]"></i>
+            <a scope-ref="next"><i class="fa fa-angle-right" ng-hide="current == options.slice(-1)[0]"></i></a>
         </div>
     </div>
 </div>

@@ -24,9 +24,9 @@
                 </div>
             </div>
             <div class="col-lg-9">
-                <vega-map url="data/mun/{{ codigo }}/{{ ano }}.tsv" width="845" height="550" info="info"
+                <vega-map url="data/mun/{{ var.codigo }}/{{ var.ano }}.tsv" width="845" height="550" info="info"
                         feature="municipios" geometry="data/municipios.topo.json" parse="{valor: 'number'}"
-                        title="{{ title }}" current="ano" options="anos">
+                        title="{{ title }}" current="var.ano" options="var.anos" scale="var.scale" domain="var.domain">
                     <div ng-show="info">
                         <h3>{{ info.localidade }}</h3>
                         <p>{{ info.label }}</p>

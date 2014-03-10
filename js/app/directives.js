@@ -30,26 +30,14 @@ angular.module('graficos.directives', [])
                 parse: '=',
                 title: '@',
                 current: '=',
-                options: '='
+                options: '=',
+                scale: '=',
+                domain: '='
             },
             link: function(scope, element, attrs) {
-                scope.$watch('url', function(curr, prev) {
-                    if(curr) {
-                        d3.tsv(curr, function(data) {
-                            if(data === null) {
-                                alert("Falha ao carregar arquivo " + curr);
-                                return;
-                            }
-                            scope.data = {};
-                            $.each(data, function(i, elem) {
-                                scope.data[elem.ibge] = elem;
-                            });
-                            scope.$apply();
-                        });
-                    }
-                });
+                scope.data = {};
 
-                var spec = {
+                scope.spec = {
                     "width": parseInt(scope.width),
                     "height": parseInt(scope.height),
                     "data": [
@@ -85,25 +73,47 @@ angular.module('graficos.directives', [])
                     "scales": [
                         {
                             "name": "color",
-                            "type": "quantize",
-                            "domain": [0, 5],
-                            "range": ["#f7fbff", "#deebf7", "#c6dbef", "#9ecae1", "#6baed6"]
+                            "type": scope.scale,
+                            "domain": scope.domain,
+                            "range": ["#f7fbff", "#deebf7", "#c6dbef", "#9ecae1", "#6baed6",
+                                        "#4292c6", "#2171b5", "#08519c", "#08306b"]
                         }
                     ],
                     "marks": [
                         {
                             "type": "path",
                             "from": {"data": "topology"},
+                            "delay": {"value": 1000},
                             "properties": {
-                                "enter": { "path": {"field": "path"} },
-                                "update": { "fill": {"scale":"color", "field":"value.data.valor"} },
-                                "hover": { "fill": {"value": "red"} }
+                                "enter": {"path": {"field": "path"}, "stroke": {"value": "#999"}},
+                                "update": {"fill": {"scale":"color", "field":"value.data.valor"}},
+                                "hover": {"fill": {"value": "red"}}
                             }
                         }
                     ]
                 };
 
-                function parse(spec) {
+                scope.$watch('url', function(curr, prev) {
+                    if(curr) {
+                        console.log(curr);
+                        scope.spec.data[0].url = curr;
+                        scope.spec.scales[0].domain = scope.domain;
+                        scope.spec.scales[0].type = scope.scale;
+                        d3.tsv(curr, function(data) {
+                            if(data === null) {
+                                alert("Falha ao carregar arquivo " + curr);
+                                return;
+                            }
+                            $.each(data, function(i, elem) {
+                                scope.data[elem.ibge] = elem;
+                            });
+                            scope.$apply();
+                        });
+                    }
+                    parse(scope.spec);
+                });
+
+                function parse(spec, options) {
                     vg.parse.spec(spec, function(chart) {
                         var m = chart({el: scope.vis[0]});
                         m.on("mouseover", function(event, item) {
@@ -114,10 +124,25 @@ angular.module('graficos.directives', [])
                             scope.info = undefined;
                             scope.$apply();
                         }); */
-                        m.update();
+                        m.update(options);
                     });
                 }
-                parse(spec);
+
+                scope.next.bind('click', function(ev) {
+                    if(scope.current == scope.options.slice(-1)[0]) return;
+                    var next = scope.options.indexOf("" + scope.current) + 1;
+                    if(next >= 0 && next < scope.options.length) scope.current = scope.options[next];
+                    scope.info = undefined;
+                    scope.$apply();
+                });
+
+                scope.prev.bind('click', function(ev) {
+                    if(scope.current == scope.options[0]) return;
+                    var previous = scope.options.indexOf("" + scope.current) - 1;
+                    if(previous >= 0) scope.current = scope.options[previous];
+                    scope.info = undefined;
+                    scope.$apply();
+                });
             }
         }
     })
