@@ -24,12 +24,23 @@
                 </div>
             </div>
             <div class="col-lg-9">
-                <vega-map url="data/mun/{{ var.codigo }}/{{ var.ano }}.tsv" width="845" height="550" info="info"
-                        feature="municipios" geometry="data/municipios.topo.json" parse="{valor: 'number'}"
-                        title="{{ title }}" current="var.ano" options="var.anos" scale="var.scale" domain="var.domain">
-                    <div ng-show="info">
-                        <h3>{{ info.localidade }}</h3>
-                        <p>{{ info.label }}</p>
+                <div class="panel panel-default vega-map" ng-hide="mapas.length">
+                    <div class="panel-heading">
+                        <h3>Use o menu da esquerda para abrir um ou mais mapas</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div scope-ref="vis">
+                            <img src="img/map-placeholder.png">
+                        </div>
+                    </div>
+                </div>
+                <vega-map ng-repeat="mapa in mapas" url="data/{{ mapa.feature }}/{{ mapa.id }}/{{ mapa.current }}.tsv" width="845" height="550" info="mapa.info"
+                        feature="{{ mapa.feature }}" geometry="data/{{ mapa.feature }}.topo.json" parse="mapa.parse"
+                        data-title="{{ mapa.title }}" current="mapa.current" alternatives="mapa.alternatives"
+                        scale="{{ mapa.scale }}" domain="mapa.domain" range="mapa.range" on-close="remove($index)">
+                    <div ng-show="mapa.info">
+                        <h3>{{ mapa.info.localidade }}</h3>
+                        <p>{{ mapa.info.label }}</p>
                     </div>
                 </vega-map>
             </div>
@@ -47,6 +58,7 @@
     <script src="http://trifacta.github.io/vega/lib/d3.v3.min.js"></script>
     <script src="http://trifacta.github.io/vega/lib/d3.geo.projection.min.js"></script>
     <script src="http://trifacta.github.io/vega/lib/topojson.js"></script>
-    <script src="http://trifacta.github.io/vega/vega.js"></script>
+    <!-- script src="http://trifacta.github.io/vega/vega.js"></script -->
+    <script src="js/vega.js"></script>
 </body>
 </html>

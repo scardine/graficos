@@ -1,14 +1,15 @@
 <div class="panel panel-default vega-map">
     <div class="panel-heading">
         <h3>{{ title }}</h3>
+        <a class="btn btn-sm btn-primary btn-close" ng-click="remove()" title="Fechar">&times;</a>
     </div>
     <div class="panel-body">
         <div scope-ref="vis"></div>
         <div class="info" ng-transclude ng-show="info.id"></div>
         <div class="navigate" scope-ref="prev">
-            <a scope-ref="prev"><i class="fa fa-angle-left" ng-hide="current == options[0]"></i></a>
+            <a scope-ref="prev"><i class="fa fa-angle-left" ng-hide="current == alternatives[0]"></i></a>
             {{ current }}
-            <a scope-ref="next"><i class="fa fa-angle-right" ng-hide="current == options.slice(-1)[0]"></i></a>
+            <a scope-ref="next"><i class="fa fa-angle-right" ng-hide="current == alternatives.slice(-1)[0]"></i></a>
         </div>
     </div>
 </div>

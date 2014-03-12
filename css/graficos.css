@@ -5,10 +5,17 @@
 .vega-map h1, .vega-map h2, .vega-map h3 {
   margin-top: 5px;
   text-align: center; }
+.vega-map .btn-close {
+  position: absolute;
+  top: 15px;
+  right: 15px; }
+.vega-map .panel-heading {
+  position: relative; }
 .vega-map .panel-body {
   position: relative;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  min-height: 550px; }
 .vega-map .info, .vega-map .navigate {
   position: absolute;
   padding: 10px; }
