@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	744	População de 4 e 5 anos: 744
+2	3500204	Adolfo	66	População de 4 e 5 anos: 66
+3	3500303	Aguaí	956	População de 4 e 5 anos: 956
+4	3500402	Águas da Prata	150	População de 4 e 5 anos: 150
+5	3500501	Águas de Lindóia	552	População de 4 e 5 anos: 552
+6	3500600	Águas de São Pedro	74	População de 4 e 5 anos: 74
+7	3500709	Agudos	950	População de 4 e 5 anos: 950
+8	3500808	Alfredo Marcondes	76	População de 4 e 5 anos: 76
+9	3500907	Altair	91	População de 4 e 5 anos: 91
+10	3501004	Altinópolis	370	População de 4 e 5 anos: 370
+11	3501103	Alto Alegre	75	População de 4 e 5 anos: 75
+12	3501202	Álvares Florence	50	População de 4 e 5 anos: 50
+13	3501301	Álvares Machado	525	População de 4 e 5 anos: 525
+14	3501400	Álvaro de Carvalho	119	População de 4 e 5 anos: 119
+15	3501509	Alvinlândia	98	População de 4 e 5 anos: 98
+16	3501608	Americana	5384	População de 4 e 5 anos: 5.384
+17	3501707	Américo Brasiliense	1178	População de 4 e 5 anos: 1.178
+18	3501806	Américo de Campos	111	População de 4 e 5 anos: 111
+19	3501905	Amparo	1580	População de 4 e 5 anos: 1.580
+20	3502002	Analândia	112	População de 4 e 5 anos: 112
+610	3540259	Pontalinda	115	População de 4 e 5 anos: 115
+611	3540754	Potim	430	População de 4 e 5 anos: 430
+612	3543253	Ribeirão Grande	207	População de 4 e 5 anos: 207
+613	3544251	Rosana	442	População de 4 e 5 anos: 442
+614	3545159	Saltinho	150	População de 4 e 5 anos: 150
+615	3549250	São João de Iracema	38	População de 4 e 5 anos: 38
+616	3549953	São Lourenço da Serra	420	População de 4 e 5 anos: 420
+617	3548054	Santo Antonio do Aracanguá	182	População de 4 e 5 anos: 182
+618	3552551	Suzanápolis	112	População de 4 e 5 anos: 112
+619	3553856	Taquarivaí	175	População de 4 e 5 anos: 175
+620	3553955	Tarumã	415	População de 4 e 5 anos: 415
+621	3554656	Torre de Pedra	50	População de 4 e 5 anos: 50
+622	3554953	Tuiuti	144	População de 4 e 5 anos: 144
+623	3555356	Ubarana	160	População de 4 e 5 anos: 160
+624	3556354	Vargem	195	População de 4 e 5 anos: 195
+625	3557154	Zacarias	49	População de 4 e 5 anos: 49
+626	3503356	Arco Íris	39	População de 4 e 5 anos: 39
+627	3507753	Brejo Alegre	59	População de 4 e 5 anos: 59
+628	3509957	Canas	145	População de 4 e 5 anos: 145
+629	3540853	Pracinha	40	População de 4 e 5 anos: 40
+630	3541059	Pratânia	145	População de 4 e 5 anos: 145
+631	3541653	Quadra	77	População de 4 e 5 anos: 77
+632	3546256	Santa Cruz da Esperança	50	População de 4 e 5 anos: 50
+633	3547650	Santa Salete	25	População de 4 e 5 anos: 25
+634	3556958	Vitória Brasil	35	População de 4 e 5 anos: 35
+635	3521150	Ipiguá	117	População de 4 e 5 anos: 117
+636	3553658	Taquaral	68	População de 4 e 5 anos: 68
+637	3515657	Fernão	36	População de 4 e 5 anos: 36
+638	3516853	Gavião Peixoto	113	População de 4 e 5 anos: 113
+639	3525854	Jumirim	77	População de 4 e 5 anos: 77
+640	3532157	Nantes	88	População de 4 e 5 anos: 88
+641	3532868	Nova Castilho	27	População de 4 e 5 anos: 27
+642	3534757	Ouroeste	248	População de 4 e 5 anos: 248
+643	3536570	Paulistânia	37	População de 4 e 5 anos: 37
+644	3543238	Ribeirão dos Índios	41	População de 4 e 5 anos: 41
+645	3554755	Trabiju	42	População de 4 e 5 anos: 42
+21	3502101	Andradina	1344	População de 4 e 5 anos: 1.344
+22	3502200	Angatuba	640	População de 4 e 5 anos: 640
+23	3502309	Anhembi	163	População de 4 e 5 anos: 163
+24	3502408	Anhumas	89	População de 4 e 5 anos: 89
+25	3502507	Aparecida	931	População de 4 e 5 anos: 931
+26	3502606	Aparecida d'Oeste	82	População de 4 e 5 anos: 82
+27	3502705	Apiaí	698	População de 4 e 5 anos: 698
+28	3502804	Araçatuba	4276	População de 4 e 5 anos: 4.276
+29	3502903	Araçoiaba da Serra	893	População de 4 e 5 anos: 893
+30	3503000	Aramina	139	População de 4 e 5 anos: 139
+31	3503109	Arandu	157	População de 4 e 5 anos: 157
+32	3503208	Araraquara	5189	População de 4 e 5 anos: 5.189
+33	3503307	Araras	2999	População de 4 e 5 anos: 2.999
+34	3503406	Arealva	180	População de 4 e 5 anos: 180
+35	3503505	Areias	111	População de 4 e 5 anos: 111
+36	3503604	Areiópolis	313	População de 4 e 5 anos: 313
+37	3503703	Ariranha	219	População de 4 e 5 anos: 219
+38	3503802	Artur Nogueira	1298	População de 4 e 5 anos: 1.298
+39	3503901	Arujá	2899	População de 4 e 5 anos: 2.899
+40	3504008	Assis	2395	População de 4 e 5 anos: 2.395
+41	3504107	Atibaia	4083	População de 4 e 5 anos: 4.083
+42	3504206	Auriflama	294	População de 4 e 5 anos: 294
+43	3504305	Avaí	125	População de 4 e 5 anos: 125
+44	3504404	Avanhandava	315	População de 4 e 5 anos: 315
+45	3504503	Avaré	2218	População de 4 e 5 anos: 2.218
+46	3504602	Bady Bassitt	342	População de 4 e 5 anos: 342
+47	3504701	Balbinos	29	População de 4 e 5 anos: 29
+48	3504800	Bálsamo	179	População de 4 e 5 anos: 179
+49	3504909	Bananal	272	População de 4 e 5 anos: 272
+50	3505005	Barão de Antonina	80	População de 4 e 5 anos: 80
+51	3505104	Barbosa	199	População de 4 e 5 anos: 199
+52	3505203	Bariri	782	População de 4 e 5 anos: 782
+53	3505302	Barra Bonita	723	População de 4 e 5 anos: 723
+54	3505401	Barra do Turvo	236	População de 4 e 5 anos: 236
+55	3505500	Barretos	2730	População de 4 e 5 anos: 2.730
+56	3505609	Barrinha	968	População de 4 e 5 anos: 968
+57	3505708	Barueri	9920	População de 4 e 5 anos: 9.920
+58	3505807	Bastos	507	População de 4 e 5 anos: 507
+59	3505906	Batatais	1393	População de 4 e 5 anos: 1.393
+60	3506003	Bauru	8622	População de 4 e 5 anos: 8.622
+61	3506102	Bebedouro	1648	População de 4 e 5 anos: 1.648
+62	3506201	Bento de Abreu	73	População de 4 e 5 anos: 73
+63	3506300	Bernardino de Campos	273	População de 4 e 5 anos: 273
+64	3506409	Bilac	175	População de 4 e 5 anos: 175
+65	3506508	Birigui	2592	População de 4 e 5 anos: 2.592
+66	3506607	Biritiba Mirim	915	População de 4 e 5 anos: 915
+67	3506706	Boa Esperança do Sul	378	População de 4 e 5 anos: 378
+68	3506805	Bocaina	315	População de 4 e 5 anos: 315
+69	3506904	Bofete	275	População de 4 e 5 anos: 275
+70	3507001	Boituva	1557	População de 4 e 5 anos: 1.557
+71	3507100	Bom Jesus dos Perdões	639	População de 4 e 5 anos: 639
+72	3507209	Borá	16	População de 4 e 5 anos: 16
+73	3507308	Boracéia	127	População de 4 e 5 anos: 127
+74	3507407	Borborema	338	População de 4 e 5 anos: 338
+75	3507506	Botucatu	3510	População de 4 e 5 anos: 3.510
+76	3507605	Bragança Paulista	4337	População de 4 e 5 anos: 4.337
+77	3507704	Braúna	117	População de 4 e 5 anos: 117
+78	3507803	Brodowski	563	População de 4 e 5 anos: 563
+79	3507902	Brotas	618	População de 4 e 5 anos: 618
+80	3508009	Buri	674	População de 4 e 5 anos: 674
+81	3508108	Buritama	365	População de 4 e 5 anos: 365
+82	3508207	Buritizal	98	População de 4 e 5 anos: 98
+83	3508306	Cabrália Paulista	99	População de 4 e 5 anos: 99
+84	3508405	Cabreúva	1415	População de 4 e 5 anos: 1.415
+85	3508504	Caçapava	2420	População de 4 e 5 anos: 2.420
+86	3508603	Cachoeira Paulista	783	População de 4 e 5 anos: 783
+87	3508702	Caconde	458	População de 4 e 5 anos: 458
+88	3508801	Cafelândia	442	População de 4 e 5 anos: 442
+89	3508900	Caiabu	106	População de 4 e 5 anos: 106
+90	3509007	Caieiras	2694	População de 4 e 5 anos: 2.694
+91	3509106	Caiuá	118	População de 4 e 5 anos: 118
+92	3509205	Cajamar	2462	População de 4 e 5 anos: 2.462
+93	3509304	Cajobi	212	População de 4 e 5 anos: 212
+94	3509403	Cajuru	725	População de 4 e 5 anos: 725
+95	3509502	Campinas	29668	População de 4 e 5 anos: 29.668
+96	3509601	Campo Limpo Paulista	2237	População de 4 e 5 anos: 2.237
+97	3509700	Campos do Jordão	1547	População de 4 e 5 anos: 1.547
+98	3509809	Campos Novos Paulista	114	População de 4 e 5 anos: 114
+99	3509908	Cananéia	364	População de 4 e 5 anos: 364
+100	3510005	Cândido Mota	682	População de 4 e 5 anos: 682
+101	3510104	Cândido Rodrigues	59	População de 4 e 5 anos: 59
+102	3510203	Capão Bonito	1365	População de 4 e 5 anos: 1.365
+103	3510302	Capela do Alto	566	População de 4 e 5 anos: 566
+104	3510401	Capivari	1483	População de 4 e 5 anos: 1.483
+105	3510500	Caraguatatuba	3202	População de 4 e 5 anos: 3.202
+106	3510609	Carapicuíba	12816	População de 4 e 5 anos: 12.816
+107	3510708	Cardoso	233	População de 4 e 5 anos: 233
+108	3510807	Casa Branca	746	População de 4 e 5 anos: 746
+109	3510906	Cássia dos Coqueiros	54	População de 4 e 5 anos: 54
+110	3511003	Castilho	513	População de 4 e 5 anos: 513
+111	3511102	Catanduva	2559	População de 4 e 5 anos: 2.559
+112	3511201	Catiguá	171	População de 4 e 5 anos: 171
+113	3511300	Cedral	183	População de 4 e 5 anos: 183
+114	3511409	Cerqueira César	492	População de 4 e 5 anos: 492
+115	3511508	Cerquilho	1110	População de 4 e 5 anos: 1.110
+116	3511607	Cesário Lange	432	População de 4 e 5 anos: 432
+117	3511706	Charqueada	453	População de 4 e 5 anos: 453
+118	3557204	Chavantes	353	População de 4 e 5 anos: 353
+119	3511904	Clementina	243	População de 4 e 5 anos: 243
+120	3512001	Colina	416	População de 4 e 5 anos: 416
+121	3512100	Colômbia	178	População de 4 e 5 anos: 178
+122	3512209	Conchal	799	População de 4 e 5 anos: 799
+123	3512308	Conchas	446	População de 4 e 5 anos: 446
+124	3512407	Cordeirópolis	642	População de 4 e 5 anos: 642
+125	3512506	Coroados	119	População de 4 e 5 anos: 119
+126	3512605	Coronel Macedo	107	População de 4 e 5 anos: 107
+127	3512704	Corumbataí	95	População de 4 e 5 anos: 95
+128	3512803	Cosmópolis	1830	População de 4 e 5 anos: 1.830
+129	3512902	Cosmorama	131	População de 4 e 5 anos: 131
+130	3513009	Cotia	7876	População de 4 e 5 anos: 7.876
+131	3513108	Cravinhos	855	População de 4 e 5 anos: 855
+132	3513207	Cristais Paulista	219	População de 4 e 5 anos: 219
+133	3513306	Cruzália	48	População de 4 e 5 anos: 48
+134	3513405	Cruzeiro	2127	População de 4 e 5 anos: 2.127
+135	3513504	Cubatão	3594	População de 4 e 5 anos: 3.594
+136	3513603	Cunha	546	População de 4 e 5 anos: 546
+137	3513702	Descalvado	698	População de 4 e 5 anos: 698
+138	3513801	Diadema	12423	População de 4 e 5 anos: 12.423
+139	3513900	Divinolândia	275	População de 4 e 5 anos: 275
+140	3514007	Dobrada	248	População de 4 e 5 anos: 248
+141	3514106	Dois Córregos	808	População de 4 e 5 anos: 808
+142	3514205	Dolcinópolis	43	População de 4 e 5 anos: 43
+143	3514304	Dourado	183	População de 4 e 5 anos: 183
+144	3514403	Dracena	995	População de 4 e 5 anos: 995
+145	3514502	Duartina	271	População de 4 e 5 anos: 271
+146	3514601	Dumont	213	População de 4 e 5 anos: 213
+147	3514700	Echaporã	162	População de 4 e 5 anos: 162
+148	3514809	Eldorado	498	População de 4 e 5 anos: 498
+149	3514908	Elias Fausto	433	População de 4 e 5 anos: 433
+150	3515004	Embu das Artes	9165	População de 4 e 5 anos: 9.165
+151	3515103	Embu-Guaçu	1906	População de 4 e 5 anos: 1.906
+152	3515202	Estrela d'Oeste	178	População de 4 e 5 anos: 178
+153	3515301	Estrela do Norte	62	População de 4 e 5 anos: 62
+154	3515400	Fartura	386	População de 4 e 5 anos: 386
+155	3515509	Fernandópolis	1390	População de 4 e 5 anos: 1.390
+156	3515608	Fernando Prestes	105	População de 4 e 5 anos: 105
+157	3515707	Ferraz de Vasconcelos	5801	População de 4 e 5 anos: 5.801
+158	3515806	Flora Rica	33	População de 4 e 5 anos: 33
+159	3515905	Floreal	55	População de 4 e 5 anos: 55
+160	3516002	Flórida Paulista	273	População de 4 e 5 anos: 273
+161	3516101	Florínia	65	População de 4 e 5 anos: 65
+162	3516200	Franca	8929	População de 4 e 5 anos: 8.929
+163	3516309	Francisco Morato	5437	População de 4 e 5 anos: 5.437
+164	3516408	Franco da Rocha	4559	População de 4 e 5 anos: 4.559
+165	3516507	Gabriel Monteiro	49	População de 4 e 5 anos: 49
+166	3516606	Gália	132	População de 4 e 5 anos: 132
+167	3516705	Garça	967	População de 4 e 5 anos: 967
+168	3516804	Gastão Vidigal	124	População de 4 e 5 anos: 124
+169	3516903	General Salgado	216	População de 4 e 5 anos: 216
+170	3517000	Getulina	241	População de 4 e 5 anos: 241
+171	3517109	Glicério	115	População de 4 e 5 anos: 115
+172	3517208	Guaiçara	319	População de 4 e 5 anos: 319
+173	3517307	Guaimbê	143	População de 4 e 5 anos: 143
+174	3517406	Guaíra	861	População de 4 e 5 anos: 861
+175	3517505	Guapiaçu	460	População de 4 e 5 anos: 460
+176	3517604	Guapiara	550	População de 4 e 5 anos: 550
+177	3517703	Guará	559	População de 4 e 5 anos: 559
+178	3517802	Guaraçaí	206	População de 4 e 5 anos: 206
+179	3517901	Guaraci	293	População de 4 e 5 anos: 293
+180	3518008	Guarani d'Oeste	36	População de 4 e 5 anos: 36
+181	3518107	Guarantã	161	População de 4 e 5 anos: 161
+182	3518206	Guararapes	832	População de 4 e 5 anos: 832
+183	3518305	Guararema	906	População de 4 e 5 anos: 906
+184	3518404	Guaratinguetá	3191	População de 4 e 5 anos: 3.191
+185	3518503	Guareí	319	População de 4 e 5 anos: 319
+186	3518602	Guariba	1061	População de 4 e 5 anos: 1.061
+187	3518701	Guarujá	9034	População de 4 e 5 anos: 9.034
+188	3518800	Guarulhos	40817	População de 4 e 5 anos: 40.817
+189	3518909	Guzolândia	120	População de 4 e 5 anos: 120
+190	3519006	Herculândia	240	População de 4 e 5 anos: 240
+191	3519105	Iacanga	275	População de 4 e 5 anos: 275
+192	3519204	Iacri	148	População de 4 e 5 anos: 148
+193	3519303	Ibaté	976	População de 4 e 5 anos: 976
+194	3519402	Ibirá	287	População de 4 e 5 anos: 287
+195	3519501	Ibirarema	186	População de 4 e 5 anos: 186
+196	3519600	Ibitinga	1430	População de 4 e 5 anos: 1.430
+197	3519709	Ibiúna	2062	População de 4 e 5 anos: 2.062
+198	3519808	Icém	237	População de 4 e 5 anos: 237
+199	3519907	Iepê	204	População de 4 e 5 anos: 204
+200	3520004	Igaraçu do Tietê	629	População de 4 e 5 anos: 629
+201	3520103	Igarapava	697	População de 4 e 5 anos: 697
+202	3520202	Igaratá	263	População de 4 e 5 anos: 263
+203	3520301	Iguape	733	População de 4 e 5 anos: 733
+204	3520400	Ilhabela	1017	População de 4 e 5 anos: 1.017
+205	3520509	Indaiatuba	6024	População de 4 e 5 anos: 6.024
+206	3520608	Indiana	116	População de 4 e 5 anos: 116
+207	3520707	Indiaporã	102	População de 4 e 5 anos: 102
+208	3520806	Inúbia Paulista	93	População de 4 e 5 anos: 93
+209	3520905	Ipaussu	355	População de 4 e 5 anos: 355
+210	3521002	Iperó	816	População de 4 e 5 anos: 816
+211	3521101	Ipeúna	183	População de 4 e 5 anos: 183
+212	3521200	Iporanga	136	População de 4 e 5 anos: 136
+213	3521309	Ipuã	434	População de 4 e 5 anos: 434
+214	3521408	Iracemápolis	581	População de 4 e 5 anos: 581
+215	3521507	Irapuã	159	População de 4 e 5 anos: 159
+216	3521606	Irapuru	119	População de 4 e 5 anos: 119
+217	3521705	Itaberá	460	População de 4 e 5 anos: 460
+218	3521804	Itaí	706	População de 4 e 5 anos: 706
+219	3521903	Itajobi	282	População de 4 e 5 anos: 282
+220	3522000	Itaju	75	População de 4 e 5 anos: 75
+221	3522109	Itanhaém	2923	População de 4 e 5 anos: 2.923
+222	3522208	Itapecerica da Serra	5487	População de 4 e 5 anos: 5.487
+223	3522307	Itapetininga	4328	População de 4 e 5 anos: 4.328
+224	3522406	Itapeva	2688	População de 4 e 5 anos: 2.688
+225	3522505	Itapevi	7806	População de 4 e 5 anos: 7.806
+226	3522604	Itapira	1568	População de 4 e 5 anos: 1.568
+227	3522703	Itápolis	901	População de 4 e 5 anos: 901
+228	3522802	Itaporanga	404	População de 4 e 5 anos: 404
+229	3522901	Itapuí	326	População de 4 e 5 anos: 326
+230	3523008	Itapura	106	População de 4 e 5 anos: 106
+231	3523107	Itaquaquecetuba	11334	População de 4 e 5 anos: 11.334
+232	3523206	Itararé	1356	População de 4 e 5 anos: 1.356
+233	3523305	Itariri	403	População de 4 e 5 anos: 403
+234	3523404	Itatiba	2890	População de 4 e 5 anos: 2.890
+235	3523503	Itatinga	656	População de 4 e 5 anos: 656
+236	3523602	Itirapina	387	População de 4 e 5 anos: 387
+237	3523701	Itirapuã	149	População de 4 e 5 anos: 149
+238	3523800	Itobi	161	População de 4 e 5 anos: 161
+239	3523909	Itu	4727	População de 4 e 5 anos: 4.727
+240	3524006	Itupeva	1716	População de 4 e 5 anos: 1.716
+241	3524105	Ituverava	971	População de 4 e 5 anos: 971
+242	3524204	Jaborandi	169	População de 4 e 5 anos: 169
+243	3524303	Jaboticabal	1689	População de 4 e 5 anos: 1.689
+244	3524402	Jacareí	6412	População de 4 e 5 anos: 6.412
+245	3524501	Jaci	153	População de 4 e 5 anos: 153
+246	3524600	Jacupiranga	445	População de 4 e 5 anos: 445
+247	3524709	Jaguariúna	1510	População de 4 e 5 anos: 1.510
+248	3524808	Jales	967	População de 4 e 5 anos: 967
+249	3524907	Jambeiro	156	População de 4 e 5 anos: 156
+250	3525003	Jandira	3431	População de 4 e 5 anos: 3.431
+251	3525102	Jardinópolis	1061	População de 4 e 5 anos: 1.061
+252	3525201	Jarinu	833	População de 4 e 5 anos: 833
+253	3525300	Jaú	3520	População de 4 e 5 anos: 3.520
+254	3525409	Jeriquara	75	População de 4 e 5 anos: 75
+255	3525508	Joanópolis	291	População de 4 e 5 anos: 291
+256	3525607	João Ramalho	111	População de 4 e 5 anos: 111
+257	3525706	José Bonifácio	855	População de 4 e 5 anos: 855
+258	3525805	Júlio Mesquita	134	População de 4 e 5 anos: 134
+259	3525904	Jundiaí	10320	População de 4 e 5 anos: 10.320
+260	3526001	Junqueirópolis	444	População de 4 e 5 anos: 444
+261	3526100	Juquiá	533	População de 4 e 5 anos: 533
+262	3526209	Juquitiba	928	População de 4 e 5 anos: 928
+263	3526308	Lagoinha	109	População de 4 e 5 anos: 109
+264	3526407	Laranjal Paulista	739	População de 4 e 5 anos: 739
+265	3526506	Lavínia	102	População de 4 e 5 anos: 102
+266	3526605	Lavrinhas	218	População de 4 e 5 anos: 218
+267	3526704	Leme	2653	População de 4 e 5 anos: 2.653
+268	3526803	Lençóis Paulista	1600	População de 4 e 5 anos: 1.600
+269	3526902	Limeira	6939	População de 4 e 5 anos: 6.939
+270	3527009	Lindóia	161	População de 4 e 5 anos: 161
+271	3527108	Lins	1761	População de 4 e 5 anos: 1.761
+272	3527207	Lorena	2442	População de 4 e 5 anos: 2.442
+273	3527306	Louveira	1429	População de 4 e 5 anos: 1.429
+274	3527405	Lucélia	461	População de 4 e 5 anos: 461
+275	3527504	Lucianópolis	57	População de 4 e 5 anos: 57
+276	3527603	Luís Antônio	375	População de 4 e 5 anos: 375
+277	3527702	Luiziânia	148	População de 4 e 5 anos: 148
+278	3527801	Lupércio	120	População de 4 e 5 anos: 120
+279	3527900	Lutécia	67	População de 4 e 5 anos: 67
+280	3528007	Macatuba	466	População de 4 e 5 anos: 466
+281	3528106	Macaubal	134	População de 4 e 5 anos: 134
+282	3528205	Macedônia	64	População de 4 e 5 anos: 64
+283	3528304	Magda	65	População de 4 e 5 anos: 65
+284	3528403	Mairinque	1339	População de 4 e 5 anos: 1.339
+285	3528502	Mairiporã	2684	População de 4 e 5 anos: 2.684
+286	3528601	Manduri	210	População de 4 e 5 anos: 210
+287	3528700	Marabá Paulista	89	População de 4 e 5 anos: 89
+288	3528809	Maracaí	345	População de 4 e 5 anos: 345
+289	3528908	Mariápolis	91	População de 4 e 5 anos: 91
+290	3529005	Marília	5582	População de 4 e 5 anos: 5.582
+291	3529104	Marinópolis	52	População de 4 e 5 anos: 52
+292	3529203	Martinópolis	598	População de 4 e 5 anos: 598
+293	3529302	Matão	1932	População de 4 e 5 anos: 1.932
+294	3529401	Mauá	11954	População de 4 e 5 anos: 11.954
+295	3529500	Mendonça	91	População de 4 e 5 anos: 91
+296	3529609	Meridiano	72	População de 4 e 5 anos: 72
+297	3529708	Miguelópolis	559	População de 4 e 5 anos: 559
+298	3529807	Mineiros do Tietê	330	População de 4 e 5 anos: 330
+299	3529906	Miracatu	656	População de 4 e 5 anos: 656
+300	3530003	Mira Estrela	57	População de 4 e 5 anos: 57
+301	3530102	Mirandópolis	669	População de 4 e 5 anos: 669
+302	3530201	Mirante do Paranapanema	393	População de 4 e 5 anos: 393
+303	3530300	Mirassol	1255	População de 4 e 5 anos: 1.255
+304	3530409	Mirassolândia	111	População de 4 e 5 anos: 111
+305	3530508	Mococa	1536	População de 4 e 5 anos: 1.536
+306	3530607	Mogi das Cruzes	11858	População de 4 e 5 anos: 11.858
+307	3530706	Mogi Guaçu	3766	População de 4 e 5 anos: 3.766
+308	3530805	Moji Mirim	2131	População de 4 e 5 anos: 2.131
+309	3530904	Mombuca	89	População de 4 e 5 anos: 89
+310	3531001	Monções	47	População de 4 e 5 anos: 47
+311	3531100	Mongaguá	1511	População de 4 e 5 anos: 1.511
+312	3531209	Monte Alegre do Sul	164	População de 4 e 5 anos: 164
+313	3531308	Monte Alto	1050	População de 4 e 5 anos: 1.050
+314	3531407	Monte Aprazível	478	População de 4 e 5 anos: 478
+315	3531506	Monte Azul Paulista	422	População de 4 e 5 anos: 422
+316	3531605	Monte Castelo	78	População de 4 e 5 anos: 78
+317	3531704	Monteiro Lobato	95	População de 4 e 5 anos: 95
+318	3531803	Monte Mor	1752	População de 4 e 5 anos: 1.752
+319	3531902	Morro Agudo	932	População de 4 e 5 anos: 932
+320	3532009	Morungaba	367	População de 4 e 5 anos: 367
+321	3532108	Murutinga do Sul	69	População de 4 e 5 anos: 69
+322	3532207	Narandiba	150	População de 4 e 5 anos: 150
+323	3532306	Natividade da Serra	170	População de 4 e 5 anos: 170
+324	3532405	Nazaré Paulista	538	População de 4 e 5 anos: 538
+325	3532504	Neves Paulista	152	População de 4 e 5 anos: 152
+326	3532603	Nhandeara	188	População de 4 e 5 anos: 188
+327	3532702	Nipoã	123	População de 4 e 5 anos: 123
+328	3532801	Nova Aliança	135	População de 4 e 5 anos: 135
+329	3532900	Nova Europa	260	População de 4 e 5 anos: 260
+330	3533007	Nova Granada	493	População de 4 e 5 anos: 493
+331	3533106	Nova Guataporanga	41	População de 4 e 5 anos: 41
+332	3533205	Nova Independência	99	População de 4 e 5 anos: 99
+333	3533304	Nova Luzitânia	94	População de 4 e 5 anos: 94
+334	3533403	Nova Odessa	1358	População de 4 e 5 anos: 1.358
+335	3533502	Novo Horizonte	893	População de 4 e 5 anos: 893
+336	3533601	Nuporanga	162	População de 4 e 5 anos: 162
+337	3533700	Ocauçu	98	População de 4 e 5 anos: 98
+338	3533809	Óleo	62	População de 4 e 5 anos: 62
+339	3533908	Olímpia	1211	População de 4 e 5 anos: 1.211
+340	3534005	Onda Verde	101	População de 4 e 5 anos: 101
+341	3534104	Oriente	151	População de 4 e 5 anos: 151
+342	3534203	Orindiúva	177	População de 4 e 5 anos: 177
+343	3534302	Orlândia	1106	População de 4 e 5 anos: 1.106
+344	3534401	Osasco	19779	População de 4 e 5 anos: 19.779
+345	3534500	Oscar Bressane	50	População de 4 e 5 anos: 50
+346	3534609	Osvaldo Cruz	620	População de 4 e 5 anos: 620
+347	3534708	Ourinhos	2914	População de 4 e 5 anos: 2.914
+348	3534807	Ouro Verde	225	População de 4 e 5 anos: 225
+349	3534906	Pacaembu	210	População de 4 e 5 anos: 210
+350	3535002	Palestina	241	População de 4 e 5 anos: 241
+351	3535101	Palmares Paulista	323	População de 4 e 5 anos: 323
+352	3535200	Palmeira d'Oeste	170	População de 4 e 5 anos: 170
+353	3535309	Palmital	544	População de 4 e 5 anos: 544
+354	3535408	Panorama	383	População de 4 e 5 anos: 383
+355	3535507	Paraguaçu Paulista	1116	População de 4 e 5 anos: 1.116
+356	3535606	Paraibuna	558	População de 4 e 5 anos: 558
+357	3535705	Paraíso	139	População de 4 e 5 anos: 139
+358	3535804	Paranapanema	549	População de 4 e 5 anos: 549
+359	3535903	Paranapuã	77	População de 4 e 5 anos: 77
+360	3536000	Parapuã	201	População de 4 e 5 anos: 201
+361	3536109	Pardinho	203	População de 4 e 5 anos: 203
+362	3536208	Pariquera-Açu	584	População de 4 e 5 anos: 584
+363	3536307	Patrocínio Paulista	412	População de 4 e 5 anos: 412
+364	3536406	Paulicéia	194	População de 4 e 5 anos: 194
+365	3536505	Paulínia	2989	População de 4 e 5 anos: 2.989
+366	3536604	Paulo de Faria	212	População de 4 e 5 anos: 212
+367	3536703	Pederneiras	1120	População de 4 e 5 anos: 1.120
+368	3536802	Pedra Bela	144	População de 4 e 5 anos: 144
+369	3536901	Pedranópolis	41	População de 4 e 5 anos: 41
+370	3537008	Pedregulho	447	População de 4 e 5 anos: 447
+371	3537107	Pedreira	1160	População de 4 e 5 anos: 1.160
+372	3537206	Pedro de Toledo	293	População de 4 e 5 anos: 293
+373	3537305	Penápolis	1391	População de 4 e 5 anos: 1.391
+374	3537404	Pereira Barreto	617	População de 4 e 5 anos: 617
+375	3537503	Pereiras	209	População de 4 e 5 anos: 209
+376	3537602	Peruíbe	2314	População de 4 e 5 anos: 2.314
+377	3537701	Piacatu	139	População de 4 e 5 anos: 139
+378	3537800	Piedade	1374	População de 4 e 5 anos: 1.374
+379	3537909	Pilar do Sul	871	População de 4 e 5 anos: 871
+380	3538006	Pindamonhangaba	4363	População de 4 e 5 anos: 4.363
+381	3538105	Pindorama	350	População de 4 e 5 anos: 350
+382	3515186	Espírito Santo do Pinhal	983	População de 4 e 5 anos: 983
+383	3538204	Pinhalzinho	318	População de 4 e 5 anos: 318
+384	3538303	Piquerobi	78	População de 4 e 5 anos: 78
+385	3538501	Piquete	317	População de 4 e 5 anos: 317
+386	3538600	Piracaia	665	População de 4 e 5 anos: 665
+387	3538709	Piracicaba	9502	População de 4 e 5 anos: 9.502
+388	3538808	Piraju	704	População de 4 e 5 anos: 704
+389	3538907	Pirajuí	509	População de 4 e 5 anos: 509
+390	3539004	Pirangi	231	População de 4 e 5 anos: 231
+391	3539103	Pirapora do Bom Jesus	510	População de 4 e 5 anos: 510
+392	3539202	Pirapozinho	723	População de 4 e 5 anos: 723
+393	3539301	Pirassununga	1635	População de 4 e 5 anos: 1.635
+394	3539400	Piratininga	320	População de 4 e 5 anos: 320
+395	3539509	Pitangueiras	1092	População de 4 e 5 anos: 1.092
+396	3539608	Planalto	160	População de 4 e 5 anos: 160
+397	3539707	Platina	103	População de 4 e 5 anos: 103
+398	3539806	Poá	3658	População de 4 e 5 anos: 3.658
+399	3539905	Poloni	115	População de 4 e 5 anos: 115
+400	3540002	Pompéia	464	População de 4 e 5 anos: 464
+401	3540101	Pongaí	67	População de 4 e 5 anos: 67
+402	3540200	Pontal	1371	População de 4 e 5 anos: 1.371
+403	3540309	Pontes Gestal	61	População de 4 e 5 anos: 61
+404	3540408	Populina	74	População de 4 e 5 anos: 74
+405	3540507	Porangaba	203	População de 4 e 5 anos: 203
+406	3540606	Porto Feliz	1280	População de 4 e 5 anos: 1.280
+407	3540705	Porto Ferreira	1310	População de 4 e 5 anos: 1.310
+408	3540804	Potirendaba	360	População de 4 e 5 anos: 360
+409	3540903	Pradópolis	556	População de 4 e 5 anos: 556
+410	3541000	Praia Grande	8765	População de 4 e 5 anos: 8.765
+411	3541109	Presidente Alves	87	População de 4 e 5 anos: 87
+412	3541208	Presidente Bernardes	271	População de 4 e 5 anos: 271
+413	3541307	Presidente Epitácio	1070	População de 4 e 5 anos: 1.070
+414	3541406	Presidente Prudente	5211	População de 4 e 5 anos: 5.211
+415	3541505	Presidente Venceslau	789	População de 4 e 5 anos: 789
+416	3541604	Promissão	1062	População de 4 e 5 anos: 1.062
+417	3541703	Quatá	386	População de 4 e 5 anos: 386
+418	3541802	Queiroz	82	População de 4 e 5 anos: 82
+419	3541901	Queluz	326	População de 4 e 5 anos: 326
+420	3542008	Quintana	157	População de 4 e 5 anos: 157
+421	3542107	Rafard	268	População de 4 e 5 anos: 268
+422	3542206	Rancharia	689	População de 4 e 5 anos: 689
+423	3542305	Redenção da Serra	87	População de 4 e 5 anos: 87
+424	3542404	Regente Feijó	422	População de 4 e 5 anos: 422
+425	3542503	Reginópolis	115	População de 4 e 5 anos: 115
+426	3542602	Registro	1522	População de 4 e 5 anos: 1.522
+427	3542701	Restinga	250	População de 4 e 5 anos: 250
+428	3542800	Ribeira	84	População de 4 e 5 anos: 84
+429	3542909	Ribeirão Bonito	377	População de 4 e 5 anos: 377
+430	3543006	Ribeirão Branco	492	População de 4 e 5 anos: 492
+431	3543105	Ribeirão Corrente	126	População de 4 e 5 anos: 126
+432	3543204	Ribeirão do Sul	94	População de 4 e 5 anos: 94
+433	3543303	Ribeirão Pires	2946	População de 4 e 5 anos: 2.946
+434	3543402	Ribeirão Preto	16827	População de 4 e 5 anos: 16.827
+435	3543501	Riversul	141	População de 4 e 5 anos: 141
+436	3543600	Rifaina	69	População de 4 e 5 anos: 69
+437	3543709	Rincão	255	População de 4 e 5 anos: 255
+438	3543808	Rinópolis	205	População de 4 e 5 anos: 205
+439	3543907	Rio Claro	4635	População de 4 e 5 anos: 4.635
+440	3544004	Rio das Pedras	885	População de 4 e 5 anos: 885
+441	3544103	Rio Grande da Serra	1292	População de 4 e 5 anos: 1.292
+442	3544202	Riolândia	277	População de 4 e 5 anos: 277
+443	3544301	Roseira	309	População de 4 e 5 anos: 309
+444	3544400	Rubiácea	65	População de 4 e 5 anos: 65
+445	3544509	Rubinéia	59	População de 4 e 5 anos: 59
+446	3544608	Sabino	146	População de 4 e 5 anos: 146
+447	3544707	Sagres	54	População de 4 e 5 anos: 54
+448	3544806	Sales	143	População de 4 e 5 anos: 143
+449	3544905	Sales Oliveira	264	População de 4 e 5 anos: 264
+450	3545001	Salesópolis	543	População de 4 e 5 anos: 543
+451	3545100	Salmourão	111	População de 4 e 5 anos: 111
+452	3545209	Salto	2815	População de 4 e 5 anos: 2.815
+453	3545308	Salto de Pirapora	1249	População de 4 e 5 anos: 1.249
+454	3545407	Salto Grande	253	População de 4 e 5 anos: 253
+455	3545506	Sandovalina	117	População de 4 e 5 anos: 117
+456	3545605	Santa Adélia	347	População de 4 e 5 anos: 347
+457	3545704	Santa Albertina	92	População de 4 e 5 anos: 92
+458	3545803	Santa Bárbara d'Oeste	4354	População de 4 e 5 anos: 4.354
+459	3500550	Águas de Santa Bárbara	155	População de 4 e 5 anos: 155
+460	3546009	Santa Branca	322	População de 4 e 5 anos: 322
+461	3546108	Santa Clara d'Oeste	42	População de 4 e 5 anos: 42
+462	3546207	Santa Cruz da Conceição	78	População de 4 e 5 anos: 78
+463	3546306	Santa Cruz das Palmeiras	903	População de 4 e 5 anos: 903
+464	3546405	Santa Cruz do Rio Pardo	1162	População de 4 e 5 anos: 1.162
+465	3546504	Santa Ernestina	131	População de 4 e 5 anos: 131
+466	3546603	Santa Fé do Sul	643	População de 4 e 5 anos: 643
+467	3546702	Santa Gertrudes	714	População de 4 e 5 anos: 714
+468	3546801	Santa Isabel	1586	População de 4 e 5 anos: 1.586
+469	3546900	Santa Lucia	247	População de 4 e 5 anos: 247
+470	3547007	Santa Maria da Serra	181	População de 4 e 5 anos: 181
+471	3547106	Santa Mercedes	63	População de 4 e 5 anos: 63
+472	3547403	Santa Rita d'Oeste	48	População de 4 e 5 anos: 48
+473	3547502	Santa Rita do Passa Quatro	570	População de 4 e 5 anos: 570
+474	3547601	Santa Rosa do Viterbo	582	População de 4 e 5 anos: 582
+475	3547205	Santana da Ponte Pensa	19	População de 4 e 5 anos: 19
+476	3547304	Santana de Parnaíba	3962	População de 4 e 5 anos: 3.962
+477	3547700	Santo Anastácio	480	População de 4 e 5 anos: 480
+478	3547809	Santo André	17346	População de 4 e 5 anos: 17.346
+479	3547908	Santo Antonio da Alegria	141	População de 4 e 5 anos: 141
+480	3548104	Santo Antonio do Jardim	124	População de 4 e 5 anos: 124
+481	3548203	Santo Antonio do Pinhal	183	População de 4 e 5 anos: 183
+482	3548005	Santo Antonio de Posse	567	População de 4 e 5 anos: 567
+483	3548302	Santo Expedito	64	População de 4 e 5 anos: 64
+484	3548401	Santópolis do Aguapeí	117	População de 4 e 5 anos: 117
+485	3548500	Santos	10445	População de 4 e 5 anos: 10.445
+486	3548609	São Bento do Sapucaí	228	População de 4 e 5 anos: 228
+487	3548708	São Bernardo do Campo	21205	População de 4 e 5 anos: 21.205
+488	3548807	São Caetano do Sul	3285	População de 4 e 5 anos: 3.285
+489	3548906	São Carlos	5605	População de 4 e 5 anos: 5.605
+490	3549003	São Francisco	51	População de 4 e 5 anos: 51
+491	3549102	São João da Boa Vista	1849	População de 4 e 5 anos: 1.849
+492	3549201	São João das Duas Pontes	49	População de 4 e 5 anos: 49
+493	3549300	São João do Pau d'Alho	33	População de 4 e 5 anos: 33
+494	3549409	São Joaquim da Barra	1260	População de 4 e 5 anos: 1.260
+495	3549607	São José do Barreiro	99	População de 4 e 5 anos: 99
+496	3549508	São José da Bela Vista	219	População de 4 e 5 anos: 219
+497	3549706	São José do Rio Pardo	1299	População de 4 e 5 anos: 1.299
+498	3549805	São José do Rio Preto	10310	População de 4 e 5 anos: 10.310
+499	3549904	São José dos Campos	20304	População de 4 e 5 anos: 20.304
+500	3550001	São Luís do Paraitinga	288	População de 4 e 5 anos: 288
+501	3550100	São Manuel	1009	População de 4 e 5 anos: 1.009
+502	3550209	São Miguel Arcanjo	904	População de 4 e 5 anos: 904
+503	3550308	São Paulo	335405	População de 4 e 5 anos: 335.405
+504	3550407	São Pedro	781	População de 4 e 5 anos: 781
+505	3550506	São Pedro do Turvo	197	População de 4 e 5 anos: 197
+506	3550605	São Roque	2206	População de 4 e 5 anos: 2.206
+507	3550704	São Sebastião	2606	População de 4 e 5 anos: 2.606
+508	3550803	São Sebastião da Grama	264	População de 4 e 5 anos: 264
+509	3550902	São Simão	353	População de 4 e 5 anos: 353
+510	3551009	São Vicente	9878	População de 4 e 5 anos: 9.878
+511	3551108	Sarapuí	264	População de 4 e 5 anos: 264
+512	3551207	Sarutaiá	99	População de 4 e 5 anos: 99
+513	3551306	Sebastianópolis do Sul	58	População de 4 e 5 anos: 58
+514	3551405	Serra Azul	269	População de 4 e 5 anos: 269
+515	3551603	Serra Negra	605	População de 4 e 5 anos: 605
+516	3551504	Serrana	1265	População de 4 e 5 anos: 1.265
+517	3551702	Sertãozinho	3225	População de 4 e 5 anos: 3.225
+518	3551801	Sete Barras	369	População de 4 e 5 anos: 369
+519	3551900	Severínia	418	População de 4 e 5 anos: 418
+520	3552007	Silveiras	163	População de 4 e 5 anos: 163
+521	3552106	Socorro	872	População de 4 e 5 anos: 872
+522	3552205	Sorocaba	17258	População de 4 e 5 anos: 17.258
+523	3552304	Sud Mennucci	209	População de 4 e 5 anos: 209
+524	3552403	Sumaré	7640	População de 4 e 5 anos: 7.640
+525	3552502	Suzano	8637	População de 4 e 5 anos: 8.637
+526	3552601	Tabapuã	251	População de 4 e 5 anos: 251
+527	3552700	Tabatinga	396	População de 4 e 5 anos: 396
+528	3552809	Taboão da Serra	9493	População de 4 e 5 anos: 9.493
+529	3552908	Taciba	139	População de 4 e 5 anos: 139
+530	3553005	Taguaí	417	População de 4 e 5 anos: 417
+531	3553104	Taiaçu	129	População de 4 e 5 anos: 129
+532	3553203	Taiúva	104	População de 4 e 5 anos: 104
+533	3553302	Tambaú	588	População de 4 e 5 anos: 588
+534	3553401	Tanabi	552	População de 4 e 5 anos: 552
+535	3553500	Tapiraí	211	População de 4 e 5 anos: 211
+536	3553609	Tapiratiba	276	População de 4 e 5 anos: 276
+537	3553708	Taquaritinga	1308	População de 4 e 5 anos: 1.308
+538	3553807	Taquarituba	648	População de 4 e 5 anos: 648
+539	3553906	Tarabaí	195	População de 4 e 5 anos: 195
+540	3554003	Tatuí	3444	População de 4 e 5 anos: 3.444
+541	3554102	Taubaté	8045	População de 4 e 5 anos: 8.045
+542	3554201	Tejupá	135	População de 4 e 5 anos: 135
+543	3554300	Teodoro Sampaio	580	População de 4 e 5 anos: 580
+544	3554409	Terra Roxa	231	População de 4 e 5 anos: 231
+545	3554508	Tietê	1043	População de 4 e 5 anos: 1.043
+546	3554607	Timburi	51	População de 4 e 5 anos: 51
+547	3554706	Torrinha	203	População de 4 e 5 anos: 203
+548	3554805	Tremembé	1004	População de 4 e 5 anos: 1.004
+549	3554904	Três Fronteiras	113	População de 4 e 5 anos: 113
+550	3555000	Tupã	1340	População de 4 e 5 anos: 1.340
+551	3555109	Tupi Paulista	257	População de 4 e 5 anos: 257
+552	3555208	Turiúba	27	População de 4 e 5 anos: 27
+553	3555307	Turmalina	31	População de 4 e 5 anos: 31
+554	3555406	Ubatuba	2409	População de 4 e 5 anos: 2.409
+555	3555505	Ubirajara	119	População de 4 e 5 anos: 119
+556	3555604	Uchôa	190	População de 4 e 5 anos: 190
+557	3555703	União Paulista	46	População de 4 e 5 anos: 46
+558	3555802	Urânia	156	População de 4 e 5 anos: 156
+559	3555901	Uru	28	População de 4 e 5 anos: 28
+560	3556008	Urupês	294	População de 4 e 5 anos: 294
+561	3556107	Valentim Gentil	304	População de 4 e 5 anos: 304
+562	3556206	Valinhos	2772	População de 4 e 5 anos: 2.772
+563	3556305	Valparaíso	569	População de 4 e 5 anos: 569
+564	3556404	Vargem Grande do Sul	1084	População de 4 e 5 anos: 1.084
+565	3556503	Várzea Paulista	3523	População de 4 e 5 anos: 3.523
+566	3556602	Vera Cruz	236	População de 4 e 5 anos: 236
+567	3556701	Vinhedo	1954	População de 4 e 5 anos: 1.954
+568	3556800	Viradouro	458	População de 4 e 5 anos: 458
+569	3556909	Vista Alegre do Alto	187	População de 4 e 5 anos: 187
+570	3557006	Votorantim	3368	População de 4 e 5 anos: 3.368
+571	3557105	Votuporanga	2005	População de 4 e 5 anos: 2.005
+572	3556453	Vargem Grande Paulista	1757	População de 4 e 5 anos: 1.757
+573	3500758	Alambari	140	População de 4 e 5 anos: 140
+574	3501152	Alumínio	507	População de 4 e 5 anos: 507
+575	3502754	Araçariguama	673	População de 4 e 5 anos: 673
+576	3503158	Arapeí	58	População de 4 e 5 anos: 58
+577	3503950	Aspásia	35	População de 4 e 5 anos: 35
+578	3505351	Barra do Chapéu	161	População de 4 e 5 anos: 161
+579	3506359	Bertioga	2157	População de 4 e 5 anos: 2.157
+580	3507159	Bom Sucesso de Itararé	135	População de 4 e 5 anos: 135
+581	3507456	Borebi	70	População de 4 e 5 anos: 70
+582	3509254	Cajati	902	População de 4 e 5 anos: 902
+583	3509452	Campina do Monte Alegre	157	População de 4 e 5 anos: 157
+584	3510153	Canitar	147	População de 4 e 5 anos: 147
+585	3513850	Dirce Reis	36	População de 4 e 5 anos: 36
+586	3514924	Elisiário	73	População de 4 e 5 anos: 73
+587	3514957	Embaúba	57	População de 4 e 5 anos: 57
+588	3515129	Emilianópolis	61	População de 4 e 5 anos: 61
+589	3515152	Engenheiro Coelho	579	População de 4 e 5 anos: 579
+590	3515194	Espírito Santo do Turvo	134	População de 4 e 5 anos: 134
+591	3557303	Estiva Gerbi	259	População de 4 e 5 anos: 259
+592	3515350	Euclides da Cunha Paulista	244	População de 4 e 5 anos: 244
+593	3518859	Guatapará	184	População de 4 e 5 anos: 184
+594	3519055	Holambra	451	População de 4 e 5 anos: 451
+595	3519071	Hortolândia	5926	População de 4 e 5 anos: 5.926
+596	3519253	Iaras	152	População de 4 e 5 anos: 152
+597	3520426	Ilha Comprida	275	População de 4 e 5 anos: 275
+598	3520442	Ilha Solteira	536	População de 4 e 5 anos: 536
+599	3522158	Itaóca	85	População de 4 e 5 anos: 85
+600	3522653	Itapirapuã Paulista	135	População de 4 e 5 anos: 135
+601	3527256	Lourdes	38	População de 4 e 5 anos: 38
+602	3528858	Marapoama	66	População de 4 e 5 anos: 66
+603	3529658	Mesópolis	48	População de 4 e 5 anos: 48
+604	3532058	Motuca	111	População de 4 e 5 anos: 111
+605	3532827	Nova Campina	310	População de 4 e 5 anos: 310
+606	3532843	Nova Canaã Paulista	35	População de 4 e 5 anos: 35
+607	3533254	Novais	145	População de 4 e 5 anos: 145
+608	3536257	Parisi	42	População de 4 e 5 anos: 42
+609	3537156	Pedrinhas Paulista	61	População de 4 e 5 anos: 61

@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	79.79	% Matrículas no EF na rede municipal (AI): 79,79
+2	3500204	Adolfo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+3	3500303	Aguaí	83.98	% Matrículas no EF na rede municipal (AI): 83,98
+4	3500402	Águas da Prata	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+5	3500501	Águas de Lindóia	72.70	% Matrículas no EF na rede municipal (AI): 72,70
+6	3500600	Águas de São Pedro	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+7	3500709	Agudos	84.81	% Matrículas no EF na rede municipal (AI): 84,81
+8	3500808	Alfredo Marcondes	-	% Matrículas no EF na rede municipal (AI): -
+9	3500907	Altair	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+10	3501004	Altinópolis	88.54	% Matrículas no EF na rede municipal (AI): 88,54
+11	3501103	Alto Alegre	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+12	3501202	Álvares Florence	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+13	3501301	Álvares Machado	81.99	% Matrículas no EF na rede municipal (AI): 81,99
+14	3501400	Álvaro de Carvalho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+15	3501509	Alvinlândia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+16	3501608	Americana	34.25	% Matrículas no EF na rede municipal (AI): 34,25
+17	3501707	Américo Brasiliense	95.56	% Matrículas no EF na rede municipal (AI): 95,56
+18	3501806	Américo de Campos	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+19	3501905	Amparo	55.73	% Matrículas no EF na rede municipal (AI): 55,73
+20	3502002	Analândia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+21	3502101	Andradina	78.51	% Matrículas no EF na rede municipal (AI): 78,51
+22	3502200	Angatuba	78.34	% Matrículas no EF na rede municipal (AI): 78,34
+23	3502309	Anhembi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+24	3502408	Anhumas	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+25	3502507	Aparecida	92.26	% Matrículas no EF na rede municipal (AI): 92,26
+26	3502606	Aparecida d'Oeste	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+27	3502705	Apiaí	54.30	% Matrículas no EF na rede municipal (AI): 54,30
+28	3502804	Araçatuba	72.96	% Matrículas no EF na rede municipal (AI): 72,96
+29	3502903	Araçoiaba da Serra	94.68	% Matrículas no EF na rede municipal (AI): 94,68
+30	3503000	Aramina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+31	3503109	Arandu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+32	3503208	Araraquara	35.72	% Matrículas no EF na rede municipal (AI): 35,72
+33	3503307	Araras	58.18	% Matrículas no EF na rede municipal (AI): 58,18
+34	3503406	Arealva	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+35	3503505	Areias	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+36	3503604	Areiópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+37	3503703	Ariranha	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+38	3503802	Artur Nogueira	87.85	% Matrículas no EF na rede municipal (AI): 87,85
+39	3503901	Arujá	80.63	% Matrículas no EF na rede municipal (AI): 80,63
+40	3504008	Assis	84.02	% Matrículas no EF na rede municipal (AI): 84,02
+41	3504107	Atibaia	74.60	% Matrículas no EF na rede municipal (AI): 74,60
+42	3504206	Auriflama	87.13	% Matrículas no EF na rede municipal (AI): 87,13
+43	3504305	Avaí	82.67	% Matrículas no EF na rede municipal (AI): 82,67
+44	3504404	Avanhandava	89.53	% Matrículas no EF na rede municipal (AI): 89,53
+45	3504503	Avaré	84.15	% Matrículas no EF na rede municipal (AI): 84,15
+619	3553856	Taquarivaí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+620	3553955	Tarumã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+621	3554656	Torre de Pedra	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+622	3554953	Tuiuti	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+623	3555356	Ubarana	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+624	3556354	Vargem	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+625	3557154	Zacarias	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+626	3503356	Arco Íris	41.67	% Matrículas no EF na rede municipal (AI): 41,67
+627	3507753	Brejo Alegre	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+628	3509957	Canas	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+629	3540853	Pracinha	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+630	3541059	Pratânia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+631	3541653	Quadra	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+632	3546256	Santa Cruz da Esperança	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+633	3547650	Santa Salete	20.00	% Matrículas no EF na rede municipal (AI): 20,00
+634	3556958	Vitória Brasil	49.00	% Matrículas no EF na rede municipal (AI): 49,00
+635	3521150	Ipiguá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+636	3553658	Taquaral	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+637	3515657	Fernão	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+638	3516853	Gavião Peixoto	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+639	3525854	Jumirim	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+640	3532157	Nantes	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+641	3532868	Nova Castilho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+642	3534757	Ouroeste	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+643	3536570	Paulistânia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+644	3543238	Ribeirão dos Índios	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+645	3554755	Trabiju	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+46	3504602	Bady Bassitt	90.33	% Matrículas no EF na rede municipal (AI): 90,33
+47	3504701	Balbinos	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+48	3504800	Bálsamo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+49	3504909	Bananal	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+50	3505005	Barão de Antonina	95.04	% Matrículas no EF na rede municipal (AI): 95,04
+51	3505104	Barbosa	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+52	3505203	Bariri	86.57	% Matrículas no EF na rede municipal (AI): 86,57
+53	3505302	Barra Bonita	75.94	% Matrículas no EF na rede municipal (AI): 75,94
+54	3505401	Barra do Turvo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+55	3505500	Barretos	84.71	% Matrículas no EF na rede municipal (AI): 84,71
+56	3505609	Barrinha	97.56	% Matrículas no EF na rede municipal (AI): 97,56
+57	3505708	Barueri	95.08	% Matrículas no EF na rede municipal (AI): 95,08
+58	3505807	Bastos	17.57	% Matrículas no EF na rede municipal (AI): 17,57
+59	3505906	Batatais	67.07	% Matrículas no EF na rede municipal (AI): 67,07
+60	3506003	Bauru	31.20	% Matrículas no EF na rede municipal (AI): 31,20
+61	3506102	Bebedouro	78.16	% Matrículas no EF na rede municipal (AI): 78,16
+62	3506201	Bento de Abreu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+63	3506300	Bernardino de Campos	93.31	% Matrículas no EF na rede municipal (AI): 93,31
+64	3506409	Bilac	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+65	3506508	Birigui	86.91	% Matrículas no EF na rede municipal (AI): 86,91
+66	3506607	Biritiba Mirim	92.96	% Matrículas no EF na rede municipal (AI): 92,96
+67	3506706	Boa Esperança do Sul	96.38	% Matrículas no EF na rede municipal (AI): 96,38
+68	3506805	Bocaina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+69	3506904	Bofete	90.06	% Matrículas no EF na rede municipal (AI): 90,06
+70	3507001	Boituva	86.60	% Matrículas no EF na rede municipal (AI): 86,60
+71	3507100	Bom Jesus dos Perdões	97.09	% Matrículas no EF na rede municipal (AI): 97,09
+72	3507209	Borá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+73	3507308	Boracéia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+74	3507407	Borborema	14.19	% Matrículas no EF na rede municipal (AI): 14,19
+75	3507506	Botucatu	74.72	% Matrículas no EF na rede municipal (AI): 74,72
+76	3507605	Bragança Paulista	74.80	% Matrículas no EF na rede municipal (AI): 74,80
+77	3507704	Braúna	99.02	% Matrículas no EF na rede municipal (AI): 99,02
+78	3507803	Brodowski	91.45	% Matrículas no EF na rede municipal (AI): 91,45
+79	3507902	Brotas	87.63	% Matrículas no EF na rede municipal (AI): 87,63
+80	3508009	Buri	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+81	3508108	Buritama	93.09	% Matrículas no EF na rede municipal (AI): 93,09
+82	3508207	Buritizal	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+83	3508306	Cabrália Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+84	3508405	Cabreúva	95.97	% Matrículas no EF na rede municipal (AI): 95,97
+85	3508504	Caçapava	66.61	% Matrículas no EF na rede municipal (AI): 66,61
+86	3508603	Cachoeira Paulista	74.06	% Matrículas no EF na rede municipal (AI): 74,06
+87	3508702	Caconde	89.26	% Matrículas no EF na rede municipal (AI): 89,26
+88	3508801	Cafelândia	75.25	% Matrículas no EF na rede municipal (AI): 75,25
+89	3508900	Caiabu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+90	3509007	Caieiras	52.37	% Matrículas no EF na rede municipal (AI): 52,37
+91	3509106	Caiuá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+92	3509205	Cajamar	90.43	% Matrículas no EF na rede municipal (AI): 90,43
+93	3509304	Cajobi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+94	3509403	Cajuru	93.07	% Matrículas no EF na rede municipal (AI): 93,07
+95	3509502	Campinas	17.88	% Matrículas no EF na rede municipal (AI): 17,88
+96	3509601	Campo Limpo Paulista	84.67	% Matrículas no EF na rede municipal (AI): 84,67
+97	3509700	Campos do Jordão	90.67	% Matrículas no EF na rede municipal (AI): 90,67
+98	3509809	Campos Novos Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+99	3509908	Cananéia	85.00	% Matrículas no EF na rede municipal (AI): 85,00
+100	3510005	Cândido Mota	59.15	% Matrículas no EF na rede municipal (AI): 59,15
+101	3510104	Cândido Rodrigues	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+102	3510203	Capão Bonito	92.68	% Matrículas no EF na rede municipal (AI): 92,68
+103	3510302	Capela do Alto	97.85	% Matrículas no EF na rede municipal (AI): 97,85
+104	3510401	Capivari	90.63	% Matrículas no EF na rede municipal (AI): 90,63
+105	3510500	Caraguatatuba	90.08	% Matrículas no EF na rede municipal (AI): 90,08
+106	3510609	Carapicuíba	21.81	% Matrículas no EF na rede municipal (AI): 21,81
+107	3510708	Cardoso	80.40	% Matrículas no EF na rede municipal (AI): 80,40
+108	3510807	Casa Branca	29.14	% Matrículas no EF na rede municipal (AI): 29,14
+109	3510906	Cássia dos Coqueiros	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+110	3511003	Castilho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+111	3511102	Catanduva	70.07	% Matrículas no EF na rede municipal (AI): 70,07
+112	3511201	Catiguá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+113	3511300	Cedral	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+114	3511409	Cerqueira César	88.34	% Matrículas no EF na rede municipal (AI): 88,34
+115	3511508	Cerquilho	86.79	% Matrículas no EF na rede municipal (AI): 86,79
+116	3511607	Cesário Lange	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+117	3511706	Charqueada	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+118	3557204	Chavantes	93.07	% Matrículas no EF na rede municipal (AI): 93,07
+119	3511904	Clementina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+120	3512001	Colina	91.33	% Matrículas no EF na rede municipal (AI): 91,33
+121	3512100	Colômbia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+122	3512209	Conchal	97.65	% Matrículas no EF na rede municipal (AI): 97,65
+123	3512308	Conchas	64.16	% Matrículas no EF na rede municipal (AI): 64,16
+124	3512407	Cordeirópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+125	3512506	Coroados	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+126	3512605	Coronel Macedo	88.07	% Matrículas no EF na rede municipal (AI): 88,07
+127	3512704	Corumbataí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+128	3512803	Cosmópolis	94.51	% Matrículas no EF na rede municipal (AI): 94,51
+129	3512902	Cosmorama	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+130	3513009	Cotia	78.55	% Matrículas no EF na rede municipal (AI): 78,55
+131	3513108	Cravinhos	90.72	% Matrículas no EF na rede municipal (AI): 90,72
+132	3513207	Cristais Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+133	3513306	Cruzália	11.93	% Matrículas no EF na rede municipal (AI): 11,93
+134	3513405	Cruzeiro	71.47	% Matrículas no EF na rede municipal (AI): 71,47
+135	3513504	Cubatão	75.62	% Matrículas no EF na rede municipal (AI): 75,62
+136	3513603	Cunha	64.78	% Matrículas no EF na rede municipal (AI): 64,78
+137	3513702	Descalvado	81.80	% Matrículas no EF na rede municipal (AI): 81,80
+138	3513801	Diadema	43.11	% Matrículas no EF na rede municipal (AI): 43,11
+139	3513900	Divinolândia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+140	3514007	Dobrada	18.93	% Matrículas no EF na rede municipal (AI): 18,93
+141	3514106	Dois Córregos	92.66	% Matrículas no EF na rede municipal (AI): 92,66
+142	3514205	Dolcinópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+143	3514304	Dourado	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+144	3514403	Dracena	84.20	% Matrículas no EF na rede municipal (AI): 84,20
+145	3514502	Duartina	92.76	% Matrículas no EF na rede municipal (AI): 92,76
+146	3514601	Dumont	94.54	% Matrículas no EF na rede municipal (AI): 94,54
+147	3514700	Echaporã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+148	3514809	Eldorado	94.20	% Matrículas no EF na rede municipal (AI): 94,20
+149	3514908	Elias Fausto	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+150	3515004	Embu das Artes	64.97	% Matrículas no EF na rede municipal (AI): 64,97
+151	3515103	Embu-Guaçu	35.31	% Matrículas no EF na rede municipal (AI): 35,31
+152	3515202	Estrela d'Oeste	92.94	% Matrículas no EF na rede municipal (AI): 92,94
+153	3515301	Estrela do Norte	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+154	3515400	Fartura	90.71	% Matrículas no EF na rede municipal (AI): 90,71
+155	3515509	Fernandópolis	72.90	% Matrículas no EF na rede municipal (AI): 72,90
+156	3515608	Fernando Prestes	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+157	3515707	Ferraz de Vasconcelos	88.72	% Matrículas no EF na rede municipal (AI): 88,72
+158	3515806	Flora Rica	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+159	3515905	Floreal	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+160	3516002	Flórida Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+161	3516101	Florínia	17.16	% Matrículas no EF na rede municipal (AI): 17,16
+162	3516200	Franca	47.41	% Matrículas no EF na rede municipal (AI): 47,41
+163	3516309	Francisco Morato	91.80	% Matrículas no EF na rede municipal (AI): 91,80
+164	3516408	Franco da Rocha	62.30	% Matrículas no EF na rede municipal (AI): 62,30
+165	3516507	Gabriel Monteiro	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+166	3516606	Gália	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+167	3516705	Garça	84.81	% Matrículas no EF na rede municipal (AI): 84,81
+168	3516804	Gastão Vidigal	15.75	% Matrículas no EF na rede municipal (AI): 15,75
+169	3516903	General Salgado	83.42	% Matrículas no EF na rede municipal (AI): 83,42
+170	3517000	Getulina	91.58	% Matrículas no EF na rede municipal (AI): 91,58
+171	3517109	Glicério	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+172	3517208	Guaiçara	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+173	3517307	Guaimbê	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+174	3517406	Guaíra	87.93	% Matrículas no EF na rede municipal (AI): 87,93
+175	3517505	Guapiaçu	96.52	% Matrículas no EF na rede municipal (AI): 96,52
+176	3517604	Guapiara	87.88	% Matrículas no EF na rede municipal (AI): 87,88
+177	3517703	Guará	93.89	% Matrículas no EF na rede municipal (AI): 93,89
+178	3517802	Guaraçaí	97.47	% Matrículas no EF na rede municipal (AI): 97,47
+179	3517901	Guaraci	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+180	3518008	Guarani d'Oeste	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+181	3518107	Guarantã	13.02	% Matrículas no EF na rede municipal (AI): 13,02
+182	3518206	Guararapes	76.53	% Matrículas no EF na rede municipal (AI): 76,53
+183	3518305	Guararema	92.95	% Matrículas no EF na rede municipal (AI): 92,95
+184	3518404	Guaratinguetá	80.41	% Matrículas no EF na rede municipal (AI): 80,41
+185	3518503	Guareí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+186	3518602	Guariba	91.82	% Matrículas no EF na rede municipal (AI): 91,82
+187	3518701	Guarujá	55.85	% Matrículas no EF na rede municipal (AI): 55,85
+188	3518800	Guarulhos	49.89	% Matrículas no EF na rede municipal (AI): 49,89
+189	3518909	Guzolândia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+190	3519006	Herculândia	13.93	% Matrículas no EF na rede municipal (AI): 13,93
+191	3519105	Iacanga	87.27	% Matrículas no EF na rede municipal (AI): 87,27
+192	3519204	Iacri	23.31	% Matrículas no EF na rede municipal (AI): 23,31
+193	3519303	Ibaté	98.17	% Matrículas no EF na rede municipal (AI): 98,17
+194	3519402	Ibirá	96.94	% Matrículas no EF na rede municipal (AI): 96,94
+195	3519501	Ibirarema	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+196	3519600	Ibitinga	48.86	% Matrículas no EF na rede municipal (AI): 48,86
+197	3519709	Ibiúna	89.19	% Matrículas no EF na rede municipal (AI): 89,19
+198	3519808	Icém	87.75	% Matrículas no EF na rede municipal (AI): 87,75
+199	3519907	Iepê	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+200	3520004	Igaraçu do Tietê	87.22	% Matrículas no EF na rede municipal (AI): 87,22
+201	3520103	Igarapava	85.73	% Matrículas no EF na rede municipal (AI): 85,73
+202	3520202	Igaratá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+203	3520301	Iguape	88.82	% Matrículas no EF na rede municipal (AI): 88,82
+204	3520400	Ilhabela	89.15	% Matrículas no EF na rede municipal (AI): 89,15
+205	3520509	Indaiatuba	79.57	% Matrículas no EF na rede municipal (AI): 79,57
+206	3520608	Indiana	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+207	3520707	Indiaporã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+208	3520806	Inúbia Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+209	3520905	Ipaussu	85.79	% Matrículas no EF na rede municipal (AI): 85,79
+210	3521002	Iperó	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+211	3521101	Ipeúna	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+212	3521200	Iporanga	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+213	3521309	Ipuã	86.56	% Matrículas no EF na rede municipal (AI): 86,56
+214	3521408	Iracemápolis	97.92	% Matrículas no EF na rede municipal (AI): 97,92
+215	3521507	Irapuã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+216	3521606	Irapuru	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+217	3521705	Itaberá	-	% Matrículas no EF na rede municipal (AI): -
+218	3521804	Itaí	94.70	% Matrículas no EF na rede municipal (AI): 94,70
+219	3521903	Itajobi	90.25	% Matrículas no EF na rede municipal (AI): 90,25
+220	3522000	Itaju	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+221	3522109	Itanhaém	92.28	% Matrículas no EF na rede municipal (AI): 92,28
+222	3522208	Itapecerica da Serra	75.04	% Matrículas no EF na rede municipal (AI): 75,04
+223	3522307	Itapetininga	75.25	% Matrículas no EF na rede municipal (AI): 75,25
+224	3522406	Itapeva	91.89	% Matrículas no EF na rede municipal (AI): 91,89
+225	3522505	Itapevi	93.28	% Matrículas no EF na rede municipal (AI): 93,28
+226	3522604	Itapira	70.36	% Matrículas no EF na rede municipal (AI): 70,36
+227	3522703	Itápolis	25.76	% Matrículas no EF na rede municipal (AI): 25,76
+228	3522802	Itaporanga	85.27	% Matrículas no EF na rede municipal (AI): 85,27
+229	3522901	Itapuí	94.32	% Matrículas no EF na rede municipal (AI): 94,32
+230	3523008	Itapura	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+231	3523107	Itaquaquecetuba	85.90	% Matrículas no EF na rede municipal (AI): 85,90
+232	3523206	Itararé	93.24	% Matrículas no EF na rede municipal (AI): 93,24
+233	3523305	Itariri	81.23	% Matrículas no EF na rede municipal (AI): 81,23
+234	3523404	Itatiba	84.29	% Matrículas no EF na rede municipal (AI): 84,29
+235	3523503	Itatinga	95.07	% Matrículas no EF na rede municipal (AI): 95,07
+236	3523602	Itirapina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+237	3523701	Itirapuã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+238	3523800	Itobi	14.81	% Matrículas no EF na rede municipal (AI): 14,81
+239	3523909	Itu	85.11	% Matrículas no EF na rede municipal (AI): 85,11
+240	3524006	Itupeva	91.21	% Matrículas no EF na rede municipal (AI): 91,21
+241	3524105	Ituverava	83.08	% Matrículas no EF na rede municipal (AI): 83,08
+242	3524204	Jaborandi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+243	3524303	Jaboticabal	79.08	% Matrículas no EF na rede municipal (AI): 79,08
+244	3524402	Jacareí	66.11	% Matrículas no EF na rede municipal (AI): 66,11
+245	3524501	Jaci	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+246	3524600	Jacupiranga	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+247	3524709	Jaguariúna	91.03	% Matrículas no EF na rede municipal (AI): 91,03
+248	3524808	Jales	82.51	% Matrículas no EF na rede municipal (AI): 82,51
+249	3524907	Jambeiro	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+250	3525003	Jandira	85.46	% Matrículas no EF na rede municipal (AI): 85,46
+251	3525102	Jardinópolis	79.60	% Matrículas no EF na rede municipal (AI): 79,60
+252	3525201	Jarinu	93.40	% Matrículas no EF na rede municipal (AI): 93,40
+253	3525300	Jaú	81.28	% Matrículas no EF na rede municipal (AI): 81,28
+254	3525409	Jeriquara	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+255	3525508	Joanópolis	96.06	% Matrículas no EF na rede municipal (AI): 96,06
+256	3525607	João Ramalho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+257	3525706	José Bonifácio	39.34	% Matrículas no EF na rede municipal (AI): 39,34
+258	3525805	Júlio Mesquita	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+259	3525904	Jundiaí	74.22	% Matrículas no EF na rede municipal (AI): 74,22
+260	3526001	Junqueirópolis	91.18	% Matrículas no EF na rede municipal (AI): 91,18
+261	3526100	Juquiá	92.74	% Matrículas no EF na rede municipal (AI): 92,74
+262	3526209	Juquitiba	48.97	% Matrículas no EF na rede municipal (AI): 48,97
+263	3526308	Lagoinha	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+264	3526407	Laranjal Paulista	96.43	% Matrículas no EF na rede municipal (AI): 96,43
+265	3526506	Lavínia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+266	3526605	Lavrinhas	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+267	3526704	Leme	91.08	% Matrículas no EF na rede municipal (AI): 91,08
+268	3526803	Lençóis Paulista	92.23	% Matrículas no EF na rede municipal (AI): 92,23
+269	3526902	Limeira	76.05	% Matrículas no EF na rede municipal (AI): 76,05
+270	3527009	Lindóia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+271	3527108	Lins	31.05	% Matrículas no EF na rede municipal (AI): 31,05
+272	3527207	Lorena	81.35	% Matrículas no EF na rede municipal (AI): 81,35
+273	3527306	Louveira	97.06	% Matrículas no EF na rede municipal (AI): 97,06
+274	3527405	Lucélia	96.93	% Matrículas no EF na rede municipal (AI): 96,93
+275	3527504	Lucianópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+276	3527603	Luís Antônio	95.43	% Matrículas no EF na rede municipal (AI): 95,43
+277	3527702	Luiziânia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+278	3527801	Lupércio	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+279	3527900	Lutécia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+280	3528007	Macatuba	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+281	3528106	Macaubal	22.96	% Matrículas no EF na rede municipal (AI): 22,96
+282	3528205	Macedônia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+283	3528304	Magda	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+284	3528403	Mairinque	95.87	% Matrículas no EF na rede municipal (AI): 95,87
+285	3528502	Mairiporã	90.31	% Matrículas no EF na rede municipal (AI): 90,31
+286	3528601	Manduri	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+287	3528700	Marabá Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+288	3528809	Maracaí	93.68	% Matrículas no EF na rede municipal (AI): 93,68
+289	3528908	Mariápolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+290	3529005	Marília	58.58	% Matrículas no EF na rede municipal (AI): 58,58
+291	3529104	Marinópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+292	3529203	Martinópolis	96.60	% Matrículas no EF na rede municipal (AI): 96,60
+293	3529302	Matão	22.87	% Matrículas no EF na rede municipal (AI): 22,87
+294	3529401	Mauá	19.06	% Matrículas no EF na rede municipal (AI): 19,06
+295	3529500	Mendonça	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+296	3529609	Meridiano	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+297	3529708	Miguelópolis	95.74	% Matrículas no EF na rede municipal (AI): 95,74
+298	3529807	Mineiros do Tietê	90.92	% Matrículas no EF na rede municipal (AI): 90,92
+299	3529906	Miracatu	96.56	% Matrículas no EF na rede municipal (AI): 96,56
+300	3530003	Mira Estrela	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+301	3530102	Mirandópolis	79.30	% Matrículas no EF na rede municipal (AI): 79,30
+302	3530201	Mirante do Paranapanema	51.43	% Matrículas no EF na rede municipal (AI): 51,43
+303	3530300	Mirassol	85.21	% Matrículas no EF na rede municipal (AI): 85,21
+304	3530409	Mirassolândia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+305	3530508	Mococa	47.34	% Matrículas no EF na rede municipal (AI): 47,34
+306	3530607	Mogi das Cruzes	52.88	% Matrículas no EF na rede municipal (AI): 52,88
+307	3530706	Mogi Guaçu	87.70	% Matrículas no EF na rede municipal (AI): 87,70
+308	3530805	Moji Mirim	85.66	% Matrículas no EF na rede municipal (AI): 85,66
+309	3530904	Mombuca	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+310	3531001	Monções	18.63	% Matrículas no EF na rede municipal (AI): 18,63
+311	3531100	Mongaguá	92.71	% Matrículas no EF na rede municipal (AI): 92,71
+312	3531209	Monte Alegre do Sul	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+313	3531308	Monte Alto	79.76	% Matrículas no EF na rede municipal (AI): 79,76
+314	3531407	Monte Aprazível	83.52	% Matrículas no EF na rede municipal (AI): 83,52
+315	3531506	Monte Azul Paulista	88.26	% Matrículas no EF na rede municipal (AI): 88,26
+316	3531605	Monte Castelo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+317	3531704	Monteiro Lobato	86.47	% Matrículas no EF na rede municipal (AI): 86,47
+318	3531803	Monte Mor	97.08	% Matrículas no EF na rede municipal (AI): 97,08
+319	3531902	Morro Agudo	95.43	% Matrículas no EF na rede municipal (AI): 95,43
+320	3532009	Morungaba	96.17	% Matrículas no EF na rede municipal (AI): 96,17
+321	3532108	Murutinga do Sul	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+322	3532207	Narandiba	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+323	3532306	Natividade da Serra	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+324	3532405	Nazaré Paulista	75.23	% Matrículas no EF na rede municipal (AI): 75,23
+325	3532504	Neves Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+326	3532603	Nhandeara	75.51	% Matrículas no EF na rede municipal (AI): 75,51
+327	3532702	Nipoã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+328	3532801	Nova Aliança	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+329	3532900	Nova Europa	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+330	3533007	Nova Granada	86.28	% Matrículas no EF na rede municipal (AI): 86,28
+331	3533106	Nova Guataporanga	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+332	3533205	Nova Independência	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+333	3533304	Nova Luzitânia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+334	3533403	Nova Odessa	79.41	% Matrículas no EF na rede municipal (AI): 79,41
+335	3533502	Novo Horizonte	89.08	% Matrículas no EF na rede municipal (AI): 89,08
+336	3533601	Nuporanga	94.13	% Matrículas no EF na rede municipal (AI): 94,13
+337	3533700	Ocauçu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+338	3533809	Óleo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+339	3533908	Olímpia	91.17	% Matrículas no EF na rede municipal (AI): 91,17
+340	3534005	Onda Verde	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+341	3534104	Oriente	35.02	% Matrículas no EF na rede municipal (AI): 35,02
+342	3534203	Orindiúva	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+343	3534302	Orlândia	89.76	% Matrículas no EF na rede municipal (AI): 89,76
+344	3534401	Osasco	74.53	% Matrículas no EF na rede municipal (AI): 74,53
+345	3534500	Oscar Bressane	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+346	3534609	Osvaldo Cruz	71.62	% Matrículas no EF na rede municipal (AI): 71,62
+347	3534708	Ourinhos	74.14	% Matrículas no EF na rede municipal (AI): 74,14
+348	3534807	Ouro Verde	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+349	3534906	Pacaembu	86.43	% Matrículas no EF na rede municipal (AI): 86,43
+350	3535002	Palestina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+351	3535101	Palmares Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+352	3535200	Palmeira d'Oeste	83.02	% Matrículas no EF na rede municipal (AI): 83,02
+353	3535309	Palmital	86.76	% Matrículas no EF na rede municipal (AI): 86,76
+354	3535408	Panorama	94.64	% Matrículas no EF na rede municipal (AI): 94,64
+355	3535507	Paraguaçu Paulista	87.64	% Matrículas no EF na rede municipal (AI): 87,64
+356	3535606	Paraibuna	95.18	% Matrículas no EF na rede municipal (AI): 95,18
+357	3535705	Paraíso	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+358	3535804	Paranapanema	92.76	% Matrículas no EF na rede municipal (AI): 92,76
+359	3535903	Paranapuã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+360	3536000	Parapuã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+361	3536109	Pardinho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+362	3536208	Pariquera-Açu	83.50	% Matrículas no EF na rede municipal (AI): 83,50
+363	3536307	Patrocínio Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+364	3536406	Paulicéia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+365	3536505	Paulínia	82.87	% Matrículas no EF na rede municipal (AI): 82,87
+366	3536604	Paulo de Faria	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+367	3536703	Pederneiras	84.12	% Matrículas no EF na rede municipal (AI): 84,12
+368	3536802	Pedra Bela	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+369	3536901	Pedranópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+370	3537008	Pedregulho	66.17	% Matrículas no EF na rede municipal (AI): 66,17
+371	3537107	Pedreira	91.50	% Matrículas no EF na rede municipal (AI): 91,50
+372	3537206	Pedro de Toledo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+373	3537305	Penápolis	67.04	% Matrículas no EF na rede municipal (AI): 67,04
+374	3537404	Pereira Barreto	88.71	% Matrículas no EF na rede municipal (AI): 88,71
+375	3537503	Pereiras	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+376	3537602	Peruíbe	88.77	% Matrículas no EF na rede municipal (AI): 88,77
+377	3537701	Piacatu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+378	3537800	Piedade	90.77	% Matrículas no EF na rede municipal (AI): 90,77
+379	3537909	Pilar do Sul	96.26	% Matrículas no EF na rede municipal (AI): 96,26
+380	3538006	Pindamonhangaba	75.51	% Matrículas no EF na rede municipal (AI): 75,51
+381	3538105	Pindorama	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+382	3515186	Espírito Santo do Pinhal	43.52	% Matrículas no EF na rede municipal (AI): 43,52
+383	3538204	Pinhalzinho	90.59	% Matrículas no EF na rede municipal (AI): 90,59
+384	3538303	Piquerobi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+385	3538501	Piquete	76.57	% Matrículas no EF na rede municipal (AI): 76,57
+386	3538600	Piracaia	93.96	% Matrículas no EF na rede municipal (AI): 93,96
+387	3538709	Piracicaba	57.13	% Matrículas no EF na rede municipal (AI): 57,13
+388	3538808	Piraju	83.70	% Matrículas no EF na rede municipal (AI): 83,70
+389	3538907	Pirajuí	-	% Matrículas no EF na rede municipal (AI): -
+390	3539004	Pirangi	84.17	% Matrículas no EF na rede municipal (AI): 84,17
+391	3539103	Pirapora do Bom Jesus	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+392	3539202	Pirapozinho	88.82	% Matrículas no EF na rede municipal (AI): 88,82
+393	3539301	Pirassununga	73.67	% Matrículas no EF na rede municipal (AI): 73,67
+394	3539400	Piratininga	76.81	% Matrículas no EF na rede municipal (AI): 76,81
+395	3539509	Pitangueiras	95.51	% Matrículas no EF na rede municipal (AI): 95,51
+396	3539608	Planalto	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+397	3539707	Platina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+398	3539806	Poá	84.55	% Matrículas no EF na rede municipal (AI): 84,55
+399	3539905	Poloni	15.60	% Matrículas no EF na rede municipal (AI): 15,60
+400	3540002	Pompéia	88.13	% Matrículas no EF na rede municipal (AI): 88,13
+401	3540101	Pongaí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+402	3540200	Pontal	86.83	% Matrículas no EF na rede municipal (AI): 86,83
+403	3540309	Pontes Gestal	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+404	3540408	Populina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+405	3540507	Porangaba	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+406	3540606	Porto Feliz	89.59	% Matrículas no EF na rede municipal (AI): 89,59
+407	3540705	Porto Ferreira	85.65	% Matrículas no EF na rede municipal (AI): 85,65
+408	3540804	Potirendaba	92.01	% Matrículas no EF na rede municipal (AI): 92,01
+409	3540903	Pradópolis	92.17	% Matrículas no EF na rede municipal (AI): 92,17
+410	3541000	Praia Grande	87.18	% Matrículas no EF na rede municipal (AI): 87,18
+411	3541109	Presidente Alves	-	% Matrículas no EF na rede municipal (AI): -
+412	3541208	Presidente Bernardes	87.93	% Matrículas no EF na rede municipal (AI): 87,93
+413	3541307	Presidente Epitácio	30.45	% Matrículas no EF na rede municipal (AI): 30,45
+414	3541406	Presidente Prudente	74.37	% Matrículas no EF na rede municipal (AI): 74,37
+415	3541505	Presidente Venceslau	88.34	% Matrículas no EF na rede municipal (AI): 88,34
+416	3541604	Promissão	41.58	% Matrículas no EF na rede municipal (AI): 41,58
+417	3541703	Quatá	81.41	% Matrículas no EF na rede municipal (AI): 81,41
+418	3541802	Queiroz	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+419	3541901	Queluz	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+420	3542008	Quintana	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+421	3542107	Rafard	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+422	3542206	Rancharia	87.10	% Matrículas no EF na rede municipal (AI): 87,10
+423	3542305	Redenção da Serra	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+424	3542404	Regente Feijó	80.31	% Matrículas no EF na rede municipal (AI): 80,31
+425	3542503	Reginópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+426	3542602	Registro	78.75	% Matrículas no EF na rede municipal (AI): 78,75
+427	3542701	Restinga	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+428	3542800	Ribeira	19.34	% Matrículas no EF na rede municipal (AI): 19,34
+429	3542909	Ribeirão Bonito	95.22	% Matrículas no EF na rede municipal (AI): 95,22
+430	3543006	Ribeirão Branco	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+431	3543105	Ribeirão Corrente	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+432	3543204	Ribeirão do Sul	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+433	3543303	Ribeirão Pires	34.82	% Matrículas no EF na rede municipal (AI): 34,82
+434	3543402	Ribeirão Preto	31.21	% Matrículas no EF na rede municipal (AI): 31,21
+435	3543501	Riversul	87.34	% Matrículas no EF na rede municipal (AI): 87,34
+436	3543600	Rifaina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+437	3543709	Rincão	94.05	% Matrículas no EF na rede municipal (AI): 94,05
+438	3543808	Rinópolis	12.03	% Matrículas no EF na rede municipal (AI): 12,03
+439	3543907	Rio Claro	78.40	% Matrículas no EF na rede municipal (AI): 78,40
+440	3544004	Rio das Pedras	94.96	% Matrículas no EF na rede municipal (AI): 94,96
+441	3544103	Rio Grande da Serra	16.26	% Matrículas no EF na rede municipal (AI): 16,26
+442	3544202	Riolândia	92.56	% Matrículas no EF na rede municipal (AI): 92,56
+443	3544301	Roseira	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+444	3544400	Rubiácea	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+445	3544509	Rubinéia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+446	3544608	Sabino	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+447	3544707	Sagres	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+448	3544806	Sales	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+449	3544905	Sales Oliveira	93.02	% Matrículas no EF na rede municipal (AI): 93,02
+450	3545001	Salesópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+451	3545100	Salmourão	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+452	3545209	Salto	49.87	% Matrículas no EF na rede municipal (AI): 49,87
+453	3545308	Salto de Pirapora	69.80	% Matrículas no EF na rede municipal (AI): 69,80
+454	3545407	Salto Grande	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+455	3545506	Sandovalina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+456	3545605	Santa Adélia	90.10	% Matrículas no EF na rede municipal (AI): 90,10
+457	3545704	Santa Albertina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+458	3545803	Santa Bárbara d'Oeste	69.41	% Matrículas no EF na rede municipal (AI): 69,41
+459	3500550	Águas de Santa Bárbara	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+460	3546009	Santa Branca	96.35	% Matrículas no EF na rede municipal (AI): 96,35
+461	3546108	Santa Clara d'Oeste	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+462	3546207	Santa Cruz da Conceição	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+463	3546306	Santa Cruz das Palmeiras	89.32	% Matrículas no EF na rede municipal (AI): 89,32
+464	3546405	Santa Cruz do Rio Pardo	61.77	% Matrículas no EF na rede municipal (AI): 61,77
+465	3546504	Santa Ernestina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+466	3546603	Santa Fé do Sul	86.70	% Matrículas no EF na rede municipal (AI): 86,70
+467	3546702	Santa Gertrudes	95.97	% Matrículas no EF na rede municipal (AI): 95,97
+468	3546801	Santa Isabel	94.89	% Matrículas no EF na rede municipal (AI): 94,89
+469	3546900	Santa Lucia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+470	3547007	Santa Maria da Serra	58.06	% Matrículas no EF na rede municipal (AI): 58,06
+471	3547106	Santa Mercedes	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+472	3547403	Santa Rita d'Oeste	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+473	3547502	Santa Rita do Passa Quatro	75.35	% Matrículas no EF na rede municipal (AI): 75,35
+474	3547601	Santa Rosa do Viterbo	88.62	% Matrículas no EF na rede municipal (AI): 88,62
+475	3547205	Santana da Ponte Pensa	15.38	% Matrículas no EF na rede municipal (AI): 15,38
+476	3547304	Santana de Parnaíba	83.19	% Matrículas no EF na rede municipal (AI): 83,19
+477	3547700	Santo Anastácio	69.51	% Matrículas no EF na rede municipal (AI): 69,51
+478	3547809	Santo André	40.11	% Matrículas no EF na rede municipal (AI): 40,11
+479	3547908	Santo Antonio da Alegria	96.10	% Matrículas no EF na rede municipal (AI): 96,10
+480	3548104	Santo Antonio do Jardim	86.24	% Matrículas no EF na rede municipal (AI): 86,24
+481	3548203	Santo Antonio do Pinhal	98.30	% Matrículas no EF na rede municipal (AI): 98,30
+482	3548005	Santo Antonio de Posse	93.33	% Matrículas no EF na rede municipal (AI): 93,33
+483	3548302	Santo Expedito	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+484	3548401	Santópolis do Aguapeí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+485	3548500	Santos	61.15	% Matrículas no EF na rede municipal (AI): 61,15
+486	3548609	São Bento do Sapucaí	96.19	% Matrículas no EF na rede municipal (AI): 96,19
+487	3548708	São Bernardo do Campo	83.29	% Matrículas no EF na rede municipal (AI): 83,29
+488	3548807	São Caetano do Sul	68.87	% Matrículas no EF na rede municipal (AI): 68,87
+489	3548906	São Carlos	34.25	% Matrículas no EF na rede municipal (AI): 34,25
+490	3549003	São Francisco	17.59	% Matrículas no EF na rede municipal (AI): 17,59
+491	3549102	São João da Boa Vista	61.41	% Matrículas no EF na rede municipal (AI): 61,41
+492	3549201	São João das Duas Pontes	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+493	3549300	São João do Pau d'Alho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+494	3549409	São Joaquim da Barra	11.78	% Matrículas no EF na rede municipal (AI): 11,78
+495	3549607	São José do Barreiro	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+496	3549508	São José da Bela Vista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+497	3549706	São José do Rio Pardo	41.71	% Matrículas no EF na rede municipal (AI): 41,71
+498	3549805	São José do Rio Preto	66.24	% Matrículas no EF na rede municipal (AI): 66,24
+499	3549904	São José dos Campos	42.16	% Matrículas no EF na rede municipal (AI): 42,16
+500	3550001	São Luís do Paraitinga	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+501	3550100	São Manuel	88.20	% Matrículas no EF na rede municipal (AI): 88,20
+502	3550209	São Miguel Arcanjo	98.68	% Matrículas no EF na rede municipal (AI): 98,68
+503	3550308	São Paulo	27.92	% Matrículas no EF na rede municipal (AI): 27,92
+504	3550407	São Pedro	88.26	% Matrículas no EF na rede municipal (AI): 88,26
+505	3550506	São Pedro do Turvo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+506	3550605	São Roque	81.93	% Matrículas no EF na rede municipal (AI): 81,93
+507	3550704	São Sebastião	90.86	% Matrículas no EF na rede municipal (AI): 90,86
+508	3550803	São Sebastião da Grama	93.19	% Matrículas no EF na rede municipal (AI): 93,19
+509	3550902	São Simão	51.73	% Matrículas no EF na rede municipal (AI): 51,73
+510	3551009	São Vicente	82.28	% Matrículas no EF na rede municipal (AI): 82,28
+511	3551108	Sarapuí	89.15	% Matrículas no EF na rede municipal (AI): 89,15
+512	3551207	Sarutaiá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+513	3551306	Sebastianópolis do Sul	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+514	3551405	Serra Azul	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+515	3551603	Serra Negra	15.42	% Matrículas no EF na rede municipal (AI): 15,42
+516	3551504	Serrana	90.31	% Matrículas no EF na rede municipal (AI): 90,31
+517	3551702	Sertãozinho	89.69	% Matrículas no EF na rede municipal (AI): 89,69
+518	3551801	Sete Barras	98.50	% Matrículas no EF na rede municipal (AI): 98,50
+519	3551900	Severínia	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+520	3552007	Silveiras	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+521	3552106	Socorro	72.04	% Matrículas no EF na rede municipal (AI): 72,04
+522	3552205	Sorocaba	57.41	% Matrículas no EF na rede municipal (AI): 57,41
+523	3552304	Sud Mennucci	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+524	3552403	Sumaré	59.47	% Matrículas no EF na rede municipal (AI): 59,47
+525	3552502	Suzano	57.70	% Matrículas no EF na rede municipal (AI): 57,70
+526	3552601	Tabapuã	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+527	3552700	Tabatinga	78.64	% Matrículas no EF na rede municipal (AI): 78,64
+528	3552809	Taboão da Serra	80.18	% Matrículas no EF na rede municipal (AI): 80,18
+529	3552908	Taciba	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+530	3553005	Taguaí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+531	3553104	Taiaçu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+532	3553203	Taiúva	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+533	3553302	Tambaú	81.50	% Matrículas no EF na rede municipal (AI): 81,50
+534	3553401	Tanabi	94.30	% Matrículas no EF na rede municipal (AI): 94,30
+535	3553500	Tapiraí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+536	3553609	Tapiratiba	93.20	% Matrículas no EF na rede municipal (AI): 93,20
+537	3553708	Taquaritinga	90.12	% Matrículas no EF na rede municipal (AI): 90,12
+538	3553807	Taquarituba	86.85	% Matrículas no EF na rede municipal (AI): 86,85
+539	3553906	Tarabaí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+540	3554003	Tatuí	85.78	% Matrículas no EF na rede municipal (AI): 85,78
+541	3554102	Taubaté	78.80	% Matrículas no EF na rede municipal (AI): 78,80
+542	3554201	Tejupá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+543	3554300	Teodoro Sampaio	69.75	% Matrículas no EF na rede municipal (AI): 69,75
+544	3554409	Terra Roxa	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+545	3554508	Tietê	85.77	% Matrículas no EF na rede municipal (AI): 85,77
+546	3554607	Timburi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+547	3554706	Torrinha	19.39	% Matrículas no EF na rede municipal (AI): 19,39
+548	3554805	Tremembé	85.42	% Matrículas no EF na rede municipal (AI): 85,42
+549	3554904	Três Fronteiras	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+550	3555000	Tupã	48.19	% Matrículas no EF na rede municipal (AI): 48,19
+551	3555109	Tupi Paulista	87.18	% Matrículas no EF na rede municipal (AI): 87,18
+552	3555208	Turiúba	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+553	3555307	Turmalina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+554	3555406	Ubatuba	91.21	% Matrículas no EF na rede municipal (AI): 91,21
+555	3555505	Ubirajara	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+556	3555604	Uchôa	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+557	3555703	União Paulista	14.53	% Matrículas no EF na rede municipal (AI): 14,53
+558	3555802	Urânia	15.67	% Matrículas no EF na rede municipal (AI): 15,67
+559	3555901	Uru	22.11	% Matrículas no EF na rede municipal (AI): 22,11
+560	3556008	Urupês	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+561	3556107	Valentim Gentil	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+562	3556206	Valinhos	65.68	% Matrículas no EF na rede municipal (AI): 65,68
+563	3556305	Valparaíso	88.43	% Matrículas no EF na rede municipal (AI): 88,43
+564	3556404	Vargem Grande do Sul	79.55	% Matrículas no EF na rede municipal (AI): 79,55
+565	3556503	Várzea Paulista	96.55	% Matrículas no EF na rede municipal (AI): 96,55
+566	3556602	Vera Cruz	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+567	3556701	Vinhedo	75.31	% Matrículas no EF na rede municipal (AI): 75,31
+568	3556800	Viradouro	83.91	% Matrículas no EF na rede municipal (AI): 83,91
+569	3556909	Vista Alegre do Alto	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+570	3557006	Votorantim	90.75	% Matrículas no EF na rede municipal (AI): 90,75
+571	3557105	Votuporanga	77.93	% Matrículas no EF na rede municipal (AI): 77,93
+572	3556453	Vargem Grande Paulista	82.73	% Matrículas no EF na rede municipal (AI): 82,73
+573	3500758	Alambari	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+574	3501152	Alumínio	80.90	% Matrículas no EF na rede municipal (AI): 80,90
+575	3502754	Araçariguama	96.00	% Matrículas no EF na rede municipal (AI): 96,00
+576	3503158	Arapeí	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+577	3503950	Aspásia	18.37	% Matrículas no EF na rede municipal (AI): 18,37
+578	3505351	Barra do Chapéu	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+579	3506359	Bertioga	91.91	% Matrículas no EF na rede municipal (AI): 91,91
+580	3507159	Bom Sucesso de Itararé	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+581	3507456	Borebi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+582	3509254	Cajati	92.65	% Matrículas no EF na rede municipal (AI): 92,65
+583	3509452	Campina do Monte Alegre	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+584	3510153	Canitar	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+585	3513850	Dirce Reis	15.05	% Matrículas no EF na rede municipal (AI): 15,05
+586	3514924	Elisiário	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+587	3514957	Embaúba	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+588	3515129	Emilianópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+589	3515152	Engenheiro Coelho	81.05	% Matrículas no EF na rede municipal (AI): 81,05
+590	3515194	Espírito Santo do Turvo	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+591	3557303	Estiva Gerbi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+592	3515350	Euclides da Cunha Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+593	3518859	Guatapará	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+594	3519055	Holambra	81.57	% Matrículas no EF na rede municipal (AI): 81,57
+595	3519071	Hortolândia	79.97	% Matrículas no EF na rede municipal (AI): 79,97
+596	3519253	Iaras	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+597	3520426	Ilha Comprida	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+598	3520442	Ilha Solteira	82.51	% Matrículas no EF na rede municipal (AI): 82,51
+599	3522158	Itaóca	21.29	% Matrículas no EF na rede municipal (AI): 21,29
+600	3522653	Itapirapuã Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+601	3527256	Lourdes	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+602	3528858	Marapoama	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+603	3529658	Mesópolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+604	3532058	Motuca	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+605	3532827	Nova Campina	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+606	3532843	Nova Canaã Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+607	3533254	Novais	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+608	3536257	Parisi	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+609	3537156	Pedrinhas Paulista	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+610	3540259	Pontalinda	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+611	3540754	Potim	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+612	3543253	Ribeirão Grande	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+613	3544251	Rosana	52.35	% Matrículas no EF na rede municipal (AI): 52,35
+614	3545159	Saltinho	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+615	3549250	São João de Iracema	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+616	3549953	São Lourenço da Serra	99.00	% Matrículas no EF na rede municipal (AI): 99,00
+617	3548054	Santo Antonio do Aracanguá	100.00	% Matrículas no EF na rede municipal (AI): 100,00
+618	3552551	Suzanápolis	100.00	% Matrículas no EF na rede municipal (AI): 100,00

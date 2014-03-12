@@ -25,7 +25,9 @@ angular.module('graficos.directives', [])
                 info: '=',
                 width: '@',
                 height: '@',
-                feature: '@',
+                feature: '=',
+                features: '=',
+                featureLabels: '=',
                 geometry: '@',
                 parse: '=',
                 title: '@',
@@ -38,7 +40,7 @@ angular.module('graficos.directives', [])
             },
             link: function(scope, element, attrs) {
                 scope.$watch('url', function(curr, prev) {
-                    console.log(curr);
+                    console.log(curr, prev);
                     if(curr) {
                         d3.tsv(curr, function(data) {
                             scope.data = {};
@@ -46,6 +48,8 @@ angular.module('graficos.directives', [])
                                 scope.data[elem.ibge] = elem;
                             });
                             scope.spec.data[0].url = curr;
+                            scope.spec.data[1].format.feature = scope.feature;
+                            scope.spec.data[1].url = 'data/'+scope.feature+'.topo.json';
                             parse(scope.spec);
                             scope.$apply();
                         });
@@ -103,7 +107,23 @@ angular.module('graficos.directives', [])
                                 "hover": { "fill": {"value": "red"} }
                             }
                         }
-                    ]
+                    ]/*,
+                    "legends": [
+                       {
+                         "fill": "color",
+                         "properties": {
+                           "title": {
+                             "fontSize": {"value": 14}
+                           },
+                           "labels": {
+                             "fontSize": {"value": 12}
+                           },
+                           "symbols": {
+                             "stroke": {"value": "transparent"}
+                           }
+                         }
+                       }
+                    ]*/
                 };
 
                 function parse(spec) {
@@ -131,6 +151,9 @@ angular.module('graficos.directives', [])
                     scope.info = {};
                     scope.$apply();
                 });
+                scope.setLevel = function(f) {
+                    scope.feature = f;
+                };
             }
         }
     })

@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	60.34	% da Receita própria em relação a Receita Total: 60,34
+2	3500204	Adolfo	5.86	% da Receita própria em relação a Receita Total: 5,86
+3	3500303	Aguaí	25.28	% da Receita própria em relação a Receita Total: 25,28
+4	3500402	Águas da Prata	28.77	% da Receita própria em relação a Receita Total: 28,77
+5	3500501	Águas de Lindóia	47.10	% da Receita própria em relação a Receita Total: 47,10
+6	3500600	Águas de São Pedro	40.26	% da Receita própria em relação a Receita Total: 40,26
+7	3500709	Agudos	10.20	% da Receita própria em relação a Receita Total: 10,20
+8	3500808	Alfredo Marcondes	7.96	% da Receita própria em relação a Receita Total: 7,96
+9	3500907	Altair	10.59	% da Receita própria em relação a Receita Total: 10,59
+10	3501004	Altinópolis	17.63	% da Receita própria em relação a Receita Total: 17,63
+11	3501103	Alto Alegre	12.25	% da Receita própria em relação a Receita Total: 12,25
+12	3501202	Álvares Florence	9.08	% da Receita própria em relação a Receita Total: 9,08
+13	3501301	Álvares Machado	18.13	% da Receita própria em relação a Receita Total: 18,13
+14	3501400	Álvaro de Carvalho	10.96	% da Receita própria em relação a Receita Total: 10,96
+15	3501509	Alvinlândia	5.25	% da Receita própria em relação a Receita Total: 5,25
+16	3501608	Americana	42.49	% da Receita própria em relação a Receita Total: 42,49
+17	3501707	Américo Brasiliense	22.03	% da Receita própria em relação a Receita Total: 22,03
+18	3501806	Américo de Campos	12.91	% da Receita própria em relação a Receita Total: 12,91
+19	3501905	Amparo	34.52	% da Receita própria em relação a Receita Total: 34,52
+20	3502002	Analândia	14.60	% da Receita própria em relação a Receita Total: 14,60
+21	3502101	Andradina	30.84	% da Receita própria em relação a Receita Total: 30,84
+22	3502200	Angatuba	11.82	% da Receita própria em relação a Receita Total: 11,82
+23	3502309	Anhembi	14.04	% da Receita própria em relação a Receita Total: 14,04
+24	3502408	Anhumas	5.30	% da Receita própria em relação a Receita Total: 5,30
+25	3502507	Aparecida	36.32	% da Receita própria em relação a Receita Total: 36,32
+26	3502606	Aparecida d'Oeste	11.93	% da Receita própria em relação a Receita Total: 11,93
+27	3502705	Apiaí	12.52	% da Receita própria em relação a Receita Total: 12,52
+28	3502804	Araçatuba	42.19	% da Receita própria em relação a Receita Total: 42,19
+29	3502903	Araçoiaba da Serra	30.45	% da Receita própria em relação a Receita Total: 30,45
+30	3503000	Aramina	17.98	% da Receita própria em relação a Receita Total: 17,98
+31	3503109	Arandu	22.59	% da Receita própria em relação a Receita Total: 22,59
+32	3503208	Araraquara	41.62	% da Receita própria em relação a Receita Total: 41,62
+33	3503307	Araras	44.71	% da Receita própria em relação a Receita Total: 44,71
+34	3503406	Arealva	12.71	% da Receita própria em relação a Receita Total: 12,71
+35	3503505	Areias	9.49	% da Receita própria em relação a Receita Total: 9,49
+36	3503604	Areiópolis	5.44	% da Receita própria em relação a Receita Total: 5,44
+37	3503703	Ariranha	10.50	% da Receita própria em relação a Receita Total: 10,50
+38	3503802	Artur Nogueira	37.08	% da Receita própria em relação a Receita Total: 37,08
+39	3503901	Arujá	34.04	% da Receita própria em relação a Receita Total: 34,04
+40	3504008	Assis	41.97	% da Receita própria em relação a Receita Total: 41,97
+41	3504107	Atibaia	51.37	% da Receita própria em relação a Receita Total: 51,37
+42	3504206	Auriflama	20.11	% da Receita própria em relação a Receita Total: 20,11
+43	3504305	Avaí	11.07	% da Receita própria em relação a Receita Total: 11,07
+44	3504404	Avanhandava	14.56	% da Receita própria em relação a Receita Total: 14,56
+645	3554755	Trabiju	6.16	% da Receita própria em relação a Receita Total: 6,16
+45	3504503	Avaré	33.98	% da Receita própria em relação a Receita Total: 33,98
+46	3504602	Bady Bassitt	22.73	% da Receita própria em relação a Receita Total: 22,73
+47	3504701	Balbinos	2.74	% da Receita própria em relação a Receita Total: 2,74
+48	3504800	Bálsamo	14.08	% da Receita própria em relação a Receita Total: 14,08
+49	3504909	Bananal	13.44	% da Receita própria em relação a Receita Total: 13,44
+50	3505005	Barão de Antonina	5.74	% da Receita própria em relação a Receita Total: 5,74
+51	3505104	Barbosa	13.77	% da Receita própria em relação a Receita Total: 13,77
+52	3505203	Bariri	18.44	% da Receita própria em relação a Receita Total: 18,44
+53	3505302	Barra Bonita	21.50	% da Receita própria em relação a Receita Total: 21,50
+54	3505401	Barra do Turvo	12.37	% da Receita própria em relação a Receita Total: 12,37
+55	3505500	Barretos	48.68	% da Receita própria em relação a Receita Total: 48,68
+56	3505609	Barrinha	12.68	% da Receita própria em relação a Receita Total: 12,68
+57	3505708	Barueri	39.99	% da Receita própria em relação a Receita Total: 39,99
+58	3505807	Bastos	10.43	% da Receita própria em relação a Receita Total: 10,43
+59	3505906	Batatais	23.37	% da Receita própria em relação a Receita Total: 23,37
+60	3506003	Bauru	47.73	% da Receita própria em relação a Receita Total: 47,73
+61	3506102	Bebedouro	27.74	% da Receita própria em relação a Receita Total: 27,74
+62	3506201	Bento de Abreu	6.39	% da Receita própria em relação a Receita Total: 6,39
+63	3506300	Bernardino de Campos	10.33	% da Receita própria em relação a Receita Total: 10,33
+64	3506409	Bilac	25.59	% da Receita própria em relação a Receita Total: 25,59
+65	3506508	Birigui	46.35	% da Receita própria em relação a Receita Total: 46,35
+66	3506607	Biritiba Mirim	11.64	% da Receita própria em relação a Receita Total: 11,64
+67	3506706	Boa Esperança do Sul	16.64	% da Receita própria em relação a Receita Total: 16,64
+68	3506805	Bocaina	19.80	% da Receita própria em relação a Receita Total: 19,80
+69	3506904	Bofete	18.01	% da Receita própria em relação a Receita Total: 18,01
+70	3507001	Boituva	29.15	% da Receita própria em relação a Receita Total: 29,15
+71	3507100	Bom Jesus dos Perdões	45.38	% da Receita própria em relação a Receita Total: 45,38
+72	3507209	Borá	8.99	% da Receita própria em relação a Receita Total: 8,99
+73	3507308	Boracéia	8.21	% da Receita própria em relação a Receita Total: 8,21
+74	3507407	Borborema	24.05	% da Receita própria em relação a Receita Total: 24,05
+75	3507506	Botucatu	28.64	% da Receita própria em relação a Receita Total: 28,64
+76	3507605	Bragança Paulista	38.20	% da Receita própria em relação a Receita Total: 38,20
+77	3507704	Braúna	11.04	% da Receita própria em relação a Receita Total: 11,04
+78	3507803	Brodowski	24.26	% da Receita própria em relação a Receita Total: 24,26
+79	3507902	Brotas	33.34	% da Receita própria em relação a Receita Total: 33,34
+80	3508009	Buri	10.75	% da Receita própria em relação a Receita Total: 10,75
+81	3508108	Buritama	9.95	% da Receita própria em relação a Receita Total: 9,95
+82	3508207	Buritizal	10.78	% da Receita própria em relação a Receita Total: 10,78
+83	3508306	Cabrália Paulista	7.78	% da Receita própria em relação a Receita Total: 7,78
+84	3508405	Cabreúva	26.44	% da Receita própria em relação a Receita Total: 26,44
+85	3508504	Caçapava	22.90	% da Receita própria em relação a Receita Total: 22,90
+86	3508603	Cachoeira Paulista	23.31	% da Receita própria em relação a Receita Total: 23,31
+87	3508702	Caconde	19.27	% da Receita própria em relação a Receita Total: 19,27
+88	3508801	Cafelândia	18.83	% da Receita própria em relação a Receita Total: 18,83
+89	3508900	Caiabu	3.16	% da Receita própria em relação a Receita Total: 3,16
+90	3509007	Caieiras	33.47	% da Receita própria em relação a Receita Total: 33,47
+91	3509106	Caiuá	7.35	% da Receita própria em relação a Receita Total: 7,35
+92	3509205	Cajamar	36.06	% da Receita própria em relação a Receita Total: 36,06
+93	3509304	Cajobi	13.29	% da Receita própria em relação a Receita Total: 13,29
+94	3509403	Cajuru	10.04	% da Receita própria em relação a Receita Total: 10,04
+95	3509502	Campinas	53.48	% da Receita própria em relação a Receita Total: 53,48
+96	3509601	Campo Limpo Paulista	23.61	% da Receita própria em relação a Receita Total: 23,61
+97	3509700	Campos do Jordão	46.97	% da Receita própria em relação a Receita Total: 46,97
+98	3509809	Campos Novos Paulista	10.60	% da Receita própria em relação a Receita Total: 10,60
+99	3509908	Cananéia	20.16	% da Receita própria em relação a Receita Total: 20,16
+100	3510005	Cândido Mota	24.26	% da Receita própria em relação a Receita Total: 24,26
+101	3510104	Cândido Rodrigues	11.77	% da Receita própria em relação a Receita Total: 11,77
+102	3510203	Capão Bonito	21.00	% da Receita própria em relação a Receita Total: 21,00
+103	3510302	Capela do Alto	13.78	% da Receita própria em relação a Receita Total: 13,78
+104	3510401	Capivari	27.67	% da Receita própria em relação a Receita Total: 27,67
+105	3510500	Caraguatatuba	46.59	% da Receita própria em relação a Receita Total: 46,59
+106	3510609	Carapicuíba	30.02	% da Receita própria em relação a Receita Total: 30,02
+107	3510708	Cardoso	14.93	% da Receita própria em relação a Receita Total: 14,93
+108	3510807	Casa Branca	27.40	% da Receita própria em relação a Receita Total: 27,40
+109	3510906	Cássia dos Coqueiros		% da Receita própria em relação a Receita Total: ...
+110	3511003	Castilho	23.96	% da Receita própria em relação a Receita Total: 23,96
+111	3511102	Catanduva	43.80	% da Receita própria em relação a Receita Total: 43,80
+112	3511201	Catiguá	14.84	% da Receita própria em relação a Receita Total: 14,84
+113	3511300	Cedral	23.64	% da Receita própria em relação a Receita Total: 23,64
+114	3511409	Cerqueira César	26.51	% da Receita própria em relação a Receita Total: 26,51
+115	3511508	Cerquilho	41.34	% da Receita própria em relação a Receita Total: 41,34
+116	3511607	Cesário Lange	18.67	% da Receita própria em relação a Receita Total: 18,67
+117	3511706	Charqueada	20.45	% da Receita própria em relação a Receita Total: 20,45
+118	3557204	Chavantes	15.63	% da Receita própria em relação a Receita Total: 15,63
+119	3511904	Clementina	15.47	% da Receita própria em relação a Receita Total: 15,47
+120	3512001	Colina	23.19	% da Receita própria em relação a Receita Total: 23,19
+121	3512100	Colômbia	11.85	% da Receita própria em relação a Receita Total: 11,85
+122	3512209	Conchal	27.66	% da Receita própria em relação a Receita Total: 27,66
+123	3512308	Conchas	10.93	% da Receita própria em relação a Receita Total: 10,93
+124	3512407	Cordeirópolis	16.85	% da Receita própria em relação a Receita Total: 16,85
+125	3512506	Coroados	7.28	% da Receita própria em relação a Receita Total: 7,28
+126	3512605	Coronel Macedo	14.69	% da Receita própria em relação a Receita Total: 14,69
+127	3512704	Corumbataí	22.93	% da Receita própria em relação a Receita Total: 22,93
+128	3512803	Cosmópolis	33.11	% da Receita própria em relação a Receita Total: 33,11
+129	3512902	Cosmorama	17.77	% da Receita própria em relação a Receita Total: 17,77
+130	3513009	Cotia	36.97	% da Receita própria em relação a Receita Total: 36,97
+131	3513108	Cravinhos	36.93	% da Receita própria em relação a Receita Total: 36,93
+132	3513207	Cristais Paulista	10.56	% da Receita própria em relação a Receita Total: 10,56
+133	3513306	Cruzália	6.98	% da Receita própria em relação a Receita Total: 6,98
+134	3513405	Cruzeiro	14.47	% da Receita própria em relação a Receita Total: 14,47
+135	3513504	Cubatão	31.34	% da Receita própria em relação a Receita Total: 31,34
+136	3513603	Cunha	6.42	% da Receita própria em relação a Receita Total: 6,42
+137	3513702	Descalvado	20.18	% da Receita própria em relação a Receita Total: 20,18
+138	3513801	Diadema	38.64	% da Receita própria em relação a Receita Total: 38,64
+139	3513900	Divinolândia	15.65	% da Receita própria em relação a Receita Total: 15,65
+140	3514007	Dobrada	16.79	% da Receita própria em relação a Receita Total: 16,79
+141	3514106	Dois Córregos	30.81	% da Receita própria em relação a Receita Total: 30,81
+142	3514205	Dolcinópolis	6.55	% da Receita própria em relação a Receita Total: 6,55
+143	3514304	Dourado	14.36	% da Receita própria em relação a Receita Total: 14,36
+144	3514403	Dracena	24.57	% da Receita própria em relação a Receita Total: 24,57
+145	3514502	Duartina	19.77	% da Receita própria em relação a Receita Total: 19,77
+146	3514601	Dumont	14.19	% da Receita própria em relação a Receita Total: 14,19
+147	3514700	Echaporã	10.10	% da Receita própria em relação a Receita Total: 10,10
+148	3514809	Eldorado	5.43	% da Receita própria em relação a Receita Total: 5,43
+149	3514908	Elias Fausto	14.18	% da Receita própria em relação a Receita Total: 14,18
+150	3515004	Embu das Artes	28.61	% da Receita própria em relação a Receita Total: 28,61
+151	3515103	Embu-Guaçu	27.27	% da Receita própria em relação a Receita Total: 27,27
+152	3515202	Estrela d'Oeste	11.35	% da Receita própria em relação a Receita Total: 11,35
+153	3515301	Estrela do Norte	8.20	% da Receita própria em relação a Receita Total: 8,20
+154	3515400	Fartura	12.83	% da Receita própria em relação a Receita Total: 12,83
+155	3515509	Fernandópolis	29.58	% da Receita própria em relação a Receita Total: 29,58
+156	3515608	Fernando Prestes	9.81	% da Receita própria em relação a Receita Total: 9,81
+157	3515707	Ferraz de Vasconcelos	21.21	% da Receita própria em relação a Receita Total: 21,21
+158	3515806	Flora Rica		% da Receita própria em relação a Receita Total: ...
+159	3515905	Floreal	14.71	% da Receita própria em relação a Receita Total: 14,71
+160	3516002	Flórida Paulista	14.37	% da Receita própria em relação a Receita Total: 14,37
+161	3516101	Florínia	15.81	% da Receita própria em relação a Receita Total: 15,81
+162	3516200	Franca	39.82	% da Receita própria em relação a Receita Total: 39,82
+163	3516309	Francisco Morato	25.75	% da Receita própria em relação a Receita Total: 25,75
+164	3516408	Franco da Rocha	26.14	% da Receita própria em relação a Receita Total: 26,14
+165	3516507	Gabriel Monteiro	6.37	% da Receita própria em relação a Receita Total: 6,37
+166	3516606	Gália	13.92	% da Receita própria em relação a Receita Total: 13,92
+167	3516705	Garça	37.03	% da Receita própria em relação a Receita Total: 37,03
+168	3516804	Gastão Vidigal	12.97	% da Receita própria em relação a Receita Total: 12,97
+169	3516903	General Salgado	19.14	% da Receita própria em relação a Receita Total: 19,14
+170	3517000	Getulina	7.12	% da Receita própria em relação a Receita Total: 7,12
+171	3517109	Glicério	6.93	% da Receita própria em relação a Receita Total: 6,93
+172	3517208	Guaiçara	14.87	% da Receita própria em relação a Receita Total: 14,87
+173	3517307	Guaimbê	15.90	% da Receita própria em relação a Receita Total: 15,90
+174	3517406	Guaíra	31.62	% da Receita própria em relação a Receita Total: 31,62
+175	3517505	Guapiaçu	15.03	% da Receita própria em relação a Receita Total: 15,03
+176	3517604	Guapiara	10.27	% da Receita própria em relação a Receita Total: 10,27
+177	3517703	Guará	12.84	% da Receita própria em relação a Receita Total: 12,84
+178	3517802	Guaraçaí	16.12	% da Receita própria em relação a Receita Total: 16,12
+179	3517901	Guaraci	20.56	% da Receita própria em relação a Receita Total: 20,56
+180	3518008	Guarani d'Oeste	4.62	% da Receita própria em relação a Receita Total: 4,62
+181	3518107	Guarantã	10.12	% da Receita própria em relação a Receita Total: 10,12
+182	3518206	Guararapes	21.89	% da Receita própria em relação a Receita Total: 21,89
+183	3518305	Guararema	29.15	% da Receita própria em relação a Receita Total: 29,15
+184	3518404	Guaratinguetá	22.89	% da Receita própria em relação a Receita Total: 22,89
+185	3518503	Guareí	12.88	% da Receita própria em relação a Receita Total: 12,88
+186	3518602	Guariba	13.48	% da Receita própria em relação a Receita Total: 13,48
+187	3518701	Guarujá	61.78	% da Receita própria em relação a Receita Total: 61,78
+188	3518800	Guarulhos	46.76	% da Receita própria em relação a Receita Total: 46,76
+189	3518909	Guzolândia	7.70	% da Receita própria em relação a Receita Total: 7,70
+190	3519006	Herculândia	9.00	% da Receita própria em relação a Receita Total: 9,00
+191	3519105	Iacanga	18.54	% da Receita própria em relação a Receita Total: 18,54
+192	3519204	Iacri	8.79	% da Receita própria em relação a Receita Total: 8,79
+193	3519303	Ibaté	24.23	% da Receita própria em relação a Receita Total: 24,23
+194	3519402	Ibirá	20.19	% da Receita própria em relação a Receita Total: 20,19
+195	3519501	Ibirarema	12.69	% da Receita própria em relação a Receita Total: 12,69
+196	3519600	Ibitinga	29.66	% da Receita própria em relação a Receita Total: 29,66
+197	3519709	Ibiúna	24.05	% da Receita própria em relação a Receita Total: 24,05
+198	3519808	Icém	6.93	% da Receita própria em relação a Receita Total: 6,93
+199	3519907	Iepê	16.23	% da Receita própria em relação a Receita Total: 16,23
+200	3520004	Igaraçu do Tietê	32.15	% da Receita própria em relação a Receita Total: 32,15
+201	3520103	Igarapava	10.37	% da Receita própria em relação a Receita Total: 10,37
+202	3520202	Igaratá	28.70	% da Receita própria em relação a Receita Total: 28,70
+203	3520301	Iguape	24.88	% da Receita própria em relação a Receita Total: 24,88
+204	3520400	Ilhabela	63.45	% da Receita própria em relação a Receita Total: 63,45
+205	3520509	Indaiatuba	49.56	% da Receita própria em relação a Receita Total: 49,56
+206	3520608	Indiana	10.37	% da Receita própria em relação a Receita Total: 10,37
+207	3520707	Indiaporã	4.87	% da Receita própria em relação a Receita Total: 4,87
+208	3520806	Inúbia Paulista	7.49	% da Receita própria em relação a Receita Total: 7,49
+209	3520905	Ipaussu	15.69	% da Receita própria em relação a Receita Total: 15,69
+210	3521002	Iperó	18.45	% da Receita própria em relação a Receita Total: 18,45
+211	3521101	Ipeúna	24.69	% da Receita própria em relação a Receita Total: 24,69
+212	3521200	Iporanga	11.31	% da Receita própria em relação a Receita Total: 11,31
+213	3521309	Ipuã	19.14	% da Receita própria em relação a Receita Total: 19,14
+214	3521408	Iracemápolis	21.46	% da Receita própria em relação a Receita Total: 21,46
+215	3521507	Irapuã	7.48	% da Receita própria em relação a Receita Total: 7,48
+216	3521606	Irapuru	17.78	% da Receita própria em relação a Receita Total: 17,78
+217	3521705	Itaberá	13.39	% da Receita própria em relação a Receita Total: 13,39
+218	3521804	Itaí	24.02	% da Receita própria em relação a Receita Total: 24,02
+219	3521903	Itajobi	23.87	% da Receita própria em relação a Receita Total: 23,87
+220	3522000	Itaju	7.13	% da Receita própria em relação a Receita Total: 7,13
+221	3522109	Itanhaém	46.85	% da Receita própria em relação a Receita Total: 46,85
+222	3522208	Itapecerica da Serra	21.33	% da Receita própria em relação a Receita Total: 21,33
+223	3522307	Itapetininga	29.78	% da Receita própria em relação a Receita Total: 29,78
+224	3522406	Itapeva	14.65	% da Receita própria em relação a Receita Total: 14,65
+225	3522505	Itapevi	32.44	% da Receita própria em relação a Receita Total: 32,44
+226	3522604	Itapira	39.45	% da Receita própria em relação a Receita Total: 39,45
+227	3522703	Itápolis	16.44	% da Receita própria em relação a Receita Total: 16,44
+228	3522802	Itaporanga	8.55	% da Receita própria em relação a Receita Total: 8,55
+229	3522901	Itapuí	17.23	% da Receita própria em relação a Receita Total: 17,23
+230	3523008	Itapura	10.29	% da Receita própria em relação a Receita Total: 10,29
+231	3523107	Itaquaquecetuba	34.89	% da Receita própria em relação a Receita Total: 34,89
+232	3523206	Itararé	16.30	% da Receita própria em relação a Receita Total: 16,30
+233	3523305	Itariri	11.70	% da Receita própria em relação a Receita Total: 11,70
+234	3523404	Itatiba	25.68	% da Receita própria em relação a Receita Total: 25,68
+235	3523503	Itatinga	22.49	% da Receita própria em relação a Receita Total: 22,49
+236	3523602	Itirapina	32.49	% da Receita própria em relação a Receita Total: 32,49
+237	3523701	Itirapuã	17.47	% da Receita própria em relação a Receita Total: 17,47
+238	3523800	Itobi		% da Receita própria em relação a Receita Total: ...
+239	3523909	Itu	30.32	% da Receita própria em relação a Receita Total: 30,32
+240	3524006	Itupeva	35.19	% da Receita própria em relação a Receita Total: 35,19
+241	3524105	Ituverava	30.15	% da Receita própria em relação a Receita Total: 30,15
+242	3524204	Jaborandi	14.13	% da Receita própria em relação a Receita Total: 14,13
+243	3524303	Jaboticabal	36.95	% da Receita própria em relação a Receita Total: 36,95
+244	3524402	Jacareí	44.11	% da Receita própria em relação a Receita Total: 44,11
+245	3524501	Jaci	9.19	% da Receita própria em relação a Receita Total: 9,19
+246	3524600	Jacupiranga	14.71	% da Receita própria em relação a Receita Total: 14,71
+247	3524709	Jaguariúna	20.57	% da Receita própria em relação a Receita Total: 20,57
+248	3524808	Jales	35.81	% da Receita própria em relação a Receita Total: 35,81
+249	3524907	Jambeiro	15.26	% da Receita própria em relação a Receita Total: 15,26
+250	3525003	Jandira	38.38	% da Receita própria em relação a Receita Total: 38,38
+251	3525102	Jardinópolis		% da Receita própria em relação a Receita Total: ...
+252	3525201	Jarinu	37.07	% da Receita própria em relação a Receita Total: 37,07
+253	3525300	Jaú	45.25	% da Receita própria em relação a Receita Total: 45,25
+254	3525409	Jeriquara	7.26	% da Receita própria em relação a Receita Total: 7,26
+255	3525508	Joanópolis	12.85	% da Receita própria em relação a Receita Total: 12,85
+256	3525607	João Ramalho	12.72	% da Receita própria em relação a Receita Total: 12,72
+257	3525706	José Bonifácio	24.78	% da Receita própria em relação a Receita Total: 24,78
+258	3525805	Júlio Mesquita	22.14	% da Receita própria em relação a Receita Total: 22,14
+259	3525904	Jundiaí	47.30	% da Receita própria em relação a Receita Total: 47,30
+260	3526001	Junqueirópolis	22.68	% da Receita própria em relação a Receita Total: 22,68
+261	3526100	Juquiá	10.72	% da Receita própria em relação a Receita Total: 10,72
+262	3526209	Juquitiba	19.83	% da Receita própria em relação a Receita Total: 19,83
+263	3526308	Lagoinha	10.78	% da Receita própria em relação a Receita Total: 10,78
+264	3526407	Laranjal Paulista	18.77	% da Receita própria em relação a Receita Total: 18,77
+265	3526506	Lavínia	22.61	% da Receita própria em relação a Receita Total: 22,61
+266	3526605	Lavrinhas	15.05	% da Receita própria em relação a Receita Total: 15,05
+267	3526704	Leme	41.89	% da Receita própria em relação a Receita Total: 41,89
+268	3526803	Lençóis Paulista	31.36	% da Receita própria em relação a Receita Total: 31,36
+269	3526902	Limeira	38.77	% da Receita própria em relação a Receita Total: 38,77
+270	3527009	Lindóia	36.46	% da Receita própria em relação a Receita Total: 36,46
+271	3527108	Lins	27.48	% da Receita própria em relação a Receita Total: 27,48
+272	3527207	Lorena	23.18	% da Receita própria em relação a Receita Total: 23,18
+273	3527306	Louveira	29.67	% da Receita própria em relação a Receita Total: 29,67
+274	3527405	Lucélia	15.24	% da Receita própria em relação a Receita Total: 15,24
+275	3527504	Lucianópolis	8.93	% da Receita própria em relação a Receita Total: 8,93
+276	3527603	Luís Antônio	12.18	% da Receita própria em relação a Receita Total: 12,18
+277	3527702	Luiziânia	4.72	% da Receita própria em relação a Receita Total: 4,72
+278	3527801	Lupércio	5.69	% da Receita própria em relação a Receita Total: 5,69
+279	3527900	Lutécia	4.50	% da Receita própria em relação a Receita Total: 4,50
+280	3528007	Macatuba	18.82	% da Receita própria em relação a Receita Total: 18,82
+281	3528106	Macaubal	17.89	% da Receita própria em relação a Receita Total: 17,89
+282	3528205	Macedônia	7.74	% da Receita própria em relação a Receita Total: 7,74
+283	3528304	Magda		% da Receita própria em relação a Receita Total: ...
+284	3528403	Mairinque	16.92	% da Receita própria em relação a Receita Total: 16,92
+285	3528502	Mairiporã	41.74	% da Receita própria em relação a Receita Total: 41,74
+286	3528601	Manduri	16.42	% da Receita própria em relação a Receita Total: 16,42
+287	3528700	Marabá Paulista	6.34	% da Receita própria em relação a Receita Total: 6,34
+288	3528809	Maracaí	8.93	% da Receita própria em relação a Receita Total: 8,93
+289	3528908	Mariápolis	4.42	% da Receita própria em relação a Receita Total: 4,42
+290	3529005	Marília	49.79	% da Receita própria em relação a Receita Total: 49,79
+291	3529104	Marinópolis	10.23	% da Receita própria em relação a Receita Total: 10,23
+292	3529203	Martinópolis	17.71	% da Receita própria em relação a Receita Total: 17,71
+293	3529302	Matão	35.46	% da Receita própria em relação a Receita Total: 35,46
+294	3529401	Mauá	0.22	% da Receita própria em relação a Receita Total: 0,22
+295	3529500	Mendonça	13.83	% da Receita própria em relação a Receita Total: 13,83
+296	3529609	Meridiano	8.70	% da Receita própria em relação a Receita Total: 8,70
+297	3529708	Miguelópolis	13.85	% da Receita própria em relação a Receita Total: 13,85
+298	3529807	Mineiros do Tietê	10.46	% da Receita própria em relação a Receita Total: 10,46
+299	3529906	Miracatu	13.71	% da Receita própria em relação a Receita Total: 13,71
+300	3530003	Mira Estrela	8.80	% da Receita própria em relação a Receita Total: 8,80
+301	3530102	Mirandópolis	28.19	% da Receita própria em relação a Receita Total: 28,19
+302	3530201	Mirante do Paranapanema	12.10	% da Receita própria em relação a Receita Total: 12,10
+303	3530300	Mirassol	29.47	% da Receita própria em relação a Receita Total: 29,47
+304	3530409	Mirassolândia	5.92	% da Receita própria em relação a Receita Total: 5,92
+305	3530508	Mococa	24.10	% da Receita própria em relação a Receita Total: 24,10
+306	3530607	Mogi das Cruzes	47.59	% da Receita própria em relação a Receita Total: 47,59
+307	3530706	Mogi Guaçu	31.04	% da Receita própria em relação a Receita Total: 31,04
+308	3530805	Moji Mirim	37.16	% da Receita própria em relação a Receita Total: 37,16
+309	3530904	Mombuca	12.72	% da Receita própria em relação a Receita Total: 12,72
+310	3531001	Monções	21.32	% da Receita própria em relação a Receita Total: 21,32
+311	3531100	Mongaguá	53.28	% da Receita própria em relação a Receita Total: 53,28
+312	3531209	Monte Alegre do Sul	23.64	% da Receita própria em relação a Receita Total: 23,64
+313	3531308	Monte Alto	29.39	% da Receita própria em relação a Receita Total: 29,39
+314	3531407	Monte Aprazível	13.53	% da Receita própria em relação a Receita Total: 13,53
+315	3531506	Monte Azul Paulista	20.84	% da Receita própria em relação a Receita Total: 20,84
+316	3531605	Monte Castelo	13.03	% da Receita própria em relação a Receita Total: 13,03
+317	3531704	Monteiro Lobato	14.05	% da Receita própria em relação a Receita Total: 14,05
+318	3531803	Monte Mor	16.42	% da Receita própria em relação a Receita Total: 16,42
+319	3531902	Morro Agudo	20.41	% da Receita própria em relação a Receita Total: 20,41
+320	3532009	Morungaba	23.75	% da Receita própria em relação a Receita Total: 23,75
+321	3532108	Murutinga do Sul	7.76	% da Receita própria em relação a Receita Total: 7,76
+322	3532207	Narandiba	12.81	% da Receita própria em relação a Receita Total: 12,81
+323	3532306	Natividade da Serra	5.47	% da Receita própria em relação a Receita Total: 5,47
+324	3532405	Nazaré Paulista		% da Receita própria em relação a Receita Total: ...
+325	3532504	Neves Paulista	19.94	% da Receita própria em relação a Receita Total: 19,94
+326	3532603	Nhandeara	17.15	% da Receita própria em relação a Receita Total: 17,15
+327	3532702	Nipoã	3.46	% da Receita própria em relação a Receita Total: 3,46
+328	3532801	Nova Aliança	12.46	% da Receita própria em relação a Receita Total: 12,46
+329	3532900	Nova Europa	14.51	% da Receita própria em relação a Receita Total: 14,51
+330	3533007	Nova Granada	13.45	% da Receita própria em relação a Receita Total: 13,45
+331	3533106	Nova Guataporanga	4.40	% da Receita própria em relação a Receita Total: 4,40
+332	3533205	Nova Independência	11.43	% da Receita própria em relação a Receita Total: 11,43
+333	3533304	Nova Luzitânia	11.84	% da Receita própria em relação a Receita Total: 11,84
+334	3533403	Nova Odessa	27.83	% da Receita própria em relação a Receita Total: 27,83
+335	3533502	Novo Horizonte	17.55	% da Receita própria em relação a Receita Total: 17,55
+336	3533601	Nuporanga	12.78	% da Receita própria em relação a Receita Total: 12,78
+337	3533700	Ocauçu	8.70	% da Receita própria em relação a Receita Total: 8,70
+338	3533809	Óleo	5.80	% da Receita própria em relação a Receita Total: 5,80
+339	3533908	Olímpia	32.76	% da Receita própria em relação a Receita Total: 32,76
+340	3534005	Onda Verde	13.27	% da Receita própria em relação a Receita Total: 13,27
+341	3534104	Oriente	15.10	% da Receita própria em relação a Receita Total: 15,10
+342	3534203	Orindiúva	11.42	% da Receita própria em relação a Receita Total: 11,42
+343	3534302	Orlândia	33.45	% da Receita própria em relação a Receita Total: 33,45
+344	3534401	Osasco	46.21	% da Receita própria em relação a Receita Total: 46,21
+345	3534500	Oscar Bressane	6.82	% da Receita própria em relação a Receita Total: 6,82
+346	3534609	Osvaldo Cruz	25.09	% da Receita própria em relação a Receita Total: 25,09
+347	3534708	Ourinhos	39.30	% da Receita própria em relação a Receita Total: 39,30
+348	3534807	Ouro Verde	10.15	% da Receita própria em relação a Receita Total: 10,15
+349	3534906	Pacaembu	22.20	% da Receita própria em relação a Receita Total: 22,20
+350	3535002	Palestina	14.51	% da Receita própria em relação a Receita Total: 14,51
+351	3535101	Palmares Paulista	8.40	% da Receita própria em relação a Receita Total: 8,40
+352	3535200	Palmeira d'Oeste	16.99	% da Receita própria em relação a Receita Total: 16,99
+353	3535309	Palmital	24.24	% da Receita própria em relação a Receita Total: 24,24
+354	3535408	Panorama	16.21	% da Receita própria em relação a Receita Total: 16,21
+355	3535507	Paraguaçu Paulista	21.28	% da Receita própria em relação a Receita Total: 21,28
+356	3535606	Paraibuna	26.22	% da Receita própria em relação a Receita Total: 26,22
+357	3535705	Paraíso	11.18	% da Receita própria em relação a Receita Total: 11,18
+358	3535804	Paranapanema		% da Receita própria em relação a Receita Total: ...
+359	3535903	Paranapuã	8.14	% da Receita própria em relação a Receita Total: 8,14
+360	3536000	Parapuã	17.66	% da Receita própria em relação a Receita Total: 17,66
+361	3536109	Pardinho	25.81	% da Receita própria em relação a Receita Total: 25,81
+362	3536208	Pariquera-Açu	8.84	% da Receita própria em relação a Receita Total: 8,84
+363	3536307	Patrocínio Paulista	19.87	% da Receita própria em relação a Receita Total: 19,87
+364	3536406	Paulicéia	14.34	% da Receita própria em relação a Receita Total: 14,34
+365	3536505	Paulínia	20.30	% da Receita própria em relação a Receita Total: 20,30
+366	3536604	Paulo de Faria		% da Receita própria em relação a Receita Total: ...
+367	3536703	Pederneiras	18.28	% da Receita própria em relação a Receita Total: 18,28
+368	3536802	Pedra Bela	4.84	% da Receita própria em relação a Receita Total: 4,84
+369	3536901	Pedranópolis	7.15	% da Receita própria em relação a Receita Total: 7,15
+370	3537008	Pedregulho	11.79	% da Receita própria em relação a Receita Total: 11,79
+371	3537107	Pedreira	38.53	% da Receita própria em relação a Receita Total: 38,53
+372	3537206	Pedro de Toledo	9.54	% da Receita própria em relação a Receita Total: 9,54
+373	3537305	Penápolis	23.40	% da Receita própria em relação a Receita Total: 23,40
+374	3537404	Pereira Barreto	24.51	% da Receita própria em relação a Receita Total: 24,51
+375	3537503	Pereiras	17.23	% da Receita própria em relação a Receita Total: 17,23
+376	3537602	Peruíbe	53.34	% da Receita própria em relação a Receita Total: 53,34
+377	3537701	Piacatu	8.60	% da Receita própria em relação a Receita Total: 8,60
+378	3537800	Piedade	20.58	% da Receita própria em relação a Receita Total: 20,58
+379	3537909	Pilar do Sul	14.58	% da Receita própria em relação a Receita Total: 14,58
+380	3538006	Pindamonhangaba	23.02	% da Receita própria em relação a Receita Total: 23,02
+381	3538105	Pindorama	21.27	% da Receita própria em relação a Receita Total: 21,27
+382	3515186	Espírito Santo do Pinhal	25.12	% da Receita própria em relação a Receita Total: 25,12
+383	3538204	Pinhalzinho	12.42	% da Receita própria em relação a Receita Total: 12,42
+384	3538303	Piquerobi	6.64	% da Receita própria em relação a Receita Total: 6,64
+385	3538501	Piquete	9.93	% da Receita própria em relação a Receita Total: 9,93
+386	3538600	Piracaia	28.60	% da Receita própria em relação a Receita Total: 28,60
+387	3538709	Piracicaba	47.59	% da Receita própria em relação a Receita Total: 47,59
+388	3538808	Piraju	21.17	% da Receita própria em relação a Receita Total: 21,17
+389	3538907	Pirajuí	17.14	% da Receita própria em relação a Receita Total: 17,14
+390	3539004	Pirangi	17.14	% da Receita própria em relação a Receita Total: 17,14
+391	3539103	Pirapora do Bom Jesus		% da Receita própria em relação a Receita Total: ...
+392	3539202	Pirapozinho	14.30	% da Receita própria em relação a Receita Total: 14,30
+393	3539301	Pirassununga	25.40	% da Receita própria em relação a Receita Total: 25,40
+394	3539400	Piratininga	31.75	% da Receita própria em relação a Receita Total: 31,75
+395	3539509	Pitangueiras	17.25	% da Receita própria em relação a Receita Total: 17,25
+396	3539608	Planalto	20.98	% da Receita própria em relação a Receita Total: 20,98
+397	3539707	Platina	8.11	% da Receita própria em relação a Receita Total: 8,11
+398	3539806	Poá	41.57	% da Receita própria em relação a Receita Total: 41,57
+399	3539905	Poloni	11.94	% da Receita própria em relação a Receita Total: 11,94
+400	3540002	Pompéia	17.18	% da Receita própria em relação a Receita Total: 17,18
+401	3540101	Pongaí	7.32	% da Receita própria em relação a Receita Total: 7,32
+402	3540200	Pontal	11.94	% da Receita própria em relação a Receita Total: 11,94
+403	3540309	Pontes Gestal	15.75	% da Receita própria em relação a Receita Total: 15,75
+404	3540408	Populina	9.71	% da Receita própria em relação a Receita Total: 9,71
+405	3540507	Porangaba	22.57	% da Receita própria em relação a Receita Total: 22,57
+406	3540606	Porto Feliz	34.05	% da Receita própria em relação a Receita Total: 34,05
+407	3540705	Porto Ferreira	24.95	% da Receita própria em relação a Receita Total: 24,95
+408	3540804	Potirendaba	26.98	% da Receita própria em relação a Receita Total: 26,98
+409	3540903	Pradópolis	11.38	% da Receita própria em relação a Receita Total: 11,38
+410	3541000	Praia Grande	58.62	% da Receita própria em relação a Receita Total: 58,62
+411	3541109	Presidente Alves	5.35	% da Receita própria em relação a Receita Total: 5,35
+412	3541208	Presidente Bernardes	9.79	% da Receita própria em relação a Receita Total: 9,79
+413	3541307	Presidente Epitácio	19.32	% da Receita própria em relação a Receita Total: 19,32
+414	3541406	Presidente Prudente	43.11	% da Receita própria em relação a Receita Total: 43,11
+415	3541505	Presidente Venceslau	25.28	% da Receita própria em relação a Receita Total: 25,28
+416	3541604	Promissão	25.94	% da Receita própria em relação a Receita Total: 25,94
+417	3541703	Quatá	17.48	% da Receita própria em relação a Receita Total: 17,48
+418	3541802	Queiroz	4.41	% da Receita própria em relação a Receita Total: 4,41
+419	3541901	Queluz	19.49	% da Receita própria em relação a Receita Total: 19,49
+420	3542008	Quintana	7.74	% da Receita própria em relação a Receita Total: 7,74
+421	3542107	Rafard	27.25	% da Receita própria em relação a Receita Total: 27,25
+422	3542206	Rancharia	20.06	% da Receita própria em relação a Receita Total: 20,06
+423	3542305	Redenção da Serra	8.85	% da Receita própria em relação a Receita Total: 8,85
+424	3542404	Regente Feijó	16.93	% da Receita própria em relação a Receita Total: 16,93
+425	3542503	Reginópolis	11.00	% da Receita própria em relação a Receita Total: 11,00
+426	3542602	Registro	28.30	% da Receita própria em relação a Receita Total: 28,30
+427	3542701	Restinga	11.48	% da Receita própria em relação a Receita Total: 11,48
+428	3542800	Ribeira	4.81	% da Receita própria em relação a Receita Total: 4,81
+429	3542909	Ribeirão Bonito	19.65	% da Receita própria em relação a Receita Total: 19,65
+430	3543006	Ribeirão Branco	4.00	% da Receita própria em relação a Receita Total: 4,00
+431	3543105	Ribeirão Corrente	5.94	% da Receita própria em relação a Receita Total: 5,94
+432	3543204	Ribeirão do Sul	4.35	% da Receita própria em relação a Receita Total: 4,35
+433	3543303	Ribeirão Pires	31.53	% da Receita própria em relação a Receita Total: 31,53
+434	3543402	Ribeirão Preto	49.48	% da Receita própria em relação a Receita Total: 49,48
+435	3543501	Riversul	4.14	% da Receita própria em relação a Receita Total: 4,14
+436	3543600	Rifaina	5.63	% da Receita própria em relação a Receita Total: 5,63
+437	3543709	Rincão	16.22	% da Receita própria em relação a Receita Total: 16,22
+438	3543808	Rinópolis	19.68	% da Receita própria em relação a Receita Total: 19,68
+439	3543907	Rio Claro	37.72	% da Receita própria em relação a Receita Total: 37,72
+440	3544004	Rio das Pedras	24.56	% da Receita própria em relação a Receita Total: 24,56
+441	3544103	Rio Grande da Serra	22.29	% da Receita própria em relação a Receita Total: 22,29
+442	3544202	Riolândia	6.45	% da Receita própria em relação a Receita Total: 6,45
+443	3544301	Roseira	14.47	% da Receita própria em relação a Receita Total: 14,47
+444	3544400	Rubiácea	4.18	% da Receita própria em relação a Receita Total: 4,18
+445	3544509	Rubinéia	11.27	% da Receita própria em relação a Receita Total: 11,27
+446	3544608	Sabino	13.43	% da Receita própria em relação a Receita Total: 13,43
+447	3544707	Sagres	2.36	% da Receita própria em relação a Receita Total: 2,36
+448	3544806	Sales	19.88	% da Receita própria em relação a Receita Total: 19,88
+449	3544905	Sales Oliveira	22.22	% da Receita própria em relação a Receita Total: 22,22
+450	3545001	Salesópolis	16.56	% da Receita própria em relação a Receita Total: 16,56
+451	3545100	Salmourão	3.92	% da Receita própria em relação a Receita Total: 3,92
+452	3545209	Salto	35.13	% da Receita própria em relação a Receita Total: 35,13
+453	3545308	Salto de Pirapora	26.40	% da Receita própria em relação a Receita Total: 26,40
+454	3545407	Salto Grande	25.86	% da Receita própria em relação a Receita Total: 25,86
+455	3545506	Sandovalina	8.27	% da Receita própria em relação a Receita Total: 8,27
+456	3545605	Santa Adélia	15.81	% da Receita própria em relação a Receita Total: 15,81
+457	3545704	Santa Albertina	24.51	% da Receita própria em relação a Receita Total: 24,51
+458	3545803	Santa Bárbara d'Oeste	38.92	% da Receita própria em relação a Receita Total: 38,92
+459	3500550	Águas de Santa Bárbara	31.20	% da Receita própria em relação a Receita Total: 31,20
+460	3546009	Santa Branca	20.44	% da Receita própria em relação a Receita Total: 20,44
+461	3546108	Santa Clara d'Oeste	17.65	% da Receita própria em relação a Receita Total: 17,65
+462	3546207	Santa Cruz da Conceição	25.28	% da Receita própria em relação a Receita Total: 25,28
+463	3546306	Santa Cruz das Palmeiras	23.95	% da Receita própria em relação a Receita Total: 23,95
+464	3546405	Santa Cruz do Rio Pardo	21.28	% da Receita própria em relação a Receita Total: 21,28
+465	3546504	Santa Ernestina	10.79	% da Receita própria em relação a Receita Total: 10,79
+466	3546603	Santa Fé do Sul	58.18	% da Receita própria em relação a Receita Total: 58,18
+467	3546702	Santa Gertrudes	20.79	% da Receita própria em relação a Receita Total: 20,79
+468	3546801	Santa Isabel	33.47	% da Receita própria em relação a Receita Total: 33,47
+469	3546900	Santa Lucia	12.01	% da Receita própria em relação a Receita Total: 12,01
+470	3547007	Santa Maria da Serra	23.38	% da Receita própria em relação a Receita Total: 23,38
+471	3547106	Santa Mercedes	5.69	% da Receita própria em relação a Receita Total: 5,69
+472	3547403	Santa Rita d'Oeste	11.22	% da Receita própria em relação a Receita Total: 11,22
+473	3547502	Santa Rita do Passa Quatro	36.69	% da Receita própria em relação a Receita Total: 36,69
+474	3547601	Santa Rosa do Viterbo	17.89	% da Receita própria em relação a Receita Total: 17,89
+475	3547205	Santana da Ponte Pensa	13.17	% da Receita própria em relação a Receita Total: 13,17
+476	3547304	Santana de Parnaíba	58.73	% da Receita própria em relação a Receita Total: 58,73
+477	3547700	Santo Anastácio	17.38	% da Receita própria em relação a Receita Total: 17,38
+478	3547809	Santo André	55.97	% da Receita própria em relação a Receita Total: 55,97
+479	3547908	Santo Antonio da Alegria	15.92	% da Receita própria em relação a Receita Total: 15,92
+480	3548104	Santo Antonio do Jardim	11.21	% da Receita própria em relação a Receita Total: 11,21
+481	3548203	Santo Antonio do Pinhal	12.78	% da Receita própria em relação a Receita Total: 12,78
+482	3548005	Santo Antonio de Posse	37.07	% da Receita própria em relação a Receita Total: 37,07
+483	3548302	Santo Expedito	3.61	% da Receita própria em relação a Receita Total: 3,61
+484	3548401	Santópolis do Aguapeí	6.60	% da Receita própria em relação a Receita Total: 6,60
+485	3548500	Santos	58.10	% da Receita própria em relação a Receita Total: 58,10
+486	3548609	São Bento do Sapucaí		% da Receita própria em relação a Receita Total: ...
+487	3548708	São Bernardo do Campo	52.55	% da Receita própria em relação a Receita Total: 52,55
+488	3548807	São Caetano do Sul	58.85	% da Receita própria em relação a Receita Total: 58,85
+489	3548906	São Carlos	42.07	% da Receita própria em relação a Receita Total: 42,07
+490	3549003	São Francisco	9.90	% da Receita própria em relação a Receita Total: 9,90
+491	3549102	São João da Boa Vista	37.23	% da Receita própria em relação a Receita Total: 37,23
+492	3549201	São João das Duas Pontes	6.53	% da Receita própria em relação a Receita Total: 6,53
+493	3549300	São João do Pau d'Alho	5.25	% da Receita própria em relação a Receita Total: 5,25
+494	3549409	São Joaquim da Barra	30.66	% da Receita própria em relação a Receita Total: 30,66
+495	3549607	São José do Barreiro	12.24	% da Receita própria em relação a Receita Total: 12,24
+496	3549508	São José da Bela Vista	4.52	% da Receita própria em relação a Receita Total: 4,52
+497	3549706	São José do Rio Pardo	34.15	% da Receita própria em relação a Receita Total: 34,15
+498	3549805	São José do Rio Preto	46.15	% da Receita própria em relação a Receita Total: 46,15
+499	3549904	São José dos Campos	38.50	% da Receita própria em relação a Receita Total: 38,50
+500	3550001	São Luís do Paraitinga	16.86	% da Receita própria em relação a Receita Total: 16,86
+501	3550100	São Manuel	24.54	% da Receita própria em relação a Receita Total: 24,54
+502	3550209	São Miguel Arcanjo	15.45	% da Receita própria em relação a Receita Total: 15,45
+503	3550308	São Paulo	60.38	% da Receita própria em relação a Receita Total: 60,38
+504	3550407	São Pedro	35.10	% da Receita própria em relação a Receita Total: 35,10
+505	3550506	São Pedro do Turvo	9.06	% da Receita própria em relação a Receita Total: 9,06
+506	3550605	São Roque	38.06	% da Receita própria em relação a Receita Total: 38,06
+507	3550704	São Sebastião	44.81	% da Receita própria em relação a Receita Total: 44,81
+508	3550803	São Sebastião da Grama	22.73	% da Receita própria em relação a Receita Total: 22,73
+509	3550902	São Simão	28.90	% da Receita própria em relação a Receita Total: 28,90
+510	3551009	São Vicente	44.22	% da Receita própria em relação a Receita Total: 44,22
+511	3551108	Sarapuí	13.35	% da Receita própria em relação a Receita Total: 13,35
+512	3551207	Sarutaiá	6.23	% da Receita própria em relação a Receita Total: 6,23
+513	3551306	Sebastianópolis do Sul	11.47	% da Receita própria em relação a Receita Total: 11,47
+514	3551405	Serra Azul		% da Receita própria em relação a Receita Total: ...
+515	3551603	Serra Negra	50.89	% da Receita própria em relação a Receita Total: 50,89
+516	3551504	Serrana	25.67	% da Receita própria em relação a Receita Total: 25,67
+517	3551702	Sertãozinho	32.71	% da Receita própria em relação a Receita Total: 32,71
+518	3551801	Sete Barras	8.81	% da Receita própria em relação a Receita Total: 8,81
+519	3551900	Severínia	13.54	% da Receita própria em relação a Receita Total: 13,54
+520	3552007	Silveiras	15.11	% da Receita própria em relação a Receita Total: 15,11
+521	3552106	Socorro	32.44	% da Receita própria em relação a Receita Total: 32,44
+522	3552205	Sorocaba	36.80	% da Receita própria em relação a Receita Total: 36,80
+523	3552304	Sud Mennucci	6.43	% da Receita própria em relação a Receita Total: 6,43
+524	3552403	Sumaré	33.31	% da Receita própria em relação a Receita Total: 33,31
+525	3552502	Suzano	28.04	% da Receita própria em relação a Receita Total: 28,04
+526	3552601	Tabapuã	19.24	% da Receita própria em relação a Receita Total: 19,24
+527	3552700	Tabatinga	16.76	% da Receita própria em relação a Receita Total: 16,76
+528	3552809	Taboão da Serra	37.72	% da Receita própria em relação a Receita Total: 37,72
+529	3552908	Taciba	6.56	% da Receita própria em relação a Receita Total: 6,56
+530	3553005	Taguaí	11.34	% da Receita própria em relação a Receita Total: 11,34
+531	3553104	Taiaçu	20.17	% da Receita própria em relação a Receita Total: 20,17
+532	3553203	Taiúva	18.77	% da Receita própria em relação a Receita Total: 18,77
+533	3553302	Tambaú	35.03	% da Receita própria em relação a Receita Total: 35,03
+534	3553401	Tanabi	26.03	% da Receita própria em relação a Receita Total: 26,03
+535	3553500	Tapiraí	7.53	% da Receita própria em relação a Receita Total: 7,53
+536	3553609	Tapiratiba	15.33	% da Receita própria em relação a Receita Total: 15,33
+537	3553708	Taquaritinga	37.15	% da Receita própria em relação a Receita Total: 37,15
+538	3553807	Taquarituba	21.10	% da Receita própria em relação a Receita Total: 21,10
+539	3553906	Tarabaí	9.39	% da Receita própria em relação a Receita Total: 9,39
+540	3554003	Tatuí	25.16	% da Receita própria em relação a Receita Total: 25,16
+541	3554102	Taubaté	36.56	% da Receita própria em relação a Receita Total: 36,56
+542	3554201	Tejupá	4.49	% da Receita própria em relação a Receita Total: 4,49
+543	3554300	Teodoro Sampaio	14.54	% da Receita própria em relação a Receita Total: 14,54
+544	3554409	Terra Roxa	7.78	% da Receita própria em relação a Receita Total: 7,78
+545	3554508	Tietê	34.34	% da Receita própria em relação a Receita Total: 34,34
+546	3554607	Timburi	5.44	% da Receita própria em relação a Receita Total: 5,44
+547	3554706	Torrinha	16.06	% da Receita própria em relação a Receita Total: 16,06
+548	3554805	Tremembé	33.85	% da Receita própria em relação a Receita Total: 33,85
+549	3554904	Três Fronteiras	11.79	% da Receita própria em relação a Receita Total: 11,79
+550	3555000	Tupã	34.18	% da Receita própria em relação a Receita Total: 34,18
+551	3555109	Tupi Paulista	24.82	% da Receita própria em relação a Receita Total: 24,82
+552	3555208	Turiúba	9.60	% da Receita própria em relação a Receita Total: 9,60
+553	3555307	Turmalina	11.70	% da Receita própria em relação a Receita Total: 11,70
+554	3555406	Ubatuba	57.68	% da Receita própria em relação a Receita Total: 57,68
+555	3555505	Ubirajara	7.09	% da Receita própria em relação a Receita Total: 7,09
+556	3555604	Uchôa	19.73	% da Receita própria em relação a Receita Total: 19,73
+557	3555703	União Paulista	8.09	% da Receita própria em relação a Receita Total: 8,09
+558	3555802	Urânia	12.77	% da Receita própria em relação a Receita Total: 12,77
+559	3555901	Uru	5.91	% da Receita própria em relação a Receita Total: 5,91
+560	3556008	Urupês	21.13	% da Receita própria em relação a Receita Total: 21,13
+561	3556107	Valentim Gentil	19.43	% da Receita própria em relação a Receita Total: 19,43
+562	3556206	Valinhos	46.50	% da Receita própria em relação a Receita Total: 46,50
+563	3556305	Valparaíso	11.69	% da Receita própria em relação a Receita Total: 11,69
+564	3556404	Vargem Grande do Sul	36.87	% da Receita própria em relação a Receita Total: 36,87
+565	3556503	Várzea Paulista	25.08	% da Receita própria em relação a Receita Total: 25,08
+566	3556602	Vera Cruz	19.89	% da Receita própria em relação a Receita Total: 19,89
+567	3556701	Vinhedo		% da Receita própria em relação a Receita Total: ...
+568	3556800	Viradouro	22.56	% da Receita própria em relação a Receita Total: 22,56
+569	3556909	Vista Alegre do Alto	18.83	% da Receita própria em relação a Receita Total: 18,83
+570	3557006	Votorantim	36.16	% da Receita própria em relação a Receita Total: 36,16
+571	3557105	Votuporanga	37.00	% da Receita própria em relação a Receita Total: 37,00
+572	3556453	Vargem Grande Paulista		% da Receita própria em relação a Receita Total: ...
+573	3500758	Alambari	12.62	% da Receita própria em relação a Receita Total: 12,62
+574	3501152	Alumínio	17.99	% da Receita própria em relação a Receita Total: 17,99
+575	3502754	Araçariguama	25.37	% da Receita própria em relação a Receita Total: 25,37
+576	3503158	Arapeí		% da Receita própria em relação a Receita Total: ...
+577	3503950	Aspásia	7.85	% da Receita própria em relação a Receita Total: 7,85
+578	3505351	Barra do Chapéu	4.37	% da Receita própria em relação a Receita Total: 4,37
+579	3506359	Bertioga	76.53	% da Receita própria em relação a Receita Total: 76,53
+580	3507159	Bom Sucesso de Itararé	4.48	% da Receita própria em relação a Receita Total: 4,48
+581	3507456	Borebi	7.67	% da Receita própria em relação a Receita Total: 7,67
+582	3509254	Cajati	12.13	% da Receita própria em relação a Receita Total: 12,13
+583	3509452	Campina do Monte Alegre	16.75	% da Receita própria em relação a Receita Total: 16,75
+584	3510153	Canitar	7.91	% da Receita própria em relação a Receita Total: 7,91
+585	3513850	Dirce Reis	9.66	% da Receita própria em relação a Receita Total: 9,66
+586	3514924	Elisiário	8.93	% da Receita própria em relação a Receita Total: 8,93
+587	3514957	Embaúba		% da Receita própria em relação a Receita Total: ...
+588	3515129	Emilianópolis	5.37	% da Receita própria em relação a Receita Total: 5,37
+589	3515152	Engenheiro Coelho	21.01	% da Receita própria em relação a Receita Total: 21,01
+590	3515194	Espírito Santo do Turvo	6.44	% da Receita própria em relação a Receita Total: 6,44
+591	3557303	Estiva Gerbi	18.47	% da Receita própria em relação a Receita Total: 18,47
+592	3515350	Euclides da Cunha Paulista	4.42	% da Receita própria em relação a Receita Total: 4,42
+593	3518859	Guatapará	13.59	% da Receita própria em relação a Receita Total: 13,59
+594	3519055	Holambra	38.35	% da Receita própria em relação a Receita Total: 38,35
+595	3519071	Hortolândia	39.69	% da Receita própria em relação a Receita Total: 39,69
+596	3519253	Iaras	17.15	% da Receita própria em relação a Receita Total: 17,15
+597	3520426	Ilha Comprida	60.22	% da Receita própria em relação a Receita Total: 60,22
+598	3520442	Ilha Solteira	22.35	% da Receita própria em relação a Receita Total: 22,35
+599	3522158	Itaóca	5.85	% da Receita própria em relação a Receita Total: 5,85
+600	3522653	Itapirapuã Paulista	4.96	% da Receita própria em relação a Receita Total: 4,96
+601	3527256	Lourdes	3.71	% da Receita própria em relação a Receita Total: 3,71
+602	3528858	Marapoama	6.19	% da Receita própria em relação a Receita Total: 6,19
+603	3529658	Mesópolis	15.64	% da Receita própria em relação a Receita Total: 15,64
+604	3532058	Motuca	10.03	% da Receita própria em relação a Receita Total: 10,03
+605	3532827	Nova Campina	8.81	% da Receita própria em relação a Receita Total: 8,81
+606	3532843	Nova Canaã Paulista	10.76	% da Receita própria em relação a Receita Total: 10,76
+607	3533254	Novais	5.72	% da Receita própria em relação a Receita Total: 5,72
+608	3536257	Parisi	15.01	% da Receita própria em relação a Receita Total: 15,01
+609	3537156	Pedrinhas Paulista	9.92	% da Receita própria em relação a Receita Total: 9,92
+610	3540259	Pontalinda	11.42	% da Receita própria em relação a Receita Total: 11,42
+611	3540754	Potim	10.31	% da Receita própria em relação a Receita Total: 10,31
+612	3543253	Ribeirão Grande	15.30	% da Receita própria em relação a Receita Total: 15,30
+613	3544251	Rosana	9.96	% da Receita própria em relação a Receita Total: 9,96
+614	3545159	Saltinho	25.88	% da Receita própria em relação a Receita Total: 25,88
+615	3549250	São João de Iracema	15.36	% da Receita própria em relação a Receita Total: 15,36
+616	3549953	São Lourenço da Serra	32.54	% da Receita própria em relação a Receita Total: 32,54
+617	3548054	Santo Antonio do Aracanguá	7.40	% da Receita própria em relação a Receita Total: 7,40
+618	3552551	Suzanápolis	16.92	% da Receita própria em relação a Receita Total: 16,92
+619	3553856	Taquarivaí	6.64	% da Receita própria em relação a Receita Total: 6,64
+620	3553955	Tarumã	22.32	% da Receita própria em relação a Receita Total: 22,32
+621	3554656	Torre de Pedra	4.52	% da Receita própria em relação a Receita Total: 4,52
+622	3554953	Tuiuti	7.56	% da Receita própria em relação a Receita Total: 7,56
+623	3555356	Ubarana	13.28	% da Receita própria em relação a Receita Total: 13,28
+624	3556354	Vargem	8.19	% da Receita própria em relação a Receita Total: 8,19
+625	3557154	Zacarias	12.27	% da Receita própria em relação a Receita Total: 12,27
+626	3503356	Arco Íris	3.84	% da Receita própria em relação a Receita Total: 3,84
+627	3507753	Brejo Alegre	10.94	% da Receita própria em relação a Receita Total: 10,94
+628	3509957	Canas	15.12	% da Receita própria em relação a Receita Total: 15,12
+629	3540853	Pracinha	3.96	% da Receita própria em relação a Receita Total: 3,96
+630	3541059	Pratânia	8.34	% da Receita própria em relação a Receita Total: 8,34
+631	3541653	Quadra	17.50	% da Receita própria em relação a Receita Total: 17,50
+632	3546256	Santa Cruz da Esperança	4.78	% da Receita própria em relação a Receita Total: 4,78
+633	3547650	Santa Salete	10.23	% da Receita própria em relação a Receita Total: 10,23
+634	3556958	Vitória Brasil	3.60	% da Receita própria em relação a Receita Total: 3,60
+635	3521150	Ipiguá	12.53	% da Receita própria em relação a Receita Total: 12,53
+636	3553658	Taquaral	15.93	% da Receita própria em relação a Receita Total: 15,93
+637	3515657	Fernão	8.20	% da Receita própria em relação a Receita Total: 8,20
+638	3516853	Gavião Peixoto	20.22	% da Receita própria em relação a Receita Total: 20,22
+639	3525854	Jumirim	16.16	% da Receita própria em relação a Receita Total: 16,16
+640	3532157	Nantes	5.45	% da Receita própria em relação a Receita Total: 5,45
+641	3532868	Nova Castilho	9.81	% da Receita própria em relação a Receita Total: 9,81
+642	3534757	Ouroeste	9.96	% da Receita própria em relação a Receita Total: 9,96
+643	3536570	Paulistânia		% da Receita própria em relação a Receita Total: ...
+644	3543238	Ribeirão dos Índios	13.03	% da Receita própria em relação a Receita Total: 13,03

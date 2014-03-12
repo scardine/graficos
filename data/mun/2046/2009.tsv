@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+11	3501103	Alto Alegre	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+12	3501202	Álvares Florence	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+1	3500105	Adamantina	8.54	% Matriculas em creche na rede privada  exceto conveniadas: 8,54
+2	3500204	Adolfo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+3	3500303	Aguaí	47.73	% Matriculas em creche na rede privada  exceto conveniadas: 47,73
+4	3500402	Águas da Prata	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+5	3500501	Águas de Lindóia	5.04	% Matriculas em creche na rede privada  exceto conveniadas: 5,04
+6	3500600	Águas de São Pedro	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+7	3500709	Agudos	4.33	% Matriculas em creche na rede privada  exceto conveniadas: 4,33
+8	3500808	Alfredo Marcondes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+9	3500907	Altair	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+10	3501004	Altinópolis	7.77	% Matriculas em creche na rede privada  exceto conveniadas: 7,77
+18	3501806	Américo de Campos	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+19	3501905	Amparo	14.36	% Matriculas em creche na rede privada  exceto conveniadas: 14,36
+20	3502002	Analândia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+21	3502101	Andradina	28.10	% Matriculas em creche na rede privada  exceto conveniadas: 28,10
+22	3502200	Angatuba	5.63	% Matriculas em creche na rede privada  exceto conveniadas: 5,63
+23	3502309	Anhembi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+24	3502408	Anhumas	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+25	3502507	Aparecida	12.06	% Matriculas em creche na rede privada  exceto conveniadas: 12,06
+26	3502606	Aparecida d'Oeste	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+27	3502705	Apiaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+28	3502804	Araçatuba	14.42	% Matriculas em creche na rede privada  exceto conveniadas: 14,42
+29	3502903	Araçoiaba da Serra	7.09	% Matriculas em creche na rede privada  exceto conveniadas: 7,09
+30	3503000	Aramina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+31	3503109	Arandu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+32	3503208	Araraquara	10.20	% Matriculas em creche na rede privada  exceto conveniadas: 10,20
+33	3503307	Araras	14.78	% Matriculas em creche na rede privada  exceto conveniadas: 14,78
+34	3503406	Arealva	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+35	3503505	Areias	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+36	3503604	Areiópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+37	3503703	Ariranha	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+38	3503802	Artur Nogueira	0.85	% Matriculas em creche na rede privada  exceto conveniadas: 0,85
+39	3503901	Arujá	18.63	% Matriculas em creche na rede privada  exceto conveniadas: 18,63
+40	3504008	Assis	9.07	% Matriculas em creche na rede privada  exceto conveniadas: 9,07
+41	3504107	Atibaia	13.88	% Matriculas em creche na rede privada  exceto conveniadas: 13,88
+42	3504206	Auriflama	22.50	% Matriculas em creche na rede privada  exceto conveniadas: 22,50
+43	3504305	Avaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+44	3504404	Avanhandava	10.43	% Matriculas em creche na rede privada  exceto conveniadas: 10,43
+45	3504503	Avaré	17.55	% Matriculas em creche na rede privada  exceto conveniadas: 17,55
+46	3504602	Bady Bassitt	8.33	% Matriculas em creche na rede privada  exceto conveniadas: 8,33
+47	3504701	Balbinos	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+48	3504800	Bálsamo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+49	3504909	Bananal	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+50	3505005	Barão de Antonina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+51	3505104	Barbosa	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+52	3505203	Bariri	13.49	% Matriculas em creche na rede privada  exceto conveniadas: 13,49
+53	3505302	Barra Bonita	14.26	% Matriculas em creche na rede privada  exceto conveniadas: 14,26
+54	3505401	Barra do Turvo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+55	3505500	Barretos	5.07	% Matriculas em creche na rede privada  exceto conveniadas: 5,07
+56	3505609	Barrinha	2.79	% Matriculas em creche na rede privada  exceto conveniadas: 2,79
+57	3505708	Barueri	14.34	% Matriculas em creche na rede privada  exceto conveniadas: 14,34
+58	3505807	Bastos	2.49	% Matriculas em creche na rede privada  exceto conveniadas: 2,49
+13	3501301	Álvares Machado	4.76	% Matriculas em creche na rede privada  exceto conveniadas: 4,76
+14	3501400	Álvaro de Carvalho	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+15	3501509	Alvinlândia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+16	3501608	Americana	27.40	% Matriculas em creche na rede privada  exceto conveniadas: 27,40
+17	3501707	Américo Brasiliense	3.83	% Matriculas em creche na rede privada  exceto conveniadas: 3,83
+59	3505906	Batatais	29.90	% Matriculas em creche na rede privada  exceto conveniadas: 29,90
+60	3506003	Bauru	13.80	% Matriculas em creche na rede privada  exceto conveniadas: 13,80
+61	3506102	Bebedouro	17.85	% Matriculas em creche na rede privada  exceto conveniadas: 17,85
+62	3506201	Bento de Abreu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+63	3506300	Bernardino de Campos	8.97	% Matriculas em creche na rede privada  exceto conveniadas: 8,97
+64	3506409	Bilac	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+65	3506508	Birigui	5.19	% Matriculas em creche na rede privada  exceto conveniadas: 5,19
+66	3506607	Biritiba Mirim	23.76	% Matriculas em creche na rede privada  exceto conveniadas: 23,76
+67	3506706	Boa Esperança do Sul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+68	3506805	Bocaina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+69	3506904	Bofete	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+70	3507001	Boituva	14.94	% Matriculas em creche na rede privada  exceto conveniadas: 14,94
+71	3507100	Bom Jesus dos Perdões	27.45	% Matriculas em creche na rede privada  exceto conveniadas: 27,45
+72	3507209	Borá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+73	3507308	Boracéia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+74	3507407	Borborema	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+75	3507506	Botucatu	35.02	% Matriculas em creche na rede privada  exceto conveniadas: 35,02
+76	3507605	Bragança Paulista	19.79	% Matriculas em creche na rede privada  exceto conveniadas: 19,79
+77	3507704	Braúna	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+78	3507803	Brodowski	14.92	% Matriculas em creche na rede privada  exceto conveniadas: 14,92
+79	3507902	Brotas	13.48	% Matriculas em creche na rede privada  exceto conveniadas: 13,48
+80	3508009	Buri	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+81	3508108	Buritama	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+82	3508207	Buritizal	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+83	3508306	Cabrália Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+84	3508405	Cabreúva	5.15	% Matriculas em creche na rede privada  exceto conveniadas: 5,15
+85	3508504	Caçapava	17.45	% Matriculas em creche na rede privada  exceto conveniadas: 17,45
+86	3508603	Cachoeira Paulista	16.00	% Matriculas em creche na rede privada  exceto conveniadas: 16,00
+87	3508702	Caconde	2.06	% Matriculas em creche na rede privada  exceto conveniadas: 2,06
+88	3508801	Cafelândia	8.60	% Matriculas em creche na rede privada  exceto conveniadas: 8,60
+89	3508900	Caiabu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+90	3509007	Caieiras	6.03	% Matriculas em creche na rede privada  exceto conveniadas: 6,03
+91	3509106	Caiuá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+92	3509205	Cajamar	12.56	% Matriculas em creche na rede privada  exceto conveniadas: 12,56
+93	3509304	Cajobi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+94	3509403	Cajuru	38.50	% Matriculas em creche na rede privada  exceto conveniadas: 38,50
+95	3509502	Campinas	21.00	% Matriculas em creche na rede privada  exceto conveniadas: 21,00
+96	3509601	Campo Limpo Paulista	21.97	% Matriculas em creche na rede privada  exceto conveniadas: 21,97
+97	3509700	Campos do Jordão	6.71	% Matriculas em creche na rede privada  exceto conveniadas: 6,71
+98	3509809	Campos Novos Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+99	3509908	Cananéia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+100	3510005	Cândido Mota	1.01	% Matriculas em creche na rede privada  exceto conveniadas: 1,01
+101	3510104	Cândido Rodrigues	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+102	3510203	Capão Bonito	4.94	% Matriculas em creche na rede privada  exceto conveniadas: 4,94
+103	3510302	Capela do Alto	16.81	% Matriculas em creche na rede privada  exceto conveniadas: 16,81
+104	3510401	Capivari	16.92	% Matriculas em creche na rede privada  exceto conveniadas: 16,92
+105	3510500	Caraguatatuba	7.88	% Matriculas em creche na rede privada  exceto conveniadas: 7,88
+106	3510609	Carapicuíba	20.99	% Matriculas em creche na rede privada  exceto conveniadas: 20,99
+107	3510708	Cardoso	3.66	% Matriculas em creche na rede privada  exceto conveniadas: 3,66
+108	3510807	Casa Branca	6.87	% Matriculas em creche na rede privada  exceto conveniadas: 6,87
+109	3510906	Cássia dos Coqueiros	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+110	3511003	Castilho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+111	3511102	Catanduva	13.99	% Matriculas em creche na rede privada  exceto conveniadas: 13,99
+112	3511201	Catiguá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+113	3511300	Cedral	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+114	3511409	Cerqueira César	19.14	% Matriculas em creche na rede privada  exceto conveniadas: 19,14
+115	3511508	Cerquilho	20.65	% Matriculas em creche na rede privada  exceto conveniadas: 20,65
+116	3511607	Cesário Lange	4.93	% Matriculas em creche na rede privada  exceto conveniadas: 4,93
+117	3511706	Charqueada	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+118	3557204	Chavantes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+119	3511904	Clementina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+120	3512001	Colina	3.38	% Matriculas em creche na rede privada  exceto conveniadas: 3,38
+121	3512100	Colômbia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+122	3512209	Conchal	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+123	3512308	Conchas	10.03	% Matriculas em creche na rede privada  exceto conveniadas: 10,03
+124	3512407	Cordeirópolis	3.45	% Matriculas em creche na rede privada  exceto conveniadas: 3,45
+125	3512506	Coroados	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+126	3512605	Coronel Macedo	32.31	% Matriculas em creche na rede privada  exceto conveniadas: 32,31
+127	3512704	Corumbataí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+128	3512803	Cosmópolis	13.21	% Matriculas em creche na rede privada  exceto conveniadas: 13,21
+129	3512902	Cosmorama	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+130	3513009	Cotia	24.25	% Matriculas em creche na rede privada  exceto conveniadas: 24,25
+131	3513108	Cravinhos	66.06	% Matriculas em creche na rede privada  exceto conveniadas: 66,06
+132	3513207	Cristais Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+133	3513306	Cruzália	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+134	3513405	Cruzeiro	24.90	% Matriculas em creche na rede privada  exceto conveniadas: 24,90
+135	3513504	Cubatão	21.87	% Matriculas em creche na rede privada  exceto conveniadas: 21,87
+136	3513603	Cunha	4.76	% Matriculas em creche na rede privada  exceto conveniadas: 4,76
+137	3513702	Descalvado	19.71	% Matriculas em creche na rede privada  exceto conveniadas: 19,71
+138	3513801	Diadema	9.84	% Matriculas em creche na rede privada  exceto conveniadas: 9,84
+139	3513900	Divinolândia	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+140	3514007	Dobrada	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+141	3514106	Dois Córregos	32.92	% Matriculas em creche na rede privada  exceto conveniadas: 32,92
+142	3514205	Dolcinópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+143	3514304	Dourado	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+144	3514403	Dracena	8.48	% Matriculas em creche na rede privada  exceto conveniadas: 8,48
+145	3514502	Duartina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+146	3514601	Dumont	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+147	3514700	Echaporã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+148	3514809	Eldorado	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+149	3514908	Elias Fausto	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+150	3515004	Embu das Artes	6.74	% Matriculas em creche na rede privada  exceto conveniadas: 6,74
+151	3515103	Embu-Guaçu	11.29	% Matriculas em creche na rede privada  exceto conveniadas: 11,29
+152	3515202	Estrela d'Oeste	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+153	3515301	Estrela do Norte	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+154	3515400	Fartura	4.11	% Matriculas em creche na rede privada  exceto conveniadas: 4,11
+155	3515509	Fernandópolis	3.92	% Matriculas em creche na rede privada  exceto conveniadas: 3,92
+156	3515608	Fernando Prestes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+157	3515707	Ferraz de Vasconcelos	2.50	% Matriculas em creche na rede privada  exceto conveniadas: 2,50
+158	3515806	Flora Rica	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+159	3515905	Floreal	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+160	3516002	Flórida Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+161	3516101	Florínia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+162	3516200	Franca	36.59	% Matriculas em creche na rede privada  exceto conveniadas: 36,59
+163	3516309	Francisco Morato	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+164	3516408	Franco da Rocha	5.18	% Matriculas em creche na rede privada  exceto conveniadas: 5,18
+165	3516507	Gabriel Monteiro	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+166	3516606	Gália	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+167	3516705	Garça	15.93	% Matriculas em creche na rede privada  exceto conveniadas: 15,93
+168	3516804	Gastão Vidigal	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+169	3516903	General Salgado	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+170	3517000	Getulina	21.31	% Matriculas em creche na rede privada  exceto conveniadas: 21,31
+171	3517109	Glicério	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+172	3517208	Guaiçara	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+173	3517307	Guaimbê	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+174	3517406	Guaíra	13.76	% Matriculas em creche na rede privada  exceto conveniadas: 13,76
+175	3517505	Guapiaçu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+176	3517604	Guapiara	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+177	3517703	Guará	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+178	3517802	Guaraçaí	15.79	% Matriculas em creche na rede privada  exceto conveniadas: 15,79
+179	3517901	Guaraci	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+180	3518008	Guarani d'Oeste	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+181	3518107	Guarantã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+182	3518206	Guararapes	9.62	% Matriculas em creche na rede privada  exceto conveniadas: 9,62
+183	3518305	Guararema	13.13	% Matriculas em creche na rede privada  exceto conveniadas: 13,13
+184	3518404	Guaratinguetá	7.83	% Matriculas em creche na rede privada  exceto conveniadas: 7,83
+185	3518503	Guareí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+186	3518602	Guariba	7.08	% Matriculas em creche na rede privada  exceto conveniadas: 7,08
+187	3518701	Guarujá	33.76	% Matriculas em creche na rede privada  exceto conveniadas: 33,76
+188	3518800	Guarulhos	12.13	% Matriculas em creche na rede privada  exceto conveniadas: 12,13
+189	3518909	Guzolândia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+190	3519006	Herculândia	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+191	3519105	Iacanga	3.33	% Matriculas em creche na rede privada  exceto conveniadas: 3,33
+192	3519204	Iacri	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+193	3519303	Ibaté	1.54	% Matriculas em creche na rede privada  exceto conveniadas: 1,54
+194	3519402	Ibirá	13.43	% Matriculas em creche na rede privada  exceto conveniadas: 13,43
+195	3519501	Ibirarema	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+196	3519600	Ibitinga	24.43	% Matriculas em creche na rede privada  exceto conveniadas: 24,43
+197	3519709	Ibiúna	17.46	% Matriculas em creche na rede privada  exceto conveniadas: 17,46
+198	3519808	Icém	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+199	3519907	Iepê	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+200	3520004	Igaraçu do Tietê	17.23	% Matriculas em creche na rede privada  exceto conveniadas: 17,23
+201	3520103	Igarapava	13.67	% Matriculas em creche na rede privada  exceto conveniadas: 13,67
+202	3520202	Igaratá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+203	3520301	Iguape	14.88	% Matriculas em creche na rede privada  exceto conveniadas: 14,88
+204	3520400	Ilhabela	9.54	% Matriculas em creche na rede privada  exceto conveniadas: 9,54
+205	3520509	Indaiatuba	25.30	% Matriculas em creche na rede privada  exceto conveniadas: 25,30
+206	3520608	Indiana	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+207	3520707	Indiaporã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+208	3520806	Inúbia Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+209	3520905	Ipaussu	16.26	% Matriculas em creche na rede privada  exceto conveniadas: 16,26
+210	3521002	Iperó	1.18	% Matriculas em creche na rede privada  exceto conveniadas: 1,18
+211	3521101	Ipeúna	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+212	3521200	Iporanga	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+213	3521309	Ipuã	13.51	% Matriculas em creche na rede privada  exceto conveniadas: 13,51
+214	3521408	Iracemápolis	8.41	% Matriculas em creche na rede privada  exceto conveniadas: 8,41
+215	3521507	Irapuã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+216	3521606	Irapuru	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+217	3521705	Itaberá	8.07	% Matriculas em creche na rede privada  exceto conveniadas: 8,07
+218	3521804	Itaí	31.48	% Matriculas em creche na rede privada  exceto conveniadas: 31,48
+219	3521903	Itajobi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+220	3522000	Itaju	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+221	3522109	Itanhaém	5.87	% Matriculas em creche na rede privada  exceto conveniadas: 5,87
+222	3522208	Itapecerica da Serra	11.28	% Matriculas em creche na rede privada  exceto conveniadas: 11,28
+223	3522307	Itapetininga	14.93	% Matriculas em creche na rede privada  exceto conveniadas: 14,93
+224	3522406	Itapeva	5.05	% Matriculas em creche na rede privada  exceto conveniadas: 5,05
+225	3522505	Itapevi	3.19	% Matriculas em creche na rede privada  exceto conveniadas: 3,19
+226	3522604	Itapira	17.86	% Matriculas em creche na rede privada  exceto conveniadas: 17,86
+227	3522703	Itápolis	10.59	% Matriculas em creche na rede privada  exceto conveniadas: 10,59
+228	3522802	Itaporanga	44.83	% Matriculas em creche na rede privada  exceto conveniadas: 44,83
+229	3522901	Itapuí	2.46	% Matriculas em creche na rede privada  exceto conveniadas: 2,46
+230	3523008	Itapura	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+231	3523107	Itaquaquecetuba	3.73	% Matriculas em creche na rede privada  exceto conveniadas: 3,73
+232	3523206	Itararé	3.02	% Matriculas em creche na rede privada  exceto conveniadas: 3,02
+233	3523305	Itariri	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+234	3523404	Itatiba	23.88	% Matriculas em creche na rede privada  exceto conveniadas: 23,88
+235	3523503	Itatinga	5.25	% Matriculas em creche na rede privada  exceto conveniadas: 5,25
+236	3523602	Itirapina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+237	3523701	Itirapuã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+238	3523800	Itobi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+239	3523909	Itu	27.72	% Matriculas em creche na rede privada  exceto conveniadas: 27,72
+240	3524006	Itupeva	6.95	% Matriculas em creche na rede privada  exceto conveniadas: 6,95
+241	3524105	Ituverava	1.29	% Matriculas em creche na rede privada  exceto conveniadas: 1,29
+242	3524204	Jaborandi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+243	3524303	Jaboticabal	20.83	% Matriculas em creche na rede privada  exceto conveniadas: 20,83
+244	3524402	Jacareí	22.29	% Matriculas em creche na rede privada  exceto conveniadas: 22,29
+245	3524501	Jaci	50.00	% Matriculas em creche na rede privada  exceto conveniadas: 50,00
+246	3524600	Jacupiranga	15.83	% Matriculas em creche na rede privada  exceto conveniadas: 15,83
+247	3524709	Jaguariúna	25.15	% Matriculas em creche na rede privada  exceto conveniadas: 25,15
+248	3524808	Jales	17.18	% Matriculas em creche na rede privada  exceto conveniadas: 17,18
+249	3524907	Jambeiro	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+250	3525003	Jandira	23.43	% Matriculas em creche na rede privada  exceto conveniadas: 23,43
+251	3525102	Jardinópolis	12.57	% Matriculas em creche na rede privada  exceto conveniadas: 12,57
+252	3525201	Jarinu	3.05	% Matriculas em creche na rede privada  exceto conveniadas: 3,05
+253	3525300	Jaú	28.86	% Matriculas em creche na rede privada  exceto conveniadas: 28,86
+254	3525409	Jeriquara	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+255	3525508	Joanópolis	11.58	% Matriculas em creche na rede privada  exceto conveniadas: 11,58
+256	3525607	João Ramalho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+257	3525706	José Bonifácio	27.42	% Matriculas em creche na rede privada  exceto conveniadas: 27,42
+258	3525805	Júlio Mesquita	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+259	3525904	Jundiaí	33.01	% Matriculas em creche na rede privada  exceto conveniadas: 33,01
+260	3526001	Junqueirópolis	5.31	% Matriculas em creche na rede privada  exceto conveniadas: 5,31
+261	3526100	Juquiá	30.00	% Matriculas em creche na rede privada  exceto conveniadas: 30,00
+262	3526209	Juquitiba	39.25	% Matriculas em creche na rede privada  exceto conveniadas: 39,25
+263	3526308	Lagoinha	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+264	3526407	Laranjal Paulista	23.57	% Matriculas em creche na rede privada  exceto conveniadas: 23,57
+265	3526506	Lavínia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+266	3526605	Lavrinhas	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+267	3526704	Leme	6.33	% Matriculas em creche na rede privada  exceto conveniadas: 6,33
+268	3526803	Lençóis Paulista	4.68	% Matriculas em creche na rede privada  exceto conveniadas: 4,68
+269	3526902	Limeira	27.65	% Matriculas em creche na rede privada  exceto conveniadas: 27,65
+270	3527009	Lindóia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+271	3527108	Lins	29.14	% Matriculas em creche na rede privada  exceto conveniadas: 29,14
+272	3527207	Lorena	18.27	% Matriculas em creche na rede privada  exceto conveniadas: 18,27
+273	3527306	Louveira	6.71	% Matriculas em creche na rede privada  exceto conveniadas: 6,71
+274	3527405	Lucélia	5.58	% Matriculas em creche na rede privada  exceto conveniadas: 5,58
+275	3527504	Lucianópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+276	3527603	Luís Antônio	10.66	% Matriculas em creche na rede privada  exceto conveniadas: 10,66
+277	3527702	Luiziânia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+278	3527801	Lupércio	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+279	3527900	Lutécia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+280	3528007	Macatuba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+281	3528106	Macaubal	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+282	3528205	Macedônia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+283	3528304	Magda	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+284	3528403	Mairinque	4.99	% Matriculas em creche na rede privada  exceto conveniadas: 4,99
+285	3528502	Mairiporã	27.79	% Matriculas em creche na rede privada  exceto conveniadas: 27,79
+286	3528601	Manduri	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+287	3528700	Marabá Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+288	3528809	Maracaí	12.94	% Matriculas em creche na rede privada  exceto conveniadas: 12,94
+289	3528908	Mariápolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+290	3529005	Marília	8.70	% Matriculas em creche na rede privada  exceto conveniadas: 8,70
+291	3529104	Marinópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+292	3529203	Martinópolis	5.51	% Matriculas em creche na rede privada  exceto conveniadas: 5,51
+293	3529302	Matão	9.83	% Matriculas em creche na rede privada  exceto conveniadas: 9,83
+294	3529401	Mauá	10.97	% Matriculas em creche na rede privada  exceto conveniadas: 10,97
+295	3529500	Mendonça	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+296	3529609	Meridiano	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+297	3529708	Miguelópolis	1.16	% Matriculas em creche na rede privada  exceto conveniadas: 1,16
+298	3529807	Mineiros do Tietê	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+299	3529906	Miracatu	1.56	% Matriculas em creche na rede privada  exceto conveniadas: 1,56
+300	3530003	Mira Estrela	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+301	3530102	Mirandópolis	6.62	% Matriculas em creche na rede privada  exceto conveniadas: 6,62
+302	3530201	Mirante do Paranapanema	3.92	% Matriculas em creche na rede privada  exceto conveniadas: 3,92
+303	3530300	Mirassol	39.81	% Matriculas em creche na rede privada  exceto conveniadas: 39,81
+304	3530409	Mirassolândia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+305	3530508	Mococa	11.70	% Matriculas em creche na rede privada  exceto conveniadas: 11,70
+306	3530607	Mogi das Cruzes	12.40	% Matriculas em creche na rede privada  exceto conveniadas: 12,40
+307	3530706	Mogi Guaçu	8.52	% Matriculas em creche na rede privada  exceto conveniadas: 8,52
+308	3530805	Moji Mirim	14.52	% Matriculas em creche na rede privada  exceto conveniadas: 14,52
+309	3530904	Mombuca	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+310	3531001	Monções	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+311	3531100	Mongaguá	17.01	% Matriculas em creche na rede privada  exceto conveniadas: 17,01
+312	3531209	Monte Alegre do Sul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+313	3531308	Monte Alto	11.99	% Matriculas em creche na rede privada  exceto conveniadas: 11,99
+314	3531407	Monte Aprazível	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+315	3531506	Monte Azul Paulista	25.00	% Matriculas em creche na rede privada  exceto conveniadas: 25,00
+316	3531605	Monte Castelo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+317	3531704	Monteiro Lobato	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+318	3531803	Monte Mor	3.43	% Matriculas em creche na rede privada  exceto conveniadas: 3,43
+319	3531902	Morro Agudo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+320	3532009	Morungaba	22.00	% Matriculas em creche na rede privada  exceto conveniadas: 22,00
+321	3532108	Murutinga do Sul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+322	3532207	Narandiba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+323	3532306	Natividade da Serra	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+324	3532405	Nazaré Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+325	3532504	Neves Paulista	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+326	3532603	Nhandeara	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+327	3532702	Nipoã	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+328	3532801	Nova Aliança	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+329	3532900	Nova Europa	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+330	3533007	Nova Granada	13.16	% Matriculas em creche na rede privada  exceto conveniadas: 13,16
+331	3533106	Nova Guataporanga	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+332	3533205	Nova Independência	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+333	3533304	Nova Luzitânia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+334	3533403	Nova Odessa	19.91	% Matriculas em creche na rede privada  exceto conveniadas: 19,91
+335	3533502	Novo Horizonte	18.25	% Matriculas em creche na rede privada  exceto conveniadas: 18,25
+336	3533601	Nuporanga	3.57	% Matriculas em creche na rede privada  exceto conveniadas: 3,57
+337	3533700	Ocauçu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+338	3533809	Óleo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+339	3533908	Olímpia	13.15	% Matriculas em creche na rede privada  exceto conveniadas: 13,15
+340	3534005	Onda Verde	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+341	3534104	Oriente	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+342	3534203	Orindiúva	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+343	3534302	Orlândia	4.19	% Matriculas em creche na rede privada  exceto conveniadas: 4,19
+344	3534401	Osasco	15.48	% Matriculas em creche na rede privada  exceto conveniadas: 15,48
+345	3534500	Oscar Bressane	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+346	3534609	Osvaldo Cruz	34.06	% Matriculas em creche na rede privada  exceto conveniadas: 34,06
+347	3534708	Ourinhos	19.41	% Matriculas em creche na rede privada  exceto conveniadas: 19,41
+348	3534807	Ouro Verde	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+349	3534906	Pacaembu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+350	3535002	Palestina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+351	3535101	Palmares Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+352	3535200	Palmeira d'Oeste	14.06	% Matriculas em creche na rede privada  exceto conveniadas: 14,06
+353	3535309	Palmital	8.09	% Matriculas em creche na rede privada  exceto conveniadas: 8,09
+354	3535408	Panorama	15.76	% Matriculas em creche na rede privada  exceto conveniadas: 15,76
+355	3535507	Paraguaçu Paulista	3.78	% Matriculas em creche na rede privada  exceto conveniadas: 3,78
+356	3535606	Paraibuna	7.14	% Matriculas em creche na rede privada  exceto conveniadas: 7,14
+357	3535705	Paraíso	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+358	3535804	Paranapanema	47.26	% Matriculas em creche na rede privada  exceto conveniadas: 47,26
+359	3535903	Paranapuã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+360	3536000	Parapuã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+361	3536109	Pardinho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+362	3536208	Pariquera-Açu	7.55	% Matriculas em creche na rede privada  exceto conveniadas: 7,55
+363	3536307	Patrocínio Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+364	3536406	Paulicéia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+365	3536505	Paulínia	0.15	% Matriculas em creche na rede privada  exceto conveniadas: 0,15
+366	3536604	Paulo de Faria	69.31	% Matriculas em creche na rede privada  exceto conveniadas: 69,31
+367	3536703	Pederneiras	12.30	% Matriculas em creche na rede privada  exceto conveniadas: 12,30
+368	3536802	Pedra Bela	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+369	3536901	Pedranópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+370	3537008	Pedregulho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+371	3537107	Pedreira	3.28	% Matriculas em creche na rede privada  exceto conveniadas: 3,28
+372	3537206	Pedro de Toledo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+373	3537305	Penápolis	10.74	% Matriculas em creche na rede privada  exceto conveniadas: 10,74
+374	3537404	Pereira Barreto	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+375	3537503	Pereiras	7.00	% Matriculas em creche na rede privada  exceto conveniadas: 7,00
+376	3537602	Peruíbe	15.01	% Matriculas em creche na rede privada  exceto conveniadas: 15,01
+377	3537701	Piacatu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+378	3537800	Piedade	15.98	% Matriculas em creche na rede privada  exceto conveniadas: 15,98
+379	3537909	Pilar do Sul	7.67	% Matriculas em creche na rede privada  exceto conveniadas: 7,67
+380	3538006	Pindamonhangaba	39.65	% Matriculas em creche na rede privada  exceto conveniadas: 39,65
+381	3538105	Pindorama	5.94	% Matriculas em creche na rede privada  exceto conveniadas: 5,94
+382	3515186	Espírito Santo do Pinhal	9.00	% Matriculas em creche na rede privada  exceto conveniadas: 9,00
+383	3538204	Pinhalzinho	48.39	% Matriculas em creche na rede privada  exceto conveniadas: 48,39
+384	3538303	Piquerobi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+385	3538501	Piquete	48.28	% Matriculas em creche na rede privada  exceto conveniadas: 48,28
+386	3538600	Piracaia	13.95	% Matriculas em creche na rede privada  exceto conveniadas: 13,95
+387	3538709	Piracicaba	18.79	% Matriculas em creche na rede privada  exceto conveniadas: 18,79
+388	3538808	Piraju	11.93	% Matriculas em creche na rede privada  exceto conveniadas: 11,93
+389	3538907	Pirajuí	30.87	% Matriculas em creche na rede privada  exceto conveniadas: 30,87
+390	3539004	Pirangi	13.04	% Matriculas em creche na rede privada  exceto conveniadas: 13,04
+391	3539103	Pirapora do Bom Jesus	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+392	3539202	Pirapozinho	11.30	% Matriculas em creche na rede privada  exceto conveniadas: 11,30
+393	3539301	Pirassununga	12.82	% Matriculas em creche na rede privada  exceto conveniadas: 12,82
+394	3539400	Piratininga	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+395	3539509	Pitangueiras	4.83	% Matriculas em creche na rede privada  exceto conveniadas: 4,83
+396	3539608	Planalto	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+397	3539707	Platina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+398	3539806	Poá	10.64	% Matriculas em creche na rede privada  exceto conveniadas: 10,64
+399	3539905	Poloni	100.00	% Matriculas em creche na rede privada  exceto conveniadas: 100,00
+400	3540002	Pompéia	11.11	% Matriculas em creche na rede privada  exceto conveniadas: 11,11
+401	3540101	Pongaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+402	3540200	Pontal	16.38	% Matriculas em creche na rede privada  exceto conveniadas: 16,38
+403	3540309	Pontes Gestal	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+404	3540408	Populina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+405	3540507	Porangaba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+406	3540606	Porto Feliz	7.29	% Matriculas em creche na rede privada  exceto conveniadas: 7,29
+407	3540705	Porto Ferreira	17.12	% Matriculas em creche na rede privada  exceto conveniadas: 17,12
+408	3540804	Potirendaba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+409	3540903	Pradópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+410	3541000	Praia Grande	12.92	% Matriculas em creche na rede privada  exceto conveniadas: 12,92
+411	3541109	Presidente Alves	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+412	3541208	Presidente Bernardes	9.47	% Matriculas em creche na rede privada  exceto conveniadas: 9,47
+413	3541307	Presidente Epitácio	10.00	% Matriculas em creche na rede privada  exceto conveniadas: 10,00
+414	3541406	Presidente Prudente	19.22	% Matriculas em creche na rede privada  exceto conveniadas: 19,22
+415	3541505	Presidente Venceslau	11.07	% Matriculas em creche na rede privada  exceto conveniadas: 11,07
+416	3541604	Promissão	18.92	% Matriculas em creche na rede privada  exceto conveniadas: 18,92
+417	3541703	Quatá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+418	3541802	Queiroz	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+419	3541901	Queluz	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+420	3542008	Quintana	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+421	3542107	Rafard	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+422	3542206	Rancharia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+423	3542305	Redenção da Serra	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+424	3542404	Regente Feijó	7.14	% Matriculas em creche na rede privada  exceto conveniadas: 7,14
+425	3542503	Reginópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+426	3542602	Registro	8.19	% Matriculas em creche na rede privada  exceto conveniadas: 8,19
+427	3542701	Restinga	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+428	3542800	Ribeira	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+429	3542909	Ribeirão Bonito	23.87	% Matriculas em creche na rede privada  exceto conveniadas: 23,87
+430	3543006	Ribeirão Branco	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+431	3543105	Ribeirão Corrente	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+432	3543204	Ribeirão do Sul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+433	3543303	Ribeirão Pires	14.01	% Matriculas em creche na rede privada  exceto conveniadas: 14,01
+434	3543402	Ribeirão Preto	44.86	% Matriculas em creche na rede privada  exceto conveniadas: 44,86
+435	3543501	Riversul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+436	3543600	Rifaina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+437	3543709	Rincão	1.55	% Matriculas em creche na rede privada  exceto conveniadas: 1,55
+438	3543808	Rinópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+439	3543907	Rio Claro	10.11	% Matriculas em creche na rede privada  exceto conveniadas: 10,11
+440	3544004	Rio das Pedras	13.35	% Matriculas em creche na rede privada  exceto conveniadas: 13,35
+441	3544103	Rio Grande da Serra	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+442	3544202	Riolândia	34.92	% Matriculas em creche na rede privada  exceto conveniadas: 34,92
+443	3544301	Roseira	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+444	3544400	Rubiácea	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+445	3544509	Rubinéia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+446	3544608	Sabino	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+447	3544707	Sagres	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+448	3544806	Sales	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+449	3544905	Sales Oliveira	14.89	% Matriculas em creche na rede privada  exceto conveniadas: 14,89
+450	3545001	Salesópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+451	3545100	Salmourão	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+452	3545209	Salto	16.22	% Matriculas em creche na rede privada  exceto conveniadas: 16,22
+453	3545308	Salto de Pirapora	18.18	% Matriculas em creche na rede privada  exceto conveniadas: 18,18
+454	3545407	Salto Grande	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+455	3545506	Sandovalina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+456	3545605	Santa Adélia	3.85	% Matriculas em creche na rede privada  exceto conveniadas: 3,85
+457	3545704	Santa Albertina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+458	3545803	Santa Bárbara d'Oeste	16.44	% Matriculas em creche na rede privada  exceto conveniadas: 16,44
+459	3500550	Águas de Santa Bárbara	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+460	3546009	Santa Branca	18.37	% Matriculas em creche na rede privada  exceto conveniadas: 18,37
+461	3546108	Santa Clara d'Oeste	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+462	3546207	Santa Cruz da Conceição	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+463	3546306	Santa Cruz das Palmeiras	25.38	% Matriculas em creche na rede privada  exceto conveniadas: 25,38
+464	3546405	Santa Cruz do Rio Pardo	15.66	% Matriculas em creche na rede privada  exceto conveniadas: 15,66
+465	3546504	Santa Ernestina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+466	3546603	Santa Fé do Sul	10.78	% Matriculas em creche na rede privada  exceto conveniadas: 10,78
+467	3546702	Santa Gertrudes	4.07	% Matriculas em creche na rede privada  exceto conveniadas: 4,07
+468	3546801	Santa Isabel	11.03	% Matriculas em creche na rede privada  exceto conveniadas: 11,03
+469	3546900	Santa Lucia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+470	3547007	Santa Maria da Serra	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+471	3547106	Santa Mercedes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+472	3547403	Santa Rita d'Oeste	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+473	3547502	Santa Rita do Passa Quatro	14.20	% Matriculas em creche na rede privada  exceto conveniadas: 14,20
+474	3547601	Santa Rosa do Viterbo	24.31	% Matriculas em creche na rede privada  exceto conveniadas: 24,31
+475	3547205	Santana da Ponte Pensa	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+476	3547304	Santana de Parnaíba	12.08	% Matriculas em creche na rede privada  exceto conveniadas: 12,08
+477	3547700	Santo Anastácio	13.99	% Matriculas em creche na rede privada  exceto conveniadas: 13,99
+478	3547809	Santo André	66.09	% Matriculas em creche na rede privada  exceto conveniadas: 66,09
+479	3547908	Santo Antonio da Alegria	12.00	% Matriculas em creche na rede privada  exceto conveniadas: 12,00
+480	3548104	Santo Antonio do Jardim	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+481	3548203	Santo Antonio do Pinhal	2.74	% Matriculas em creche na rede privada  exceto conveniadas: 2,74
+482	3548005	Santo Antonio de Posse	14.29	% Matriculas em creche na rede privada  exceto conveniadas: 14,29
+483	3548302	Santo Expedito	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+484	3548401	Santópolis do Aguapeí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+485	3548500	Santos	43.08	% Matriculas em creche na rede privada  exceto conveniadas: 43,08
+486	3548609	São Bento do Sapucaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+487	3548708	São Bernardo do Campo	17.58	% Matriculas em creche na rede privada  exceto conveniadas: 17,58
+488	3548807	São Caetano do Sul	21.34	% Matriculas em creche na rede privada  exceto conveniadas: 21,34
+489	3548906	São Carlos	8.69	% Matriculas em creche na rede privada  exceto conveniadas: 8,69
+490	3549003	São Francisco	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+491	3549102	São João da Boa Vista	32.73	% Matriculas em creche na rede privada  exceto conveniadas: 32,73
+492	3549201	São João das Duas Pontes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+493	3549300	São João do Pau d'Alho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+494	3549409	São Joaquim da Barra	14.08	% Matriculas em creche na rede privada  exceto conveniadas: 14,08
+495	3549607	São José do Barreiro	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+496	3549508	São José da Bela Vista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+497	3549706	São José do Rio Pardo	25.66	% Matriculas em creche na rede privada  exceto conveniadas: 25,66
+498	3549805	São José do Rio Preto	20.83	% Matriculas em creche na rede privada  exceto conveniadas: 20,83
+499	3549904	São José dos Campos	24.15	% Matriculas em creche na rede privada  exceto conveniadas: 24,15
+500	3550001	São Luís do Paraitinga	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+501	3550100	São Manuel	15.49	% Matriculas em creche na rede privada  exceto conveniadas: 15,49
+502	3550209	São Miguel Arcanjo	48.67	% Matriculas em creche na rede privada  exceto conveniadas: 48,67
+503	3550308	São Paulo	22.73	% Matriculas em creche na rede privada  exceto conveniadas: 22,73
+504	3550407	São Pedro	13.32	% Matriculas em creche na rede privada  exceto conveniadas: 13,32
+505	3550506	São Pedro do Turvo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+506	3550605	São Roque	12.06	% Matriculas em creche na rede privada  exceto conveniadas: 12,06
+507	3550704	São Sebastião	9.61	% Matriculas em creche na rede privada  exceto conveniadas: 9,61
+508	3550803	São Sebastião da Grama	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+509	3550902	São Simão	34.90	% Matriculas em creche na rede privada  exceto conveniadas: 34,90
+510	3551009	São Vicente	17.38	% Matriculas em creche na rede privada  exceto conveniadas: 17,38
+511	3551108	Sarapuí	1.99	% Matriculas em creche na rede privada  exceto conveniadas: 1,99
+512	3551207	Sarutaiá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+513	3551306	Sebastianópolis do Sul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+514	3551405	Serra Azul	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+515	3551603	Serra Negra	3.44	% Matriculas em creche na rede privada  exceto conveniadas: 3,44
+516	3551504	Serrana	12.66	% Matriculas em creche na rede privada  exceto conveniadas: 12,66
+517	3551702	Sertãozinho	10.84	% Matriculas em creche na rede privada  exceto conveniadas: 10,84
+518	3551801	Sete Barras	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+519	3551900	Severínia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+520	3552007	Silveiras	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+521	3552106	Socorro	15.88	% Matriculas em creche na rede privada  exceto conveniadas: 15,88
+522	3552205	Sorocaba	24.41	% Matriculas em creche na rede privada  exceto conveniadas: 24,41
+523	3552304	Sud Mennucci	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+524	3552403	Sumaré	43.03	% Matriculas em creche na rede privada  exceto conveniadas: 43,03
+525	3552502	Suzano	16.05	% Matriculas em creche na rede privada  exceto conveniadas: 16,05
+526	3552601	Tabapuã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+527	3552700	Tabatinga	13.00	% Matriculas em creche na rede privada  exceto conveniadas: 13,00
+528	3552809	Taboão da Serra	10.73	% Matriculas em creche na rede privada  exceto conveniadas: 10,73
+529	3552908	Taciba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+530	3553005	Taguaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+531	3553104	Taiaçu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+532	3553203	Taiúva	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+533	3553302	Tambaú	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+534	3553401	Tanabi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+535	3553500	Tapiraí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+536	3553609	Tapiratiba	6.07	% Matriculas em creche na rede privada  exceto conveniadas: 6,07
+537	3553708	Taquaritinga	17.67	% Matriculas em creche na rede privada  exceto conveniadas: 17,67
+538	3553807	Taquarituba	6.44	% Matriculas em creche na rede privada  exceto conveniadas: 6,44
+539	3553906	Tarabaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+540	3554003	Tatuí	14.26	% Matriculas em creche na rede privada  exceto conveniadas: 14,26
+541	3554102	Taubaté	11.80	% Matriculas em creche na rede privada  exceto conveniadas: 11,80
+542	3554201	Tejupá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+543	3554300	Teodoro Sampaio	84.67	% Matriculas em creche na rede privada  exceto conveniadas: 84,67
+544	3554409	Terra Roxa	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+545	3554508	Tietê	3.91	% Matriculas em creche na rede privada  exceto conveniadas: 3,91
+546	3554607	Timburi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+547	3554706	Torrinha	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+548	3554805	Tremembé	15.83	% Matriculas em creche na rede privada  exceto conveniadas: 15,83
+549	3554904	Três Fronteiras	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+550	3555000	Tupã	15.13	% Matriculas em creche na rede privada  exceto conveniadas: 15,13
+551	3555109	Tupi Paulista	9.45	% Matriculas em creche na rede privada  exceto conveniadas: 9,45
+552	3555208	Turiúba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+553	3555307	Turmalina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+554	3555406	Ubatuba	10.59	% Matriculas em creche na rede privada  exceto conveniadas: 10,59
+555	3555505	Ubirajara	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+556	3555604	Uchôa	12.40	% Matriculas em creche na rede privada  exceto conveniadas: 12,40
+557	3555703	União Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+558	3555802	Urânia	22.50	% Matriculas em creche na rede privada  exceto conveniadas: 22,50
+559	3555901	Uru	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+560	3556008	Urupês	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+561	3556107	Valentim Gentil	11.76	% Matriculas em creche na rede privada  exceto conveniadas: 11,76
+562	3556206	Valinhos	47.06	% Matriculas em creche na rede privada  exceto conveniadas: 47,06
+563	3556305	Valparaíso	13.48	% Matriculas em creche na rede privada  exceto conveniadas: 13,48
+564	3556404	Vargem Grande do Sul	8.86	% Matriculas em creche na rede privada  exceto conveniadas: 8,86
+565	3556503	Várzea Paulista	5.87	% Matriculas em creche na rede privada  exceto conveniadas: 5,87
+566	3556602	Vera Cruz	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+567	3556701	Vinhedo	18.96	% Matriculas em creche na rede privada  exceto conveniadas: 18,96
+568	3556800	Viradouro	11.66	% Matriculas em creche na rede privada  exceto conveniadas: 11,66
+569	3556909	Vista Alegre do Alto	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+570	3557006	Votorantim	7.85	% Matriculas em creche na rede privada  exceto conveniadas: 7,85
+571	3557105	Votuporanga	8.04	% Matriculas em creche na rede privada  exceto conveniadas: 8,04
+572	3556453	Vargem Grande Paulista	23.80	% Matriculas em creche na rede privada  exceto conveniadas: 23,80
+573	3500758	Alambari	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+574	3501152	Alumínio	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+575	3502754	Araçariguama	1.60	% Matriculas em creche na rede privada  exceto conveniadas: 1,60
+576	3503158	Arapeí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+577	3503950	Aspásia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+578	3505351	Barra do Chapéu	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+579	3506359	Bertioga	13.14	% Matriculas em creche na rede privada  exceto conveniadas: 13,14
+580	3507159	Bom Sucesso de Itararé	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+581	3507456	Borebi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+582	3509254	Cajati	13.19	% Matriculas em creche na rede privada  exceto conveniadas: 13,19
+583	3509452	Campina do Monte Alegre	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+584	3510153	Canitar	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+585	3513850	Dirce Reis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+586	3514924	Elisiário	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+587	3514957	Embaúba	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+588	3515129	Emilianópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+589	3515152	Engenheiro Coelho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+590	3515194	Espírito Santo do Turvo	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+591	3557303	Estiva Gerbi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+592	3515350	Euclides da Cunha Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+593	3518859	Guatapará	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+594	3519055	Holambra	20.59	% Matriculas em creche na rede privada  exceto conveniadas: 20,59
+595	3519071	Hortolândia	3.88	% Matriculas em creche na rede privada  exceto conveniadas: 3,88
+596	3519253	Iaras	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+597	3520426	Ilha Comprida	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+598	3520442	Ilha Solteira	2.75	% Matriculas em creche na rede privada  exceto conveniadas: 2,75
+599	3522158	Itaóca	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+600	3522653	Itapirapuã Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+601	3527256	Lourdes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+602	3528858	Marapoama	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+603	3529658	Mesópolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+604	3532058	Motuca	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+605	3532827	Nova Campina	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+606	3532843	Nova Canaã Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+607	3533254	Novais	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+608	3536257	Parisi	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+609	3537156	Pedrinhas Paulista	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+610	3540259	Pontalinda	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+611	3540754	Potim	30.34	% Matriculas em creche na rede privada  exceto conveniadas: 30,34
+612	3543253	Ribeirão Grande	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+613	3544251	Rosana	19.42	% Matriculas em creche na rede privada  exceto conveniadas: 19,42
+614	3545159	Saltinho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+615	3549250	São João de Iracema	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+616	3549953	São Lourenço da Serra	7.50	% Matriculas em creche na rede privada  exceto conveniadas: 7,50
+617	3548054	Santo Antonio do Aracanguá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+618	3552551	Suzanápolis	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+619	3553856	Taquarivaí	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+620	3553955	Tarumã	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+621	3554656	Torre de Pedra	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+622	3554953	Tuiuti	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+623	3555356	Ubarana	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+624	3556354	Vargem	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+625	3557154	Zacarias	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+626	3503356	Arco Íris	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+627	3507753	Brejo Alegre	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+628	3509957	Canas	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+629	3540853	Pracinha	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+630	3541059	Pratânia	90.00	% Matriculas em creche na rede privada  exceto conveniadas: 90,00
+631	3541653	Quadra	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+632	3546256	Santa Cruz da Esperança	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+633	3547650	Santa Salete	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+634	3556958	Vitória Brasil	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+635	3521150	Ipiguá	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+636	3553658	Taquaral	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+637	3515657	Fernão	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+638	3516853	Gavião Peixoto	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+639	3525854	Jumirim	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+640	3532157	Nantes	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+641	3532868	Nova Castilho	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+642	3534757	Ouroeste	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+643	3536570	Paulistânia	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+644	3543238	Ribeirão dos Índios	-	% Matriculas em creche na rede privada  exceto conveniadas: -
+645	3554755	Trabiju	-	% Matriculas em creche na rede privada  exceto conveniadas: -

@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+2	3500204	Adolfo	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+3	3500303	Aguaí	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+4	3500402	Águas da Prata	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+5	3500501	Águas de Lindóia	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+6	3500600	Águas de São Pedro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+7	3500709	Agudos	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+8	3500808	Alfredo Marcondes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+9	3500907	Altair	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+10	3501004	Altinópolis	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+11	3501103	Alto Alegre	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+12	3501202	Álvares Florence	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+13	3501301	Álvares Machado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+14	3501400	Álvaro de Carvalho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+15	3501509	Alvinlândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+16	3501608	Americana	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+17	3501707	Américo Brasiliense	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+18	3501806	Américo de Campos	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+19	3501905	Amparo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+20	3502002	Analândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+21	3502101	Andradina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+22	3502200	Angatuba	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+23	3502309	Anhembi	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+24	3502408	Anhumas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+25	3502507	Aparecida	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+26	3502606	Aparecida d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+27	3502705	Apiaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+28	3502804	Araçatuba	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+29	3502903	Araçoiaba da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+30	3503000	Aramina	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+31	3503109	Arandu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+32	3503208	Araraquara	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+33	3503307	Araras	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+34	3503406	Arealva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+35	3503505	Areias	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+36	3503604	Areiópolis	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+37	3503703	Ariranha	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+38	3503802	Artur Nogueira	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+39	3503901	Arujá	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+40	3504008	Assis	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+41	3504107	Atibaia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+42	3504206	Auriflama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+43	3504305	Avaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+44	3504404	Avanhandava	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+45	3504503	Avaré	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+46	3504602	Bady Bassitt	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+47	3504701	Balbinos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+48	3504800	Bálsamo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+49	3504909	Bananal	1.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,8
+50	3505005	Barão de Antonina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+51	3505104	Barbosa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+52	3505203	Bariri	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+53	3505302	Barra Bonita	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+54	3505401	Barra do Turvo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+55	3505500	Barretos	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+56	3505609	Barrinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+57	3505708	Barueri	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+58	3505807	Bastos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+59	3505906	Batatais	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+60	3506003	Bauru	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+61	3506102	Bebedouro	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+62	3506201	Bento de Abreu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+63	3506300	Bernardino de Campos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+64	3506409	Bilac	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+65	3506508	Birigui	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+66	3506607	Biritiba Mirim	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+67	3506706	Boa Esperança do Sul	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+68	3506805	Bocaina	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+69	3506904	Bofete	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+70	3507001	Boituva	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+71	3507100	Bom Jesus dos Perdões	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+72	3507209	Borá	1.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,7
+73	3507308	Boracéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+74	3507407	Borborema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+75	3507506	Botucatu	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+76	3507605	Bragança Paulista	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+77	3507704	Braúna	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+78	3507803	Brodowski	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+79	3507902	Brotas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+80	3508009	Buri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+81	3508108	Buritama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+82	3508207	Buritizal	1.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,3
+83	3508306	Cabrália Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+84	3508405	Cabreúva	2.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,8
+85	3508504	Caçapava	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+86	3508603	Cachoeira Paulista	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,2
+87	3508702	Caconde	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+88	3508801	Cafelândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+89	3508900	Caiabu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+90	3509007	Caieiras	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+91	3509106	Caiuá	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+92	3509205	Cajamar	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+93	3509304	Cajobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+94	3509403	Cajuru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+95	3509502	Campinas	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+96	3509601	Campo Limpo Paulista	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+97	3509700	Campos do Jordão	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+98	3509809	Campos Novos Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+99	3509908	Cananéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+100	3510005	Cândido Mota	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+101	3510104	Cândido Rodrigues	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+102	3510203	Capão Bonito	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+103	3510302	Capela do Alto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+104	3510401	Capivari	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+105	3510500	Caraguatatuba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+106	3510609	Carapicuíba	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+107	3510708	Cardoso	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+108	3510807	Casa Branca	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+109	3510906	Cássia dos Coqueiros	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+110	3511003	Castilho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+111	3511102	Catanduva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+112	3511201	Catiguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+113	3511300	Cedral	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+114	3511409	Cerqueira César	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+115	3511508	Cerquilho	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+116	3511607	Cesário Lange	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+117	3511706	Charqueada	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+118	3557204	Chavantes	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+119	3511904	Clementina	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+120	3512001	Colina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+121	3512100	Colômbia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+122	3512209	Conchal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+123	3512308	Conchas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+124	3512407	Cordeirópolis	2.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,3
+125	3512506	Coroados	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+126	3512605	Coronel Macedo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+127	3512704	Corumbataí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+128	3512803	Cosmópolis	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+129	3512902	Cosmorama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+130	3513009	Cotia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+131	3513108	Cravinhos	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+132	3513207	Cristais Paulista	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+133	3513306	Cruzália	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+134	3513405	Cruzeiro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+135	3513504	Cubatão	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+136	3513603	Cunha	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+137	3513702	Descalvado	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+138	3513801	Diadema	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+139	3513900	Divinolândia	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,0
+140	3514007	Dobrada	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+141	3514106	Dois Córregos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+142	3514205	Dolcinópolis	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+143	3514304	Dourado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+144	3514403	Dracena	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+145	3514502	Duartina	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+146	3514601	Dumont	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+147	3514700	Echaporã	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+148	3514809	Eldorado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+149	3514908	Elias Fausto	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+150	3515004	Embu das Artes	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+151	3515103	Embu-Guaçu	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+152	3515202	Estrela d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+153	3515301	Estrela do Norte	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+154	3515400	Fartura	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+155	3515509	Fernandópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+156	3515608	Fernando Prestes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+157	3515707	Ferraz de Vasconcelos	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+158	3515806	Flora Rica	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+159	3515905	Floreal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+160	3516002	Flórida Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+161	3516101	Florínia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+162	3516200	Franca	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+163	3516309	Francisco Morato	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+164	3516408	Franco da Rocha	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+165	3516507	Gabriel Monteiro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+166	3516606	Gália	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+167	3516705	Garça	6.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 6,3
+168	3516804	Gastão Vidigal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+169	3516903	General Salgado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+170	3517000	Getulina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+171	3517109	Glicério	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+172	3517208	Guaiçara	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+173	3517307	Guaimbê	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,1
+174	3517406	Guaíra	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+175	3517505	Guapiaçu	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+176	3517604	Guapiara	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+177	3517703	Guará	1.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,3
+178	3517802	Guaraçaí	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+179	3517901	Guaraci	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+180	3518008	Guarani d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+181	3518107	Guarantã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+182	3518206	Guararapes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+183	3518305	Guararema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+184	3518404	Guaratinguetá	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+185	3518503	Guareí	2.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,1
+186	3518602	Guariba	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+187	3518701	Guarujá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+188	3518800	Guarulhos	6.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 6,0
+189	3518909	Guzolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+190	3519006	Herculândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+191	3519105	Iacanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+192	3519204	Iacri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+193	3519303	Ibaté	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+194	3519402	Ibirá	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+195	3519501	Ibirarema	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+196	3519600	Ibitinga	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+197	3519709	Ibiúna	1.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,8
+198	3519808	Icém	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+199	3519907	Iepê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+200	3520004	Igaraçu do Tietê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+201	3520103	Igarapava	1.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,5
+202	3520202	Igaratá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+203	3520301	Iguape	2.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,1
+204	3520400	Ilhabela	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+205	3520509	Indaiatuba	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+206	3520608	Indiana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+207	3520707	Indiaporã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+208	3520806	Inúbia Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+209	3520905	Ipaussu	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+210	3521002	Iperó	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+211	3521101	Ipeúna	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,2
+212	3521200	Iporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+213	3521309	Ipuã	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+214	3521408	Iracemápolis	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+215	3521507	Irapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+216	3521606	Irapuru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+217	3521705	Itaberá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+218	3521804	Itaí	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+219	3521903	Itajobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+220	3522000	Itaju	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+221	3522109	Itanhaém	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+222	3522208	Itapecerica da Serra	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+223	3522307	Itapetininga	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+224	3522406	Itapeva	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+225	3522505	Itapevi	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+226	3522604	Itapira	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+227	3522703	Itápolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+228	3522802	Itaporanga	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+229	3522901	Itapuí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+230	3523008	Itapura	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+231	3523107	Itaquaquecetuba	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+232	3523206	Itararé	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+233	3523305	Itariri	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+234	3523404	Itatiba	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+235	3523503	Itatinga	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,2
+236	3523602	Itirapina	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+237	3523701	Itirapuã	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+238	3523800	Itobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+239	3523909	Itu	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+240	3524006	Itupeva	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+241	3524105	Ituverava	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+242	3524204	Jaborandi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+243	3524303	Jaboticabal	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+244	3524402	Jacareí	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+245	3524501	Jaci	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+246	3524600	Jacupiranga	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+247	3524709	Jaguariúna	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+248	3524808	Jales	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+249	3524907	Jambeiro	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+250	3525003	Jandira	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+251	3525102	Jardinópolis	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+252	3525201	Jarinu	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+253	3525300	Jaú	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+254	3525409	Jeriquara	2.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,1
+255	3525508	Joanópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+256	3525607	João Ramalho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+257	3525706	José Bonifácio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+258	3525805	Júlio Mesquita	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,1
+259	3525904	Jundiaí	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+260	3526001	Junqueirópolis	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+261	3526100	Juquiá	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+262	3526209	Juquitiba	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+263	3526308	Lagoinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+264	3526407	Laranjal Paulista	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+265	3526506	Lavínia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+266	3526605	Lavrinhas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+267	3526704	Leme	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+268	3526803	Lençóis Paulista	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+269	3526902	Limeira	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+270	3527009	Lindóia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+271	3527108	Lins	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+272	3527207	Lorena	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+273	3527306	Louveira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+274	3527405	Lucélia	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+275	3527504	Lucianópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+276	3527603	Luís Antônio	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+277	3527702	Luiziânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+278	3527801	Lupércio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+279	3527900	Lutécia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+280	3528007	Macatuba	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+281	3528106	Macaubal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+282	3528205	Macedônia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+283	3528304	Magda	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+284	3528403	Mairinque	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+285	3528502	Mairiporã	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+286	3528601	Manduri	1.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,3
+287	3528700	Marabá Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+288	3528809	Maracaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+289	3528908	Mariápolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+290	3529005	Marília	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+291	3529104	Marinópolis	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+292	3529203	Martinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+293	3529302	Matão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+294	3529401	Mauá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+295	3529500	Mendonça	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+296	3529609	Meridiano	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+297	3529708	Miguelópolis	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,1
+298	3529807	Mineiros do Tietê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+299	3529906	Miracatu	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+300	3530003	Mira Estrela	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+301	3530102	Mirandópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+302	3530201	Mirante do Paranapanema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+303	3530300	Mirassol	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+304	3530409	Mirassolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+305	3530508	Mococa	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+306	3530607	Mogi das Cruzes	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+307	3530706	Mogi Guaçu	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+308	3530805	Moji Mirim	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+309	3530904	Mombuca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+310	3531001	Monções	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+311	3531100	Mongaguá	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+312	3531209	Monte Alegre do Sul	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+313	3531308	Monte Alto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+314	3531407	Monte Aprazível	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+315	3531506	Monte Azul Paulista	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+316	3531605	Monte Castelo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+317	3531704	Monteiro Lobato	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+318	3531803	Monte Mor	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+319	3531902	Morro Agudo	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+320	3532009	Morungaba	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+321	3532108	Murutinga do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+322	3532207	Narandiba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+323	3532306	Natividade da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+324	3532405	Nazaré Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+325	3532504	Neves Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+326	3532603	Nhandeara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+327	3532702	Nipoã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+328	3532801	Nova Aliança	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+329	3532900	Nova Europa	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+330	3533007	Nova Granada	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+331	3533106	Nova Guataporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+332	3533205	Nova Independência	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+333	3533304	Nova Luzitânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+334	3533403	Nova Odessa	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+335	3533502	Novo Horizonte	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+336	3533601	Nuporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+337	3533700	Ocauçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+338	3533809	Óleo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+339	3533908	Olímpia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+340	3534005	Onda Verde	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+341	3534104	Oriente	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+342	3534203	Orindiúva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+343	3534302	Orlândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+344	3534401	Osasco	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+345	3534500	Oscar Bressane	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+346	3534609	Osvaldo Cruz	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+347	3534708	Ourinhos	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+348	3534807	Ouro Verde	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+349	3534906	Pacaembu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+350	3535002	Palestina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+351	3535101	Palmares Paulista	1.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,8
+352	3535200	Palmeira d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+353	3535309	Palmital	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+354	3535408	Panorama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+355	3535507	Paraguaçu Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+356	3535606	Paraibuna	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+357	3535705	Paraíso	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+358	3535804	Paranapanema	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+359	3535903	Paranapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+360	3536000	Parapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+361	3536109	Pardinho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+362	3536208	Pariquera-Açu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+363	3536307	Patrocínio Paulista	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+364	3536406	Paulicéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+365	3536505	Paulínia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+366	3536604	Paulo de Faria	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+367	3536703	Pederneiras	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,1
+368	3536802	Pedra Bela	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+369	3536901	Pedranópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+370	3537008	Pedregulho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+371	3537107	Pedreira	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+372	3537206	Pedro de Toledo	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+373	3537305	Penápolis	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+374	3537404	Pereira Barreto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+375	3537503	Pereiras	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+376	3537602	Peruíbe	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+377	3537701	Piacatu	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+378	3537800	Piedade	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+379	3537909	Pilar do Sul	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+380	3538006	Pindamonhangaba	1.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,4
+381	3538105	Pindorama	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+382	3515186	Espírito Santo do Pinhal	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+383	3538204	Pinhalzinho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+384	3538303	Piquerobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+385	3538501	Piquete	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+386	3538600	Piracaia	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+387	3538709	Piracicaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+388	3538808	Piraju	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+389	3538907	Pirajuí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+390	3539004	Pirangi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+391	3539103	Pirapora do Bom Jesus	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+392	3539202	Pirapozinho	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+393	3539301	Pirassununga	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+394	3539400	Piratininga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+395	3539509	Pitangueiras	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,0
+396	3539608	Planalto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+397	3539707	Platina	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+398	3539806	Poá	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+399	3539905	Poloni	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+400	3540002	Pompéia	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+401	3540101	Pongaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+402	3540200	Pontal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+403	3540309	Pontes Gestal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+404	3540408	Populina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+405	3540507	Porangaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+406	3540606	Porto Feliz	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+407	3540705	Porto Ferreira	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+408	3540804	Potirendaba	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+409	3540903	Pradópolis	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+410	3541000	Praia Grande	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+411	3541109	Presidente Alves	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+412	3541208	Presidente Bernardes	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+413	3541307	Presidente Epitácio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+414	3541406	Presidente Prudente	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+415	3541505	Presidente Venceslau	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+416	3541604	Promissão	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+417	3541703	Quatá	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+418	3541802	Queiroz	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+419	3541901	Queluz	2.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,0
+420	3542008	Quintana	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+421	3542107	Rafard	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+422	3542206	Rancharia	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+423	3542305	Redenção da Serra	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+424	3542404	Regente Feijó	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+425	3542503	Reginópolis	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,0
+426	3542602	Registro	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+427	3542701	Restinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+428	3542800	Ribeira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+429	3542909	Ribeirão Bonito	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+430	3543006	Ribeirão Branco	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+431	3543105	Ribeirão Corrente	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+432	3543204	Ribeirão do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+433	3543303	Ribeirão Pires	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+434	3543402	Ribeirão Preto	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+435	3543501	Riversul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+436	3543600	Rifaina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+437	3543709	Rincão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+438	3543808	Rinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+439	3543907	Rio Claro	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+440	3544004	Rio das Pedras	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+441	3544103	Rio Grande da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+442	3544202	Riolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+443	3544301	Roseira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+444	3544400	Rubiácea	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+445	3544509	Rubinéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+446	3544608	Sabino	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+447	3544707	Sagres	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+448	3544806	Sales	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+449	3544905	Sales Oliveira	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+450	3545001	Salesópolis	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+451	3545100	Salmourão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+452	3545209	Salto	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+453	3545308	Salto de Pirapora	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+454	3545407	Salto Grande	1.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,5
+455	3545506	Sandovalina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+456	3545605	Santa Adélia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+457	3545704	Santa Albertina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+458	3545803	Santa Bárbara d'Oeste	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+459	3500550	Águas de Santa Bárbara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+460	3546009	Santa Branca	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+461	3546108	Santa Clara d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+462	3546207	Santa Cruz da Conceição	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+463	3546306	Santa Cruz das Palmeiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+464	3546405	Santa Cruz do Rio Pardo	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+465	3546504	Santa Ernestina	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+466	3546603	Santa Fé do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+467	3546702	Santa Gertrudes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+468	3546801	Santa Isabel	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+469	3546900	Santa Lucia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+470	3547007	Santa Maria da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+471	3547106	Santa Mercedes	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+472	3547403	Santa Rita d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+473	3547502	Santa Rita do Passa Quatro	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+474	3547601	Santa Rosa do Viterbo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+475	3547205	Santana da Ponte Pensa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+476	3547304	Santana de Parnaíba	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+477	3547700	Santo Anastácio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+478	3547809	Santo André	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+479	3547908	Santo Antonio da Alegria	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+480	3548104	Santo Antonio do Jardim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+481	3548203	Santo Antonio do Pinhal	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,2
+482	3548005	Santo Antonio de Posse	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+483	3548302	Santo Expedito	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+484	3548401	Santópolis do Aguapeí	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+485	3548500	Santos	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+486	3548609	São Bento do Sapucaí	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+487	3548708	São Bernardo do Campo	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+488	3548807	São Caetano do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+489	3548906	São Carlos	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+490	3549003	São Francisco	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+491	3549102	São João da Boa Vista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+492	3549201	São João das Duas Pontes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+493	3549300	São João do Pau d'Alho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+494	3549409	São Joaquim da Barra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+495	3549607	São José do Barreiro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+496	3549508	São José da Bela Vista	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,0
+497	3549706	São José do Rio Pardo	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+498	3549805	São José do Rio Preto	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+499	3549904	São José dos Campos	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+500	3550001	São Luís do Paraitinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+501	3550100	São Manuel	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+502	3550209	São Miguel Arcanjo	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+503	3550308	São Paulo	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+504	3550407	São Pedro	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+505	3550506	São Pedro do Turvo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+506	3550605	São Roque	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+507	3550704	São Sebastião	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+508	3550803	São Sebastião da Grama	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,0
+509	3550902	São Simão	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+510	3551009	São Vicente	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+511	3551108	Sarapuí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+512	3551207	Sarutaiá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+513	3551306	Sebastianópolis do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+514	3551405	Serra Azul	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+515	3551603	Serra Negra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+516	3551504	Serrana	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+517	3551702	Sertãozinho	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+518	3551801	Sete Barras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+519	3551900	Severínia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+520	3552007	Silveiras	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,1
+521	3552106	Socorro	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+522	3552205	Sorocaba	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+523	3552304	Sud Mennucci	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+524	3552403	Sumaré	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+525	3552502	Suzano	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+526	3552601	Tabapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+527	3552700	Tabatinga	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,9
+528	3552809	Taboão da Serra	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+529	3552908	Taciba	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,7
+530	3553005	Taguaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+531	3553104	Taiaçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+532	3553203	Taiúva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+533	3553302	Tambaú	2.7	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,7
+534	3553401	Tanabi	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+535	3553500	Tapiraí	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+536	3553609	Tapiratiba	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+537	3553708	Taquaritinga	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+538	3553807	Taquarituba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+539	3553906	Tarabaí	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,8
+540	3554003	Tatuí	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+541	3554102	Taubaté	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+542	3554201	Tejupá	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+543	3554300	Teodoro Sampaio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+544	3554409	Terra Roxa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+545	3554508	Tietê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+546	3554607	Timburi	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+547	3554706	Torrinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+548	3554805	Tremembé	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+549	3554904	Três Fronteiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+550	3555000	Tupã	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+551	3555109	Tupi Paulista	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+552	3555208	Turiúba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+553	3555307	Turmalina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+554	3555406	Ubatuba	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+555	3555505	Ubirajara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+556	3555604	Uchôa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+557	3555703	União Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+558	3555802	Urânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+559	3555901	Uru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+560	3556008	Urupês	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+561	3556107	Valentim Gentil	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+562	3556206	Valinhos	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+563	3556305	Valparaíso	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+564	3556404	Vargem Grande do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+565	3556503	Várzea Paulista	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+566	3556602	Vera Cruz	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+567	3556701	Vinhedo	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+568	3556800	Viradouro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+569	3556909	Vista Alegre do Alto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+570	3557006	Votorantim	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+571	3557105	Votuporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+572	3556453	Vargem Grande Paulista	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+573	3500758	Alambari	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+574	3501152	Alumínio	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+575	3502754	Araçariguama	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+576	3503158	Arapeí	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,5
+577	3503950	Aspásia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+578	3505351	Barra do Chapéu	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+579	3506359	Bertioga	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+580	3507159	Bom Sucesso de Itararé	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+581	3507456	Borebi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+582	3509254	Cajati	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+583	3509452	Campina do Monte Alegre	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+584	3510153	Canitar	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+585	3513850	Dirce Reis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+586	3514924	Elisiário	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+587	3514957	Embaúba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+588	3515129	Emilianópolis	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+589	3515152	Engenheiro Coelho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+590	3515194	Espírito Santo do Turvo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+591	3557303	Estiva Gerbi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+592	3515350	Euclides da Cunha Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+593	3518859	Guatapará	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+594	3519055	Holambra	5.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 5,6
+595	3519071	Hortolândia	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+596	3519253	Iaras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+597	3520426	Ilha Comprida	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+598	3520442	Ilha Solteira	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+599	3522158	Itaóca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+600	3522653	Itapirapuã Paulista	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+601	3527256	Lourdes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+602	3528858	Marapoama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+603	3529658	Mesópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+604	3532058	Motuca	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,3
+605	3532827	Nova Campina	2.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 2,6
+606	3532843	Nova Canaã Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+607	3533254	Novais	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+608	3536257	Parisi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+609	3537156	Pedrinhas Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+610	3540259	Pontalinda	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+611	3540754	Potim	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+612	3543253	Ribeirão Grande	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+613	3544251	Rosana	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+614	3545159	Saltinho	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+615	3549250	São João de Iracema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+616	3549953	São Lourenço da Serra	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,1
+617	3548054	Santo Antonio do Aracanguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+618	3552551	Suzanápolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+619	3553856	Taquarivaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+620	3553955	Tarumã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+621	3554656	Torre de Pedra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+622	3554953	Tuiuti	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+623	3555356	Ubarana	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,4
+624	3556354	Vargem	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,6
+625	3557154	Zacarias	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+626	3503356	Arco Íris	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+627	3507753	Brejo Alegre	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+628	3509957	Canas	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,2
+629	3540853	Pracinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+630	3541059	Pratânia	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 0,2
+631	3541653	Quadra	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,2
+632	3546256	Santa Cruz da Esperança	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+633	3547650	Santa Salete	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+634	3556958	Vitória Brasil	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+635	3521150	Ipiguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+636	3553658	Taquaral	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+637	3515657	Fernão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+638	3516853	Gavião Peixoto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+639	3525854	Jumirim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+640	3532157	Nantes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+641	3532868	Nova Castilho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+642	3534757	Ouroeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+643	3536570	Paulistânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+644	3543238	Ribeirão dos Índios	-	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: -
+645	3554755	Trabiju	1.5	Taxa de Abandono 1ª a 4ª Séries – Rede Municipal: 1,5

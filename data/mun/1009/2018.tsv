@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	1413	População em Idade Escolar de 11 a 14 Anos: 1.413
+2	3500204	Adolfo	164	População em Idade Escolar de 11 a 14 Anos: 164
+3	3500303	Aguaí	1866	População em Idade Escolar de 11 a 14 Anos: 1.866
+4	3500402	Águas da Prata	346	População em Idade Escolar de 11 a 14 Anos: 346
+5	3500501	Águas de Lindóia	821	População em Idade Escolar de 11 a 14 Anos: 821
+6	3500600	Águas de São Pedro	107	População em Idade Escolar de 11 a 14 Anos: 107
+7	3500709	Agudos	1890	População em Idade Escolar de 11 a 14 Anos: 1.890
+8	3500808	Alfredo Marcondes	165	População em Idade Escolar de 11 a 14 Anos: 165
+9	3500907	Altair	228	População em Idade Escolar de 11 a 14 Anos: 228
+10	3501004	Altinópolis	746	População em Idade Escolar de 11 a 14 Anos: 746
+11	3501103	Alto Alegre	175	População em Idade Escolar de 11 a 14 Anos: 175
+12	3501202	Álvares Florence	139	População em Idade Escolar de 11 a 14 Anos: 139
+13	3501301	Álvares Machado	1222	População em Idade Escolar de 11 a 14 Anos: 1.222
+14	3501400	Álvaro de Carvalho	207	População em Idade Escolar de 11 a 14 Anos: 207
+15	3501509	Alvinlândia	171	População em Idade Escolar de 11 a 14 Anos: 171
+16	3501608	Americana	9973	População em Idade Escolar de 11 a 14 Anos: 9.973
+17	3501707	Américo Brasiliense	2099	População em Idade Escolar de 11 a 14 Anos: 2.099
+18	3501806	Américo de Campos	259	População em Idade Escolar de 11 a 14 Anos: 259
+19	3501905	Amparo	3040	População em Idade Escolar de 11 a 14 Anos: 3.040
+20	3502002	Analândia	254	População em Idade Escolar de 11 a 14 Anos: 254
+21	3502101	Andradina	2532	População em Idade Escolar de 11 a 14 Anos: 2.532
+22	3502200	Angatuba	1310	População em Idade Escolar de 11 a 14 Anos: 1.310
+23	3502309	Anhembi	384	População em Idade Escolar de 11 a 14 Anos: 384
+24	3502408	Anhumas	199	População em Idade Escolar de 11 a 14 Anos: 199
+25	3502507	Aparecida	1771	População em Idade Escolar de 11 a 14 Anos: 1.771
+26	3502606	Aparecida d'Oeste	181	População em Idade Escolar de 11 a 14 Anos: 181
+27	3502705	Apiaí	1463	População em Idade Escolar de 11 a 14 Anos: 1.463
+28	3502804	Araçatuba	8409	População em Idade Escolar de 11 a 14 Anos: 8.409
+29	3502903	Araçoiaba da Serra	1585	População em Idade Escolar de 11 a 14 Anos: 1.585
+30	3503000	Aramina	246	População em Idade Escolar de 11 a 14 Anos: 246
+31	3503109	Arandu	319	População em Idade Escolar de 11 a 14 Anos: 319
+32	3503208	Araraquara	9763	População em Idade Escolar de 11 a 14 Anos: 9.763
+33	3503307	Araras	5915	População em Idade Escolar de 11 a 14 Anos: 5.915
+34	3503406	Arealva	376	População em Idade Escolar de 11 a 14 Anos: 376
+35	3503505	Areias	227	População em Idade Escolar de 11 a 14 Anos: 227
+36	3503604	Areiópolis	641	População em Idade Escolar de 11 a 14 Anos: 641
+37	3503703	Ariranha	457	População em Idade Escolar de 11 a 14 Anos: 457
+38	3503802	Artur Nogueira	2704	População em Idade Escolar de 11 a 14 Anos: 2.704
+39	3503901	Arujá	4726	População em Idade Escolar de 11 a 14 Anos: 4.726
+40	3504008	Assis	4609	População em Idade Escolar de 11 a 14 Anos: 4.609
+41	3504107	Atibaia	6779	População em Idade Escolar de 11 a 14 Anos: 6.779
+42	3504206	Auriflama	634	População em Idade Escolar de 11 a 14 Anos: 634
+43	3504305	Avaí	280	População em Idade Escolar de 11 a 14 Anos: 280
+44	3504404	Avanhandava	613	População em Idade Escolar de 11 a 14 Anos: 613
+45	3504503	Avaré	4434	População em Idade Escolar de 11 a 14 Anos: 4.434
+46	3504602	Bady Bassitt	765	População em Idade Escolar de 11 a 14 Anos: 765
+47	3504701	Balbinos	71	População em Idade Escolar de 11 a 14 Anos: 71
+48	3504800	Bálsamo	354	População em Idade Escolar de 11 a 14 Anos: 354
+49	3504909	Bananal	570	População em Idade Escolar de 11 a 14 Anos: 570
+50	3505005	Barão de Antonina	193	População em Idade Escolar de 11 a 14 Anos: 193
+51	3505104	Barbosa	385	População em Idade Escolar de 11 a 14 Anos: 385
+52	3505203	Bariri	1674	População em Idade Escolar de 11 a 14 Anos: 1.674
+53	3505302	Barra Bonita	1508	População em Idade Escolar de 11 a 14 Anos: 1.508
+54	3505401	Barra do Turvo	511	População em Idade Escolar de 11 a 14 Anos: 511
+55	3505500	Barretos	5579	População em Idade Escolar de 11 a 14 Anos: 5.579
+56	3505609	Barrinha	1878	População em Idade Escolar de 11 a 14 Anos: 1.878
+57	3505708	Barueri	14064	População em Idade Escolar de 11 a 14 Anos: 14.064
+58	3505807	Bastos	1066	População em Idade Escolar de 11 a 14 Anos: 1.066
+59	3505906	Batatais	2840	População em Idade Escolar de 11 a 14 Anos: 2.840
+60	3506003	Bauru	17267	População em Idade Escolar de 11 a 14 Anos: 17.267
+61	3506102	Bebedouro	3587	População em Idade Escolar de 11 a 14 Anos: 3.587
+62	3506201	Bento de Abreu	146	População em Idade Escolar de 11 a 14 Anos: 146
+63	3506300	Bernardino de Campos	526	População em Idade Escolar de 11 a 14 Anos: 526
+64	3506409	Bilac	294	População em Idade Escolar de 11 a 14 Anos: 294
+65	3506508	Birigui	5488	População em Idade Escolar de 11 a 14 Anos: 5.488
+66	3506607	Biritiba Mirim	1826	População em Idade Escolar de 11 a 14 Anos: 1.826
+67	3506706	Boa Esperança do Sul	815	População em Idade Escolar de 11 a 14 Anos: 815
+68	3506805	Bocaina	593	População em Idade Escolar de 11 a 14 Anos: 593
+69	3506904	Bofete	602	População em Idade Escolar de 11 a 14 Anos: 602
+70	3507001	Boituva	2892	População em Idade Escolar de 11 a 14 Anos: 2.892
+71	3507100	Bom Jesus dos Perdões	1290	População em Idade Escolar de 11 a 14 Anos: 1.290
+72	3507209	Borá	39	População em Idade Escolar de 11 a 14 Anos: 39
+73	3507308	Boracéia	245	População em Idade Escolar de 11 a 14 Anos: 245
+74	3507407	Borborema	728	População em Idade Escolar de 11 a 14 Anos: 728
+75	3507506	Botucatu	6826	População em Idade Escolar de 11 a 14 Anos: 6.826
+76	3507605	Bragança Paulista	7502	População em Idade Escolar de 11 a 14 Anos: 7.502
+77	3507704	Braúna	259	População em Idade Escolar de 11 a 14 Anos: 259
+78	3507803	Brodowski	1171	População em Idade Escolar de 11 a 14 Anos: 1.171
+79	3507902	Brotas	1209	População em Idade Escolar de 11 a 14 Anos: 1.209
+80	3508009	Buri	1274	População em Idade Escolar de 11 a 14 Anos: 1.274
+81	3508108	Buritama	786	População em Idade Escolar de 11 a 14 Anos: 786
+82	3508207	Buritizal	204	População em Idade Escolar de 11 a 14 Anos: 204
+83	3508306	Cabrália Paulista	247	População em Idade Escolar de 11 a 14 Anos: 247
+84	3508405	Cabreúva	2814	População em Idade Escolar de 11 a 14 Anos: 2.814
+85	3508504	Caçapava	4639	População em Idade Escolar de 11 a 14 Anos: 4.639
+86	3508603	Cachoeira Paulista	1657	População em Idade Escolar de 11 a 14 Anos: 1.657
+87	3508702	Caconde	1027	População em Idade Escolar de 11 a 14 Anos: 1.027
+88	3508801	Cafelândia	826	População em Idade Escolar de 11 a 14 Anos: 826
+89	3508900	Caiabu	189	População em Idade Escolar de 11 a 14 Anos: 189
+90	3509007	Caieiras	5326	População em Idade Escolar de 11 a 14 Anos: 5.326
+91	3509106	Caiuá	264	População em Idade Escolar de 11 a 14 Anos: 264
+92	3509205	Cajamar	4232	População em Idade Escolar de 11 a 14 Anos: 4.232
+93	3509304	Cajobi	467	População em Idade Escolar de 11 a 14 Anos: 467
+94	3509403	Cajuru	1332	População em Idade Escolar de 11 a 14 Anos: 1.332
+95	3509502	Campinas	52233	População em Idade Escolar de 11 a 14 Anos: 52.233
+96	3509601	Campo Limpo Paulista	4363	População em Idade Escolar de 11 a 14 Anos: 4.363
+97	3509700	Campos do Jordão	2733	População em Idade Escolar de 11 a 14 Anos: 2.733
+98	3509809	Campos Novos Paulista	276	População em Idade Escolar de 11 a 14 Anos: 276
+99	3509908	Cananéia	733	População em Idade Escolar de 11 a 14 Anos: 733
+100	3510005	Cândido Mota	1498	População em Idade Escolar de 11 a 14 Anos: 1.498
+101	3510104	Cândido Rodrigues	109	População em Idade Escolar de 11 a 14 Anos: 109
+102	3510203	Capão Bonito	2716	População em Idade Escolar de 11 a 14 Anos: 2.716
+103	3510302	Capela do Alto	1116	População em Idade Escolar de 11 a 14 Anos: 1.116
+104	3510401	Capivari	2843	População em Idade Escolar de 11 a 14 Anos: 2.843
+105	3510500	Caraguatatuba	6205	População em Idade Escolar de 11 a 14 Anos: 6.205
+106	3510609	Carapicuíba	21853	População em Idade Escolar de 11 a 14 Anos: 21.853
+107	3510708	Cardoso	581	População em Idade Escolar de 11 a 14 Anos: 581
+108	3510807	Casa Branca	1363	População em Idade Escolar de 11 a 14 Anos: 1.363
+109	3510906	Cássia dos Coqueiros	127	População em Idade Escolar de 11 a 14 Anos: 127
+110	3511003	Castilho	1047	População em Idade Escolar de 11 a 14 Anos: 1.047
+111	3511102	Catanduva	5116	População em Idade Escolar de 11 a 14 Anos: 5.116
+112	3511201	Catiguá	370	População em Idade Escolar de 11 a 14 Anos: 370
+113	3511300	Cedral	383	População em Idade Escolar de 11 a 14 Anos: 383
+114	3511409	Cerqueira César	1041	População em Idade Escolar de 11 a 14 Anos: 1.041
+115	3511508	Cerquilho	2140	População em Idade Escolar de 11 a 14 Anos: 2.140
+116	3511607	Cesário Lange	873	População em Idade Escolar de 11 a 14 Anos: 873
+117	3511706	Charqueada	860	População em Idade Escolar de 11 a 14 Anos: 860
+118	3557204	Chavantes	653	População em Idade Escolar de 11 a 14 Anos: 653
+119	3511904	Clementina	443	População em Idade Escolar de 11 a 14 Anos: 443
+120	3512001	Colina	862	População em Idade Escolar de 11 a 14 Anos: 862
+121	3512100	Colômbia	305	População em Idade Escolar de 11 a 14 Anos: 305
+122	3512209	Conchal	1475	População em Idade Escolar de 11 a 14 Anos: 1.475
+123	3512308	Conchas	937	População em Idade Escolar de 11 a 14 Anos: 937
+124	3512407	Cordeirópolis	1193	População em Idade Escolar de 11 a 14 Anos: 1.193
+125	3512506	Coroados	287	População em Idade Escolar de 11 a 14 Anos: 287
+126	3512605	Coronel Macedo	278	População em Idade Escolar de 11 a 14 Anos: 278
+127	3512704	Corumbataí	203	População em Idade Escolar de 11 a 14 Anos: 203
+128	3512803	Cosmópolis	3737	População em Idade Escolar de 11 a 14 Anos: 3.737
+129	3512902	Cosmorama	300	População em Idade Escolar de 11 a 14 Anos: 300
+130	3513009	Cotia	13049	População em Idade Escolar de 11 a 14 Anos: 13.049
+131	3513108	Cravinhos	1736	População em Idade Escolar de 11 a 14 Anos: 1.736
+132	3513207	Cristais Paulista	423	População em Idade Escolar de 11 a 14 Anos: 423
+133	3513306	Cruzália	92	População em Idade Escolar de 11 a 14 Anos: 92
+134	3513405	Cruzeiro	4076	População em Idade Escolar de 11 a 14 Anos: 4.076
+135	3513504	Cubatão	7285	População em Idade Escolar de 11 a 14 Anos: 7.285
+136	3513603	Cunha	1087	População em Idade Escolar de 11 a 14 Anos: 1.087
+137	3513702	Descalvado	1483	População em Idade Escolar de 11 a 14 Anos: 1.483
+138	3513801	Diadema	21474	População em Idade Escolar de 11 a 14 Anos: 21.474
+139	3513900	Divinolândia	449	População em Idade Escolar de 11 a 14 Anos: 449
+140	3514007	Dobrada	511	População em Idade Escolar de 11 a 14 Anos: 511
+141	3514106	Dois Córregos	1426	População em Idade Escolar de 11 a 14 Anos: 1.426
+142	3514205	Dolcinópolis	90	População em Idade Escolar de 11 a 14 Anos: 90
+143	3514304	Dourado	392	População em Idade Escolar de 11 a 14 Anos: 392
+144	3514403	Dracena	1845	População em Idade Escolar de 11 a 14 Anos: 1.845
+145	3514502	Duartina	563	População em Idade Escolar de 11 a 14 Anos: 563
+146	3514601	Dumont	478	População em Idade Escolar de 11 a 14 Anos: 478
+147	3514700	Echaporã	318	População em Idade Escolar de 11 a 14 Anos: 318
+148	3514809	Eldorado	976	População em Idade Escolar de 11 a 14 Anos: 976
+149	3514908	Elias Fausto	916	População em Idade Escolar de 11 a 14 Anos: 916
+150	3515004	Embu das Artes	15208	População em Idade Escolar de 11 a 14 Anos: 15.208
+151	3515103	Embu-Guaçu	3868	População em Idade Escolar de 11 a 14 Anos: 3.868
+152	3515202	Estrela d'Oeste	361	População em Idade Escolar de 11 a 14 Anos: 361
+153	3515301	Estrela do Norte	146	População em Idade Escolar de 11 a 14 Anos: 146
+154	3515400	Fartura	793	População em Idade Escolar de 11 a 14 Anos: 793
+155	3515509	Fernandópolis	2810	População em Idade Escolar de 11 a 14 Anos: 2.810
+156	3515608	Fernando Prestes	249	População em Idade Escolar de 11 a 14 Anos: 249
+157	3515707	Ferraz de Vasconcelos	10848	População em Idade Escolar de 11 a 14 Anos: 10.848
+158	3515806	Flora Rica	64	População em Idade Escolar de 11 a 14 Anos: 64
+159	3515905	Floreal	96	População em Idade Escolar de 11 a 14 Anos: 96
+160	3516002	Flórida Paulista	570	População em Idade Escolar de 11 a 14 Anos: 570
+161	3516101	Florínia	136	População em Idade Escolar de 11 a 14 Anos: 136
+162	3516200	Franca	17487	População em Idade Escolar de 11 a 14 Anos: 17.487
+163	3516309	Francisco Morato	10753	População em Idade Escolar de 11 a 14 Anos: 10.753
+164	3516408	Franco da Rocha	8021	População em Idade Escolar de 11 a 14 Anos: 8.021
+165	3516507	Gabriel Monteiro	113	População em Idade Escolar de 11 a 14 Anos: 113
+166	3516606	Gália	315	População em Idade Escolar de 11 a 14 Anos: 315
+167	3516705	Garça	2117	População em Idade Escolar de 11 a 14 Anos: 2.117
+168	3516804	Gastão Vidigal	227	População em Idade Escolar de 11 a 14 Anos: 227
+169	3516903	General Salgado	481	População em Idade Escolar de 11 a 14 Anos: 481
+170	3517000	Getulina	506	População em Idade Escolar de 11 a 14 Anos: 506
+171	3517109	Glicério	248	População em Idade Escolar de 11 a 14 Anos: 248
+172	3517208	Guaiçara	620	População em Idade Escolar de 11 a 14 Anos: 620
+173	3517307	Guaimbê	307	População em Idade Escolar de 11 a 14 Anos: 307
+174	3517406	Guaíra	1961	População em Idade Escolar de 11 a 14 Anos: 1.961
+175	3517505	Guapiaçu	915	População em Idade Escolar de 11 a 14 Anos: 915
+176	3517604	Guapiara	1032	População em Idade Escolar de 11 a 14 Anos: 1.032
+177	3517703	Guará	1264	População em Idade Escolar de 11 a 14 Anos: 1.264
+178	3517802	Guaraçaí	373	População em Idade Escolar de 11 a 14 Anos: 373
+179	3517901	Guaraci	574	População em Idade Escolar de 11 a 14 Anos: 574
+180	3518008	Guarani d'Oeste	98	População em Idade Escolar de 11 a 14 Anos: 98
+181	3518107	Guarantã	380	População em Idade Escolar de 11 a 14 Anos: 380
+182	3518206	Guararapes	1477	População em Idade Escolar de 11 a 14 Anos: 1.477
+183	3518305	Guararema	1460	População em Idade Escolar de 11 a 14 Anos: 1.460
+184	3518404	Guaratinguetá	5494	População em Idade Escolar de 11 a 14 Anos: 5.494
+185	3518503	Guareí	669	População em Idade Escolar de 11 a 14 Anos: 669
+186	3518602	Guariba	2143	População em Idade Escolar de 11 a 14 Anos: 2.143
+187	3518701	Guarujá	17606	População em Idade Escolar de 11 a 14 Anos: 17.606
+188	3518800	Guarulhos	73041	População em Idade Escolar de 11 a 14 Anos: 73.041
+189	3518909	Guzolândia	271	População em Idade Escolar de 11 a 14 Anos: 271
+190	3519006	Herculândia	490	População em Idade Escolar de 11 a 14 Anos: 490
+191	3519105	Iacanga	534	População em Idade Escolar de 11 a 14 Anos: 534
+192	3519204	Iacri	316	População em Idade Escolar de 11 a 14 Anos: 316
+193	3519303	Ibaté	1871	População em Idade Escolar de 11 a 14 Anos: 1.871
+194	3519402	Ibirá	543	População em Idade Escolar de 11 a 14 Anos: 543
+195	3519501	Ibirarema	391	População em Idade Escolar de 11 a 14 Anos: 391
+196	3519600	Ibitinga	2693	População em Idade Escolar de 11 a 14 Anos: 2.693
+197	3519709	Ibiúna	4300	População em Idade Escolar de 11 a 14 Anos: 4.300
+198	3519808	Icém	417	População em Idade Escolar de 11 a 14 Anos: 417
+199	3519907	Iepê	392	População em Idade Escolar de 11 a 14 Anos: 392
+200	3520004	Igaraçu do Tietê	1253	População em Idade Escolar de 11 a 14 Anos: 1.253
+201	3520103	Igarapava	1502	População em Idade Escolar de 11 a 14 Anos: 1.502
+202	3520202	Igaratá	503	População em Idade Escolar de 11 a 14 Anos: 503
+203	3520301	Iguape	1714	População em Idade Escolar de 11 a 14 Anos: 1.714
+204	3520400	Ilhabela	1813	População em Idade Escolar de 11 a 14 Anos: 1.813
+205	3520509	Indaiatuba	11465	População em Idade Escolar de 11 a 14 Anos: 11.465
+206	3520608	Indiana	216	População em Idade Escolar de 11 a 14 Anos: 216
+207	3520707	Indiaporã	156	População em Idade Escolar de 11 a 14 Anos: 156
+208	3520806	Inúbia Paulista	178	População em Idade Escolar de 11 a 14 Anos: 178
+209	3520905	Ipaussu	811	População em Idade Escolar de 11 a 14 Anos: 811
+210	3521002	Iperó	1871	População em Idade Escolar de 11 a 14 Anos: 1.871
+211	3521101	Ipeúna	416	População em Idade Escolar de 11 a 14 Anos: 416
+212	3521200	Iporanga	269	População em Idade Escolar de 11 a 14 Anos: 269
+213	3521309	Ipuã	864	População em Idade Escolar de 11 a 14 Anos: 864
+214	3521408	Iracemápolis	1137	População em Idade Escolar de 11 a 14 Anos: 1.137
+215	3521507	Irapuã	392	População em Idade Escolar de 11 a 14 Anos: 392
+216	3521606	Irapuru	283	População em Idade Escolar de 11 a 14 Anos: 283
+217	3521705	Itaberá	970	População em Idade Escolar de 11 a 14 Anos: 970
+218	3521804	Itaí	1416	População em Idade Escolar de 11 a 14 Anos: 1.416
+219	3521903	Itajobi	610	População em Idade Escolar de 11 a 14 Anos: 610
+220	3522000	Itaju	187	População em Idade Escolar de 11 a 14 Anos: 187
+221	3522109	Itanhaém	5498	População em Idade Escolar de 11 a 14 Anos: 5.498
+222	3522208	Itapecerica da Serra	9633	População em Idade Escolar de 11 a 14 Anos: 9.633
+223	3522307	Itapetininga	8492	População em Idade Escolar de 11 a 14 Anos: 8.492
+224	3522406	Itapeva	5361	População em Idade Escolar de 11 a 14 Anos: 5.361
+225	3522505	Itapevi	13975	População em Idade Escolar de 11 a 14 Anos: 13.975
+226	3522604	Itapira	3036	População em Idade Escolar de 11 a 14 Anos: 3.036
+227	3522703	Itápolis	1882	População em Idade Escolar de 11 a 14 Anos: 1.882
+228	3522802	Itaporanga	843	População em Idade Escolar de 11 a 14 Anos: 843
+229	3522901	Itapuí	746	População em Idade Escolar de 11 a 14 Anos: 746
+230	3523008	Itapura	253	População em Idade Escolar de 11 a 14 Anos: 253
+231	3523107	Itaquaquecetuba	22373	População em Idade Escolar de 11 a 14 Anos: 22.373
+232	3523206	Itararé	2754	População em Idade Escolar de 11 a 14 Anos: 2.754
+233	3523305	Itariri	1136	População em Idade Escolar de 11 a 14 Anos: 1.136
+234	3523404	Itatiba	5476	População em Idade Escolar de 11 a 14 Anos: 5.476
+235	3523503	Itatinga	1209	População em Idade Escolar de 11 a 14 Anos: 1.209
+236	3523602	Itirapina	762	População em Idade Escolar de 11 a 14 Anos: 762
+237	3523701	Itirapuã	370	População em Idade Escolar de 11 a 14 Anos: 370
+238	3523800	Itobi	395	População em Idade Escolar de 11 a 14 Anos: 395
+239	3523909	Itu	8401	População em Idade Escolar de 11 a 14 Anos: 8.401
+240	3524006	Itupeva	3090	População em Idade Escolar de 11 a 14 Anos: 3.090
+241	3524105	Ituverava	1917	População em Idade Escolar de 11 a 14 Anos: 1.917
+242	3524204	Jaborandi	338	População em Idade Escolar de 11 a 14 Anos: 338
+243	3524303	Jaboticabal	3486	População em Idade Escolar de 11 a 14 Anos: 3.486
+244	3524402	Jacareí	11602	População em Idade Escolar de 11 a 14 Anos: 11.602
+245	3524501	Jaci	326	População em Idade Escolar de 11 a 14 Anos: 326
+246	3524600	Jacupiranga	1071	População em Idade Escolar de 11 a 14 Anos: 1.071
+247	3524709	Jaguariúna	2561	População em Idade Escolar de 11 a 14 Anos: 2.561
+248	3524808	Jales	2013	População em Idade Escolar de 11 a 14 Anos: 2.013
+249	3524907	Jambeiro	318	População em Idade Escolar de 11 a 14 Anos: 318
+250	3525003	Jandira	6869	População em Idade Escolar de 11 a 14 Anos: 6.869
+251	3525102	Jardinópolis	2314	População em Idade Escolar de 11 a 14 Anos: 2.314
+252	3525201	Jarinu	1526	População em Idade Escolar de 11 a 14 Anos: 1.526
+253	3525300	Jaú	6992	População em Idade Escolar de 11 a 14 Anos: 6.992
+254	3525409	Jeriquara	195	População em Idade Escolar de 11 a 14 Anos: 195
+255	3525508	Joanópolis	611	População em Idade Escolar de 11 a 14 Anos: 611
+256	3525607	João Ramalho	243	População em Idade Escolar de 11 a 14 Anos: 243
+257	3525706	José Bonifácio	1660	População em Idade Escolar de 11 a 14 Anos: 1.660
+258	3525805	Júlio Mesquita	241	População em Idade Escolar de 11 a 14 Anos: 241
+259	3525904	Jundiaí	18190	População em Idade Escolar de 11 a 14 Anos: 18.190
+260	3526001	Junqueirópolis	854	População em Idade Escolar de 11 a 14 Anos: 854
+261	3526100	Juquiá	1124	População em Idade Escolar de 11 a 14 Anos: 1.124
+262	3526209	Juquitiba	1817	População em Idade Escolar de 11 a 14 Anos: 1.817
+263	3526308	Lagoinha	230	População em Idade Escolar de 11 a 14 Anos: 230
+264	3526407	Laranjal Paulista	1318	População em Idade Escolar de 11 a 14 Anos: 1.318
+265	3526506	Lavínia	227	População em Idade Escolar de 11 a 14 Anos: 227
+266	3526605	Lavrinhas	420	População em Idade Escolar de 11 a 14 Anos: 420
+267	3526704	Leme	5226	População em Idade Escolar de 11 a 14 Anos: 5.226
+268	3526803	Lençóis Paulista	3399	População em Idade Escolar de 11 a 14 Anos: 3.399
+269	3526902	Limeira	14160	População em Idade Escolar de 11 a 14 Anos: 14.160
+270	3527009	Lindóia	381	População em Idade Escolar de 11 a 14 Anos: 381
+271	3527108	Lins	3432	População em Idade Escolar de 11 a 14 Anos: 3.432
+272	3527207	Lorena	4446	População em Idade Escolar de 11 a 14 Anos: 4.446
+273	3527306	Louveira	2369	População em Idade Escolar de 11 a 14 Anos: 2.369
+274	3527405	Lucélia	961	População em Idade Escolar de 11 a 14 Anos: 961
+275	3527504	Lucianópolis	119	População em Idade Escolar de 11 a 14 Anos: 119
+276	3527603	Luís Antônio	768	População em Idade Escolar de 11 a 14 Anos: 768
+277	3527702	Luiziânia	272	População em Idade Escolar de 11 a 14 Anos: 272
+278	3527801	Lupércio	242	População em Idade Escolar de 11 a 14 Anos: 242
+279	3527900	Lutécia	134	População em Idade Escolar de 11 a 14 Anos: 134
+280	3528007	Macatuba	902	População em Idade Escolar de 11 a 14 Anos: 902
+281	3528106	Macaubal	338	População em Idade Escolar de 11 a 14 Anos: 338
+282	3528205	Macedônia	162	População em Idade Escolar de 11 a 14 Anos: 162
+283	3528304	Magda	127	População em Idade Escolar de 11 a 14 Anos: 127
+284	3528403	Mairinque	2532	População em Idade Escolar de 11 a 14 Anos: 2.532
+285	3528502	Mairiporã	4789	População em Idade Escolar de 11 a 14 Anos: 4.789
+286	3528601	Manduri	495	População em Idade Escolar de 11 a 14 Anos: 495
+287	3528700	Marabá Paulista	192	População em Idade Escolar de 11 a 14 Anos: 192
+288	3528809	Maracaí	676	População em Idade Escolar de 11 a 14 Anos: 676
+289	3528908	Mariápolis	191	População em Idade Escolar de 11 a 14 Anos: 191
+290	3529005	Marília	10474	População em Idade Escolar de 11 a 14 Anos: 10.474
+291	3529104	Marinópolis	92	População em Idade Escolar de 11 a 14 Anos: 92
+292	3529203	Martinópolis	1200	População em Idade Escolar de 11 a 14 Anos: 1.200
+293	3529302	Matão	3651	População em Idade Escolar de 11 a 14 Anos: 3.651
+294	3529401	Mauá	23750	População em Idade Escolar de 11 a 14 Anos: 23.750
+295	3529500	Mendonça	211	População em Idade Escolar de 11 a 14 Anos: 211
+296	3529609	Meridiano	170	População em Idade Escolar de 11 a 14 Anos: 170
+297	3529708	Miguelópolis	1212	População em Idade Escolar de 11 a 14 Anos: 1.212
+298	3529807	Mineiros do Tietê	656	População em Idade Escolar de 11 a 14 Anos: 656
+299	3529906	Miracatu	1293	População em Idade Escolar de 11 a 14 Anos: 1.293
+300	3530003	Mira Estrela	130	População em Idade Escolar de 11 a 14 Anos: 130
+301	3530102	Mirandópolis	1123	População em Idade Escolar de 11 a 14 Anos: 1.123
+302	3530201	Mirante do Paranapanema	923	População em Idade Escolar de 11 a 14 Anos: 923
+303	3530300	Mirassol	2597	População em Idade Escolar de 11 a 14 Anos: 2.597
+304	3530409	Mirassolândia	226	População em Idade Escolar de 11 a 14 Anos: 226
+305	3530508	Mococa	3229	População em Idade Escolar de 11 a 14 Anos: 3.229
+306	3530607	Mogi das Cruzes	23182	População em Idade Escolar de 11 a 14 Anos: 23.182
+307	3530706	Mogi Guaçu	6950	População em Idade Escolar de 11 a 14 Anos: 6.950
+308	3530805	Moji Mirim	4183	População em Idade Escolar de 11 a 14 Anos: 4.183
+309	3530904	Mombuca	189	População em Idade Escolar de 11 a 14 Anos: 189
+310	3531001	Monções	91	População em Idade Escolar de 11 a 14 Anos: 91
+311	3531100	Mongaguá	2931	População em Idade Escolar de 11 a 14 Anos: 2.931
+312	3531209	Monte Alegre do Sul	341	População em Idade Escolar de 11 a 14 Anos: 341
+313	3531308	Monte Alto	2090	População em Idade Escolar de 11 a 14 Anos: 2.090
+314	3531407	Monte Aprazível	1062	População em Idade Escolar de 11 a 14 Anos: 1.062
+315	3531506	Monte Azul Paulista	855	População em Idade Escolar de 11 a 14 Anos: 855
+316	3531605	Monte Castelo	167	População em Idade Escolar de 11 a 14 Anos: 167
+317	3531704	Monteiro Lobato	234	População em Idade Escolar de 11 a 14 Anos: 234
+318	3531803	Monte Mor	3077	População em Idade Escolar de 11 a 14 Anos: 3.077
+319	3531902	Morro Agudo	1809	População em Idade Escolar de 11 a 14 Anos: 1.809
+320	3532009	Morungaba	652	População em Idade Escolar de 11 a 14 Anos: 652
+321	3532108	Murutinga do Sul	181	População em Idade Escolar de 11 a 14 Anos: 181
+322	3532207	Narandiba	256	População em Idade Escolar de 11 a 14 Anos: 256
+323	3532306	Natividade da Serra	330	População em Idade Escolar de 11 a 14 Anos: 330
+324	3532405	Nazaré Paulista	871	População em Idade Escolar de 11 a 14 Anos: 871
+325	3532504	Neves Paulista	325	População em Idade Escolar de 11 a 14 Anos: 325
+326	3532603	Nhandeara	426	População em Idade Escolar de 11 a 14 Anos: 426
+327	3532702	Nipoã	240	População em Idade Escolar de 11 a 14 Anos: 240
+328	3532801	Nova Aliança	298	População em Idade Escolar de 11 a 14 Anos: 298
+329	3532900	Nova Europa	595	População em Idade Escolar de 11 a 14 Anos: 595
+330	3533007	Nova Granada	975	População em Idade Escolar de 11 a 14 Anos: 975
+331	3533106	Nova Guataporanga	101	População em Idade Escolar de 11 a 14 Anos: 101
+332	3533205	Nova Independência	202	População em Idade Escolar de 11 a 14 Anos: 202
+333	3533304	Nova Luzitânia	204	População em Idade Escolar de 11 a 14 Anos: 204
+334	3533403	Nova Odessa	2703	População em Idade Escolar de 11 a 14 Anos: 2.703
+335	3533502	Novo Horizonte	1896	População em Idade Escolar de 11 a 14 Anos: 1.896
+336	3533601	Nuporanga	347	População em Idade Escolar de 11 a 14 Anos: 347
+337	3533700	Ocauçu	224	População em Idade Escolar de 11 a 14 Anos: 224
+338	3533809	Óleo	128	População em Idade Escolar de 11 a 14 Anos: 128
+339	3533908	Olímpia	2542	População em Idade Escolar de 11 a 14 Anos: 2.542
+340	3534005	Onda Verde	219	População em Idade Escolar de 11 a 14 Anos: 219
+341	3534104	Oriente	281	População em Idade Escolar de 11 a 14 Anos: 281
+342	3534203	Orindiúva	360	População em Idade Escolar de 11 a 14 Anos: 360
+343	3534302	Orlândia	2029	População em Idade Escolar de 11 a 14 Anos: 2.029
+344	3534401	Osasco	34649	População em Idade Escolar de 11 a 14 Anos: 34.649
+345	3534500	Oscar Bressane	112	População em Idade Escolar de 11 a 14 Anos: 112
+346	3534609	Osvaldo Cruz	1276	População em Idade Escolar de 11 a 14 Anos: 1.276
+347	3534708	Ourinhos	5486	População em Idade Escolar de 11 a 14 Anos: 5.486
+348	3534807	Ouro Verde	444	População em Idade Escolar de 11 a 14 Anos: 444
+349	3534906	Pacaembu	497	População em Idade Escolar de 11 a 14 Anos: 497
+350	3535002	Palestina	539	População em Idade Escolar de 11 a 14 Anos: 539
+351	3535101	Palmares Paulista	692	População em Idade Escolar de 11 a 14 Anos: 692
+352	3535200	Palmeira d'Oeste	404	População em Idade Escolar de 11 a 14 Anos: 404
+353	3535309	Palmital	1003	População em Idade Escolar de 11 a 14 Anos: 1.003
+354	3535408	Panorama	883	População em Idade Escolar de 11 a 14 Anos: 883
+355	3535507	Paraguaçu Paulista	2214	População em Idade Escolar de 11 a 14 Anos: 2.214
+356	3535606	Paraibuna	932	População em Idade Escolar de 11 a 14 Anos: 932
+357	3535705	Paraíso	300	População em Idade Escolar de 11 a 14 Anos: 300
+358	3535804	Paranapanema	1090	População em Idade Escolar de 11 a 14 Anos: 1.090
+359	3535903	Paranapuã	184	População em Idade Escolar de 11 a 14 Anos: 184
+360	3536000	Parapuã	497	População em Idade Escolar de 11 a 14 Anos: 497
+361	3536109	Pardinho	349	População em Idade Escolar de 11 a 14 Anos: 349
+362	3536208	Pariquera-Açu	1053	População em Idade Escolar de 11 a 14 Anos: 1.053
+363	3536307	Patrocínio Paulista	779	População em Idade Escolar de 11 a 14 Anos: 779
+364	3536406	Paulicéia	379	População em Idade Escolar de 11 a 14 Anos: 379
+365	3536505	Paulínia	5220	População em Idade Escolar de 11 a 14 Anos: 5.220
+366	3536604	Paulo de Faria	444	População em Idade Escolar de 11 a 14 Anos: 444
+367	3536703	Pederneiras	2374	População em Idade Escolar de 11 a 14 Anos: 2.374
+368	3536802	Pedra Bela	280	População em Idade Escolar de 11 a 14 Anos: 280
+369	3536901	Pedranópolis	113	População em Idade Escolar de 11 a 14 Anos: 113
+370	3537008	Pedregulho	881	População em Idade Escolar de 11 a 14 Anos: 881
+371	3537107	Pedreira	2110	População em Idade Escolar de 11 a 14 Anos: 2.110
+372	3537206	Pedro de Toledo	677	População em Idade Escolar de 11 a 14 Anos: 677
+373	3537305	Penápolis	2866	População em Idade Escolar de 11 a 14 Anos: 2.866
+374	3537404	Pereira Barreto	1271	População em Idade Escolar de 11 a 14 Anos: 1.271
+375	3537503	Pereiras	437	População em Idade Escolar de 11 a 14 Anos: 437
+376	3537602	Peruíbe	3616	População em Idade Escolar de 11 a 14 Anos: 3.616
+377	3537701	Piacatu	272	População em Idade Escolar de 11 a 14 Anos: 272
+378	3537800	Piedade	2779	População em Idade Escolar de 11 a 14 Anos: 2.779
+379	3537909	Pilar do Sul	1525	População em Idade Escolar de 11 a 14 Anos: 1.525
+380	3538006	Pindamonhangaba	8443	População em Idade Escolar de 11 a 14 Anos: 8.443
+381	3538105	Pindorama	737	População em Idade Escolar de 11 a 14 Anos: 737
+382	3515186	Espírito Santo do Pinhal	1935	População em Idade Escolar de 11 a 14 Anos: 1.935
+383	3538204	Pinhalzinho	703	População em Idade Escolar de 11 a 14 Anos: 703
+384	3538303	Piquerobi	170	População em Idade Escolar de 11 a 14 Anos: 170
+385	3538501	Piquete	688	População em Idade Escolar de 11 a 14 Anos: 688
+386	3538600	Piracaia	1265	População em Idade Escolar de 11 a 14 Anos: 1.265
+387	3538709	Piracicaba	18512	População em Idade Escolar de 11 a 14 Anos: 18.512
+388	3538808	Piraju	1444	População em Idade Escolar de 11 a 14 Anos: 1.444
+389	3538907	Pirajuí	960	População em Idade Escolar de 11 a 14 Anos: 960
+390	3539004	Pirangi	460	População em Idade Escolar de 11 a 14 Anos: 460
+391	3539103	Pirapora do Bom Jesus	1173	População em Idade Escolar de 11 a 14 Anos: 1.173
+392	3539202	Pirapozinho	1272	População em Idade Escolar de 11 a 14 Anos: 1.272
+393	3539301	Pirassununga	3505	População em Idade Escolar de 11 a 14 Anos: 3.505
+394	3539400	Piratininga	608	População em Idade Escolar de 11 a 14 Anos: 608
+395	3539509	Pitangueiras	2215	População em Idade Escolar de 11 a 14 Anos: 2.215
+396	3539608	Planalto	275	População em Idade Escolar de 11 a 14 Anos: 275
+397	3539707	Platina	192	População em Idade Escolar de 11 a 14 Anos: 192
+398	3539806	Poá	6144	População em Idade Escolar de 11 a 14 Anos: 6.144
+399	3539905	Poloni	268	População em Idade Escolar de 11 a 14 Anos: 268
+400	3540002	Pompéia	993	População em Idade Escolar de 11 a 14 Anos: 993
+401	3540101	Pongaí	134	População em Idade Escolar de 11 a 14 Anos: 134
+402	3540200	Pontal	2741	População em Idade Escolar de 11 a 14 Anos: 2.741
+403	3540309	Pontes Gestal	119	População em Idade Escolar de 11 a 14 Anos: 119
+404	3540408	Populina	187	População em Idade Escolar de 11 a 14 Anos: 187
+405	3540507	Porangaba	455	População em Idade Escolar de 11 a 14 Anos: 455
+406	3540606	Porto Feliz	2600	População em Idade Escolar de 11 a 14 Anos: 2.600
+407	3540705	Porto Ferreira	2728	População em Idade Escolar de 11 a 14 Anos: 2.728
+408	3540804	Potirendaba	746	População em Idade Escolar de 11 a 14 Anos: 746
+409	3540903	Pradópolis	1061	População em Idade Escolar de 11 a 14 Anos: 1.061
+410	3541000	Praia Grande	16717	População em Idade Escolar de 11 a 14 Anos: 16.717
+411	3541109	Presidente Alves	196	População em Idade Escolar de 11 a 14 Anos: 196
+412	3541208	Presidente Bernardes	567	População em Idade Escolar de 11 a 14 Anos: 567
+413	3541307	Presidente Epitácio	2250	População em Idade Escolar de 11 a 14 Anos: 2.250
+414	3541406	Presidente Prudente	10261	População em Idade Escolar de 11 a 14 Anos: 10.261
+415	3541505	Presidente Venceslau	1659	População em Idade Escolar de 11 a 14 Anos: 1.659
+416	3541604	Promissão	2015	População em Idade Escolar de 11 a 14 Anos: 2.015
+417	3541703	Quatá	729	População em Idade Escolar de 11 a 14 Anos: 729
+418	3541802	Queiroz	190	População em Idade Escolar de 11 a 14 Anos: 190
+419	3541901	Queluz	697	População em Idade Escolar de 11 a 14 Anos: 697
+420	3542008	Quintana	299	População em Idade Escolar de 11 a 14 Anos: 299
+421	3542107	Rafard	457	População em Idade Escolar de 11 a 14 Anos: 457
+422	3542206	Rancharia	1466	População em Idade Escolar de 11 a 14 Anos: 1.466
+423	3542305	Redenção da Serra	212	População em Idade Escolar de 11 a 14 Anos: 212
+424	3542404	Regente Feijó	941	População em Idade Escolar de 11 a 14 Anos: 941
+425	3542503	Reginópolis	280	População em Idade Escolar de 11 a 14 Anos: 280
+426	3542602	Registro	3090	População em Idade Escolar de 11 a 14 Anos: 3.090
+427	3542701	Restinga	443	População em Idade Escolar de 11 a 14 Anos: 443
+428	3542800	Ribeira	201	População em Idade Escolar de 11 a 14 Anos: 201
+429	3542909	Ribeirão Bonito	729	População em Idade Escolar de 11 a 14 Anos: 729
+430	3543006	Ribeirão Branco	1186	População em Idade Escolar de 11 a 14 Anos: 1.186
+431	3543105	Ribeirão Corrente	268	População em Idade Escolar de 11 a 14 Anos: 268
+432	3543204	Ribeirão do Sul	208	População em Idade Escolar de 11 a 14 Anos: 208
+433	3543303	Ribeirão Pires	5689	População em Idade Escolar de 11 a 14 Anos: 5.689
+434	3543402	Ribeirão Preto	30588	População em Idade Escolar de 11 a 14 Anos: 30.588
+435	3543501	Riversul	336	População em Idade Escolar de 11 a 14 Anos: 336
+436	3543600	Rifaina	178	População em Idade Escolar de 11 a 14 Anos: 178
+437	3543709	Rincão	602	População em Idade Escolar de 11 a 14 Anos: 602
+438	3543808	Rinópolis	470	População em Idade Escolar de 11 a 14 Anos: 470
+439	3543907	Rio Claro	9190	População em Idade Escolar de 11 a 14 Anos: 9.190
+440	3544004	Rio das Pedras	1818	População em Idade Escolar de 11 a 14 Anos: 1.818
+441	3544103	Rio Grande da Serra	2803	População em Idade Escolar de 11 a 14 Anos: 2.803
+442	3544202	Riolândia	580	População em Idade Escolar de 11 a 14 Anos: 580
+443	3544301	Roseira	556	População em Idade Escolar de 11 a 14 Anos: 556
+444	3544400	Rubiácea	163	População em Idade Escolar de 11 a 14 Anos: 163
+445	3544509	Rubinéia	124	População em Idade Escolar de 11 a 14 Anos: 124
+446	3544608	Sabino	258	População em Idade Escolar de 11 a 14 Anos: 258
+447	3544707	Sagres	115	População em Idade Escolar de 11 a 14 Anos: 115
+448	3544806	Sales	297	População em Idade Escolar de 11 a 14 Anos: 297
+449	3544905	Sales Oliveira	531	População em Idade Escolar de 11 a 14 Anos: 531
+450	3545001	Salesópolis	926	População em Idade Escolar de 11 a 14 Anos: 926
+451	3545100	Salmourão	261	População em Idade Escolar de 11 a 14 Anos: 261
+452	3545209	Salto	5617	População em Idade Escolar de 11 a 14 Anos: 5.617
+453	3545308	Salto de Pirapora	2284	População em Idade Escolar de 11 a 14 Anos: 2.284
+454	3545407	Salto Grande	487	População em Idade Escolar de 11 a 14 Anos: 487
+455	3545506	Sandovalina	235	População em Idade Escolar de 11 a 14 Anos: 235
+456	3545605	Santa Adélia	733	População em Idade Escolar de 11 a 14 Anos: 733
+457	3545704	Santa Albertina	244	População em Idade Escolar de 11 a 14 Anos: 244
+458	3545803	Santa Bárbara d'Oeste	8673	População em Idade Escolar de 11 a 14 Anos: 8.673
+459	3500550	Águas de Santa Bárbara	301	População em Idade Escolar de 11 a 14 Anos: 301
+460	3546009	Santa Branca	746	População em Idade Escolar de 11 a 14 Anos: 746
+461	3546108	Santa Clara d'Oeste	87	População em Idade Escolar de 11 a 14 Anos: 87
+462	3546207	Santa Cruz da Conceição	204	População em Idade Escolar de 11 a 14 Anos: 204
+463	3546306	Santa Cruz das Palmeiras	1742	População em Idade Escolar de 11 a 14 Anos: 1.742
+464	3546405	Santa Cruz do Rio Pardo	2365	População em Idade Escolar de 11 a 14 Anos: 2.365
+465	3546504	Santa Ernestina	304	População em Idade Escolar de 11 a 14 Anos: 304
+466	3546603	Santa Fé do Sul	1273	População em Idade Escolar de 11 a 14 Anos: 1.273
+467	3546702	Santa Gertrudes	1389	População em Idade Escolar de 11 a 14 Anos: 1.389
+468	3546801	Santa Isabel	2901	População em Idade Escolar de 11 a 14 Anos: 2.901
+469	3546900	Santa Lucia	461	População em Idade Escolar de 11 a 14 Anos: 461
+470	3547007	Santa Maria da Serra	341	População em Idade Escolar de 11 a 14 Anos: 341
+471	3547106	Santa Mercedes	158	População em Idade Escolar de 11 a 14 Anos: 158
+472	3547403	Santa Rita d'Oeste	87	População em Idade Escolar de 11 a 14 Anos: 87
+473	3547502	Santa Rita do Passa Quatro	1128	População em Idade Escolar de 11 a 14 Anos: 1.128
+474	3547601	Santa Rosa do Viterbo	1216	População em Idade Escolar de 11 a 14 Anos: 1.216
+475	3547205	Santana da Ponte Pensa	57	População em Idade Escolar de 11 a 14 Anos: 57
+476	3547304	Santana de Parnaíba	7232	População em Idade Escolar de 11 a 14 Anos: 7.232
+477	3547700	Santo Anastácio	943	População em Idade Escolar de 11 a 14 Anos: 943
+478	3547809	Santo André	31051	População em Idade Escolar de 11 a 14 Anos: 31.051
+479	3547908	Santo Antonio da Alegria	318	População em Idade Escolar de 11 a 14 Anos: 318
+480	3548104	Santo Antonio do Jardim	289	População em Idade Escolar de 11 a 14 Anos: 289
+481	3548203	Santo Antonio do Pinhal	354	População em Idade Escolar de 11 a 14 Anos: 354
+482	3548005	Santo Antonio de Posse	1208	População em Idade Escolar de 11 a 14 Anos: 1.208
+483	3548302	Santo Expedito	140	População em Idade Escolar de 11 a 14 Anos: 140
+484	3548401	Santópolis do Aguapeí	248	População em Idade Escolar de 11 a 14 Anos: 248
+485	3548500	Santos	17292	População em Idade Escolar de 11 a 14 Anos: 17.292
+486	3548609	São Bento do Sapucaí	522	População em Idade Escolar de 11 a 14 Anos: 522
+487	3548708	São Bernardo do Campo	38746	População em Idade Escolar de 11 a 14 Anos: 38.746
+488	3548807	São Caetano do Sul	5636	População em Idade Escolar de 11 a 14 Anos: 5.636
+489	3548906	São Carlos	11008	População em Idade Escolar de 11 a 14 Anos: 11.008
+490	3549003	São Francisco	130	População em Idade Escolar de 11 a 14 Anos: 130
+491	3549102	São João da Boa Vista	3906	População em Idade Escolar de 11 a 14 Anos: 3.906
+492	3549201	São João das Duas Pontes	114	População em Idade Escolar de 11 a 14 Anos: 114
+493	3549300	São João do Pau d'Alho	78	População em Idade Escolar de 11 a 14 Anos: 78
+494	3549409	São Joaquim da Barra	2466	População em Idade Escolar de 11 a 14 Anos: 2.466
+495	3549607	São José do Barreiro	242	População em Idade Escolar de 11 a 14 Anos: 242
+496	3549508	São José da Bela Vista	559	População em Idade Escolar de 11 a 14 Anos: 559
+497	3549706	São José do Rio Pardo	2406	População em Idade Escolar de 11 a 14 Anos: 2.406
+498	3549805	São José do Rio Preto	19031	População em Idade Escolar de 11 a 14 Anos: 19.031
+499	3549904	São José dos Campos	34583	População em Idade Escolar de 11 a 14 Anos: 34.583
+500	3550001	São Luís do Paraitinga	481	População em Idade Escolar de 11 a 14 Anos: 481
+501	3550100	São Manuel	2005	População em Idade Escolar de 11 a 14 Anos: 2.005
+502	3550209	São Miguel Arcanjo	1842	População em Idade Escolar de 11 a 14 Anos: 1.842
+503	3550308	São Paulo	564590	População em Idade Escolar de 11 a 14 Anos: 564.590
+504	3550407	São Pedro	1644	População em Idade Escolar de 11 a 14 Anos: 1.644
+505	3550506	São Pedro do Turvo	409	População em Idade Escolar de 11 a 14 Anos: 409
+506	3550605	São Roque	4097	População em Idade Escolar de 11 a 14 Anos: 4.097
+507	3550704	São Sebastião	4703	População em Idade Escolar de 11 a 14 Anos: 4.703
+508	3550803	São Sebastião da Grama	622	População em Idade Escolar de 11 a 14 Anos: 622
+509	3550902	São Simão	767	População em Idade Escolar de 11 a 14 Anos: 767
+510	3551009	São Vicente	18830	População em Idade Escolar de 11 a 14 Anos: 18.830
+511	3551108	Sarapuí	563	População em Idade Escolar de 11 a 14 Anos: 563
+512	3551207	Sarutaiá	211	População em Idade Escolar de 11 a 14 Anos: 211
+513	3551306	Sebastianópolis do Sul	136	População em Idade Escolar de 11 a 14 Anos: 136
+514	3551405	Serra Azul	589	População em Idade Escolar de 11 a 14 Anos: 589
+515	3551603	Serra Negra	1216	População em Idade Escolar de 11 a 14 Anos: 1.216
+516	3551504	Serrana	2465	População em Idade Escolar de 11 a 14 Anos: 2.465
+517	3551702	Sertãozinho	6012	População em Idade Escolar de 11 a 14 Anos: 6.012
+518	3551801	Sete Barras	818	População em Idade Escolar de 11 a 14 Anos: 818
+519	3551900	Severínia	921	População em Idade Escolar de 11 a 14 Anos: 921
+520	3552007	Silveiras	339	População em Idade Escolar de 11 a 14 Anos: 339
+521	3552106	Socorro	1716	População em Idade Escolar de 11 a 14 Anos: 1.716
+522	3552205	Sorocaba	30943	População em Idade Escolar de 11 a 14 Anos: 30.943
+523	3552304	Sud Mennucci	384	População em Idade Escolar de 11 a 14 Anos: 384
+524	3552403	Sumaré	14552	População em Idade Escolar de 11 a 14 Anos: 14.552
+525	3552502	Suzano	15828	População em Idade Escolar de 11 a 14 Anos: 15.828
+526	3552601	Tabapuã	538	População em Idade Escolar de 11 a 14 Anos: 538
+527	3552700	Tabatinga	811	População em Idade Escolar de 11 a 14 Anos: 811
+528	3552809	Taboão da Serra	14775	População em Idade Escolar de 11 a 14 Anos: 14.775
+529	3552908	Taciba	313	População em Idade Escolar de 11 a 14 Anos: 313
+530	3553005	Taguaí	682	População em Idade Escolar de 11 a 14 Anos: 682
+531	3553104	Taiaçu	302	População em Idade Escolar de 11 a 14 Anos: 302
+532	3553203	Taiúva	239	População em Idade Escolar de 11 a 14 Anos: 239
+533	3553302	Tambaú	1181	População em Idade Escolar de 11 a 14 Anos: 1.181
+534	3553401	Tanabi	1067	População em Idade Escolar de 11 a 14 Anos: 1.067
+535	3553500	Tapiraí	503	População em Idade Escolar de 11 a 14 Anos: 503
+536	3553609	Tapiratiba	601	População em Idade Escolar de 11 a 14 Anos: 601
+537	3553708	Taquaritinga	2763	População em Idade Escolar de 11 a 14 Anos: 2.763
+538	3553807	Taquarituba	1209	População em Idade Escolar de 11 a 14 Anos: 1.209
+539	3553906	Tarabaí	399	População em Idade Escolar de 11 a 14 Anos: 399
+540	3554003	Tatuí	6123	População em Idade Escolar de 11 a 14 Anos: 6.123
+541	3554102	Taubaté	14887	População em Idade Escolar de 11 a 14 Anos: 14.887
+542	3554201	Tejupá	296	População em Idade Escolar de 11 a 14 Anos: 296
+543	3554300	Teodoro Sampaio	1278	População em Idade Escolar de 11 a 14 Anos: 1.278
+544	3554409	Terra Roxa	475	População em Idade Escolar de 11 a 14 Anos: 475
+545	3554508	Tietê	1967	População em Idade Escolar de 11 a 14 Anos: 1.967
+546	3554607	Timburi	132	População em Idade Escolar de 11 a 14 Anos: 132
+547	3554706	Torrinha	434	População em Idade Escolar de 11 a 14 Anos: 434
+548	3554805	Tremembé	2182	População em Idade Escolar de 11 a 14 Anos: 2.182
+549	3554904	Três Fronteiras	236	População em Idade Escolar de 11 a 14 Anos: 236
+550	3555000	Tupã	2845	População em Idade Escolar de 11 a 14 Anos: 2.845
+551	3555109	Tupi Paulista	492	População em Idade Escolar de 11 a 14 Anos: 492
+552	3555208	Turiúba	84	População em Idade Escolar de 11 a 14 Anos: 84
+553	3555307	Turmalina	63	População em Idade Escolar de 11 a 14 Anos: 63
+554	3555406	Ubatuba	4682	População em Idade Escolar de 11 a 14 Anos: 4.682
+555	3555505	Ubirajara	255	População em Idade Escolar de 11 a 14 Anos: 255
+556	3555604	Uchôa	439	População em Idade Escolar de 11 a 14 Anos: 439
+557	3555703	União Paulista	91	População em Idade Escolar de 11 a 14 Anos: 91
+558	3555802	Urânia	394	População em Idade Escolar de 11 a 14 Anos: 394
+559	3555901	Uru	53	População em Idade Escolar de 11 a 14 Anos: 53
+560	3556008	Urupês	541	População em Idade Escolar de 11 a 14 Anos: 541
+561	3556107	Valentim Gentil	580	População em Idade Escolar de 11 a 14 Anos: 580
+562	3556206	Valinhos	5394	População em Idade Escolar de 11 a 14 Anos: 5.394
+563	3556305	Valparaíso	1174	População em Idade Escolar de 11 a 14 Anos: 1.174
+564	3556404	Vargem Grande do Sul	2149	População em Idade Escolar de 11 a 14 Anos: 2.149
+565	3556503	Várzea Paulista	6341	População em Idade Escolar de 11 a 14 Anos: 6.341
+566	3556602	Vera Cruz	530	População em Idade Escolar de 11 a 14 Anos: 530
+567	3556701	Vinhedo	3461	População em Idade Escolar de 11 a 14 Anos: 3.461
+568	3556800	Viradouro	918	População em Idade Escolar de 11 a 14 Anos: 918
+569	3556909	Vista Alegre do Alto	376	População em Idade Escolar de 11 a 14 Anos: 376
+570	3557006	Votorantim	6252	População em Idade Escolar de 11 a 14 Anos: 6.252
+571	3557105	Votuporanga	3771	População em Idade Escolar de 11 a 14 Anos: 3.771
+572	3556453	Vargem Grande Paulista	2752	População em Idade Escolar de 11 a 14 Anos: 2.752
+573	3500758	Alambari	321	População em Idade Escolar de 11 a 14 Anos: 321
+574	3501152	Alumínio	1044	População em Idade Escolar de 11 a 14 Anos: 1.044
+575	3502754	Araçariguama	1261	População em Idade Escolar de 11 a 14 Anos: 1.261
+576	3503158	Arapeí	136	População em Idade Escolar de 11 a 14 Anos: 136
+577	3503950	Aspásia	75	População em Idade Escolar de 11 a 14 Anos: 75
+578	3505351	Barra do Chapéu	337	População em Idade Escolar de 11 a 14 Anos: 337
+579	3506359	Bertioga	3636	População em Idade Escolar de 11 a 14 Anos: 3.636
+580	3507159	Bom Sucesso de Itararé	253	População em Idade Escolar de 11 a 14 Anos: 253
+581	3507456	Borebi	145	População em Idade Escolar de 11 a 14 Anos: 145
+582	3509254	Cajati	1851	População em Idade Escolar de 11 a 14 Anos: 1.851
+583	3509452	Campina do Monte Alegre	332	População em Idade Escolar de 11 a 14 Anos: 332
+584	3510153	Canitar	326	População em Idade Escolar de 11 a 14 Anos: 326
+585	3513850	Dirce Reis	76	População em Idade Escolar de 11 a 14 Anos: 76
+586	3514924	Elisiário	149	População em Idade Escolar de 11 a 14 Anos: 149
+587	3514957	Embaúba	114	População em Idade Escolar de 11 a 14 Anos: 114
+588	3515129	Emilianópolis	140	População em Idade Escolar de 11 a 14 Anos: 140
+589	3515152	Engenheiro Coelho	1141	População em Idade Escolar de 11 a 14 Anos: 1.141
+590	3515194	Espírito Santo do Turvo	278	População em Idade Escolar de 11 a 14 Anos: 278
+591	3557303	Estiva Gerbi	553	População em Idade Escolar de 11 a 14 Anos: 553
+592	3515350	Euclides da Cunha Paulista	562	População em Idade Escolar de 11 a 14 Anos: 562
+593	3518859	Guatapará	427	População em Idade Escolar de 11 a 14 Anos: 427
+594	3519055	Holambra	679	População em Idade Escolar de 11 a 14 Anos: 679
+595	3519071	Hortolândia	11782	População em Idade Escolar de 11 a 14 Anos: 11.782
+596	3519253	Iaras	344	População em Idade Escolar de 11 a 14 Anos: 344
+597	3520426	Ilha Comprida	525	População em Idade Escolar de 11 a 14 Anos: 525
+598	3520442	Ilha Solteira	1102	População em Idade Escolar de 11 a 14 Anos: 1.102
+599	3522158	Itaóca	171	População em Idade Escolar de 11 a 14 Anos: 171
+600	3522653	Itapirapuã Paulista	280	População em Idade Escolar de 11 a 14 Anos: 280
+601	3527256	Lourdes	97	População em Idade Escolar de 11 a 14 Anos: 97
+602	3528858	Marapoama	118	População em Idade Escolar de 11 a 14 Anos: 118
+603	3529658	Mesópolis	89	População em Idade Escolar de 11 a 14 Anos: 89
+604	3532058	Motuca	239	População em Idade Escolar de 11 a 14 Anos: 239
+605	3532827	Nova Campina	601	População em Idade Escolar de 11 a 14 Anos: 601
+606	3532843	Nova Canaã Paulista	75	População em Idade Escolar de 11 a 14 Anos: 75
+607	3533254	Novais	317	População em Idade Escolar de 11 a 14 Anos: 317
+608	3536257	Parisi	91	População em Idade Escolar de 11 a 14 Anos: 91
+609	3537156	Pedrinhas Paulista	139	População em Idade Escolar de 11 a 14 Anos: 139
+610	3540259	Pontalinda	233	População em Idade Escolar de 11 a 14 Anos: 233
+611	3540754	Potim	1142	População em Idade Escolar de 11 a 14 Anos: 1.142
+612	3543253	Ribeirão Grande	418	População em Idade Escolar de 11 a 14 Anos: 418
+613	3544251	Rosana	991	População em Idade Escolar de 11 a 14 Anos: 991
+614	3545159	Saltinho	334	População em Idade Escolar de 11 a 14 Anos: 334
+615	3549250	São João de Iracema	85	População em Idade Escolar de 11 a 14 Anos: 85
+616	3549953	São Lourenço da Serra	817	População em Idade Escolar de 11 a 14 Anos: 817
+617	3548054	Santo Antonio do Aracanguá	393	População em Idade Escolar de 11 a 14 Anos: 393
+618	3552551	Suzanápolis	191	População em Idade Escolar de 11 a 14 Anos: 191
+619	3553856	Taquarivaí	361	População em Idade Escolar de 11 a 14 Anos: 361
+620	3553955	Tarumã	800	População em Idade Escolar de 11 a 14 Anos: 800
+621	3554656	Torre de Pedra	115	População em Idade Escolar de 11 a 14 Anos: 115
+622	3554953	Tuiuti	281	População em Idade Escolar de 11 a 14 Anos: 281
+623	3555356	Ubarana	353	População em Idade Escolar de 11 a 14 Anos: 353
+624	3556354	Vargem	490	População em Idade Escolar de 11 a 14 Anos: 490
+625	3557154	Zacarias	122	População em Idade Escolar de 11 a 14 Anos: 122
+626	3503356	Arco Íris	82	População em Idade Escolar de 11 a 14 Anos: 82
+627	3507753	Brejo Alegre	135	População em Idade Escolar de 11 a 14 Anos: 135
+628	3509957	Canas	311	População em Idade Escolar de 11 a 14 Anos: 311
+629	3540853	Pracinha	89	População em Idade Escolar de 11 a 14 Anos: 89
+630	3541059	Pratânia	280	População em Idade Escolar de 11 a 14 Anos: 280
+631	3541653	Quadra	201	População em Idade Escolar de 11 a 14 Anos: 201
+632	3546256	Santa Cruz da Esperança	112	População em Idade Escolar de 11 a 14 Anos: 112
+633	3547650	Santa Salete	55	População em Idade Escolar de 11 a 14 Anos: 55
+634	3556958	Vitória Brasil	82	População em Idade Escolar de 11 a 14 Anos: 82
+635	3521150	Ipiguá	236	População em Idade Escolar de 11 a 14 Anos: 236
+636	3553658	Taquaral	138	População em Idade Escolar de 11 a 14 Anos: 138
+637	3515657	Fernão	83	População em Idade Escolar de 11 a 14 Anos: 83
+638	3516853	Gavião Peixoto	253	População em Idade Escolar de 11 a 14 Anos: 253
+639	3525854	Jumirim	156	População em Idade Escolar de 11 a 14 Anos: 156
+640	3532157	Nantes	172	População em Idade Escolar de 11 a 14 Anos: 172
+641	3532868	Nova Castilho	56	População em Idade Escolar de 11 a 14 Anos: 56
+642	3534757	Ouroeste	448	População em Idade Escolar de 11 a 14 Anos: 448
+643	3536570	Paulistânia	87	População em Idade Escolar de 11 a 14 Anos: 87
+644	3543238	Ribeirão dos Índios	95	População em Idade Escolar de 11 a 14 Anos: 95
+645	3554755	Trabiju	90	População em Idade Escolar de 11 a 14 Anos: 90

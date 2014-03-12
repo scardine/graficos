@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	12539.65	PIB municipal per capta: 12.539,65
+2	3500204	Adolfo	21313.89	PIB municipal per capta: 21.313,89
+3	3500303	Aguaí	22288.82	PIB municipal per capta: 22.288,82
+4	3500402	Águas da Prata	12342.36	PIB municipal per capta: 12.342,36
+5	3500501	Águas de Lindóia	8052.23	PIB municipal per capta: 8.052,23
+6	3500600	Águas de São Pedro	17003.97	PIB municipal per capta: 17.003,97
+7	3500709	Agudos	19088.61	PIB municipal per capta: 19.088,61
+8	3500808	Alfredo Marcondes	7408.71	PIB municipal per capta: 7.408,71
+9	3500907	Altair	29626.90	PIB municipal per capta: 29.626,90
+10	3501004	Altinópolis	14742.64	PIB municipal per capta: 14.742,64
+11	3501103	Alto Alegre	10258.47	PIB municipal per capta: 10.258,47
+12	3501202	Álvares Florence	13250.35	PIB municipal per capta: 13.250,35
+13	3501301	Álvares Machado	6951.32	PIB municipal per capta: 6.951,32
+14	3501400	Álvaro de Carvalho	6831.00	PIB municipal per capta: 6.831,00
+15	3501509	Alvinlândia	10392.59	PIB municipal per capta: 10.392,59
+16	3501608	Americana	25686.67	PIB municipal per capta: 25.686,67
+17	3501707	Américo Brasiliense	12645.32	PIB municipal per capta: 12.645,32
+18	3501806	Américo de Campos	7866.36	PIB municipal per capta: 7.866,36
+19	3501905	Amparo	19438.53	PIB municipal per capta: 19.438,53
+20	3502002	Analândia	16782.53	PIB municipal per capta: 16.782,53
+21	3502101	Andradina	13238.95	PIB municipal per capta: 13.238,95
+22	3502200	Angatuba	11944.57	PIB municipal per capta: 11.944,57
+23	3502309	Anhembi	16452.87	PIB municipal per capta: 16.452,87
+24	3502408	Anhumas	8438.65	PIB municipal per capta: 8.438,65
+25	3502507	Aparecida	9326.09	PIB municipal per capta: 9.326,09
+26	3502606	Aparecida d'Oeste	8327.52	PIB municipal per capta: 8.327,52
+27	3502705	Apiaí	8171.84	PIB municipal per capta: 8.171,84
+28	3502804	Araçatuba	13874.60	PIB municipal per capta: 13.874,60
+29	3502903	Araçoiaba da Serra	7764.02	PIB municipal per capta: 7.764,02
+30	3503000	Aramina	13454.10	PIB municipal per capta: 13.454,10
+31	3503109	Arandu	8113.78	PIB municipal per capta: 8.113,78
+32	3503208	Araraquara	16801.29	PIB municipal per capta: 16.801,29
+33	3503307	Araras	18074.33	PIB municipal per capta: 18.074,33
+34	3503406	Arealva	12888.89	PIB municipal per capta: 12.888,89
+35	3503505	Areias	7574.20	PIB municipal per capta: 7.574,20
+36	3503604	Areiópolis	6985.12	PIB municipal per capta: 6.985,12
+37	3503703	Ariranha	62326.23	PIB municipal per capta: 62.326,23
+38	3503802	Artur Nogueira	10120.35	PIB municipal per capta: 10.120,35
+39	3503901	Arujá	16518.12	PIB municipal per capta: 16.518,12
+40	3504008	Assis	11124.65	PIB municipal per capta: 11.124,65
+41	3504107	Atibaia	16542.47	PIB municipal per capta: 16.542,47
+42	3504206	Auriflama	9960.98	PIB municipal per capta: 9.960,98
+43	3504305	Avaí	9108.93	PIB municipal per capta: 9.108,93
+44	3504404	Avanhandava	9555.26	PIB municipal per capta: 9.555,26
+45	3504503	Avaré	9728.28	PIB municipal per capta: 9.728,28
+46	3504602	Bady Bassitt	15175.39	PIB municipal per capta: 15.175,39
+47	3504701	Balbinos	5533.03	PIB municipal per capta: 5.533,03
+48	3504800	Bálsamo	11705.92	PIB municipal per capta: 11.705,92
+49	3504909	Bananal	6693.06	PIB municipal per capta: 6.693,06
+50	3505005	Barão de Antonina	7009.67	PIB municipal per capta: 7.009,67
+51	3505104	Barbosa	6319.47	PIB municipal per capta: 6.319,47
+52	3505203	Bariri	12194.63	PIB municipal per capta: 12.194,63
+53	3505302	Barra Bonita	15492.34	PIB municipal per capta: 15.492,34
+54	3505401	Barra do Turvo	4508.04	PIB municipal per capta: 4.508,04
+55	3505500	Barretos	13110.25	PIB municipal per capta: 13.110,25
+56	3505609	Barrinha	7224.10	PIB municipal per capta: 7.224,10
+57	3505708	Barueri	112881.73	PIB municipal per capta: 112.881,73
+58	3505807	Bastos	13137.36	PIB municipal per capta: 13.137,36
+59	3505906	Batatais	13962.60	PIB municipal per capta: 13.962,60
+60	3506003	Bauru	15648.19	PIB municipal per capta: 15.648,19
+61	3506102	Bebedouro	43190.80	PIB municipal per capta: 43.190,80
+62	3506201	Bento de Abreu	20533.15	PIB municipal per capta: 20.533,15
+63	3506300	Bernardino de Campos	9110.90	PIB municipal per capta: 9.110,90
+64	3506409	Bilac	9957.82	PIB municipal per capta: 9.957,82
+65	3506508	Birigui	10844.05	PIB municipal per capta: 10.844,05
+66	3506607	Biritiba Mirim	8100.44	PIB municipal per capta: 8.100,44
+67	3506706	Boa Esperança do Sul	14948.53	PIB municipal per capta: 14.948,53
+68	3506805	Bocaina	14959.19	PIB municipal per capta: 14.959,19
+69	3506904	Bofete	9840.34	PIB municipal per capta: 9.840,34
+70	3507001	Boituva	16354.52	PIB municipal per capta: 16.354,52
+71	3507100	Bom Jesus dos Perdões	9532.78	PIB municipal per capta: 9.532,78
+72	3507209	Borá	23051.98	PIB municipal per capta: 23.051,98
+73	3507308	Boracéia	18663.31	PIB municipal per capta: 18.663,31
+74	3507407	Borborema	12010.35	PIB municipal per capta: 12.010,35
+75	3507506	Botucatu	18637.91	PIB municipal per capta: 18.637,91
+76	3507605	Bragança Paulista	14553.75	PIB municipal per capta: 14.553,75
+77	3507704	Braúna	8275.90	PIB municipal per capta: 8.275,90
+78	3507803	Brodowski	7887.10	PIB municipal per capta: 7.887,10
+79	3507902	Brotas	13818.07	PIB municipal per capta: 13.818,07
+80	3508009	Buri	10888.58	PIB municipal per capta: 10.888,58
+81	3508108	Buritama	12737.22	PIB municipal per capta: 12.737,22
+82	3508207	Buritizal	25702.55	PIB municipal per capta: 25.702,55
+83	3508306	Cabrália Paulista	15626.48	PIB municipal per capta: 15.626,48
+84	3508405	Cabreúva	22151.39	PIB municipal per capta: 22.151,39
+85	3508504	Caçapava	23173.77	PIB municipal per capta: 23.173,77
+86	3508603	Cachoeira Paulista	9448.87	PIB municipal per capta: 9.448,87
+87	3508702	Caconde	9297.60	PIB municipal per capta: 9.297,60
+88	3508801	Cafelândia	9963.28	PIB municipal per capta: 9.963,28
+89	3508900	Caiabu	8196.98	PIB municipal per capta: 8.196,98
+90	3509007	Caieiras	15948.28	PIB municipal per capta: 15.948,28
+91	3509106	Caiuá	15396.14	PIB municipal per capta: 15.396,14
+92	3509205	Cajamar	50978.95	PIB municipal per capta: 50.978,95
+93	3509304	Cajobi	10515.40	PIB municipal per capta: 10.515,40
+94	3509403	Cajuru	9381.36	PIB municipal per capta: 9.381,36
+95	3509502	Campinas	25605.02	PIB municipal per capta: 25.605,02
+96	3509601	Campo Limpo Paulista	10219.38	PIB municipal per capta: 10.219,38
+97	3509700	Campos do Jordão	9853.15	PIB municipal per capta: 9.853,15
+98	3509809	Campos Novos Paulista	14811.51	PIB municipal per capta: 14.811,51
+99	3509908	Cananéia	7007.90	PIB municipal per capta: 7.007,90
+100	3510005	Cândido Mota	13411.81	PIB municipal per capta: 13.411,81
+101	3510104	Cândido Rodrigues	15532.48	PIB municipal per capta: 15.532,48
+102	3510203	Capão Bonito	8863.79	PIB municipal per capta: 8.863,79
+103	3510302	Capela do Alto	8213.30	PIB municipal per capta: 8.213,30
+104	3510401	Capivari	15843.30	PIB municipal per capta: 15.843,30
+105	3510500	Caraguatatuba	8772.74	PIB municipal per capta: 8.772,74
+106	3510609	Carapicuíba	6567.21	PIB municipal per capta: 6.567,21
+107	3510708	Cardoso	9517.55	PIB municipal per capta: 9.517,55
+108	3510807	Casa Branca	20083.60	PIB municipal per capta: 20.083,60
+109	3510906	Cássia dos Coqueiros	10779.82	PIB municipal per capta: 10.779,82
+110	3511003	Castilho	33586.04	PIB municipal per capta: 33.586,04
+111	3511102	Catanduva	17016.78	PIB municipal per capta: 17.016,78
+112	3511201	Catiguá	10458.69	PIB municipal per capta: 10.458,69
+113	3511300	Cedral	11637.75	PIB municipal per capta: 11.637,75
+114	3511409	Cerqueira César	12240.13	PIB municipal per capta: 12.240,13
+115	3511508	Cerquilho	53437.84	PIB municipal per capta: 53.437,84
+116	3511607	Cesário Lange	10858.68	PIB municipal per capta: 10.858,68
+117	3511706	Charqueada	7748.20	PIB municipal per capta: 7.748,20
+118	3557204	Chavantes	12949.80	PIB municipal per capta: 12.949,80
+119	3511904	Clementina	8027.79	PIB municipal per capta: 8.027,79
+120	3512001	Colina	14730.71	PIB municipal per capta: 14.730,71
+121	3512100	Colômbia	23353.12	PIB municipal per capta: 23.353,12
+122	3512209	Conchal	17735.58	PIB municipal per capta: 17.735,58
+123	3512308	Conchas	21966.71	PIB municipal per capta: 21.966,71
+124	3512407	Cordeirópolis	62585.63	PIB municipal per capta: 62.585,63
+125	3512506	Coroados	11540.97	PIB municipal per capta: 11.540,97
+126	3512605	Coronel Macedo	9835.93	PIB municipal per capta: 9.835,93
+127	3512704	Corumbataí	21680.69	PIB municipal per capta: 21.680,69
+128	3512803	Cosmópolis	11483.31	PIB municipal per capta: 11.483,31
+129	3512902	Cosmorama	10981.76	PIB municipal per capta: 10.981,76
+130	3513009	Cotia	23295.22	PIB municipal per capta: 23.295,22
+131	3513108	Cravinhos	10634.34	PIB municipal per capta: 10.634,34
+132	3513207	Cristais Paulista	15938.93	PIB municipal per capta: 15.938,93
+133	3513306	Cruzália	21806.66	PIB municipal per capta: 21.806,66
+134	3513405	Cruzeiro	11227.96	PIB municipal per capta: 11.227,96
+135	3513504	Cubatão	53032.01	PIB municipal per capta: 53.032,01
+136	3513603	Cunha	4525.86	PIB municipal per capta: 4.525,86
+137	3513702	Descalvado	20521.91	PIB municipal per capta: 20.521,91
+138	3513801	Diadema	22792.99	PIB municipal per capta: 22.792,99
+139	3513900	Divinolândia	11136.93	PIB municipal per capta: 11.136,93
+140	3514007	Dobrada	8833.16	PIB municipal per capta: 8.833,16
+141	3514106	Dois Córregos	13373.75	PIB municipal per capta: 13.373,75
+142	3514205	Dolcinópolis	8578.66	PIB municipal per capta: 8.578,66
+143	3514304	Dourado	9682.91	PIB municipal per capta: 9.682,91
+144	3514403	Dracena	10847.77	PIB municipal per capta: 10.847,77
+145	3514502	Duartina	8015.41	PIB municipal per capta: 8.015,41
+146	3514601	Dumont	8868.78	PIB municipal per capta: 8.868,78
+147	3514700	Echaporã	9110.76	PIB municipal per capta: 9.110,76
+148	3514809	Eldorado	6215.47	PIB municipal per capta: 6.215,47
+149	3514908	Elias Fausto	27570.23	PIB municipal per capta: 27.570,23
+150	3515004	Embu das Artes	11006.22	PIB municipal per capta: 11.006,22
+151	3515103	Embu-Guaçu	7121.69	PIB municipal per capta: 7.121,69
+152	3515202	Estrela d'Oeste	66379.93	PIB municipal per capta: 66.379,93
+153	3515301	Estrela do Norte	8744.56	PIB municipal per capta: 8.744,56
+154	3515400	Fartura	8475.09	PIB municipal per capta: 8.475,09
+155	3515509	Fernandópolis	12899.82	PIB municipal per capta: 12.899,82
+156	3515608	Fernando Prestes	14926.52	PIB municipal per capta: 14.926,52
+157	3515707	Ferraz de Vasconcelos	6735.32	PIB municipal per capta: 6.735,32
+158	3515806	Flora Rica	14423.21	PIB municipal per capta: 14.423,21
+159	3515905	Floreal	8656.67	PIB municipal per capta: 8.656,67
+160	3516002	Flórida Paulista	9287.65	PIB municipal per capta: 9.287,65
+161	3516101	Florínia	27402.59	PIB municipal per capta: 27.402,59
+162	3516200	Franca	11352.38	PIB municipal per capta: 11.352,38
+163	3516309	Francisco Morato	4215.73	PIB municipal per capta: 4.215,73
+164	3516408	Franco da Rocha	11711.37	PIB municipal per capta: 11.711,37
+165	3516507	Gabriel Monteiro	19074.88	PIB municipal per capta: 19.074,88
+166	3516606	Gália	7832.40	PIB municipal per capta: 7.832,40
+167	3516705	Garça	11976.70	PIB municipal per capta: 11.976,70
+168	3516804	Gastão Vidigal	8029.08	PIB municipal per capta: 8.029,08
+169	3516903	General Salgado	11821.63	PIB municipal per capta: 11.821,63
+170	3517000	Getulina	8171.71	PIB municipal per capta: 8.171,71
+171	3517109	Glicério	10023.15	PIB municipal per capta: 10.023,15
+172	3517208	Guaiçara	8849.00	PIB municipal per capta: 8.849,00
+173	3517307	Guaimbê	6662.49	PIB municipal per capta: 6.662,49
+174	3517406	Guaíra	17516.96	PIB municipal per capta: 17.516,96
+175	3517505	Guapiaçu	22689.64	PIB municipal per capta: 22.689,64
+176	3517604	Guapiara	7562.68	PIB municipal per capta: 7.562,68
+177	3517703	Guará	10868.29	PIB municipal per capta: 10.868,29
+178	3517802	Guaraçaí	12175.86	PIB municipal per capta: 12.175,86
+179	3517901	Guaraci	11619.57	PIB municipal per capta: 11.619,57
+180	3518008	Guarani d'Oeste	6938.68	PIB municipal per capta: 6.938,68
+181	3518107	Guarantã	11878.70	PIB municipal per capta: 11.878,70
+182	3518206	Guararapes	15557.48	PIB municipal per capta: 15.557,48
+183	3518305	Guararema	16138.90	PIB municipal per capta: 16.138,90
+184	3518404	Guaratinguetá	16178.96	PIB municipal per capta: 16.178,96
+185	3518503	Guareí	6959.65	PIB municipal per capta: 6.959,65
+186	3518602	Guariba	10624.21	PIB municipal per capta: 10.624,21
+187	3518701	Guarujá	10132.40	PIB municipal per capta: 10.132,40
+188	3518800	Guarulhos	23398.25	PIB municipal per capta: 23.398,25
+189	3518909	Guzolândia	7416.40	PIB municipal per capta: 7.416,40
+190	3519006	Herculândia	8505.52	PIB municipal per capta: 8.505,52
+191	3519105	Iacanga	16882.75	PIB municipal per capta: 16.882,75
+192	3519204	Iacri	8712.74	PIB municipal per capta: 8.712,74
+193	3519303	Ibaté	9438.79	PIB municipal per capta: 9.438,79
+194	3519402	Ibirá	8736.02	PIB municipal per capta: 8.736,02
+195	3519501	Ibirarema	13975.99	PIB municipal per capta: 13.975,99
+196	3519600	Ibitinga	11446.67	PIB municipal per capta: 11.446,67
+197	3519709	Ibiúna	8172.00	PIB municipal per capta: 8.172,00
+198	3519808	Icém	11989.20	PIB municipal per capta: 11.989,20
+199	3519907	Iepê	13527.02	PIB municipal per capta: 13.527,02
+200	3520004	Igaraçu do Tietê	5720.17	PIB municipal per capta: 5.720,17
+201	3520103	Igarapava	16378.88	PIB municipal per capta: 16.378,88
+202	3520202	Igaratá	8154.89	PIB municipal per capta: 8.154,89
+203	3520301	Iguape	7356.49	PIB municipal per capta: 7.356,49
+204	3520400	Ilhabela	9159.21	PIB municipal per capta: 9.159,21
+205	3520509	Indaiatuba	21647.21	PIB municipal per capta: 21.647,21
+206	3520608	Indiana	6571.22	PIB municipal per capta: 6.571,22
+207	3520707	Indiaporã	10210.19	PIB municipal per capta: 10.210,19
+208	3520806	Inúbia Paulista	12592.31	PIB municipal per capta: 12.592,31
+209	3520905	Ipaussu	11822.41	PIB municipal per capta: 11.822,41
+210	3521002	Iperó	11162.64	PIB municipal per capta: 11.162,64
+211	3521101	Ipeúna	14468.30	PIB municipal per capta: 14.468,30
+212	3521200	Iporanga	4938.95	PIB municipal per capta: 4.938,95
+213	3521309	Ipuã	13561.20	PIB municipal per capta: 13.561,20
+214	3521408	Iracemápolis	23474.04	PIB municipal per capta: 23.474,04
+215	3521507	Irapuã	10922.59	PIB municipal per capta: 10.922,59
+216	3521606	Irapuru	6497.45	PIB municipal per capta: 6.497,45
+217	3521705	Itaberá	11482.10	PIB municipal per capta: 11.482,10
+218	3521804	Itaí	14486.93	PIB municipal per capta: 14.486,93
+219	3521903	Itajobi	12210.72	PIB municipal per capta: 12.210,72
+220	3522000	Itaju	15056.72	PIB municipal per capta: 15.056,72
+221	3522109	Itanhaém	7674.17	PIB municipal per capta: 7.674,17
+222	3522208	Itapecerica da Serra	14274.46	PIB municipal per capta: 14.274,46
+223	3522307	Itapetininga	13433.63	PIB municipal per capta: 13.433,63
+224	3522406	Itapeva	10891.00	PIB municipal per capta: 10.891,00
+225	3522505	Itapevi	10080.03	PIB municipal per capta: 10.080,03
+226	3522604	Itapira	18425.10	PIB municipal per capta: 18.425,10
+227	3522703	Itápolis	15228.15	PIB municipal per capta: 15.228,15
+228	3522802	Itaporanga	6417.16	PIB municipal per capta: 6.417,16
+229	3522901	Itapuí	12011.93	PIB municipal per capta: 12.011,93
+230	3523008	Itapura	10474.74	PIB municipal per capta: 10.474,74
+231	3523107	Itaquaquecetuba	7597.97	PIB municipal per capta: 7.597,97
+232	3523206	Itararé	10171.23	PIB municipal per capta: 10.171,23
+233	3523305	Itariri	4995.13	PIB municipal per capta: 4.995,13
+234	3523404	Itatiba	26660.40	PIB municipal per capta: 26.660,40
+235	3523503	Itatinga	8753.86	PIB municipal per capta: 8.753,86
+236	3523602	Itirapina	11177.94	PIB municipal per capta: 11.177,94
+237	3523701	Itirapuã	10177.79	PIB municipal per capta: 10.177,79
+238	3523800	Itobi	8232.35	PIB municipal per capta: 8.232,35
+239	3523909	Itu	22793.29	PIB municipal per capta: 22.793,29
+240	3524006	Itupeva	28638.39	PIB municipal per capta: 28.638,39
+241	3524105	Ituverava	11382.73	PIB municipal per capta: 11.382,73
+242	3524204	Jaborandi	9462.46	PIB municipal per capta: 9.462,46
+243	3524303	Jaboticabal	16654.50	PIB municipal per capta: 16.654,50
+244	3524402	Jacareí	19434.38	PIB municipal per capta: 19.434,38
+245	3524501	Jaci	21719.35	PIB municipal per capta: 21.719,35
+246	3524600	Jacupiranga	7428.24	PIB municipal per capta: 7.428,24
+247	3524709	Jaguariúna	60085.04	PIB municipal per capta: 60.085,04
+248	3524808	Jales	12239.97	PIB municipal per capta: 12.239,97
+249	3524907	Jambeiro	84119.06	PIB municipal per capta: 84.119,06
+250	3525003	Jandira	12909.04	PIB municipal per capta: 12.909,04
+251	3525102	Jardinópolis	10107.29	PIB municipal per capta: 10.107,29
+252	3525201	Jarinu	11762.57	PIB municipal per capta: 11.762,57
+253	3525300	Jaú	11499.50	PIB municipal per capta: 11.499,50
+254	3525409	Jeriquara	24635.24	PIB municipal per capta: 24.635,24
+255	3525508	Joanópolis	7581.02	PIB municipal per capta: 7.581,02
+256	3525607	João Ramalho	9248.80	PIB municipal per capta: 9.248,80
+257	3525706	José Bonifácio	15241.26	PIB municipal per capta: 15.241,26
+258	3525805	Júlio Mesquita	6781.33	PIB municipal per capta: 6.781,33
+259	3525904	Jundiaí	39347.22	PIB municipal per capta: 39.347,22
+260	3526001	Junqueirópolis	9913.33	PIB municipal per capta: 9.913,33
+261	3526100	Juquiá	6070.97	PIB municipal per capta: 6.070,97
+262	3526209	Juquitiba	6602.65	PIB municipal per capta: 6.602,65
+263	3526308	Lagoinha	7198.16	PIB municipal per capta: 7.198,16
+264	3526407	Laranjal Paulista	13340.14	PIB municipal per capta: 13.340,14
+265	3526506	Lavínia	9490.62	PIB municipal per capta: 9.490,62
+266	3526605	Lavrinhas	7155.53	PIB municipal per capta: 7.155,53
+267	3526704	Leme	11881.51	PIB municipal per capta: 11.881,51
+268	3526803	Lençóis Paulista	25291.48	PIB municipal per capta: 25.291,48
+269	3526902	Limeira	19555.93	PIB municipal per capta: 19.555,93
+270	3527009	Lindóia	9955.23	PIB municipal per capta: 9.955,23
+271	3527108	Lins	16657.40	PIB municipal per capta: 16.657,40
+272	3527207	Lorena	12470.29	PIB municipal per capta: 12.470,29
+273	3527306	Louveira	187142.83	PIB municipal per capta: 187.142,83
+274	3527405	Lucélia	8462.33	PIB municipal per capta: 8.462,33
+275	3527504	Lucianópolis	11228.47	PIB municipal per capta: 11.228,47
+276	3527603	Luís Antônio	56428.55	PIB municipal per capta: 56.428,55
+277	3527702	Luiziânia	9005.88	PIB municipal per capta: 9.005,88
+278	3527801	Lupércio	8516.56	PIB municipal per capta: 8.516,56
+279	3527900	Lutécia	12781.93	PIB municipal per capta: 12.781,93
+280	3528007	Macatuba	28280.19	PIB municipal per capta: 28.280,19
+281	3528106	Macaubal	8219.79	PIB municipal per capta: 8.219,79
+282	3528205	Macedônia	8804.22	PIB municipal per capta: 8.804,22
+283	3528304	Magda	10640.84	PIB municipal per capta: 10.640,84
+284	3528403	Mairinque	15856.86	PIB municipal per capta: 15.856,86
+285	3528502	Mairiporã	10474.79	PIB municipal per capta: 10.474,79
+286	3528601	Manduri	8000.81	PIB municipal per capta: 8.000,81
+287	3528700	Marabá Paulista	9073.17	PIB municipal per capta: 9.073,17
+288	3528809	Maracaí	21824.55	PIB municipal per capta: 21.824,55
+289	3528908	Mariápolis	6063.19	PIB municipal per capta: 6.063,19
+290	3529005	Marília	13041.94	PIB municipal per capta: 13.041,94
+291	3529104	Marinópolis	10865.46	PIB municipal per capta: 10.865,46
+292	3529203	Martinópolis	9430.60	PIB municipal per capta: 9.430,60
+293	3529302	Matão	49339.68	PIB municipal per capta: 49.339,68
+294	3529401	Mauá	13330.33	PIB municipal per capta: 13.330,33
+295	3529500	Mendonça	8498.59	PIB municipal per capta: 8.498,59
+296	3529609	Meridiano	9818.78	PIB municipal per capta: 9.818,78
+297	3529708	Miguelópolis	12551.84	PIB municipal per capta: 12.551,84
+298	3529807	Mineiros do Tietê	7343.79	PIB municipal per capta: 7.343,79
+299	3529906	Miracatu	6216.56	PIB municipal per capta: 6.216,56
+300	3530003	Mira Estrela	10272.03	PIB municipal per capta: 10.272,03
+301	3530102	Mirandópolis	7868.92	PIB municipal per capta: 7.868,92
+302	3530201	Mirante do Paranapanema	5637.09	PIB municipal per capta: 5.637,09
+303	3530300	Mirassol	12952.72	PIB municipal per capta: 12.952,72
+304	3530409	Mirassolândia	7639.54	PIB municipal per capta: 7.639,54
+305	3530508	Mococa	13833.90	PIB municipal per capta: 13.833,90
+306	3530607	Mogi das Cruzes	14829.70	PIB municipal per capta: 14.829,70
+307	3530706	Mogi Guaçu	17503.91	PIB municipal per capta: 17.503,91
+308	3530805	Moji Mirim	23411.32	PIB municipal per capta: 23.411,32
+309	3530904	Mombuca	9676.68	PIB municipal per capta: 9.676,68
+310	3531001	Monções	10651.69	PIB municipal per capta: 10.651,69
+311	3531100	Mongaguá	7904.85	PIB municipal per capta: 7.904,85
+312	3531209	Monte Alegre do Sul	12140.14	PIB municipal per capta: 12.140,14
+313	3531308	Monte Alto	16480.24	PIB municipal per capta: 16.480,24
+314	3531407	Monte Aprazível	16435.40	PIB municipal per capta: 16.435,40
+315	3531506	Monte Azul Paulista	13835.07	PIB municipal per capta: 13.835,07
+316	3531605	Monte Castelo	10352.66	PIB municipal per capta: 10.352,66
+317	3531704	Monteiro Lobato	7220.48	PIB municipal per capta: 7.220,48
+318	3531803	Monte Mor	22149.97	PIB municipal per capta: 22.149,97
+319	3531902	Morro Agudo	19802.38	PIB municipal per capta: 19.802,38
+320	3532009	Morungaba	17436.62	PIB municipal per capta: 17.436,62
+321	3532108	Murutinga do Sul	8327.91	PIB municipal per capta: 8.327,91
+322	3532207	Narandiba	14881.22	PIB municipal per capta: 14.881,22
+323	3532306	Natividade da Serra	5837.48	PIB municipal per capta: 5.837,48
+324	3532405	Nazaré Paulista	7695.17	PIB municipal per capta: 7.695,17
+325	3532504	Neves Paulista	10821.98	PIB municipal per capta: 10.821,98
+326	3532603	Nhandeara	10461.36	PIB municipal per capta: 10.461,36
+327	3532702	Nipoã	9789.65	PIB municipal per capta: 9.789,65
+328	3532801	Nova Aliança	12194.09	PIB municipal per capta: 12.194,09
+329	3532900	Nova Europa	11423.96	PIB municipal per capta: 11.423,96
+330	3533007	Nova Granada	10252.37	PIB municipal per capta: 10.252,37
+331	3533106	Nova Guataporanga	5716.37	PIB municipal per capta: 5.716,37
+332	3533205	Nova Independência	14209.89	PIB municipal per capta: 14.209,89
+333	3533304	Nova Luzitânia	6984.99	PIB municipal per capta: 6.984,99
+334	3533403	Nova Odessa	20626.24	PIB municipal per capta: 20.626,24
+335	3533502	Novo Horizonte	16632.53	PIB municipal per capta: 16.632,53
+336	3533601	Nuporanga	17086.15	PIB municipal per capta: 17.086,15
+337	3533700	Ocauçu	9777.61	PIB municipal per capta: 9.777,61
+338	3533809	Óleo	10850.37	PIB municipal per capta: 10.850,37
+339	3533908	Olímpia	16034.48	PIB municipal per capta: 16.034,48
+340	3534005	Onda Verde	34648.32	PIB municipal per capta: 34.648,32
+341	3534104	Oriente	6900.72	PIB municipal per capta: 6.900,72
+342	3534203	Orindiúva	16926.19	PIB municipal per capta: 16.926,19
+343	3534302	Orlândia	17804.80	PIB municipal per capta: 17.804,80
+344	3534401	Osasco	37064.64	PIB municipal per capta: 37.064,64
+345	3534500	Oscar Bressane	9274.60	PIB municipal per capta: 9.274,60
+346	3534609	Osvaldo Cruz	9692.89	PIB municipal per capta: 9.692,89
+347	3534708	Ourinhos	13283.64	PIB municipal per capta: 13.283,64
+348	3534807	Ouro Verde	8305.94	PIB municipal per capta: 8.305,94
+349	3534906	Pacaembu	6771.61	PIB municipal per capta: 6.771,61
+350	3535002	Palestina	11154.63	PIB municipal per capta: 11.154,63
+351	3535101	Palmares Paulista	5356.28	PIB municipal per capta: 5.356,28
+352	3535200	Palmeira d'Oeste	7920.30	PIB municipal per capta: 7.920,30
+353	3535309	Palmital	15479.92	PIB municipal per capta: 15.479,92
+354	3535408	Panorama	7319.45	PIB municipal per capta: 7.319,45
+355	3535507	Paraguaçu Paulista	12915.93	PIB municipal per capta: 12.915,93
+356	3535606	Paraibuna	7387.28	PIB municipal per capta: 7.387,28
+357	3535705	Paraíso	11300.26	PIB municipal per capta: 11.300,26
+358	3535804	Paranapanema	15820.15	PIB municipal per capta: 15.820,15
+359	3535903	Paranapuã	9610.18	PIB municipal per capta: 9.610,18
+360	3536000	Parapuã	9896.39	PIB municipal per capta: 9.896,39
+361	3536109	Pardinho	15088.35	PIB municipal per capta: 15.088,35
+362	3536208	Pariquera-Açu	7948.77	PIB municipal per capta: 7.948,77
+363	3536307	Patrocínio Paulista	18975.39	PIB municipal per capta: 18.975,39
+364	3536406	Paulicéia	8145.27	PIB municipal per capta: 8.145,27
+365	3536505	Paulínia	87359.51	PIB municipal per capta: 87.359,51
+366	3536604	Paulo de Faria	12294.75	PIB municipal per capta: 12.294,75
+367	3536703	Pederneiras	17118.30	PIB municipal per capta: 17.118,30
+368	3536802	Pedra Bela	7505.13	PIB municipal per capta: 7.505,13
+369	3536901	Pedranópolis	11471.45	PIB municipal per capta: 11.471,45
+370	3537008	Pedregulho	13649.83	PIB municipal per capta: 13.649,83
+371	3537107	Pedreira	12896.14	PIB municipal per capta: 12.896,14
+372	3537206	Pedro de Toledo	5707.46	PIB municipal per capta: 5.707,46
+373	3537305	Penápolis	15911.06	PIB municipal per capta: 15.911,06
+374	3537404	Pereira Barreto	14141.75	PIB municipal per capta: 14.141,75
+375	3537503	Pereiras	16797.36	PIB municipal per capta: 16.797,36
+376	3537602	Peruíbe	8483.49	PIB municipal per capta: 8.483,49
+377	3537701	Piacatu	9041.66	PIB municipal per capta: 9.041,66
+378	3537800	Piedade	8671.87	PIB municipal per capta: 8.671,87
+379	3537909	Pilar do Sul	9254.26	PIB municipal per capta: 9.254,26
+380	3538006	Pindamonhangaba	20790.61	PIB municipal per capta: 20.790,61
+381	3538105	Pindorama	9994.91	PIB municipal per capta: 9.994,91
+382	3515186	Espírito Santo do Pinhal	12882.37	PIB municipal per capta: 12.882,37
+383	3538204	Pinhalzinho	7615.50	PIB municipal per capta: 7.615,50
+384	3538303	Piquerobi	8377.29	PIB municipal per capta: 8.377,29
+385	3538501	Piquete	5317.58	PIB municipal per capta: 5.317,58
+386	3538600	Piracaia	8425.52	PIB municipal per capta: 8.425,52
+387	3538709	Piracicaba	21676.71	PIB municipal per capta: 21.676,71
+388	3538808	Piraju	10163.41	PIB municipal per capta: 10.163,41
+389	3538907	Pirajuí	7941.67	PIB municipal per capta: 7.941,67
+390	3539004	Pirangi	12096.73	PIB municipal per capta: 12.096,73
+391	3539103	Pirapora do Bom Jesus	9321.48	PIB municipal per capta: 9.321,48
+392	3539202	Pirapozinho	12639.34	PIB municipal per capta: 12.639,34
+393	3539301	Pirassununga	16746.94	PIB municipal per capta: 16.746,94
+394	3539400	Piratininga	6978.51	PIB municipal per capta: 6.978,51
+395	3539509	Pitangueiras	11104.39	PIB municipal per capta: 11.104,39
+396	3539608	Planalto	12735.02	PIB municipal per capta: 12.735,02
+397	3539707	Platina	14302.14	PIB municipal per capta: 14.302,14
+398	3539806	Poá	18715.33	PIB municipal per capta: 18.715,33
+399	3539905	Poloni	11188.58	PIB municipal per capta: 11.188,58
+400	3540002	Pompéia	17642.22	PIB municipal per capta: 17.642,22
+401	3540101	Pongaí	12687.20	PIB municipal per capta: 12.687,20
+402	3540200	Pontal	11874.77	PIB municipal per capta: 11.874,77
+403	3540309	Pontes Gestal	20448.71	PIB municipal per capta: 20.448,71
+404	3540408	Populina	11865.68	PIB municipal per capta: 11.865,68
+405	3540507	Porangaba	7614.51	PIB municipal per capta: 7.614,51
+406	3540606	Porto Feliz	13683.84	PIB municipal per capta: 13.683,84
+407	3540705	Porto Ferreira	14780.77	PIB municipal per capta: 14.780,77
+408	3540804	Potirendaba	11487.65	PIB municipal per capta: 11.487,65
+409	3540903	Pradópolis	38631.88	PIB municipal per capta: 38.631,88
+410	3541000	Praia Grande	8875.59	PIB municipal per capta: 8.875,59
+411	3541109	Presidente Alves	12178.88	PIB municipal per capta: 12.178,88
+412	3541208	Presidente Bernardes	7487.62	PIB municipal per capta: 7.487,62
+413	3541307	Presidente Epitácio	8627.02	PIB municipal per capta: 8.627,02
+414	3541406	Presidente Prudente	14448.85	PIB municipal per capta: 14.448,85
+415	3541505	Presidente Venceslau	9067.84	PIB municipal per capta: 9.067,84
+416	3541604	Promissão	15672.48	PIB municipal per capta: 15.672,48
+417	3541703	Quatá	20172.05	PIB municipal per capta: 20.172,05
+418	3541802	Queiroz	30034.54	PIB municipal per capta: 30.034,54
+419	3541901	Queluz	5453.73	PIB municipal per capta: 5.453,73
+420	3542008	Quintana	8291.06	PIB municipal per capta: 8.291,06
+421	3542107	Rafard	12305.14	PIB municipal per capta: 12.305,14
+422	3542206	Rancharia	18830.61	PIB municipal per capta: 18.830,61
+423	3542305	Redenção da Serra	6605.30	PIB municipal per capta: 6.605,30
+424	3542404	Regente Feijó	11231.54	PIB municipal per capta: 11.231,54
+425	3542503	Reginópolis	8197.37	PIB municipal per capta: 8.197,37
+426	3542602	Registro	8267.59	PIB municipal per capta: 8.267,59
+427	3542701	Restinga	12159.64	PIB municipal per capta: 12.159,64
+428	3542800	Ribeira	4581.02	PIB municipal per capta: 4.581,02
+429	3542909	Ribeirão Bonito	9964.90	PIB municipal per capta: 9.964,90
+430	3543006	Ribeirão Branco	6493.93	PIB municipal per capta: 6.493,93
+431	3543105	Ribeirão Corrente	20771.95	PIB municipal per capta: 20.771,95
+432	3543204	Ribeirão do Sul	10224.81	PIB municipal per capta: 10.224,81
+433	3543303	Ribeirão Pires	12103.08	PIB municipal per capta: 12.103,08
+434	3543402	Ribeirão Preto	22482.10	PIB municipal per capta: 22.482,10
+435	3543501	Riversul	5563.17	PIB municipal per capta: 5.563,17
+436	3543600	Rifaina	8777.37	PIB municipal per capta: 8.777,37
+437	3543709	Rincão	9379.24	PIB municipal per capta: 9.379,24
+438	3543808	Rinópolis	7544.34	PIB municipal per capta: 7.544,34
+439	3543907	Rio Claro	21320.24	PIB municipal per capta: 21.320,24
+440	3544004	Rio das Pedras	25179.84	PIB municipal per capta: 25.179,84
+441	3544103	Rio Grande da Serra	7307.31	PIB municipal per capta: 7.307,31
+442	3544202	Riolândia	7866.67	PIB municipal per capta: 7.866,67
+443	3544301	Roseira	13385.57	PIB municipal per capta: 13.385,57
+444	3544400	Rubiácea	21046.25	PIB municipal per capta: 21.046,25
+445	3544509	Rubinéia	7988.05	PIB municipal per capta: 7.988,05
+446	3544608	Sabino	10898.29	PIB municipal per capta: 10.898,29
+447	3544707	Sagres	7869.75	PIB municipal per capta: 7.869,75
+448	3544806	Sales	9501.64	PIB municipal per capta: 9.501,64
+449	3544905	Sales Oliveira	12002.34	PIB municipal per capta: 12.002,34
+450	3545001	Salesópolis	12369.44	PIB municipal per capta: 12.369,44
+451	3545100	Salmourão	8199.15	PIB municipal per capta: 8.199,15
+452	3545209	Salto	16522.55	PIB municipal per capta: 16.522,55
+453	3545308	Salto de Pirapora	10302.38	PIB municipal per capta: 10.302,38
+454	3545407	Salto Grande	11673.10	PIB municipal per capta: 11.673,10
+455	3545506	Sandovalina	41299.58	PIB municipal per capta: 41.299,58
+456	3545605	Santa Adélia	10536.92	PIB municipal per capta: 10.536,92
+457	3545704	Santa Albertina	8562.36	PIB municipal per capta: 8.562,36
+458	3545803	Santa Bárbara d'Oeste	15725.24	PIB municipal per capta: 15.725,24
+459	3500550	Águas de Santa Bárbara	10165.18	PIB municipal per capta: 10.165,18
+460	3546009	Santa Branca	10706.69	PIB municipal per capta: 10.706,69
+461	3546108	Santa Clara d'Oeste	7469.10	PIB municipal per capta: 7.469,10
+462	3546207	Santa Cruz da Conceição	13519.90	PIB municipal per capta: 13.519,90
+463	3546306	Santa Cruz das Palmeiras	8110.09	PIB municipal per capta: 8.110,09
+464	3546405	Santa Cruz do Rio Pardo	14776.55	PIB municipal per capta: 14.776,55
+465	3546504	Santa Ernestina	7361.82	PIB municipal per capta: 7.361,82
+466	3546603	Santa Fé do Sul	14295.13	PIB municipal per capta: 14.295,13
+467	3546702	Santa Gertrudes	15318.67	PIB municipal per capta: 15.318,67
+468	3546801	Santa Isabel	9581.08	PIB municipal per capta: 9.581,08
+469	3546900	Santa Lucia	8355.48	PIB municipal per capta: 8.355,48
+470	3547007	Santa Maria da Serra	10524.21	PIB municipal per capta: 10.524,21
+471	3547106	Santa Mercedes	7010.62	PIB municipal per capta: 7.010,62
+472	3547403	Santa Rita d'Oeste	12366.32	PIB municipal per capta: 12.366,32
+473	3547502	Santa Rita do Passa Quatro	12098.56	PIB municipal per capta: 12.098,56
+474	3547601	Santa Rosa do Viterbo	15446.31	PIB municipal per capta: 15.446,31
+475	3547205	Santana da Ponte Pensa	8875.93	PIB municipal per capta: 8.875,93
+476	3547304	Santana de Parnaíba	29385.77	PIB municipal per capta: 29.385,77
+477	3547700	Santo Anastácio	8760.58	PIB municipal per capta: 8.760,58
+478	3547809	Santo André	19804.25	PIB municipal per capta: 19.804,25
+479	3547908	Santo Antonio da Alegria	8746.62	PIB municipal per capta: 8.746,62
+480	3548104	Santo Antonio do Jardim	11639.87	PIB municipal per capta: 11.639,87
+481	3548203	Santo Antonio do Pinhal	6888.96	PIB municipal per capta: 6.888,96
+482	3548005	Santo Antonio de Posse	18336.16	PIB municipal per capta: 18.336,16
+483	3548302	Santo Expedito	8669.74	PIB municipal per capta: 8.669,74
+484	3548401	Santópolis do Aguapeí	8992.60	PIB municipal per capta: 8.992,60
+485	3548500	Santos	46432.62	PIB municipal per capta: 46.432,62
+486	3548609	São Bento do Sapucaí	6877.09	PIB municipal per capta: 6.877,09
+487	3548708	São Bernardo do Campo	33686.38	PIB municipal per capta: 33.686,38
+488	3548807	São Caetano do Sul	60781.36	PIB municipal per capta: 60.781,36
+489	3548906	São Carlos	16901.25	PIB municipal per capta: 16.901,25
+490	3549003	São Francisco	8928.50	PIB municipal per capta: 8.928,50
+491	3549102	São João da Boa Vista	16241.60	PIB municipal per capta: 16.241,60
+492	3549201	São João das Duas Pontes	9746.43	PIB municipal per capta: 9.746,43
+493	3549300	São João do Pau d'Alho	9301.13	PIB municipal per capta: 9.301,13
+494	3549409	São Joaquim da Barra	14496.38	PIB municipal per capta: 14.496,38
+495	3549607	São José do Barreiro	6613.56	PIB municipal per capta: 6.613,56
+496	3549508	São José da Bela Vista	11458.61	PIB municipal per capta: 11.458,61
+497	3549706	São José do Rio Pardo	16730.14	PIB municipal per capta: 16.730,14
+498	3549805	São José do Rio Preto	16279.14	PIB municipal per capta: 16.279,14
+499	3549904	São José dos Campos	29296.92	PIB municipal per capta: 29.296,92
+500	3550001	São Luís do Paraitinga	6928.59	PIB municipal per capta: 6.928,59
+501	3550100	São Manuel	15365.30	PIB municipal per capta: 15.365,30
+502	3550209	São Miguel Arcanjo	10592.32	PIB municipal per capta: 10.592,32
+503	3550308	São Paulo	29325.75	PIB municipal per capta: 29.325,75
+504	3550407	São Pedro	10074.94	PIB municipal per capta: 10.074,94
+505	3550506	São Pedro do Turvo	9986.29	PIB municipal per capta: 9.986,29
+506	3550605	São Roque	13042.54	PIB municipal per capta: 13.042,54
+507	3550704	São Sebastião	60847.48	PIB municipal per capta: 60.847,48
+508	3550803	São Sebastião da Grama	12064.82	PIB municipal per capta: 12.064,82
+509	3550902	São Simão	13997.48	PIB municipal per capta: 13.997,48
+510	3551009	São Vicente	6670.21	PIB municipal per capta: 6.670,21
+511	3551108	Sarapuí	8670.26	PIB municipal per capta: 8.670,26
+512	3551207	Sarutaiá	7519.38	PIB municipal per capta: 7.519,38
+513	3551306	Sebastianópolis do Sul	11719.48	PIB municipal per capta: 11.719,48
+514	3551405	Serra Azul	7090.95	PIB municipal per capta: 7.090,95
+515	3551603	Serra Negra	9851.32	PIB municipal per capta: 9.851,32
+516	3551504	Serrana	13701.05	PIB municipal per capta: 13.701,05
+517	3551702	Sertãozinho	25879.15	PIB municipal per capta: 25.879,15
+518	3551801	Sete Barras	6599.56	PIB municipal per capta: 6.599,56
+519	3551900	Severínia	11210.72	PIB municipal per capta: 11.210,72
+520	3552007	Silveiras	6379.35	PIB municipal per capta: 6.379,35
+521	3552106	Socorro	8392.36	PIB municipal per capta: 8.392,36
+522	3552205	Sorocaba	21336.34	PIB municipal per capta: 21.336,34
+523	3552304	Sud Mennucci	12557.79	PIB municipal per capta: 12.557,79
+524	3552403	Sumaré	24742.30	PIB municipal per capta: 24.742,30
+525	3552502	Suzano	21039.27	PIB municipal per capta: 21.039,27
+526	3552601	Tabapuã	10072.46	PIB municipal per capta: 10.072,46
+527	3552700	Tabatinga	9014.86	PIB municipal per capta: 9.014,86
+528	3552809	Taboão da Serra	15391.59	PIB municipal per capta: 15.391,59
+529	3552908	Taciba	37190.28	PIB municipal per capta: 37.190,28
+530	3553005	Taguaí	11324.98	PIB municipal per capta: 11.324,98
+531	3553104	Taiaçu	9700.63	PIB municipal per capta: 9.700,63
+532	3553203	Taiúva	9377.36	PIB municipal per capta: 9.377,36
+533	3553302	Tambaú	13520.30	PIB municipal per capta: 13.520,30
+534	3553401	Tanabi	9866.82	PIB municipal per capta: 9.866,82
+535	3553500	Tapiraí	7397.79	PIB municipal per capta: 7.397,79
+536	3553609	Tapiratiba	12045.96	PIB municipal per capta: 12.045,96
+537	3553708	Taquaritinga	10804.86	PIB municipal per capta: 10.804,86
+538	3553807	Taquarituba	9503.02	PIB municipal per capta: 9.503,02
+539	3553906	Tarabaí	5968.36	PIB municipal per capta: 5.968,36
+540	3554003	Tatuí	13984.76	PIB municipal per capta: 13.984,76
+541	3554102	Taubaté	24922.06	PIB municipal per capta: 24.922,06
+542	3554201	Tejupá	8720.77	PIB municipal per capta: 8.720,77
+543	3554300	Teodoro Sampaio	7823.83	PIB municipal per capta: 7.823,83
+544	3554409	Terra Roxa	7496.97	PIB municipal per capta: 7.496,97
+545	3554508	Tietê	19624.88	PIB municipal per capta: 19.624,88
+546	3554607	Timburi	10381.19	PIB municipal per capta: 10.381,19
+547	3554706	Torrinha	9533.34	PIB municipal per capta: 9.533,34
+548	3554805	Tremembé	6831.71	PIB municipal per capta: 6.831,71
+549	3554904	Três Fronteiras	8439.98	PIB municipal per capta: 8.439,98
+550	3555000	Tupã	11528.56	PIB municipal per capta: 11.528,56
+551	3555109	Tupi Paulista	8868.07	PIB municipal per capta: 8.868,07
+552	3555208	Turiúba	15850.60	PIB municipal per capta: 15.850,60
+553	3555307	Turmalina	14160.61	PIB municipal per capta: 14.160,61
+554	3555406	Ubatuba	9081.61	PIB municipal per capta: 9.081,61
+555	3555505	Ubirajara	8965.32	PIB municipal per capta: 8.965,32
+556	3555604	Uchôa	10708.23	PIB municipal per capta: 10.708,23
+557	3555703	União Paulista	19415.15	PIB municipal per capta: 19.415,15
+558	3555802	Urânia	8265.17	PIB municipal per capta: 8.265,17
+559	3555901	Uru	21776.57	PIB municipal per capta: 21.776,57
+560	3556008	Urupês	11734.99	PIB municipal per capta: 11.734,99
+561	3556107	Valentim Gentil	11497.83	PIB municipal per capta: 11.497,83
+562	3556206	Valinhos	26723.88	PIB municipal per capta: 26.723,88
+563	3556305	Valparaíso	12397.67	PIB municipal per capta: 12.397,67
+564	3556404	Vargem Grande do Sul	9335.11	PIB municipal per capta: 9.335,11
+565	3556503	Várzea Paulista	11729.26	PIB municipal per capta: 11.729,26
+566	3556602	Vera Cruz	6988.58	PIB municipal per capta: 6.988,58
+567	3556701	Vinhedo	50260.32	PIB municipal per capta: 50.260,32
+568	3556800	Viradouro	7588.37	PIB municipal per capta: 7.588,37
+569	3556909	Vista Alegre do Alto	12665.33	PIB municipal per capta: 12.665,33
+570	3557006	Votorantim	12540.43	PIB municipal per capta: 12.540,43
+571	3557105	Votuporanga	12239.03	PIB municipal per capta: 12.239,03
+572	3556453	Vargem Grande Paulista	13301.01	PIB municipal per capta: 13.301,01
+573	3500758	Alambari	10150.70	PIB municipal per capta: 10.150,70
+574	3501152	Alumínio	115367.92	PIB municipal per capta: 115.367,92
+575	3502754	Araçariguama	57460.74	PIB municipal per capta: 57.460,74
+576	3503158	Arapeí	6487.15	PIB municipal per capta: 6.487,15
+577	3503950	Aspásia	9946.34	PIB municipal per capta: 9.946,34
+578	3505351	Barra do Chapéu	5851.69	PIB municipal per capta: 5.851,69
+579	3506359	Bertioga	11272.86	PIB municipal per capta: 11.272,86
+580	3507159	Bom Sucesso de Itararé	7228.13	PIB municipal per capta: 7.228,13
+581	3507456	Borebi	12047.67	PIB municipal per capta: 12.047,67
+582	3509254	Cajati	11786.77	PIB municipal per capta: 11.786,77
+583	3509452	Campina do Monte Alegre	12681.39	PIB municipal per capta: 12.681,39
+584	3510153	Canitar	6245.21	PIB municipal per capta: 6.245,21
+585	3513850	Dirce Reis	14796.64	PIB municipal per capta: 14.796,64
+586	3514924	Elisiário	13011.97	PIB municipal per capta: 13.011,97
+587	3514957	Embaúba	12205.70	PIB municipal per capta: 12.205,70
+588	3515129	Emilianópolis	8050.34	PIB municipal per capta: 8.050,34
+589	3515152	Engenheiro Coelho	13431.35	PIB municipal per capta: 13.431,35
+590	3515194	Espírito Santo do Turvo	17134.03	PIB municipal per capta: 17.134,03
+591	3557303	Estiva Gerbi	15163.07	PIB municipal per capta: 15.163,07
+592	3515350	Euclides da Cunha Paulista	5471.55	PIB municipal per capta: 5.471,55
+593	3518859	Guatapará	11997.73	PIB municipal per capta: 11.997,73
+594	3519055	Holambra	45079.88	PIB municipal per capta: 45.079,88
+595	3519071	Hortolândia	21620.35	PIB municipal per capta: 21.620,35
+596	3519253	Iaras	8398.23	PIB municipal per capta: 8.398,23
+597	3520426	Ilha Comprida	9806.17	PIB municipal per capta: 9.806,17
+598	3520442	Ilha Solteira	44453.17	PIB municipal per capta: 44.453,17
+599	3522158	Itaóca	4931.70	PIB municipal per capta: 4.931,70
+600	3522653	Itapirapuã Paulista	4957.68	PIB municipal per capta: 4.957,68
+601	3527256	Lourdes	8864.60	PIB municipal per capta: 8.864,60
+602	3528858	Marapoama	24799.21	PIB municipal per capta: 24.799,21
+603	3529658	Mesópolis	12005.13	PIB municipal per capta: 12.005,13
+604	3532058	Motuca	37354.28	PIB municipal per capta: 37.354,28
+605	3532827	Nova Campina	13824.41	PIB municipal per capta: 13.824,41
+606	3532843	Nova Canaã Paulista	12229.75	PIB municipal per capta: 12.229,75
+607	3533254	Novais	7000.11	PIB municipal per capta: 7.000,11
+608	3536257	Parisi	10921.99	PIB municipal per capta: 10.921,99
+609	3537156	Pedrinhas Paulista	21869.78	PIB municipal per capta: 21.869,78
+610	3540259	Pontalinda	7686.40	PIB municipal per capta: 7.686,40
+611	3540754	Potim	5850.90	PIB municipal per capta: 5.850,90
+612	3543253	Ribeirão Grande	9502.26	PIB municipal per capta: 9.502,26
+613	3544251	Rosana	32318.45	PIB municipal per capta: 32.318,45
+614	3545159	Saltinho	12994.41	PIB municipal per capta: 12.994,41
+615	3549250	São João de Iracema	20897.89	PIB municipal per capta: 20.897,89
+616	3549953	São Lourenço da Serra	9056.89	PIB municipal per capta: 9.056,89
+617	3548054	Santo Antonio do Aracanguá	20639.91	PIB municipal per capta: 20.639,91
+618	3552551	Suzanápolis	11304.79	PIB municipal per capta: 11.304,79
+619	3553856	Taquarivaí	14719.39	PIB municipal per capta: 14.719,39
+620	3553955	Tarumã	20288.60	PIB municipal per capta: 20.288,60
+621	3554656	Torre de Pedra	6147.86	PIB municipal per capta: 6.147,86
+622	3554953	Tuiuti	7936.29	PIB municipal per capta: 7.936,29
+623	3555356	Ubarana	14543.30	PIB municipal per capta: 14.543,30
+624	3556354	Vargem	5627.54	PIB municipal per capta: 5.627,54
+625	3557154	Zacarias	16197.71	PIB municipal per capta: 16.197,71
+626	3503356	Arco Íris	18874.76	PIB municipal per capta: 18.874,76
+627	3507753	Brejo Alegre	11967.92	PIB municipal per capta: 11.967,92
+628	3509957	Canas	7375.56	PIB municipal per capta: 7.375,56
+629	3540853	Pracinha	5734.07	PIB municipal per capta: 5.734,07
+630	3541059	Pratânia	11336.83	PIB municipal per capta: 11.336,83
+631	3541653	Quadra	10307.66	PIB municipal per capta: 10.307,66
+632	3546256	Santa Cruz da Esperança	12093.86	PIB municipal per capta: 12.093,86
+633	3547650	Santa Salete	15005.83	PIB municipal per capta: 15.005,83
+634	3556958	Vitória Brasil	10006.69	PIB municipal per capta: 10.006,69
+635	3521150	Ipiguá	8073.40	PIB municipal per capta: 8.073,40
+636	3553658	Taquaral	16831.00	PIB municipal per capta: 16.831,00
+637	3515657	Fernão	11034.39	PIB municipal per capta: 11.034,39
+638	3516853	Gavião Peixoto	17638.41	PIB municipal per capta: 17.638,41
+639	3525854	Jumirim	17039.34	PIB municipal per capta: 17.039,34
+640	3532157	Nantes	32214.20	PIB municipal per capta: 32.214,20
+641	3532868	Nova Castilho	27746.52	PIB municipal per capta: 27.746,52
+642	3534757	Ouroeste	59572.19	PIB municipal per capta: 59.572,19
+643	3536570	Paulistânia	13199.85	PIB municipal per capta: 13.199,85
+644	3543238	Ribeirão dos Índios	11544.14	PIB municipal per capta: 11.544,14
+645	3554755	Trabiju	13737.28	PIB municipal per capta: 13.737,28

@@ -31,7 +31,13 @@ angular.module('graficos.controllers', [])
                         alternatives: curr.anos,
                         scale: curr.scale,
                         domain: curr.domain,
-                        range: curr.range
+                        range: curr.range,
+                        features: curr.features,
+                        featureLabels: {
+                            mun: "Municipios",
+                            ra: "Região Administrativa",
+                            rm: "Regiões Metropolitanas"
+                        }
                     })
                 }
             });

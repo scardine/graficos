@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+2	3500204	Adolfo	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+3	3500303	Aguaí	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+4	3500402	Águas da Prata	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+5	3500501	Águas de Lindóia	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+6	3500600	Águas de São Pedro	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+7	3500709	Agudos	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+8	3500808	Alfredo Marcondes	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+9	3500907	Altair	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+10	3501004	Altinópolis	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+11	3501103	Alto Alegre	3.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,9
+12	3501202	Álvares Florence	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+13	3501301	Álvares Machado	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+14	3501400	Álvaro de Carvalho	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+15	3501509	Alvinlândia	4.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,3
+16	3501608	Americana	2.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,9
+17	3501707	Américo Brasiliense	0.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,2
+18	3501806	Américo de Campos	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+19	3501905	Amparo	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+20	3502002	Analândia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+21	3502101	Andradina	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+22	3502200	Angatuba	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+23	3502309	Anhembi	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+24	3502408	Anhumas	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+25	3502507	Aparecida	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+26	3502606	Aparecida d'Oeste	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+27	3502705	Apiaí	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+28	3502804	Araçatuba	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+29	3502903	Araçoiaba da Serra	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+30	3503000	Aramina	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+31	3503109	Arandu	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+32	3503208	Araraquara	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+33	3503307	Araras	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+34	3503406	Arealva	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+35	3503505	Areias	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+36	3503604	Areiópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+37	3503703	Ariranha	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+38	3503802	Artur Nogueira	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+39	3503901	Arujá	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+40	3504008	Assis	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+41	3504107	Atibaia	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+42	3504206	Auriflama	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+43	3504305	Avaí	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+44	3504404	Avanhandava	5.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,2
+45	3504503	Avaré	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+46	3504602	Bady Bassitt	3.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,2
+47	3504701	Balbinos	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+48	3504800	Bálsamo	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+49	3504909	Bananal	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+50	3505005	Barão de Antonina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+51	3505104	Barbosa	12.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 12,1
+52	3505203	Bariri	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+53	3505302	Barra Bonita	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+54	3505401	Barra do Turvo	9.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 9,1
+55	3505500	Barretos	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+56	3505609	Barrinha	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+57	3505708	Barueri	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+58	3505807	Bastos	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+59	3505906	Batatais	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+60	3506003	Bauru	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+61	3506102	Bebedouro	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+62	3506201	Bento de Abreu	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+63	3506300	Bernardino de Campos	5.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,3
+64	3506409	Bilac	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+65	3506508	Birigui	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+66	3506607	Biritiba Mirim	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+67	3506706	Boa Esperança do Sul	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+68	3506805	Bocaina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+69	3506904	Bofete	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+70	3507001	Boituva	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+71	3507100	Bom Jesus dos Perdões	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+72	3507209	Borá	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+73	3507308	Boracéia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+74	3507407	Borborema	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+75	3507506	Botucatu	4.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,8
+76	3507605	Bragança Paulista	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+77	3507704	Braúna	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+78	3507803	Brodowski	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+79	3507902	Brotas	4.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,3
+80	3508009	Buri	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+81	3508108	Buritama	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+82	3508207	Buritizal	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+83	3508306	Cabrália Paulista	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+84	3508405	Cabreúva	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+85	3508504	Caçapava	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+86	3508603	Cachoeira Paulista	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+87	3508702	Caconde	0.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,2
+88	3508801	Cafelândia	3.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,6
+89	3508900	Caiabu	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+90	3509007	Caieiras	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+91	3509106	Caiuá	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+92	3509205	Cajamar	3.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,1
+93	3509304	Cajobi	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+94	3509403	Cajuru	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+95	3509502	Campinas	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+96	3509601	Campo Limpo Paulista	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+97	3509700	Campos do Jordão	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+98	3509809	Campos Novos Paulista	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+99	3509908	Cananéia	5.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,3
+100	3510005	Cândido Mota	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+101	3510104	Cândido Rodrigues	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+102	3510203	Capão Bonito	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+103	3510302	Capela do Alto	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+104	3510401	Capivari	3.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,6
+105	3510500	Caraguatatuba	0.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,1
+106	3510609	Carapicuíba	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+107	3510708	Cardoso	3.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,5
+108	3510807	Casa Branca	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+109	3510906	Cássia dos Coqueiros	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+110	3511003	Castilho	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+111	3511102	Catanduva	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+112	3511201	Catiguá	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+113	3511300	Cedral	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+114	3511409	Cerqueira César	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+115	3511508	Cerquilho	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+116	3511607	Cesário Lange	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+117	3511706	Charqueada	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+118	3557204	Chavantes	7.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 7,5
+119	3511904	Clementina	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+120	3512001	Colina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+121	3512100	Colômbia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+122	3512209	Conchal	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+123	3512308	Conchas	9.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 9,5
+124	3512407	Cordeirópolis	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+125	3512506	Coroados	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+126	3512605	Coronel Macedo	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+127	3512704	Corumbataí	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+128	3512803	Cosmópolis	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+129	3512902	Cosmorama	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+130	3513009	Cotia	3.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,1
+131	3513108	Cravinhos	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+132	3513207	Cristais Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+133	3513306	Cruzália	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+134	3513405	Cruzeiro	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+135	3513504	Cubatão	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+136	3513603	Cunha	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+137	3513702	Descalvado	5.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,4
+138	3513801	Diadema	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+139	3513900	Divinolândia	4.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,6
+140	3514007	Dobrada	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+141	3514106	Dois Córregos	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+142	3514205	Dolcinópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+143	3514304	Dourado	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+144	3514403	Dracena	4.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,3
+145	3514502	Duartina	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+146	3514601	Dumont	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+147	3514700	Echaporã	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+148	3514809	Eldorado	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+149	3514908	Elias Fausto	4.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,8
+150	3515004	Embu das Artes	3.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,2
+151	3515103	Embu-Guaçu	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+152	3515202	Estrela d'Oeste	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+153	3515301	Estrela do Norte	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+154	3515400	Fartura	3.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,9
+155	3515509	Fernandópolis	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+156	3515608	Fernando Prestes	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+157	3515707	Ferraz de Vasconcelos	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+158	3515806	Flora Rica	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+159	3515905	Floreal	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+160	3516002	Flórida Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+161	3516101	Florínia	4.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,1
+162	3516200	Franca	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+163	3516309	Francisco Morato	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+164	3516408	Franco da Rocha	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+165	3516507	Gabriel Monteiro	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+166	3516606	Gália	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+167	3516705	Garça	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+168	3516804	Gastão Vidigal	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+169	3516903	General Salgado	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+170	3517000	Getulina	4.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,8
+171	3517109	Glicério	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+172	3517208	Guaiçara	9.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 9,1
+173	3517307	Guaimbê	5.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,6
+174	3517406	Guaíra	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+175	3517505	Guapiaçu	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+176	3517604	Guapiara	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+177	3517703	Guará	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+178	3517802	Guaraçaí	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+179	3517901	Guaraci	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+180	3518008	Guarani d'Oeste	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+181	3518107	Guarantã	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+182	3518206	Guararapes	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+183	3518305	Guararema	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+184	3518404	Guaratinguetá	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+185	3518503	Guareí	2.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,9
+186	3518602	Guariba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+187	3518701	Guarujá	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+188	3518800	Guarulhos	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+189	3518909	Guzolândia	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+190	3519006	Herculândia	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+191	3519105	Iacanga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+192	3519204	Iacri	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+193	3519303	Ibaté	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+194	3519402	Ibirá	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+195	3519501	Ibirarema	7.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 7,0
+196	3519600	Ibitinga	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+197	3519709	Ibiúna	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+198	3519808	Icém	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+199	3519907	Iepê	5.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,0
+200	3520004	Igaraçu do Tietê	3.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,6
+201	3520103	Igarapava	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+202	3520202	Igaratá	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+203	3520301	Iguape	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+204	3520400	Ilhabela	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+205	3520509	Indaiatuba	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+206	3520608	Indiana	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+207	3520707	Indiaporã	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+208	3520806	Inúbia Paulista	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+209	3520905	Ipaussu	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+210	3521002	Iperó	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+211	3521101	Ipeúna	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+212	3521200	Iporanga	3.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,9
+213	3521309	Ipuã	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+214	3521408	Iracemápolis	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+215	3521507	Irapuã	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+216	3521606	Irapuru	3.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,1
+217	3521705	Itaberá	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+218	3521804	Itaí	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+219	3521903	Itajobi	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+220	3522000	Itaju	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+221	3522109	Itanhaém	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+222	3522208	Itapecerica da Serra	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+223	3522307	Itapetininga	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+224	3522406	Itapeva	4.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,5
+225	3522505	Itapevi	4.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,0
+226	3522604	Itapira	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+227	3522703	Itápolis	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+228	3522802	Itaporanga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+229	3522901	Itapuí	11.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 11,0
+230	3523008	Itapura	5.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,2
+231	3523107	Itaquaquecetuba	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+232	3523206	Itararé	3.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,1
+233	3523305	Itariri	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+234	3523404	Itatiba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+235	3523503	Itatinga	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+236	3523602	Itirapina	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+237	3523701	Itirapuã	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+238	3523800	Itobi	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+239	3523909	Itu	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+240	3524006	Itupeva	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+241	3524105	Ituverava	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+242	3524204	Jaborandi	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+243	3524303	Jaboticabal	3.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,3
+244	3524402	Jacareí	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+245	3524501	Jaci	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+246	3524600	Jacupiranga	4.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,4
+247	3524709	Jaguariúna	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+248	3524808	Jales	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+249	3524907	Jambeiro	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+250	3525003	Jandira	4.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,0
+251	3525102	Jardinópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+252	3525201	Jarinu	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+253	3525300	Jaú	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+254	3525409	Jeriquara	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+255	3525508	Joanópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+256	3525607	João Ramalho	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+257	3525706	José Bonifácio	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+258	3525805	Júlio Mesquita	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+259	3525904	Jundiaí	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+260	3526001	Junqueirópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+261	3526100	Juquiá	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+262	3526209	Juquitiba	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+263	3526308	Lagoinha	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+264	3526407	Laranjal Paulista	7.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 7,4
+265	3526506	Lavínia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+266	3526605	Lavrinhas	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+267	3526704	Leme	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+268	3526803	Lençóis Paulista	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+269	3526902	Limeira	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+270	3527009	Lindóia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+271	3527108	Lins	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+272	3527207	Lorena	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+273	3527306	Louveira	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+274	3527405	Lucélia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+275	3527504	Lucianópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+276	3527603	Luís Antônio	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+277	3527702	Luiziânia	4.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,5
+278	3527801	Lupércio	4.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,6
+279	3527900	Lutécia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+280	3528007	Macatuba	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+281	3528106	Macaubal	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+282	3528205	Macedônia	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+283	3528304	Magda	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+284	3528403	Mairinque	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+285	3528502	Mairiporã	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+286	3528601	Manduri	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+287	3528700	Marabá Paulista	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+288	3528809	Maracaí	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+289	3528908	Mariápolis	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+290	3529005	Marília	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+291	3529104	Marinópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+292	3529203	Martinópolis	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+293	3529302	Matão	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+294	3529401	Mauá	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+295	3529500	Mendonça	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+296	3529609	Meridiano	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+297	3529708	Miguelópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+298	3529807	Mineiros do Tietê	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+299	3529906	Miracatu	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+300	3530003	Mira Estrela	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+301	3530102	Mirandópolis	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+302	3530201	Mirante do Paranapanema	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+303	3530300	Mirassol	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+304	3530409	Mirassolândia	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+305	3530508	Mococa	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+306	3530607	Mogi das Cruzes	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+307	3530706	Mogi Guaçu	2.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,9
+308	3530805	Moji Mirim	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+309	3530904	Mombuca	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+310	3531001	Monções	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+311	3531100	Mongaguá	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+312	3531209	Monte Alegre do Sul	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+313	3531308	Monte Alto	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+314	3531407	Monte Aprazível	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+315	3531506	Monte Azul Paulista	3.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,2
+316	3531605	Monte Castelo	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+317	3531704	Monteiro Lobato	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+318	3531803	Monte Mor	4.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,1
+319	3531902	Morro Agudo	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+320	3532009	Morungaba	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+321	3532108	Murutinga do Sul	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+322	3532207	Narandiba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+323	3532306	Natividade da Serra	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+324	3532405	Nazaré Paulista	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+325	3532504	Neves Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+326	3532603	Nhandeara	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+327	3532702	Nipoã	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+328	3532801	Nova Aliança	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+329	3532900	Nova Europa	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+330	3533007	Nova Granada	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+331	3533106	Nova Guataporanga	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+332	3533205	Nova Independência	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+333	3533304	Nova Luzitânia	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+334	3533403	Nova Odessa	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+335	3533502	Novo Horizonte	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+336	3533601	Nuporanga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+337	3533700	Ocauçu	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+338	3533809	Óleo	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+339	3533908	Olímpia	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+340	3534005	Onda Verde	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+341	3534104	Oriente	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+342	3534203	Orindiúva	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+343	3534302	Orlândia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+344	3534401	Osasco	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+345	3534500	Oscar Bressane	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+346	3534609	Osvaldo Cruz	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+347	3534708	Ourinhos	4.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,0
+348	3534807	Ouro Verde	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+349	3534906	Pacaembu	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+350	3535002	Palestina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+351	3535101	Palmares Paulista	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+352	3535200	Palmeira d'Oeste	0.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,2
+353	3535309	Palmital	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+354	3535408	Panorama	3.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,6
+355	3535507	Paraguaçu Paulista	0.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,1
+356	3535606	Paraibuna	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+357	3535705	Paraíso	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+358	3535804	Paranapanema	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+359	3535903	Paranapuã	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+360	3536000	Parapuã	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+361	3536109	Pardinho	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+362	3536208	Pariquera-Açu	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+363	3536307	Patrocínio Paulista	4.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,9
+364	3536406	Paulicéia	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+365	3536505	Paulínia	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+366	3536604	Paulo de Faria	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+367	3536703	Pederneiras	3.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,3
+368	3536802	Pedra Bela	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+369	3536901	Pedranópolis	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+370	3537008	Pedregulho	4.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,8
+371	3537107	Pedreira	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+372	3537206	Pedro de Toledo	3.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,3
+373	3537305	Penápolis	5.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,2
+374	3537404	Pereira Barreto	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+375	3537503	Pereiras	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+376	3537602	Peruíbe	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+377	3537701	Piacatu	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+378	3537800	Piedade	3.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,0
+379	3537909	Pilar do Sul	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+380	3538006	Pindamonhangaba	2.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,9
+381	3538105	Pindorama	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+382	3515186	Espírito Santo do Pinhal	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+383	3538204	Pinhalzinho	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+384	3538303	Piquerobi	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+385	3538501	Piquete	3.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,3
+386	3538600	Piracaia	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+387	3538709	Piracicaba	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+388	3538808	Piraju	3.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,2
+389	3538907	Pirajuí	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+390	3539004	Pirangi	0.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,2
+391	3539103	Pirapora do Bom Jesus	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+392	3539202	Pirapozinho	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+393	3539301	Pirassununga	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+394	3539400	Piratininga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+395	3539509	Pitangueiras	3.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,1
+396	3539608	Planalto	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+397	3539707	Platina	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+398	3539806	Poá	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+399	3539905	Poloni	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+400	3540002	Pompéia	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+401	3540101	Pongaí	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+402	3540200	Pontal	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+403	3540309	Pontes Gestal	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+404	3540408	Populina	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+405	3540507	Porangaba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+406	3540606	Porto Feliz	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+407	3540705	Porto Ferreira	4.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,3
+408	3540804	Potirendaba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+409	3540903	Pradópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+410	3541000	Praia Grande	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+411	3541109	Presidente Alves	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+412	3541208	Presidente Bernardes	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+413	3541307	Presidente Epitácio	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+414	3541406	Presidente Prudente	4.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,5
+415	3541505	Presidente Venceslau	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+416	3541604	Promissão	4.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,7
+417	3541703	Quatá	5.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,4
+418	3541802	Queiroz	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+419	3541901	Queluz	9.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 9,8
+420	3542008	Quintana	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+421	3542107	Rafard	3.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,8
+422	3542206	Rancharia	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+423	3542305	Redenção da Serra	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+424	3542404	Regente Feijó	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+425	3542503	Reginópolis	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+426	3542602	Registro	3.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,2
+427	3542701	Restinga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+428	3542800	Ribeira	4.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,3
+429	3542909	Ribeirão Bonito	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+430	3543006	Ribeirão Branco	4.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,1
+431	3543105	Ribeirão Corrente	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+432	3543204	Ribeirão do Sul	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+433	3543303	Ribeirão Pires	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+434	3543402	Ribeirão Preto	3.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,2
+435	3543501	Riversul	4.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,4
+436	3543600	Rifaina	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+437	3543709	Rincão	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+438	3543808	Rinópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+439	3543907	Rio Claro	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+440	3544004	Rio das Pedras	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+441	3544103	Rio Grande da Serra	0.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,1
+442	3544202	Riolândia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+443	3544301	Roseira	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+444	3544400	Rubiácea	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+445	3544509	Rubinéia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+446	3544608	Sabino	5.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,5
+447	3544707	Sagres	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+448	3544806	Sales	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+449	3544905	Sales Oliveira	3.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,3
+450	3545001	Salesópolis	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+451	3545100	Salmourão	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+452	3545209	Salto	0.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,1
+453	3545308	Salto de Pirapora	3.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,6
+454	3545407	Salto Grande	5.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,2
+455	3545506	Sandovalina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+456	3545605	Santa Adélia	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+457	3545704	Santa Albertina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+458	3545803	Santa Bárbara d'Oeste	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+459	3500550	Águas de Santa Bárbara	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+460	3546009	Santa Branca	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+461	3546108	Santa Clara d'Oeste	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+462	3546207	Santa Cruz da Conceição	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+463	3546306	Santa Cruz das Palmeiras	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+464	3546405	Santa Cruz do Rio Pardo	5.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,3
+465	3546504	Santa Ernestina	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+466	3546603	Santa Fé do Sul	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+467	3546702	Santa Gertrudes	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+468	3546801	Santa Isabel	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+469	3546900	Santa Lucia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+470	3547007	Santa Maria da Serra	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+471	3547106	Santa Mercedes	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+472	3547403	Santa Rita d'Oeste	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+473	3547502	Santa Rita do Passa Quatro	4.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,9
+474	3547601	Santa Rosa do Viterbo	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+475	3547205	Santana da Ponte Pensa	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+476	3547304	Santana de Parnaíba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+477	3547700	Santo Anastácio	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+478	3547809	Santo André	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+479	3547908	Santo Antonio da Alegria	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+480	3548104	Santo Antonio do Jardim	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+481	3548203	Santo Antonio do Pinhal	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+482	3548005	Santo Antonio de Posse	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+483	3548302	Santo Expedito	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+484	3548401	Santópolis do Aguapeí	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+485	3548500	Santos	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+486	3548609	São Bento do Sapucaí	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+487	3548708	São Bernardo do Campo	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+488	3548807	São Caetano do Sul	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+489	3548906	São Carlos	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+490	3549003	São Francisco	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+491	3549102	São João da Boa Vista	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+492	3549201	São João das Duas Pontes	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+493	3549300	São João do Pau d'Alho	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+494	3549409	São Joaquim da Barra	3.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,1
+495	3549607	São José do Barreiro	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+496	3549508	São José da Bela Vista	3.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,9
+497	3549706	São José do Rio Pardo	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+498	3549805	São José do Rio Preto	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+499	3549904	São José dos Campos	1.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,9
+500	3550001	São Luís do Paraitinga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+501	3550100	São Manuel	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+502	3550209	São Miguel Arcanjo	1.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,7
+503	3550308	São Paulo	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+504	3550407	São Pedro	6.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 6,8
+505	3550506	São Pedro do Turvo	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+506	3550605	São Roque	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+507	3550704	São Sebastião	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+508	3550803	São Sebastião da Grama	4.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,5
+509	3550902	São Simão	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+510	3551009	São Vicente	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+511	3551108	Sarapuí	3.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,8
+512	3551207	Sarutaiá	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+513	3551306	Sebastianópolis do Sul	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+514	3551405	Serra Azul	0.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,1
+515	3551603	Serra Negra	2.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,7
+516	3551504	Serrana	3.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,3
+517	3551702	Sertãozinho	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+518	3551801	Sete Barras	4.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,8
+519	3551900	Severínia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+520	3552007	Silveiras	8.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 8,3
+521	3552106	Socorro	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+522	3552205	Sorocaba	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+523	3552304	Sud Mennucci	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+524	3552403	Sumaré	2.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,1
+525	3552502	Suzano	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+526	3552601	Tabapuã	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+527	3552700	Tabatinga	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+528	3552809	Taboão da Serra	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+529	3552908	Taciba	2.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,8
+530	3553005	Taguaí	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+531	3553104	Taiaçu	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+532	3553203	Taiúva	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+533	3553302	Tambaú	2.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,9
+534	3553401	Tanabi	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+535	3553500	Tapiraí	3.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,0
+536	3553609	Tapiratiba	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+537	3553708	Taquaritinga	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+538	3553807	Taquarituba	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+539	3553906	Tarabaí	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+540	3554003	Tatuí	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+541	3554102	Taubaté	8.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 8,3
+542	3554201	Tejupá	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+543	3554300	Teodoro Sampaio	1.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,8
+544	3554409	Terra Roxa	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+545	3554508	Tietê	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+546	3554607	Timburi	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+547	3554706	Torrinha	3.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,7
+548	3554805	Tremembé	6.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 6,0
+549	3554904	Três Fronteiras	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+550	3555000	Tupã	3.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,4
+551	3555109	Tupi Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+552	3555208	Turiúba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+553	3555307	Turmalina	3.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,5
+554	3555406	Ubatuba	0.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,4
+555	3555505	Ubirajara	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+556	3555604	Uchôa	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+557	3555703	União Paulista	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+558	3555802	Urânia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+559	3555901	Uru	2.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,9
+560	3556008	Urupês	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+561	3556107	Valentim Gentil	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+562	3556206	Valinhos	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+563	3556305	Valparaíso	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+564	3556404	Vargem Grande do Sul	5.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 5,3
+565	3556503	Várzea Paulista	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+566	3556602	Vera Cruz	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+567	3556701	Vinhedo	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+568	3556800	Viradouro	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+569	3556909	Vista Alegre do Alto	1.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,5
+570	3557006	Votorantim	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+571	3557105	Votuporanga	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+572	3556453	Vargem Grande Paulista	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+573	3500758	Alambari	0.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,3
+574	3501152	Alumínio	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+575	3502754	Araçariguama	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+576	3503158	Arapeí	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+577	3503950	Aspásia	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+578	3505351	Barra do Chapéu	2.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,6
+579	3506359	Bertioga	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+580	3507159	Bom Sucesso de Itararé	1.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,3
+581	3507456	Borebi	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+582	3509254	Cajati	6.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 6,0
+583	3509452	Campina do Monte Alegre	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+584	3510153	Canitar	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+585	3513850	Dirce Reis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+586	3514924	Elisiário	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+587	3514957	Embaúba	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+588	3515129	Emilianópolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+589	3515152	Engenheiro Coelho	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+590	3515194	Espírito Santo do Turvo	2.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,0
+591	3557303	Estiva Gerbi	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+592	3515350	Euclides da Cunha Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+593	3518859	Guatapará	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+594	3519055	Holambra	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+595	3519071	Hortolândia	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+596	3519253	Iaras	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+597	3520426	Ilha Comprida	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+598	3520442	Ilha Solteira	0.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,5
+599	3522158	Itaóca	2.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,4
+600	3522653	Itapirapuã Paulista	4.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,4
+601	3527256	Lourdes	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+602	3528858	Marapoama	3.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 3,9
+603	3529658	Mesópolis	1.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,6
+604	3532058	Motuca	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+605	3532827	Nova Campina	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+606	3532843	Nova Canaã Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+607	3533254	Novais	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+608	3536257	Parisi	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+609	3537156	Pedrinhas Paulista	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+610	3540259	Pontalinda	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+611	3540754	Potim	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+612	3543253	Ribeirão Grande	1.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,2
+613	3544251	Rosana	0.6	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,6
+614	3545159	Saltinho	0.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,2
+615	3549250	São João de Iracema	0.9	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,9
+616	3549953	São Lourenço da Serra	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+617	3548054	Santo Antonio do Aracanguá	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+618	3552551	Suzanápolis	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+619	3553856	Taquarivaí	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+620	3553955	Tarumã	0.7	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,7
+621	3554656	Torre de Pedra	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+622	3554953	Tuiuti	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+623	3555356	Ubarana	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+624	3556354	Vargem	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+625	3557154	Zacarias	0.8	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 0,8
+626	3503356	Arco Íris	4.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,0
+627	3507753	Brejo Alegre	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+628	3509957	Canas	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+629	3540853	Pracinha	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+630	3541059	Pratânia	1.4	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,4
+631	3541653	Quadra	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+632	3546256	Santa Cruz da Esperança	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+633	3547650	Santa Salete	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+634	3556958	Vitória Brasil	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+635	3521150	Ipiguá	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+636	3553658	Taquaral	2.5	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,5
+637	3515657	Fernão	1.0	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,0
+638	3516853	Gavião Peixoto	4.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 4,1
+639	3525854	Jumirim	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+640	3532157	Nantes	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+641	3532868	Nova Castilho	1.1	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 1,1
+642	3534757	Ouroeste	2.2	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,2
+643	3536570	Paulistânia	2.3	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: 2,3
+644	3543238	Ribeirão dos Índios	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -
+645	3554755	Trabiju	-	Taxa de Abandono 5ª a 8ª Séries – Rede Estadual: -

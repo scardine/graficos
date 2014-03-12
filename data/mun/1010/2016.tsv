@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	1233	População em Idade Escolar de 15 a 17 Anos: 1.233
+2	3500204	Adolfo	144	População em Idade Escolar de 15 a 17 Anos: 144
+3	3500303	Aguaí	1550	População em Idade Escolar de 15 a 17 Anos: 1.550
+4	3500402	Águas da Prata	294	População em Idade Escolar de 15 a 17 Anos: 294
+5	3500501	Águas de Lindóia	757	População em Idade Escolar de 15 a 17 Anos: 757
+6	3500600	Águas de São Pedro	109	População em Idade Escolar de 15 a 17 Anos: 109
+7	3500709	Agudos	1661	População em Idade Escolar de 15 a 17 Anos: 1.661
+8	3500808	Alfredo Marcondes	149	População em Idade Escolar de 15 a 17 Anos: 149
+9	3500907	Altair	183	População em Idade Escolar de 15 a 17 Anos: 183
+10	3501004	Altinópolis	713	População em Idade Escolar de 15 a 17 Anos: 713
+11	3501103	Alto Alegre	151	População em Idade Escolar de 15 a 17 Anos: 151
+12	3501202	Álvares Florence	138	População em Idade Escolar de 15 a 17 Anos: 138
+13	3501301	Álvares Machado	1098	População em Idade Escolar de 15 a 17 Anos: 1.098
+14	3501400	Álvaro de Carvalho	168	População em Idade Escolar de 15 a 17 Anos: 168
+15	3501509	Alvinlândia	163	População em Idade Escolar de 15 a 17 Anos: 163
+16	3501608	Americana	8603	População em Idade Escolar de 15 a 17 Anos: 8.603
+17	3501707	Américo Brasiliense	1812	População em Idade Escolar de 15 a 17 Anos: 1.812
+18	3501806	Américo de Campos	252	População em Idade Escolar de 15 a 17 Anos: 252
+19	3501905	Amparo	2701	População em Idade Escolar de 15 a 17 Anos: 2.701
+20	3502002	Analândia	206	População em Idade Escolar de 15 a 17 Anos: 206
+21	3502101	Andradina	2241	População em Idade Escolar de 15 a 17 Anos: 2.241
+22	3502200	Angatuba	1125	População em Idade Escolar de 15 a 17 Anos: 1.125
+23	3502309	Anhembi	337	População em Idade Escolar de 15 a 17 Anos: 337
+24	3502408	Anhumas	187	População em Idade Escolar de 15 a 17 Anos: 187
+25	3502507	Aparecida	1480	População em Idade Escolar de 15 a 17 Anos: 1.480
+26	3502606	Aparecida d'Oeste	182	População em Idade Escolar de 15 a 17 Anos: 182
+27	3502705	Apiaí	1451	População em Idade Escolar de 15 a 17 Anos: 1.451
+28	3502804	Araçatuba	7377	População em Idade Escolar de 15 a 17 Anos: 7.377
+29	3502903	Araçoiaba da Serra	1469	População em Idade Escolar de 15 a 17 Anos: 1.469
+30	3503000	Aramina	222	População em Idade Escolar de 15 a 17 Anos: 222
+31	3503109	Arandu	312	População em Idade Escolar de 15 a 17 Anos: 312
+32	3503208	Araraquara	8448	População em Idade Escolar de 15 a 17 Anos: 8.448
+33	3503307	Araras	5189	População em Idade Escolar de 15 a 17 Anos: 5.189
+34	3503406	Arealva	342	População em Idade Escolar de 15 a 17 Anos: 342
+35	3503505	Areias	210	População em Idade Escolar de 15 a 17 Anos: 210
+36	3503604	Areiópolis	555	População em Idade Escolar de 15 a 17 Anos: 555
+37	3503703	Ariranha	388	População em Idade Escolar de 15 a 17 Anos: 388
+38	3503802	Artur Nogueira	2356	População em Idade Escolar de 15 a 17 Anos: 2.356
+39	3503901	Arujá	4310	População em Idade Escolar de 15 a 17 Anos: 4.310
+40	3504008	Assis	3925	População em Idade Escolar de 15 a 17 Anos: 3.925
+41	3504107	Atibaia	6159	População em Idade Escolar de 15 a 17 Anos: 6.159
+42	3504206	Auriflama	543	População em Idade Escolar de 15 a 17 Anos: 543
+43	3504305	Avaí	255	População em Idade Escolar de 15 a 17 Anos: 255
+44	3504404	Avanhandava	505	População em Idade Escolar de 15 a 17 Anos: 505
+45	3504503	Avaré	3768	População em Idade Escolar de 15 a 17 Anos: 3.768
+46	3504602	Bady Bassitt	703	População em Idade Escolar de 15 a 17 Anos: 703
+47	3504701	Balbinos	34	População em Idade Escolar de 15 a 17 Anos: 34
+48	3504800	Bálsamo	316	População em Idade Escolar de 15 a 17 Anos: 316
+49	3504909	Bananal	504	População em Idade Escolar de 15 a 17 Anos: 504
+50	3505005	Barão de Antonina	175	População em Idade Escolar de 15 a 17 Anos: 175
+51	3505104	Barbosa	369	População em Idade Escolar de 15 a 17 Anos: 369
+52	3505203	Bariri	1519	População em Idade Escolar de 15 a 17 Anos: 1.519
+53	3505302	Barra Bonita	1349	População em Idade Escolar de 15 a 17 Anos: 1.349
+54	3505401	Barra do Turvo	483	População em Idade Escolar de 15 a 17 Anos: 483
+55	3505500	Barretos	4718	População em Idade Escolar de 15 a 17 Anos: 4.718
+56	3505609	Barrinha	1530	População em Idade Escolar de 15 a 17 Anos: 1.530
+57	3505708	Barueri	12437	População em Idade Escolar de 15 a 17 Anos: 12.437
+58	3505807	Bastos	908	População em Idade Escolar de 15 a 17 Anos: 908
+59	3505906	Batatais	2493	População em Idade Escolar de 15 a 17 Anos: 2.493
+60	3506003	Bauru	14894	População em Idade Escolar de 15 a 17 Anos: 14.894
+61	3506102	Bebedouro	3217	População em Idade Escolar de 15 a 17 Anos: 3.217
+62	3506201	Bento de Abreu	130	População em Idade Escolar de 15 a 17 Anos: 130
+63	3506300	Bernardino de Campos	465	População em Idade Escolar de 15 a 17 Anos: 465
+64	3506409	Bilac	300	População em Idade Escolar de 15 a 17 Anos: 300
+65	3506508	Birigui	4724	População em Idade Escolar de 15 a 17 Anos: 4.724
+66	3506607	Biritiba Mirim	1615	População em Idade Escolar de 15 a 17 Anos: 1.615
+67	3506706	Boa Esperança do Sul	719	População em Idade Escolar de 15 a 17 Anos: 719
+68	3506805	Bocaina	527	População em Idade Escolar de 15 a 17 Anos: 527
+69	3506904	Bofete	546	População em Idade Escolar de 15 a 17 Anos: 546
+70	3507001	Boituva	2447	População em Idade Escolar de 15 a 17 Anos: 2.447
+71	3507100	Bom Jesus dos Perdões	1125	População em Idade Escolar de 15 a 17 Anos: 1.125
+72	3507209	Borá	31	População em Idade Escolar de 15 a 17 Anos: 31
+73	3507308	Boracéia	209	População em Idade Escolar de 15 a 17 Anos: 209
+74	3507407	Borborema	626	População em Idade Escolar de 15 a 17 Anos: 626
+75	3507506	Botucatu	5902	População em Idade Escolar de 15 a 17 Anos: 5.902
+76	3507605	Bragança Paulista	6983	População em Idade Escolar de 15 a 17 Anos: 6.983
+77	3507704	Braúna	226	População em Idade Escolar de 15 a 17 Anos: 226
+78	3507803	Brodowski	1088	População em Idade Escolar de 15 a 17 Anos: 1.088
+79	3507902	Brotas	1057	População em Idade Escolar de 15 a 17 Anos: 1.057
+80	3508009	Buri	1089	População em Idade Escolar de 15 a 17 Anos: 1.089
+81	3508108	Buritama	647	População em Idade Escolar de 15 a 17 Anos: 647
+82	3508207	Buritizal	166	População em Idade Escolar de 15 a 17 Anos: 166
+83	3508306	Cabrália Paulista	212	População em Idade Escolar de 15 a 17 Anos: 212
+84	3508405	Cabreúva	2379	População em Idade Escolar de 15 a 17 Anos: 2.379
+85	3508504	Caçapava	3978	População em Idade Escolar de 15 a 17 Anos: 3.978
+86	3508603	Cachoeira Paulista	1400	População em Idade Escolar de 15 a 17 Anos: 1.400
+87	3508702	Caconde	979	População em Idade Escolar de 15 a 17 Anos: 979
+88	3508801	Cafelândia	736	População em Idade Escolar de 15 a 17 Anos: 736
+89	3508900	Caiabu	176	População em Idade Escolar de 15 a 17 Anos: 176
+90	3509007	Caieiras	4703	População em Idade Escolar de 15 a 17 Anos: 4.703
+91	3509106	Caiuá	271	População em Idade Escolar de 15 a 17 Anos: 271
+92	3509205	Cajamar	3599	População em Idade Escolar de 15 a 17 Anos: 3.599
+93	3509304	Cajobi	404	População em Idade Escolar de 15 a 17 Anos: 404
+94	3509403	Cajuru	1183	População em Idade Escolar de 15 a 17 Anos: 1.183
+95	3509502	Campinas	46135	População em Idade Escolar de 15 a 17 Anos: 46.135
+96	3509601	Campo Limpo Paulista	3687	População em Idade Escolar de 15 a 17 Anos: 3.687
+97	3509700	Campos do Jordão	2483	População em Idade Escolar de 15 a 17 Anos: 2.483
+98	3509809	Campos Novos Paulista	243	População em Idade Escolar de 15 a 17 Anos: 243
+99	3509908	Cananéia	691	População em Idade Escolar de 15 a 17 Anos: 691
+100	3510005	Cândido Mota	1300	População em Idade Escolar de 15 a 17 Anos: 1.300
+101	3510104	Cândido Rodrigues	91	População em Idade Escolar de 15 a 17 Anos: 91
+102	3510203	Capão Bonito	2481	População em Idade Escolar de 15 a 17 Anos: 2.481
+103	3510302	Capela do Alto	1022	População em Idade Escolar de 15 a 17 Anos: 1.022
+104	3510401	Capivari	2371	População em Idade Escolar de 15 a 17 Anos: 2.371
+105	3510500	Caraguatatuba	5436	População em Idade Escolar de 15 a 17 Anos: 5.436
+106	3510609	Carapicuíba	18601	População em Idade Escolar de 15 a 17 Anos: 18.601
+107	3510708	Cardoso	483	População em Idade Escolar de 15 a 17 Anos: 483
+108	3510807	Casa Branca	1205	População em Idade Escolar de 15 a 17 Anos: 1.205
+109	3510906	Cássia dos Coqueiros	115	População em Idade Escolar de 15 a 17 Anos: 115
+110	3511003	Castilho	916	População em Idade Escolar de 15 a 17 Anos: 916
+111	3511102	Catanduva	4402	População em Idade Escolar de 15 a 17 Anos: 4.402
+112	3511201	Catiguá	301	População em Idade Escolar de 15 a 17 Anos: 301
+113	3511300	Cedral	347	População em Idade Escolar de 15 a 17 Anos: 347
+114	3511409	Cerqueira César	866	População em Idade Escolar de 15 a 17 Anos: 866
+115	3511508	Cerquilho	1936	População em Idade Escolar de 15 a 17 Anos: 1.936
+116	3511607	Cesário Lange	749	População em Idade Escolar de 15 a 17 Anos: 749
+117	3511706	Charqueada	743	População em Idade Escolar de 15 a 17 Anos: 743
+118	3557204	Chavantes	590	População em Idade Escolar de 15 a 17 Anos: 590
+119	3511904	Clementina	312	População em Idade Escolar de 15 a 17 Anos: 312
+120	3512001	Colina	773	População em Idade Escolar de 15 a 17 Anos: 773
+121	3512100	Colômbia	279	População em Idade Escolar de 15 a 17 Anos: 279
+122	3512209	Conchal	1301	População em Idade Escolar de 15 a 17 Anos: 1.301
+123	3512308	Conchas	784	População em Idade Escolar de 15 a 17 Anos: 784
+124	3512407	Cordeirópolis	1038	População em Idade Escolar de 15 a 17 Anos: 1.038
+125	3512506	Coroados	242	População em Idade Escolar de 15 a 17 Anos: 242
+126	3512605	Coronel Macedo	264	População em Idade Escolar de 15 a 17 Anos: 264
+127	3512704	Corumbataí	206	População em Idade Escolar de 15 a 17 Anos: 206
+128	3512803	Cosmópolis	3052	População em Idade Escolar de 15 a 17 Anos: 3.052
+129	3512902	Cosmorama	283	População em Idade Escolar de 15 a 17 Anos: 283
+130	3513009	Cotia	11418	População em Idade Escolar de 15 a 17 Anos: 11.418
+131	3513108	Cravinhos	1558	População em Idade Escolar de 15 a 17 Anos: 1.558
+132	3513207	Cristais Paulista	376	População em Idade Escolar de 15 a 17 Anos: 376
+133	3513306	Cruzália	90	População em Idade Escolar de 15 a 17 Anos: 90
+134	3513405	Cruzeiro	3514	População em Idade Escolar de 15 a 17 Anos: 3.514
+135	3513504	Cubatão	6027	População em Idade Escolar de 15 a 17 Anos: 6.027
+136	3513603	Cunha	1081	População em Idade Escolar de 15 a 17 Anos: 1.081
+137	3513702	Descalvado	1328	População em Idade Escolar de 15 a 17 Anos: 1.328
+138	3513801	Diadema	18947	População em Idade Escolar de 15 a 17 Anos: 18.947
+139	3513900	Divinolândia	423	População em Idade Escolar de 15 a 17 Anos: 423
+140	3514007	Dobrada	420	População em Idade Escolar de 15 a 17 Anos: 420
+141	3514106	Dois Córregos	1129	População em Idade Escolar de 15 a 17 Anos: 1.129
+142	3514205	Dolcinópolis	83	População em Idade Escolar de 15 a 17 Anos: 83
+143	3514304	Dourado	333	População em Idade Escolar de 15 a 17 Anos: 333
+144	3514403	Dracena	1610	População em Idade Escolar de 15 a 17 Anos: 1.610
+145	3514502	Duartina	475	População em Idade Escolar de 15 a 17 Anos: 475
+146	3514601	Dumont	422	População em Idade Escolar de 15 a 17 Anos: 422
+147	3514700	Echaporã	285	População em Idade Escolar de 15 a 17 Anos: 285
+148	3514809	Eldorado	967	População em Idade Escolar de 15 a 17 Anos: 967
+149	3514908	Elias Fausto	835	População em Idade Escolar de 15 a 17 Anos: 835
+150	3515004	Embu das Artes	13329	População em Idade Escolar de 15 a 17 Anos: 13.329
+151	3515103	Embu-Guaçu	3581	População em Idade Escolar de 15 a 17 Anos: 3.581
+152	3515202	Estrela d'Oeste	318	População em Idade Escolar de 15 a 17 Anos: 318
+153	3515301	Estrela do Norte	120	População em Idade Escolar de 15 a 17 Anos: 120
+154	3515400	Fartura	701	População em Idade Escolar de 15 a 17 Anos: 701
+155	3515509	Fernandópolis	2548	População em Idade Escolar de 15 a 17 Anos: 2.548
+156	3515608	Fernando Prestes	204	População em Idade Escolar de 15 a 17 Anos: 204
+157	3515707	Ferraz de Vasconcelos	9790	População em Idade Escolar de 15 a 17 Anos: 9.790
+158	3515806	Flora Rica	72	População em Idade Escolar de 15 a 17 Anos: 72
+159	3515905	Floreal	98	População em Idade Escolar de 15 a 17 Anos: 98
+160	3516002	Flórida Paulista	485	População em Idade Escolar de 15 a 17 Anos: 485
+161	3516101	Florínia	120	População em Idade Escolar de 15 a 17 Anos: 120
+162	3516200	Franca	15218	População em Idade Escolar de 15 a 17 Anos: 15.218
+163	3516309	Francisco Morato	9405	População em Idade Escolar de 15 a 17 Anos: 9.405
+164	3516408	Franco da Rocha	7122	População em Idade Escolar de 15 a 17 Anos: 7.122
+165	3516507	Gabriel Monteiro	95	População em Idade Escolar de 15 a 17 Anos: 95
+166	3516606	Gália	283	População em Idade Escolar de 15 a 17 Anos: 283
+167	3516705	Garça	1860	População em Idade Escolar de 15 a 17 Anos: 1.860
+168	3516804	Gastão Vidigal	169	População em Idade Escolar de 15 a 17 Anos: 169
+169	3516903	General Salgado	409	População em Idade Escolar de 15 a 17 Anos: 409
+170	3517000	Getulina	454	População em Idade Escolar de 15 a 17 Anos: 454
+171	3517109	Glicério	215	População em Idade Escolar de 15 a 17 Anos: 215
+172	3517208	Guaiçara	544	População em Idade Escolar de 15 a 17 Anos: 544
+173	3517307	Guaimbê	265	População em Idade Escolar de 15 a 17 Anos: 265
+174	3517406	Guaíra	1697	População em Idade Escolar de 15 a 17 Anos: 1.697
+175	3517505	Guapiaçu	802	População em Idade Escolar de 15 a 17 Anos: 802
+176	3517604	Guapiara	1000	População em Idade Escolar de 15 a 17 Anos: 1.000
+177	3517703	Guará	1018	População em Idade Escolar de 15 a 17 Anos: 1.018
+178	3517802	Guaraçaí	349	População em Idade Escolar de 15 a 17 Anos: 349
+179	3517901	Guaraci	458	População em Idade Escolar de 15 a 17 Anos: 458
+180	3518008	Guarani d'Oeste	82	População em Idade Escolar de 15 a 17 Anos: 82
+181	3518107	Guarantã	336	População em Idade Escolar de 15 a 17 Anos: 336
+182	3518206	Guararapes	1284	População em Idade Escolar de 15 a 17 Anos: 1.284
+183	3518305	Guararema	1390	População em Idade Escolar de 15 a 17 Anos: 1.390
+184	3518404	Guaratinguetá	4914	População em Idade Escolar de 15 a 17 Anos: 4.914
+185	3518503	Guareí	595	População em Idade Escolar de 15 a 17 Anos: 595
+186	3518602	Guariba	1750	População em Idade Escolar de 15 a 17 Anos: 1.750
+187	3518701	Guarujá	15238	População em Idade Escolar de 15 a 17 Anos: 15.238
+188	3518800	Guarulhos	65058	População em Idade Escolar de 15 a 17 Anos: 65.058
+189	3518909	Guzolândia	229	População em Idade Escolar de 15 a 17 Anos: 229
+190	3519006	Herculândia	420	População em Idade Escolar de 15 a 17 Anos: 420
+191	3519105	Iacanga	468	População em Idade Escolar de 15 a 17 Anos: 468
+192	3519204	Iacri	259	População em Idade Escolar de 15 a 17 Anos: 259
+193	3519303	Ibaté	1597	População em Idade Escolar de 15 a 17 Anos: 1.597
+194	3519402	Ibirá	445	População em Idade Escolar de 15 a 17 Anos: 445
+195	3519501	Ibirarema	347	População em Idade Escolar de 15 a 17 Anos: 347
+196	3519600	Ibitinga	2291	População em Idade Escolar de 15 a 17 Anos: 2.291
+197	3519709	Ibiúna	3930	População em Idade Escolar de 15 a 17 Anos: 3.930
+198	3519808	Icém	344	População em Idade Escolar de 15 a 17 Anos: 344
+199	3519907	Iepê	341	População em Idade Escolar de 15 a 17 Anos: 341
+200	3520004	Igaraçu do Tietê	1052	População em Idade Escolar de 15 a 17 Anos: 1.052
+201	3520103	Igarapava	1204	População em Idade Escolar de 15 a 17 Anos: 1.204
+202	3520202	Igaratá	465	População em Idade Escolar de 15 a 17 Anos: 465
+203	3520301	Iguape	1565	População em Idade Escolar de 15 a 17 Anos: 1.565
+204	3520400	Ilhabela	1530	População em Idade Escolar de 15 a 17 Anos: 1.530
+205	3520509	Indaiatuba	9922	População em Idade Escolar de 15 a 17 Anos: 9.922
+206	3520608	Indiana	197	População em Idade Escolar de 15 a 17 Anos: 197
+207	3520707	Indiaporã	138	População em Idade Escolar de 15 a 17 Anos: 138
+208	3520806	Inúbia Paulista	172	População em Idade Escolar de 15 a 17 Anos: 172
+209	3520905	Ipaussu	688	População em Idade Escolar de 15 a 17 Anos: 688
+210	3521002	Iperó	1602	População em Idade Escolar de 15 a 17 Anos: 1.602
+211	3521101	Ipeúna	339	População em Idade Escolar de 15 a 17 Anos: 339
+212	3521200	Iporanga	268	População em Idade Escolar de 15 a 17 Anos: 268
+213	3521309	Ipuã	724	População em Idade Escolar de 15 a 17 Anos: 724
+214	3521408	Iracemápolis	958	População em Idade Escolar de 15 a 17 Anos: 958
+215	3521507	Irapuã	316	População em Idade Escolar de 15 a 17 Anos: 316
+216	3521606	Irapuru	294	População em Idade Escolar de 15 a 17 Anos: 294
+217	3521705	Itaberá	936	População em Idade Escolar de 15 a 17 Anos: 936
+218	3521804	Itaí	1211	População em Idade Escolar de 15 a 17 Anos: 1.211
+219	3521903	Itajobi	547	População em Idade Escolar de 15 a 17 Anos: 547
+220	3522000	Itaju	172	População em Idade Escolar de 15 a 17 Anos: 172
+221	3522109	Itanhaém	4815	População em Idade Escolar de 15 a 17 Anos: 4.815
+222	3522208	Itapecerica da Serra	8523	População em Idade Escolar de 15 a 17 Anos: 8.523
+223	3522307	Itapetininga	7457	População em Idade Escolar de 15 a 17 Anos: 7.457
+224	3522406	Itapeva	4851	População em Idade Escolar de 15 a 17 Anos: 4.851
+225	3522505	Itapevi	12241	População em Idade Escolar de 15 a 17 Anos: 12.241
+226	3522604	Itapira	2857	População em Idade Escolar de 15 a 17 Anos: 2.857
+227	3522703	Itápolis	1662	População em Idade Escolar de 15 a 17 Anos: 1.662
+228	3522802	Itaporanga	725	População em Idade Escolar de 15 a 17 Anos: 725
+229	3522901	Itapuí	595	População em Idade Escolar de 15 a 17 Anos: 595
+230	3523008	Itapura	221	População em Idade Escolar de 15 a 17 Anos: 221
+231	3523107	Itaquaquecetuba	19743	População em Idade Escolar de 15 a 17 Anos: 19.743
+232	3523206	Itararé	2557	População em Idade Escolar de 15 a 17 Anos: 2.557
+233	3523305	Itariri	993	População em Idade Escolar de 15 a 17 Anos: 993
+234	3523404	Itatiba	4869	População em Idade Escolar de 15 a 17 Anos: 4.869
+235	3523503	Itatinga	994	População em Idade Escolar de 15 a 17 Anos: 994
+236	3523602	Itirapina	634	População em Idade Escolar de 15 a 17 Anos: 634
+237	3523701	Itirapuã	321	População em Idade Escolar de 15 a 17 Anos: 321
+238	3523800	Itobi	336	População em Idade Escolar de 15 a 17 Anos: 336
+239	3523909	Itu	7371	População em Idade Escolar de 15 a 17 Anos: 7.371
+240	3524006	Itupeva	2519	População em Idade Escolar de 15 a 17 Anos: 2.519
+241	3524105	Ituverava	1738	População em Idade Escolar de 15 a 17 Anos: 1.738
+242	3524204	Jaborandi	272	População em Idade Escolar de 15 a 17 Anos: 272
+243	3524303	Jaboticabal	3047	População em Idade Escolar de 15 a 17 Anos: 3.047
+244	3524402	Jacareí	10078	População em Idade Escolar de 15 a 17 Anos: 10.078
+245	3524501	Jaci	287	População em Idade Escolar de 15 a 17 Anos: 287
+246	3524600	Jacupiranga	952	População em Idade Escolar de 15 a 17 Anos: 952
+247	3524709	Jaguariúna	2226	População em Idade Escolar de 15 a 17 Anos: 2.226
+248	3524808	Jales	1805	População em Idade Escolar de 15 a 17 Anos: 1.805
+249	3524907	Jambeiro	283	População em Idade Escolar de 15 a 17 Anos: 283
+250	3525003	Jandira	5931	População em Idade Escolar de 15 a 17 Anos: 5.931
+251	3525102	Jardinópolis	1971	População em Idade Escolar de 15 a 17 Anos: 1.971
+252	3525201	Jarinu	1319	População em Idade Escolar de 15 a 17 Anos: 1.319
+253	3525300	Jaú	5925	População em Idade Escolar de 15 a 17 Anos: 5.925
+254	3525409	Jeriquara	170	População em Idade Escolar de 15 a 17 Anos: 170
+255	3525508	Joanópolis	485	População em Idade Escolar de 15 a 17 Anos: 485
+256	3525607	João Ramalho	204	População em Idade Escolar de 15 a 17 Anos: 204
+257	3525706	José Bonifácio	1474	População em Idade Escolar de 15 a 17 Anos: 1.474
+258	3525805	Júlio Mesquita	238	População em Idade Escolar de 15 a 17 Anos: 238
+259	3525904	Jundiaí	15312	População em Idade Escolar de 15 a 17 Anos: 15.312
+260	3526001	Junqueirópolis	723	População em Idade Escolar de 15 a 17 Anos: 723
+261	3526100	Juquiá	1171	População em Idade Escolar de 15 a 17 Anos: 1.171
+262	3526209	Juquitiba	1719	População em Idade Escolar de 15 a 17 Anos: 1.719
+263	3526308	Lagoinha	222	População em Idade Escolar de 15 a 17 Anos: 222
+264	3526407	Laranjal Paulista	1198	População em Idade Escolar de 15 a 17 Anos: 1.198
+265	3526506	Lavínia	197	População em Idade Escolar de 15 a 17 Anos: 197
+266	3526605	Lavrinhas	376	População em Idade Escolar de 15 a 17 Anos: 376
+267	3526704	Leme	4445	População em Idade Escolar de 15 a 17 Anos: 4.445
+268	3526803	Lençóis Paulista	2978	População em Idade Escolar de 15 a 17 Anos: 2.978
+269	3526902	Limeira	12452	População em Idade Escolar de 15 a 17 Anos: 12.452
+270	3527009	Lindóia	322	População em Idade Escolar de 15 a 17 Anos: 322
+271	3527108	Lins	3195	População em Idade Escolar de 15 a 17 Anos: 3.195
+272	3527207	Lorena	3826	População em Idade Escolar de 15 a 17 Anos: 3.826
+273	3527306	Louveira	1849	População em Idade Escolar de 15 a 17 Anos: 1.849
+274	3527405	Lucélia	833	População em Idade Escolar de 15 a 17 Anos: 833
+275	3527504	Lucianópolis	121	População em Idade Escolar de 15 a 17 Anos: 121
+276	3527603	Luís Antônio	690	População em Idade Escolar de 15 a 17 Anos: 690
+277	3527702	Luiziânia	236	População em Idade Escolar de 15 a 17 Anos: 236
+278	3527801	Lupércio	229	População em Idade Escolar de 15 a 17 Anos: 229
+279	3527900	Lutécia	116	População em Idade Escolar de 15 a 17 Anos: 116
+280	3528007	Macatuba	790	População em Idade Escolar de 15 a 17 Anos: 790
+281	3528106	Macaubal	274	População em Idade Escolar de 15 a 17 Anos: 274
+282	3528205	Macedônia	140	População em Idade Escolar de 15 a 17 Anos: 140
+283	3528304	Magda	116	População em Idade Escolar de 15 a 17 Anos: 116
+284	3528403	Mairinque	2231	População em Idade Escolar de 15 a 17 Anos: 2.231
+285	3528502	Mairiporã	4752	População em Idade Escolar de 15 a 17 Anos: 4.752
+286	3528601	Manduri	403	População em Idade Escolar de 15 a 17 Anos: 403
+287	3528700	Marabá Paulista	151	População em Idade Escolar de 15 a 17 Anos: 151
+288	3528809	Maracaí	590	População em Idade Escolar de 15 a 17 Anos: 590
+289	3528908	Mariápolis	160	População em Idade Escolar de 15 a 17 Anos: 160
+290	3529005	Marília	9457	População em Idade Escolar de 15 a 17 Anos: 9.457
+291	3529104	Marinópolis	95	População em Idade Escolar de 15 a 17 Anos: 95
+292	3529203	Martinópolis	1064	População em Idade Escolar de 15 a 17 Anos: 1.064
+293	3529302	Matão	3281	População em Idade Escolar de 15 a 17 Anos: 3.281
+294	3529401	Mauá	21307	População em Idade Escolar de 15 a 17 Anos: 21.307
+295	3529500	Mendonça	210	População em Idade Escolar de 15 a 17 Anos: 210
+296	3529609	Meridiano	156	População em Idade Escolar de 15 a 17 Anos: 156
+297	3529708	Miguelópolis	974	População em Idade Escolar de 15 a 17 Anos: 974
+298	3529807	Mineiros do Tietê	586	População em Idade Escolar de 15 a 17 Anos: 586
+299	3529906	Miracatu	1199	População em Idade Escolar de 15 a 17 Anos: 1.199
+300	3530003	Mira Estrela	122	População em Idade Escolar de 15 a 17 Anos: 122
+301	3530102	Mirandópolis	958	População em Idade Escolar de 15 a 17 Anos: 958
+302	3530201	Mirante do Paranapanema	847	População em Idade Escolar de 15 a 17 Anos: 847
+303	3530300	Mirassol	2223	População em Idade Escolar de 15 a 17 Anos: 2.223
+304	3530409	Mirassolândia	203	População em Idade Escolar de 15 a 17 Anos: 203
+305	3530508	Mococa	2802	População em Idade Escolar de 15 a 17 Anos: 2.802
+306	3530607	Mogi das Cruzes	20459	População em Idade Escolar de 15 a 17 Anos: 20.459
+307	3530706	Mogi Guaçu	6199	População em Idade Escolar de 15 a 17 Anos: 6.199
+308	3530805	Moji Mirim	3682	População em Idade Escolar de 15 a 17 Anos: 3.682
+309	3530904	Mombuca	164	População em Idade Escolar de 15 a 17 Anos: 164
+310	3531001	Monções	77	População em Idade Escolar de 15 a 17 Anos: 77
+311	3531100	Mongaguá	2624	População em Idade Escolar de 15 a 17 Anos: 2.624
+312	3531209	Monte Alegre do Sul	301	População em Idade Escolar de 15 a 17 Anos: 301
+313	3531308	Monte Alto	1912	População em Idade Escolar de 15 a 17 Anos: 1.912
+314	3531407	Monte Aprazível	827	População em Idade Escolar de 15 a 17 Anos: 827
+315	3531506	Monte Azul Paulista	781	População em Idade Escolar de 15 a 17 Anos: 781
+316	3531605	Monte Castelo	170	População em Idade Escolar de 15 a 17 Anos: 170
+317	3531704	Monteiro Lobato	224	População em Idade Escolar de 15 a 17 Anos: 224
+318	3531803	Monte Mor	2770	População em Idade Escolar de 15 a 17 Anos: 2.770
+319	3531902	Morro Agudo	1458	População em Idade Escolar de 15 a 17 Anos: 1.458
+320	3532009	Morungaba	582	População em Idade Escolar de 15 a 17 Anos: 582
+321	3532108	Murutinga do Sul	182	População em Idade Escolar de 15 a 17 Anos: 182
+322	3532207	Narandiba	217	População em Idade Escolar de 15 a 17 Anos: 217
+323	3532306	Natividade da Serra	336	População em Idade Escolar de 15 a 17 Anos: 336
+324	3532405	Nazaré Paulista	854	População em Idade Escolar de 15 a 17 Anos: 854
+325	3532504	Neves Paulista	300	População em Idade Escolar de 15 a 17 Anos: 300
+326	3532603	Nhandeara	365	População em Idade Escolar de 15 a 17 Anos: 365
+327	3532702	Nipoã	188	População em Idade Escolar de 15 a 17 Anos: 188
+328	3532801	Nova Aliança	269	População em Idade Escolar de 15 a 17 Anos: 269
+329	3532900	Nova Europa	466	População em Idade Escolar de 15 a 17 Anos: 466
+330	3533007	Nova Granada	884	População em Idade Escolar de 15 a 17 Anos: 884
+331	3533106	Nova Guataporanga	102	População em Idade Escolar de 15 a 17 Anos: 102
+332	3533205	Nova Independência	162	População em Idade Escolar de 15 a 17 Anos: 162
+333	3533304	Nova Luzitânia	166	População em Idade Escolar de 15 a 17 Anos: 166
+334	3533403	Nova Odessa	2378	População em Idade Escolar de 15 a 17 Anos: 2.378
+335	3533502	Novo Horizonte	1585	População em Idade Escolar de 15 a 17 Anos: 1.585
+336	3533601	Nuporanga	305	População em Idade Escolar de 15 a 17 Anos: 305
+337	3533700	Ocauçu	188	População em Idade Escolar de 15 a 17 Anos: 188
+338	3533809	Óleo	124	População em Idade Escolar de 15 a 17 Anos: 124
+339	3533908	Olímpia	2039	População em Idade Escolar de 15 a 17 Anos: 2.039
+340	3534005	Onda Verde	193	População em Idade Escolar de 15 a 17 Anos: 193
+341	3534104	Oriente	263	População em Idade Escolar de 15 a 17 Anos: 263
+342	3534203	Orindiúva	299	População em Idade Escolar de 15 a 17 Anos: 299
+343	3534302	Orlândia	1790	População em Idade Escolar de 15 a 17 Anos: 1.790
+344	3534401	Osasco	30859	População em Idade Escolar de 15 a 17 Anos: 30.859
+345	3534500	Oscar Bressane	88	População em Idade Escolar de 15 a 17 Anos: 88
+346	3534609	Osvaldo Cruz	1196	População em Idade Escolar de 15 a 17 Anos: 1.196
+347	3534708	Ourinhos	4673	População em Idade Escolar de 15 a 17 Anos: 4.673
+348	3534807	Ouro Verde	373	População em Idade Escolar de 15 a 17 Anos: 373
+349	3534906	Pacaembu	383	População em Idade Escolar de 15 a 17 Anos: 383
+350	3535002	Palestina	442	População em Idade Escolar de 15 a 17 Anos: 442
+351	3535101	Palmares Paulista	553	População em Idade Escolar de 15 a 17 Anos: 553
+352	3535200	Palmeira d'Oeste	382	População em Idade Escolar de 15 a 17 Anos: 382
+353	3535309	Palmital	915	População em Idade Escolar de 15 a 17 Anos: 915
+354	3535408	Panorama	728	População em Idade Escolar de 15 a 17 Anos: 728
+355	3535507	Paraguaçu Paulista	1941	População em Idade Escolar de 15 a 17 Anos: 1.941
+356	3535606	Paraibuna	874	População em Idade Escolar de 15 a 17 Anos: 874
+357	3535705	Paraíso	261	População em Idade Escolar de 15 a 17 Anos: 261
+358	3535804	Paranapanema	1036	População em Idade Escolar de 15 a 17 Anos: 1.036
+359	3535903	Paranapuã	178	População em Idade Escolar de 15 a 17 Anos: 178
+360	3536000	Parapuã	439	População em Idade Escolar de 15 a 17 Anos: 439
+361	3536109	Pardinho	308	População em Idade Escolar de 15 a 17 Anos: 308
+362	3536208	Pariquera-Açu	1006	População em Idade Escolar de 15 a 17 Anos: 1.006
+363	3536307	Patrocínio Paulista	631	População em Idade Escolar de 15 a 17 Anos: 631
+364	3536406	Paulicéia	338	População em Idade Escolar de 15 a 17 Anos: 338
+365	3536505	Paulínia	4314	População em Idade Escolar de 15 a 17 Anos: 4.314
+366	3536604	Paulo de Faria	395	População em Idade Escolar de 15 a 17 Anos: 395
+367	3536703	Pederneiras	2120	População em Idade Escolar de 15 a 17 Anos: 2.120
+368	3536802	Pedra Bela	274	População em Idade Escolar de 15 a 17 Anos: 274
+369	3536901	Pedranópolis	101	População em Idade Escolar de 15 a 17 Anos: 101
+370	3537008	Pedregulho	742	População em Idade Escolar de 15 a 17 Anos: 742
+371	3537107	Pedreira	1868	População em Idade Escolar de 15 a 17 Anos: 1.868
+372	3537206	Pedro de Toledo	614	População em Idade Escolar de 15 a 17 Anos: 614
+373	3537305	Penápolis	2460	População em Idade Escolar de 15 a 17 Anos: 2.460
+374	3537404	Pereira Barreto	1067	População em Idade Escolar de 15 a 17 Anos: 1.067
+375	3537503	Pereiras	370	População em Idade Escolar de 15 a 17 Anos: 370
+376	3537602	Peruíbe	3276	População em Idade Escolar de 15 a 17 Anos: 3.276
+377	3537701	Piacatu	239	População em Idade Escolar de 15 a 17 Anos: 239
+378	3537800	Piedade	2623	População em Idade Escolar de 15 a 17 Anos: 2.623
+379	3537909	Pilar do Sul	1376	População em Idade Escolar de 15 a 17 Anos: 1.376
+380	3538006	Pindamonhangaba	7559	População em Idade Escolar de 15 a 17 Anos: 7.559
+381	3538105	Pindorama	626	População em Idade Escolar de 15 a 17 Anos: 626
+382	3515186	Espírito Santo do Pinhal	1821	População em Idade Escolar de 15 a 17 Anos: 1.821
+383	3538204	Pinhalzinho	642	População em Idade Escolar de 15 a 17 Anos: 642
+384	3538303	Piquerobi	144	População em Idade Escolar de 15 a 17 Anos: 144
+385	3538501	Piquete	574	População em Idade Escolar de 15 a 17 Anos: 574
+386	3538600	Piracaia	1221	População em Idade Escolar de 15 a 17 Anos: 1.221
+387	3538709	Piracicaba	16238	População em Idade Escolar de 15 a 17 Anos: 16.238
+388	3538808	Piraju	1312	População em Idade Escolar de 15 a 17 Anos: 1.312
+389	3538907	Pirajuí	842	População em Idade Escolar de 15 a 17 Anos: 842
+390	3539004	Pirangi	427	População em Idade Escolar de 15 a 17 Anos: 427
+391	3539103	Pirapora do Bom Jesus	1078	População em Idade Escolar de 15 a 17 Anos: 1.078
+392	3539202	Pirapozinho	1181	População em Idade Escolar de 15 a 17 Anos: 1.181
+393	3539301	Pirassununga	3046	População em Idade Escolar de 15 a 17 Anos: 3.046
+394	3539400	Piratininga	588	População em Idade Escolar de 15 a 17 Anos: 588
+395	3539509	Pitangueiras	1873	População em Idade Escolar de 15 a 17 Anos: 1.873
+396	3539608	Planalto	213	População em Idade Escolar de 15 a 17 Anos: 213
+397	3539707	Platina	173	População em Idade Escolar de 15 a 17 Anos: 173
+398	3539806	Poá	5543	População em Idade Escolar de 15 a 17 Anos: 5.543
+399	3539905	Poloni	190	População em Idade Escolar de 15 a 17 Anos: 190
+400	3540002	Pompéia	919	População em Idade Escolar de 15 a 17 Anos: 919
+401	3540101	Pongaí	126	População em Idade Escolar de 15 a 17 Anos: 126
+402	3540200	Pontal	2162	População em Idade Escolar de 15 a 17 Anos: 2.162
+403	3540309	Pontes Gestal	110	População em Idade Escolar de 15 a 17 Anos: 110
+404	3540408	Populina	160	População em Idade Escolar de 15 a 17 Anos: 160
+405	3540507	Porangaba	410	População em Idade Escolar de 15 a 17 Anos: 410
+406	3540606	Porto Feliz	2346	População em Idade Escolar de 15 a 17 Anos: 2.346
+407	3540705	Porto Ferreira	2229	População em Idade Escolar de 15 a 17 Anos: 2.229
+408	3540804	Potirendaba	580	População em Idade Escolar de 15 a 17 Anos: 580
+409	3540903	Pradópolis	851	População em Idade Escolar de 15 a 17 Anos: 851
+410	3541000	Praia Grande	14459	População em Idade Escolar de 15 a 17 Anos: 14.459
+411	3541109	Presidente Alves	175	População em Idade Escolar de 15 a 17 Anos: 175
+412	3541208	Presidente Bernardes	529	População em Idade Escolar de 15 a 17 Anos: 529
+413	3541307	Presidente Epitácio	1951	População em Idade Escolar de 15 a 17 Anos: 1.951
+414	3541406	Presidente Prudente	8786	População em Idade Escolar de 15 a 17 Anos: 8.786
+415	3541505	Presidente Venceslau	1516	População em Idade Escolar de 15 a 17 Anos: 1.516
+416	3541604	Promissão	1682	População em Idade Escolar de 15 a 17 Anos: 1.682
+417	3541703	Quatá	612	População em Idade Escolar de 15 a 17 Anos: 612
+418	3541802	Queiroz	176	População em Idade Escolar de 15 a 17 Anos: 176
+419	3541901	Queluz	569	População em Idade Escolar de 15 a 17 Anos: 569
+420	3542008	Quintana	280	População em Idade Escolar de 15 a 17 Anos: 280
+421	3542107	Rafard	385	População em Idade Escolar de 15 a 17 Anos: 385
+422	3542206	Rancharia	1274	População em Idade Escolar de 15 a 17 Anos: 1.274
+423	3542305	Redenção da Serra	198	População em Idade Escolar de 15 a 17 Anos: 198
+424	3542404	Regente Feijó	822	População em Idade Escolar de 15 a 17 Anos: 822
+425	3542503	Reginópolis	299	População em Idade Escolar de 15 a 17 Anos: 299
+426	3542602	Registro	2867	População em Idade Escolar de 15 a 17 Anos: 2.867
+427	3542701	Restinga	382	População em Idade Escolar de 15 a 17 Anos: 382
+428	3542800	Ribeira	182	População em Idade Escolar de 15 a 17 Anos: 182
+429	3542909	Ribeirão Bonito	584	População em Idade Escolar de 15 a 17 Anos: 584
+430	3543006	Ribeirão Branco	1151	População em Idade Escolar de 15 a 17 Anos: 1.151
+431	3543105	Ribeirão Corrente	242	População em Idade Escolar de 15 a 17 Anos: 242
+432	3543204	Ribeirão do Sul	208	População em Idade Escolar de 15 a 17 Anos: 208
+433	3543303	Ribeirão Pires	5114	População em Idade Escolar de 15 a 17 Anos: 5.114
+434	3543402	Ribeirão Preto	26170	População em Idade Escolar de 15 a 17 Anos: 26.170
+435	3543501	Riversul	294	População em Idade Escolar de 15 a 17 Anos: 294
+436	3543600	Rifaina	156	População em Idade Escolar de 15 a 17 Anos: 156
+437	3543709	Rincão	511	População em Idade Escolar de 15 a 17 Anos: 511
+438	3543808	Rinópolis	378	População em Idade Escolar de 15 a 17 Anos: 378
+439	3543907	Rio Claro	8063	População em Idade Escolar de 15 a 17 Anos: 8.063
+440	3544004	Rio das Pedras	1519	População em Idade Escolar de 15 a 17 Anos: 1.519
+441	3544103	Rio Grande da Serra	2448	População em Idade Escolar de 15 a 17 Anos: 2.448
+442	3544202	Riolândia	442	População em Idade Escolar de 15 a 17 Anos: 442
+443	3544301	Roseira	468	População em Idade Escolar de 15 a 17 Anos: 468
+444	3544400	Rubiácea	134	População em Idade Escolar de 15 a 17 Anos: 134
+445	3544509	Rubinéia	126	População em Idade Escolar de 15 a 17 Anos: 126
+446	3544608	Sabino	217	População em Idade Escolar de 15 a 17 Anos: 217
+447	3544707	Sagres	120	População em Idade Escolar de 15 a 17 Anos: 120
+448	3544806	Sales	245	População em Idade Escolar de 15 a 17 Anos: 245
+449	3544905	Sales Oliveira	476	População em Idade Escolar de 15 a 17 Anos: 476
+450	3545001	Salesópolis	837	População em Idade Escolar de 15 a 17 Anos: 837
+451	3545100	Salmourão	227	População em Idade Escolar de 15 a 17 Anos: 227
+452	3545209	Salto	4920	População em Idade Escolar de 15 a 17 Anos: 4.920
+453	3545308	Salto de Pirapora	2097	População em Idade Escolar de 15 a 17 Anos: 2.097
+454	3545407	Salto Grande	438	População em Idade Escolar de 15 a 17 Anos: 438
+455	3545506	Sandovalina	207	População em Idade Escolar de 15 a 17 Anos: 207
+456	3545605	Santa Adélia	641	População em Idade Escolar de 15 a 17 Anos: 641
+457	3545704	Santa Albertina	207	População em Idade Escolar de 15 a 17 Anos: 207
+458	3545803	Santa Bárbara d'Oeste	7427	População em Idade Escolar de 15 a 17 Anos: 7.427
+459	3500550	Águas de Santa Bárbara	289	População em Idade Escolar de 15 a 17 Anos: 289
+460	3546009	Santa Branca	656	População em Idade Escolar de 15 a 17 Anos: 656
+461	3546108	Santa Clara d'Oeste	85	População em Idade Escolar de 15 a 17 Anos: 85
+462	3546207	Santa Cruz da Conceição	187	População em Idade Escolar de 15 a 17 Anos: 187
+463	3546306	Santa Cruz das Palmeiras	1450	População em Idade Escolar de 15 a 17 Anos: 1.450
+464	3546405	Santa Cruz do Rio Pardo	2006	População em Idade Escolar de 15 a 17 Anos: 2.006
+465	3546504	Santa Ernestina	253	População em Idade Escolar de 15 a 17 Anos: 253
+466	3546603	Santa Fé do Sul	1168	População em Idade Escolar de 15 a 17 Anos: 1.168
+467	3546702	Santa Gertrudes	1163	População em Idade Escolar de 15 a 17 Anos: 1.163
+468	3546801	Santa Isabel	2592	População em Idade Escolar de 15 a 17 Anos: 2.592
+469	3546900	Santa Lucia	418	População em Idade Escolar de 15 a 17 Anos: 418
+470	3547007	Santa Maria da Serra	265	População em Idade Escolar de 15 a 17 Anos: 265
+471	3547106	Santa Mercedes	141	População em Idade Escolar de 15 a 17 Anos: 141
+472	3547403	Santa Rita d'Oeste	83	População em Idade Escolar de 15 a 17 Anos: 83
+473	3547502	Santa Rita do Passa Quatro	988	População em Idade Escolar de 15 a 17 Anos: 988
+474	3547601	Santa Rosa do Viterbo	1099	População em Idade Escolar de 15 a 17 Anos: 1.099
+475	3547205	Santana da Ponte Pensa	52	População em Idade Escolar de 15 a 17 Anos: 52
+476	3547304	Santana de Parnaíba	6458	População em Idade Escolar de 15 a 17 Anos: 6.458
+477	3547700	Santo Anastácio	866	População em Idade Escolar de 15 a 17 Anos: 866
+478	3547809	Santo André	27224	População em Idade Escolar de 15 a 17 Anos: 27.224
+479	3547908	Santo Antonio da Alegria	288	População em Idade Escolar de 15 a 17 Anos: 288
+480	3548104	Santo Antonio do Jardim	256	População em Idade Escolar de 15 a 17 Anos: 256
+481	3548203	Santo Antonio do Pinhal	350	População em Idade Escolar de 15 a 17 Anos: 350
+482	3548005	Santo Antonio de Posse	1071	População em Idade Escolar de 15 a 17 Anos: 1.071
+483	3548302	Santo Expedito	118	População em Idade Escolar de 15 a 17 Anos: 118
+484	3548401	Santópolis do Aguapeí	202	População em Idade Escolar de 15 a 17 Anos: 202
+485	3548500	Santos	15279	População em Idade Escolar de 15 a 17 Anos: 15.279
+486	3548609	São Bento do Sapucaí	488	População em Idade Escolar de 15 a 17 Anos: 488
+487	3548708	São Bernardo do Campo	33778	População em Idade Escolar de 15 a 17 Anos: 33.778
+488	3548807	São Caetano do Sul	4930	População em Idade Escolar de 15 a 17 Anos: 4.930
+489	3548906	São Carlos	9466	População em Idade Escolar de 15 a 17 Anos: 9.466
+490	3549003	São Francisco	114	População em Idade Escolar de 15 a 17 Anos: 114
+491	3549102	São João da Boa Vista	3472	População em Idade Escolar de 15 a 17 Anos: 3.472
+492	3549201	São João das Duas Pontes	124	População em Idade Escolar de 15 a 17 Anos: 124
+493	3549300	São João do Pau d'Alho	84	População em Idade Escolar de 15 a 17 Anos: 84
+494	3549409	São Joaquim da Barra	2060	População em Idade Escolar de 15 a 17 Anos: 2.060
+495	3549607	São José do Barreiro	227	População em Idade Escolar de 15 a 17 Anos: 227
+496	3549508	São José da Bela Vista	460	População em Idade Escolar de 15 a 17 Anos: 460
+497	3549706	São José do Rio Pardo	2099	População em Idade Escolar de 15 a 17 Anos: 2.099
+498	3549805	São José do Rio Preto	16157	População em Idade Escolar de 15 a 17 Anos: 16.157
+499	3549904	São José dos Campos	29953	População em Idade Escolar de 15 a 17 Anos: 29.953
+500	3550001	São Luís do Paraitinga	473	População em Idade Escolar de 15 a 17 Anos: 473
+501	3550100	São Manuel	1820	População em Idade Escolar de 15 a 17 Anos: 1.820
+502	3550209	São Miguel Arcanjo	1673	População em Idade Escolar de 15 a 17 Anos: 1.673
+503	3550308	São Paulo	499726	População em Idade Escolar de 15 a 17 Anos: 499.726
+504	3550407	São Pedro	1511	População em Idade Escolar de 15 a 17 Anos: 1.511
+505	3550506	São Pedro do Turvo	375	População em Idade Escolar de 15 a 17 Anos: 375
+506	3550605	São Roque	3837	População em Idade Escolar de 15 a 17 Anos: 3.837
+507	3550704	São Sebastião	4011	População em Idade Escolar de 15 a 17 Anos: 4.011
+508	3550803	São Sebastião da Grama	550	População em Idade Escolar de 15 a 17 Anos: 550
+509	3550902	São Simão	676	População em Idade Escolar de 15 a 17 Anos: 676
+510	3551009	São Vicente	16097	População em Idade Escolar de 15 a 17 Anos: 16.097
+511	3551108	Sarapuí	526	População em Idade Escolar de 15 a 17 Anos: 526
+512	3551207	Sarutaiá	175	População em Idade Escolar de 15 a 17 Anos: 175
+513	3551306	Sebastianópolis do Sul	113	População em Idade Escolar de 15 a 17 Anos: 113
+514	3551405	Serra Azul	506	População em Idade Escolar de 15 a 17 Anos: 506
+515	3551603	Serra Negra	1086	População em Idade Escolar de 15 a 17 Anos: 1.086
+516	3551504	Serrana	2050	População em Idade Escolar de 15 a 17 Anos: 2.050
+517	3551702	Sertãozinho	5100	População em Idade Escolar de 15 a 17 Anos: 5.100
+518	3551801	Sete Barras	705	População em Idade Escolar de 15 a 17 Anos: 705
+519	3551900	Severínia	800	População em Idade Escolar de 15 a 17 Anos: 800
+520	3552007	Silveiras	328	População em Idade Escolar de 15 a 17 Anos: 328
+521	3552106	Socorro	1482	População em Idade Escolar de 15 a 17 Anos: 1.482
+522	3552205	Sorocaba	27816	População em Idade Escolar de 15 a 17 Anos: 27.816
+523	3552304	Sud Mennucci	336	População em Idade Escolar de 15 a 17 Anos: 336
+524	3552403	Sumaré	12260	População em Idade Escolar de 15 a 17 Anos: 12.260
+525	3552502	Suzano	14619	População em Idade Escolar de 15 a 17 Anos: 14.619
+526	3552601	Tabapuã	435	População em Idade Escolar de 15 a 17 Anos: 435
+527	3552700	Tabatinga	697	População em Idade Escolar de 15 a 17 Anos: 697
+528	3552809	Taboão da Serra	12868	População em Idade Escolar de 15 a 17 Anos: 12.868
+529	3552908	Taciba	277	População em Idade Escolar de 15 a 17 Anos: 277
+530	3553005	Taguaí	563	População em Idade Escolar de 15 a 17 Anos: 563
+531	3553104	Taiaçu	285	População em Idade Escolar de 15 a 17 Anos: 285
+532	3553203	Taiúva	213	População em Idade Escolar de 15 a 17 Anos: 213
+533	3553302	Tambaú	997	População em Idade Escolar de 15 a 17 Anos: 997
+534	3553401	Tanabi	957	População em Idade Escolar de 15 a 17 Anos: 957
+535	3553500	Tapiraí	488	População em Idade Escolar de 15 a 17 Anos: 488
+536	3553609	Tapiratiba	580	População em Idade Escolar de 15 a 17 Anos: 580
+537	3553708	Taquaritinga	2380	População em Idade Escolar de 15 a 17 Anos: 2.380
+538	3553807	Taquarituba	1086	População em Idade Escolar de 15 a 17 Anos: 1.086
+539	3553906	Tarabaí	341	População em Idade Escolar de 15 a 17 Anos: 341
+540	3554003	Tatuí	5486	População em Idade Escolar de 15 a 17 Anos: 5.486
+541	3554102	Taubaté	12986	População em Idade Escolar de 15 a 17 Anos: 12.986
+542	3554201	Tejupá	284	População em Idade Escolar de 15 a 17 Anos: 284
+543	3554300	Teodoro Sampaio	1135	População em Idade Escolar de 15 a 17 Anos: 1.135
+544	3554409	Terra Roxa	392	População em Idade Escolar de 15 a 17 Anos: 392
+545	3554508	Tietê	1686	População em Idade Escolar de 15 a 17 Anos: 1.686
+546	3554607	Timburi	126	População em Idade Escolar de 15 a 17 Anos: 126
+547	3554706	Torrinha	380	População em Idade Escolar de 15 a 17 Anos: 380
+548	3554805	Tremembé	1923	População em Idade Escolar de 15 a 17 Anos: 1.923
+549	3554904	Três Fronteiras	232	População em Idade Escolar de 15 a 17 Anos: 232
+550	3555000	Tupã	2433	População em Idade Escolar de 15 a 17 Anos: 2.433
+551	3555109	Tupi Paulista	466	População em Idade Escolar de 15 a 17 Anos: 466
+552	3555208	Turiúba	65	População em Idade Escolar de 15 a 17 Anos: 65
+553	3555307	Turmalina	69	População em Idade Escolar de 15 a 17 Anos: 69
+554	3555406	Ubatuba	4402	População em Idade Escolar de 15 a 17 Anos: 4.402
+555	3555505	Ubirajara	221	População em Idade Escolar de 15 a 17 Anos: 221
+556	3555604	Uchôa	371	População em Idade Escolar de 15 a 17 Anos: 371
+557	3555703	União Paulista	78	População em Idade Escolar de 15 a 17 Anos: 78
+558	3555802	Urânia	337	População em Idade Escolar de 15 a 17 Anos: 337
+559	3555901	Uru	50	População em Idade Escolar de 15 a 17 Anos: 50
+560	3556008	Urupês	491	População em Idade Escolar de 15 a 17 Anos: 491
+561	3556107	Valentim Gentil	501	População em Idade Escolar de 15 a 17 Anos: 501
+562	3556206	Valinhos	4707	População em Idade Escolar de 15 a 17 Anos: 4.707
+563	3556305	Valparaíso	933	População em Idade Escolar de 15 a 17 Anos: 933
+564	3556404	Vargem Grande do Sul	1820	População em Idade Escolar de 15 a 17 Anos: 1.820
+565	3556503	Várzea Paulista	5348	População em Idade Escolar de 15 a 17 Anos: 5.348
+566	3556602	Vera Cruz	470	População em Idade Escolar de 15 a 17 Anos: 470
+567	3556701	Vinhedo	2973	População em Idade Escolar de 15 a 17 Anos: 2.973
+568	3556800	Viradouro	797	População em Idade Escolar de 15 a 17 Anos: 797
+569	3556909	Vista Alegre do Alto	320	População em Idade Escolar de 15 a 17 Anos: 320
+570	3557006	Votorantim	5566	População em Idade Escolar de 15 a 17 Anos: 5.566
+571	3557105	Votuporanga	3366	População em Idade Escolar de 15 a 17 Anos: 3.366
+572	3556453	Vargem Grande Paulista	2409	População em Idade Escolar de 15 a 17 Anos: 2.409
+573	3500758	Alambari	295	População em Idade Escolar de 15 a 17 Anos: 295
+574	3501152	Alumínio	891	População em Idade Escolar de 15 a 17 Anos: 891
+575	3502754	Araçariguama	1028	População em Idade Escolar de 15 a 17 Anos: 1.028
+576	3503158	Arapeí	122	População em Idade Escolar de 15 a 17 Anos: 122
+577	3503950	Aspásia	70	População em Idade Escolar de 15 a 17 Anos: 70
+578	3505351	Barra do Chapéu	330	População em Idade Escolar de 15 a 17 Anos: 330
+579	3506359	Bertioga	3073	População em Idade Escolar de 15 a 17 Anos: 3.073
+580	3507159	Bom Sucesso de Itararé	235	População em Idade Escolar de 15 a 17 Anos: 235
+581	3507456	Borebi	125	População em Idade Escolar de 15 a 17 Anos: 125
+582	3509254	Cajati	1684	População em Idade Escolar de 15 a 17 Anos: 1.684
+583	3509452	Campina do Monte Alegre	300	População em Idade Escolar de 15 a 17 Anos: 300
+584	3510153	Canitar	292	População em Idade Escolar de 15 a 17 Anos: 292
+585	3513850	Dirce Reis	58	População em Idade Escolar de 15 a 17 Anos: 58
+586	3514924	Elisiário	132	População em Idade Escolar de 15 a 17 Anos: 132
+587	3514957	Embaúba	92	População em Idade Escolar de 15 a 17 Anos: 92
+588	3515129	Emilianópolis	120	População em Idade Escolar de 15 a 17 Anos: 120
+589	3515152	Engenheiro Coelho	940	População em Idade Escolar de 15 a 17 Anos: 940
+590	3515194	Espírito Santo do Turvo	227	População em Idade Escolar de 15 a 17 Anos: 227
+591	3557303	Estiva Gerbi	490	População em Idade Escolar de 15 a 17 Anos: 490
+592	3515350	Euclides da Cunha Paulista	519	População em Idade Escolar de 15 a 17 Anos: 519
+593	3518859	Guatapará	354	População em Idade Escolar de 15 a 17 Anos: 354
+594	3519055	Holambra	603	População em Idade Escolar de 15 a 17 Anos: 603
+595	3519071	Hortolândia	10443	População em Idade Escolar de 15 a 17 Anos: 10.443
+596	3519253	Iaras	434	População em Idade Escolar de 15 a 17 Anos: 434
+597	3520426	Ilha Comprida	502	População em Idade Escolar de 15 a 17 Anos: 502
+598	3520442	Ilha Solteira	1008	População em Idade Escolar de 15 a 17 Anos: 1.008
+599	3522158	Itaóca	210	População em Idade Escolar de 15 a 17 Anos: 210
+600	3522653	Itapirapuã Paulista	266	População em Idade Escolar de 15 a 17 Anos: 266
+601	3527256	Lourdes	82	População em Idade Escolar de 15 a 17 Anos: 82
+602	3528858	Marapoama	117	População em Idade Escolar de 15 a 17 Anos: 117
+603	3529658	Mesópolis	85	População em Idade Escolar de 15 a 17 Anos: 85
+604	3532058	Motuca	191	População em Idade Escolar de 15 a 17 Anos: 191
+605	3532827	Nova Campina	595	População em Idade Escolar de 15 a 17 Anos: 595
+606	3532843	Nova Canaã Paulista	78	População em Idade Escolar de 15 a 17 Anos: 78
+607	3533254	Novais	221	População em Idade Escolar de 15 a 17 Anos: 221
+608	3536257	Parisi	77	População em Idade Escolar de 15 a 17 Anos: 77
+609	3537156	Pedrinhas Paulista	135	População em Idade Escolar de 15 a 17 Anos: 135
+610	3540259	Pontalinda	183	População em Idade Escolar de 15 a 17 Anos: 183
+611	3540754	Potim	910	População em Idade Escolar de 15 a 17 Anos: 910
+612	3543253	Ribeirão Grande	391	População em Idade Escolar de 15 a 17 Anos: 391
+613	3544251	Rosana	1004	População em Idade Escolar de 15 a 17 Anos: 1.004
+614	3545159	Saltinho	301	População em Idade Escolar de 15 a 17 Anos: 301
+615	3549250	São João de Iracema	69	População em Idade Escolar de 15 a 17 Anos: 69
+616	3549953	São Lourenço da Serra	777	População em Idade Escolar de 15 a 17 Anos: 777
+617	3548054	Santo Antonio do Aracanguá	358	População em Idade Escolar de 15 a 17 Anos: 358
+618	3552551	Suzanápolis	167	População em Idade Escolar de 15 a 17 Anos: 167
+619	3553856	Taquarivaí	331	População em Idade Escolar de 15 a 17 Anos: 331
+620	3553955	Tarumã	641	População em Idade Escolar de 15 a 17 Anos: 641
+621	3554656	Torre de Pedra	118	População em Idade Escolar de 15 a 17 Anos: 118
+622	3554953	Tuiuti	260	População em Idade Escolar de 15 a 17 Anos: 260
+623	3555356	Ubarana	306	População em Idade Escolar de 15 a 17 Anos: 306
+624	3556354	Vargem	452	População em Idade Escolar de 15 a 17 Anos: 452
+625	3557154	Zacarias	103	População em Idade Escolar de 15 a 17 Anos: 103
+626	3503356	Arco Íris	70	População em Idade Escolar de 15 a 17 Anos: 70
+627	3507753	Brejo Alegre	133	População em Idade Escolar de 15 a 17 Anos: 133
+628	3509957	Canas	250	População em Idade Escolar de 15 a 17 Anos: 250
+629	3540853	Pracinha	79	População em Idade Escolar de 15 a 17 Anos: 79
+630	3541059	Pratânia	262	População em Idade Escolar de 15 a 17 Anos: 262
+631	3541653	Quadra	160	População em Idade Escolar de 15 a 17 Anos: 160
+632	3546256	Santa Cruz da Esperança	108	População em Idade Escolar de 15 a 17 Anos: 108
+633	3547650	Santa Salete	54	População em Idade Escolar de 15 a 17 Anos: 54
+634	3556958	Vitória Brasil	67	População em Idade Escolar de 15 a 17 Anos: 67
+635	3521150	Ipiguá	213	População em Idade Escolar de 15 a 17 Anos: 213
+636	3553658	Taquaral	127	População em Idade Escolar de 15 a 17 Anos: 127
+637	3515657	Fernão	75	População em Idade Escolar de 15 a 17 Anos: 75
+638	3516853	Gavião Peixoto	206	População em Idade Escolar de 15 a 17 Anos: 206
+639	3525854	Jumirim	139	População em Idade Escolar de 15 a 17 Anos: 139
+640	3532157	Nantes	159	População em Idade Escolar de 15 a 17 Anos: 159
+641	3532868	Nova Castilho	52	População em Idade Escolar de 15 a 17 Anos: 52
+642	3534757	Ouroeste	394	População em Idade Escolar de 15 a 17 Anos: 394
+643	3536570	Paulistânia	95	População em Idade Escolar de 15 a 17 Anos: 95
+644	3543238	Ribeirão dos Índios	105	População em Idade Escolar de 15 a 17 Anos: 105
+645	3554755	Trabiju	84	População em Idade Escolar de 15 a 17 Anos: 84

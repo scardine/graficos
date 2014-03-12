@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	2023	Matrícula Inicial no Ensino Médio – Total: 2.023
+2	3500204	Adolfo	205	Matrícula Inicial no Ensino Médio – Total: 205
+3	3500303	Aguaí	1270	Matrícula Inicial no Ensino Médio – Total: 1.270
+4	3500402	Águas da Prata	290	Matrícula Inicial no Ensino Médio – Total: 290
+5	3500501	Águas de Lindóia	655	Matrícula Inicial no Ensino Médio – Total: 655
+6	3500600	Águas de São Pedro	278	Matrícula Inicial no Ensino Médio – Total: 278
+7	3500709	Agudos	1802	Matrícula Inicial no Ensino Médio – Total: 1.802
+8	3500808	Alfredo Marcondes	176	Matrícula Inicial no Ensino Médio – Total: 176
+9	3500907	Altair	167	Matrícula Inicial no Ensino Médio – Total: 167
+10	3501004	Altinópolis	693	Matrícula Inicial no Ensino Médio – Total: 693
+11	3501103	Alto Alegre	160	Matrícula Inicial no Ensino Médio – Total: 160
+12	3501202	Álvares Florence	176	Matrícula Inicial no Ensino Médio – Total: 176
+13	3501301	Álvares Machado	1187	Matrícula Inicial no Ensino Médio – Total: 1.187
+14	3501400	Álvaro de Carvalho	186	Matrícula Inicial no Ensino Médio – Total: 186
+15	3501509	Alvinlândia	119	Matrícula Inicial no Ensino Médio – Total: 119
+16	3501608	Americana	10966	Matrícula Inicial no Ensino Médio – Total: 10.966
+17	3501707	Américo Brasiliense	1520	Matrícula Inicial no Ensino Médio – Total: 1.520
+18	3501806	Américo de Campos	311	Matrícula Inicial no Ensino Médio – Total: 311
+19	3501905	Amparo	2965	Matrícula Inicial no Ensino Médio – Total: 2.965
+20	3502002	Analândia	180	Matrícula Inicial no Ensino Médio – Total: 180
+21	3502101	Andradina	2806	Matrícula Inicial no Ensino Médio – Total: 2.806
+22	3502200	Angatuba	893	Matrícula Inicial no Ensino Médio – Total: 893
+23	3502309	Anhembi	227	Matrícula Inicial no Ensino Médio – Total: 227
+24	3502408	Anhumas	184	Matrícula Inicial no Ensino Médio – Total: 184
+25	3502507	Aparecida	1791	Matrícula Inicial no Ensino Médio – Total: 1.791
+26	3502606	Aparecida d'Oeste	208	Matrícula Inicial no Ensino Médio – Total: 208
+27	3502705	Apiaí	1443	Matrícula Inicial no Ensino Médio – Total: 1.443
+28	3502804	Araçatuba	7777	Matrícula Inicial no Ensino Médio – Total: 7.777
+29	3502903	Araçoiaba da Serra	1254	Matrícula Inicial no Ensino Médio – Total: 1.254
+30	3503000	Aramina	207	Matrícula Inicial no Ensino Médio – Total: 207
+31	3503109	Arandu	281	Matrícula Inicial no Ensino Médio – Total: 281
+32	3503208	Araraquara	8924	Matrícula Inicial no Ensino Médio – Total: 8.924
+33	3503307	Araras	5524	Matrícula Inicial no Ensino Médio – Total: 5.524
+34	3503406	Arealva	284	Matrícula Inicial no Ensino Médio – Total: 284
+35	3503505	Areias	165	Matrícula Inicial no Ensino Médio – Total: 165
+36	3503604	Areiópolis	456	Matrícula Inicial no Ensino Médio – Total: 456
+37	3503703	Ariranha	319	Matrícula Inicial no Ensino Médio – Total: 319
+38	3503802	Artur Nogueira	1660	Matrícula Inicial no Ensino Médio – Total: 1.660
+39	3503901	Arujá	4009	Matrícula Inicial no Ensino Médio – Total: 4.009
+40	3504008	Assis	4129	Matrícula Inicial no Ensino Médio – Total: 4.129
+41	3504107	Atibaia	5783	Matrícula Inicial no Ensino Médio – Total: 5.783
+42	3504206	Auriflama	661	Matrícula Inicial no Ensino Médio – Total: 661
+43	3504305	Avaí	222	Matrícula Inicial no Ensino Médio – Total: 222
+44	3504404	Avanhandava	276	Matrícula Inicial no Ensino Médio – Total: 276
+45	3504503	Avaré	3658	Matrícula Inicial no Ensino Médio – Total: 3.658
+46	3504602	Bady Bassitt	556	Matrícula Inicial no Ensino Médio – Total: 556
+47	3504701	Balbinos	71	Matrícula Inicial no Ensino Médio – Total: 71
+48	3504800	Bálsamo	334	Matrícula Inicial no Ensino Médio – Total: 334
+49	3504909	Bananal	492	Matrícula Inicial no Ensino Médio – Total: 492
+50	3505005	Barão de Antonina	147	Matrícula Inicial no Ensino Médio – Total: 147
+51	3505104	Barbosa	265	Matrícula Inicial no Ensino Médio – Total: 265
+52	3505203	Bariri	1233	Matrícula Inicial no Ensino Médio – Total: 1.233
+53	3505302	Barra Bonita	1834	Matrícula Inicial no Ensino Médio – Total: 1.834
+54	3505401	Barra do Turvo	430	Matrícula Inicial no Ensino Médio – Total: 430
+55	3505500	Barretos	5482	Matrícula Inicial no Ensino Médio – Total: 5.482
+56	3505609	Barrinha	1326	Matrícula Inicial no Ensino Médio – Total: 1.326
+57	3505708	Barueri	13532	Matrícula Inicial no Ensino Médio – Total: 13.532
+58	3505807	Bastos	1049	Matrícula Inicial no Ensino Médio – Total: 1.049
+59	3505906	Batatais	2281	Matrícula Inicial no Ensino Médio – Total: 2.281
+60	3506003	Bauru	14903	Matrícula Inicial no Ensino Médio – Total: 14.903
+61	3506102	Bebedouro	3631	Matrícula Inicial no Ensino Médio – Total: 3.631
+62	3506201	Bento de Abreu	108	Matrícula Inicial no Ensino Médio – Total: 108
+63	3506300	Bernardino de Campos	658	Matrícula Inicial no Ensino Médio – Total: 658
+64	3506409	Bilac	325	Matrícula Inicial no Ensino Médio – Total: 325
+65	3506508	Birigui	4575	Matrícula Inicial no Ensino Médio – Total: 4.575
+66	3506607	Biritiba Mirim	1241	Matrícula Inicial no Ensino Médio – Total: 1.241
+67	3506706	Boa Esperança do Sul	495	Matrícula Inicial no Ensino Médio – Total: 495
+68	3506805	Bocaina	325	Matrícula Inicial no Ensino Médio – Total: 325
+69	3506904	Bofete	454	Matrícula Inicial no Ensino Médio – Total: 454
+70	3507001	Boituva	1828	Matrícula Inicial no Ensino Médio – Total: 1.828
+71	3507100	Bom Jesus dos Perdões	701	Matrícula Inicial no Ensino Médio – Total: 701
+72	3507209	Borá	50	Matrícula Inicial no Ensino Médio – Total: 50
+73	3507308	Boracéia	184	Matrícula Inicial no Ensino Médio – Total: 184
+74	3507407	Borborema	625	Matrícula Inicial no Ensino Médio – Total: 625
+75	3507506	Botucatu	5290	Matrícula Inicial no Ensino Médio – Total: 5.290
+76	3507605	Bragança Paulista	5968	Matrícula Inicial no Ensino Médio – Total: 5.968
+77	3507704	Braúna	230	Matrícula Inicial no Ensino Médio – Total: 230
+78	3507803	Brodowski	837	Matrícula Inicial no Ensino Médio – Total: 837
+79	3507902	Brotas	959	Matrícula Inicial no Ensino Médio – Total: 959
+80	3508009	Buri	620	Matrícula Inicial no Ensino Médio – Total: 620
+81	3508108	Buritama	747	Matrícula Inicial no Ensino Médio – Total: 747
+82	3508207	Buritizal	117	Matrícula Inicial no Ensino Médio – Total: 117
+83	3508306	Cabrália Paulista	255	Matrícula Inicial no Ensino Médio – Total: 255
+84	3508405	Cabreúva	1895	Matrícula Inicial no Ensino Médio – Total: 1.895
+85	3508504	Caçapava	4039	Matrícula Inicial no Ensino Médio – Total: 4.039
+86	3508603	Cachoeira Paulista	1554	Matrícula Inicial no Ensino Médio – Total: 1.554
+87	3508702	Caconde	859	Matrícula Inicial no Ensino Médio – Total: 859
+88	3508801	Cafelândia	854	Matrícula Inicial no Ensino Médio – Total: 854
+89	3508900	Caiabu	247	Matrícula Inicial no Ensino Médio – Total: 247
+90	3509007	Caieiras	4409	Matrícula Inicial no Ensino Médio – Total: 4.409
+91	3509106	Caiuá	381	Matrícula Inicial no Ensino Médio – Total: 381
+92	3509205	Cajamar	3283	Matrícula Inicial no Ensino Médio – Total: 3.283
+93	3509304	Cajobi	436	Matrícula Inicial no Ensino Médio – Total: 436
+94	3509403	Cajuru	1053	Matrícula Inicial no Ensino Médio – Total: 1.053
+95	3509502	Campinas	43034	Matrícula Inicial no Ensino Médio – Total: 43.034
+96	3509601	Campo Limpo Paulista	3568	Matrícula Inicial no Ensino Médio – Total: 3.568
+97	3509700	Campos do Jordão	2306	Matrícula Inicial no Ensino Médio – Total: 2.306
+98	3509809	Campos Novos Paulista	139	Matrícula Inicial no Ensino Médio – Total: 139
+99	3509908	Cananéia	676	Matrícula Inicial no Ensino Médio – Total: 676
+100	3510005	Cândido Mota	1438	Matrícula Inicial no Ensino Médio – Total: 1.438
+101	3510104	Cândido Rodrigues	143	Matrícula Inicial no Ensino Médio – Total: 143
+102	3510203	Capão Bonito	2127	Matrícula Inicial no Ensino Médio – Total: 2.127
+103	3510302	Capela do Alto	837	Matrícula Inicial no Ensino Médio – Total: 837
+104	3510401	Capivari	2107	Matrícula Inicial no Ensino Médio – Total: 2.107
+105	3510500	Caraguatatuba	4403	Matrícula Inicial no Ensino Médio – Total: 4.403
+106	3510609	Carapicuíba	18369	Matrícula Inicial no Ensino Médio – Total: 18.369
+107	3510708	Cardoso	549	Matrícula Inicial no Ensino Médio – Total: 549
+108	3510807	Casa Branca	1323	Matrícula Inicial no Ensino Médio – Total: 1.323
+109	3510906	Cássia dos Coqueiros	178	Matrícula Inicial no Ensino Médio – Total: 178
+110	3511003	Castilho	620	Matrícula Inicial no Ensino Médio – Total: 620
+111	3511102	Catanduva	5406	Matrícula Inicial no Ensino Médio – Total: 5.406
+112	3511201	Catiguá	260	Matrícula Inicial no Ensino Médio – Total: 260
+113	3511300	Cedral	334	Matrícula Inicial no Ensino Médio – Total: 334
+114	3511409	Cerqueira César	762	Matrícula Inicial no Ensino Médio – Total: 762
+115	3511508	Cerquilho	1376	Matrícula Inicial no Ensino Médio – Total: 1.376
+116	3511607	Cesário Lange	527	Matrícula Inicial no Ensino Médio – Total: 527
+117	3511706	Charqueada	688	Matrícula Inicial no Ensino Médio – Total: 688
+118	3557204	Chavantes	546	Matrícula Inicial no Ensino Médio – Total: 546
+119	3511904	Clementina	312	Matrícula Inicial no Ensino Médio – Total: 312
+120	3512001	Colina	737	Matrícula Inicial no Ensino Médio – Total: 737
+121	3512100	Colômbia	422	Matrícula Inicial no Ensino Médio – Total: 422
+122	3512209	Conchal	1074	Matrícula Inicial no Ensino Médio – Total: 1.074
+123	3512308	Conchas	656	Matrícula Inicial no Ensino Médio – Total: 656
+124	3512407	Cordeirópolis	832	Matrícula Inicial no Ensino Médio – Total: 832
+125	3512506	Coroados	194	Matrícula Inicial no Ensino Médio – Total: 194
+126	3512605	Coronel Macedo	261	Matrícula Inicial no Ensino Médio – Total: 261
+127	3512704	Corumbataí	180	Matrícula Inicial no Ensino Médio – Total: 180
+128	3512803	Cosmópolis	2513	Matrícula Inicial no Ensino Médio – Total: 2.513
+129	3512902	Cosmorama	239	Matrícula Inicial no Ensino Médio – Total: 239
+130	3513009	Cotia	11146	Matrícula Inicial no Ensino Médio – Total: 11.146
+131	3513108	Cravinhos	1321	Matrícula Inicial no Ensino Médio – Total: 1.321
+132	3513207	Cristais Paulista	314	Matrícula Inicial no Ensino Médio – Total: 314
+133	3513306	Cruzália	154	Matrícula Inicial no Ensino Médio – Total: 154
+134	3513405	Cruzeiro	3597	Matrícula Inicial no Ensino Médio – Total: 3.597
+135	3513504	Cubatão	5368	Matrícula Inicial no Ensino Médio – Total: 5.368
+136	3513603	Cunha	936	Matrícula Inicial no Ensino Médio – Total: 936
+137	3513702	Descalvado	1306	Matrícula Inicial no Ensino Médio – Total: 1.306
+138	3513801	Diadema	20300	Matrícula Inicial no Ensino Médio – Total: 20.300
+139	3513900	Divinolândia	461	Matrícula Inicial no Ensino Médio – Total: 461
+140	3514007	Dobrada	403	Matrícula Inicial no Ensino Médio – Total: 403
+141	3514106	Dois Córregos	836	Matrícula Inicial no Ensino Médio – Total: 836
+142	3514205	Dolcinópolis	118	Matrícula Inicial no Ensino Médio – Total: 118
+143	3514304	Dourado	354	Matrícula Inicial no Ensino Médio – Total: 354
+144	3514403	Dracena	2148	Matrícula Inicial no Ensino Médio – Total: 2.148
+145	3514502	Duartina	525	Matrícula Inicial no Ensino Médio – Total: 525
+146	3514601	Dumont	411	Matrícula Inicial no Ensino Médio – Total: 411
+147	3514700	Echaporã	300	Matrícula Inicial no Ensino Médio – Total: 300
+148	3514809	Eldorado	816	Matrícula Inicial no Ensino Médio – Total: 816
+149	3514908	Elias Fausto	636	Matrícula Inicial no Ensino Médio – Total: 636
+150	3515004	Embu das Artes	11571	Matrícula Inicial no Ensino Médio – Total: 11.571
+151	3515103	Embu-Guaçu	3541	Matrícula Inicial no Ensino Médio – Total: 3.541
+152	3515202	Estrela d'Oeste	449	Matrícula Inicial no Ensino Médio – Total: 449
+153	3515301	Estrela do Norte	155	Matrícula Inicial no Ensino Médio – Total: 155
+154	3515400	Fartura	781	Matrícula Inicial no Ensino Médio – Total: 781
+155	3515509	Fernandópolis	2996	Matrícula Inicial no Ensino Médio – Total: 2.996
+156	3515608	Fernando Prestes	197	Matrícula Inicial no Ensino Médio – Total: 197
+157	3515707	Ferraz de Vasconcelos	8404	Matrícula Inicial no Ensino Médio – Total: 8.404
+158	3515806	Flora Rica	131	Matrícula Inicial no Ensino Médio – Total: 131
+159	3515905	Floreal	102	Matrícula Inicial no Ensino Médio – Total: 102
+160	3516002	Flórida Paulista	512	Matrícula Inicial no Ensino Médio – Total: 512
+161	3516101	Florínia	165	Matrícula Inicial no Ensino Médio – Total: 165
+162	3516200	Franca	15741	Matrícula Inicial no Ensino Médio – Total: 15.741
+163	3516309	Francisco Morato	8307	Matrícula Inicial no Ensino Médio – Total: 8.307
+164	3516408	Franco da Rocha	6850	Matrícula Inicial no Ensino Médio – Total: 6.850
+165	3516507	Gabriel Monteiro	102	Matrícula Inicial no Ensino Médio – Total: 102
+166	3516606	Gália	269	Matrícula Inicial no Ensino Médio – Total: 269
+167	3516705	Garça	2174	Matrícula Inicial no Ensino Médio – Total: 2.174
+168	3516804	Gastão Vidigal	141	Matrícula Inicial no Ensino Médio – Total: 141
+169	3516903	General Salgado	543	Matrícula Inicial no Ensino Médio – Total: 543
+170	3517000	Getulina	532	Matrícula Inicial no Ensino Médio – Total: 532
+171	3517109	Glicério	158	Matrícula Inicial no Ensino Médio – Total: 158
+172	3517208	Guaiçara	369	Matrícula Inicial no Ensino Médio – Total: 369
+173	3517307	Guaimbê	296	Matrícula Inicial no Ensino Médio – Total: 296
+174	3517406	Guaíra	1653	Matrícula Inicial no Ensino Médio – Total: 1.653
+175	3517505	Guapiaçu	690	Matrícula Inicial no Ensino Médio – Total: 690
+176	3517604	Guapiara	1128	Matrícula Inicial no Ensino Médio – Total: 1.128
+177	3517703	Guará	798	Matrícula Inicial no Ensino Médio – Total: 798
+178	3517802	Guaraçaí	344	Matrícula Inicial no Ensino Médio – Total: 344
+179	3517901	Guaraci	545	Matrícula Inicial no Ensino Médio – Total: 545
+180	3518008	Guarani d'Oeste	104	Matrícula Inicial no Ensino Médio – Total: 104
+181	3518107	Guarantã	252	Matrícula Inicial no Ensino Médio – Total: 252
+182	3518206	Guararapes	1235	Matrícula Inicial no Ensino Médio – Total: 1.235
+183	3518305	Guararema	1278	Matrícula Inicial no Ensino Médio – Total: 1.278
+184	3518404	Guaratinguetá	5909	Matrícula Inicial no Ensino Médio – Total: 5.909
+185	3518503	Guareí	495	Matrícula Inicial no Ensino Médio – Total: 495
+186	3518602	Guariba	1591	Matrícula Inicial no Ensino Médio – Total: 1.591
+187	3518701	Guarujá	12292	Matrícula Inicial no Ensino Médio – Total: 12.292
+188	3518800	Guarulhos	56870	Matrícula Inicial no Ensino Médio – Total: 56.870
+189	3518909	Guzolândia	184	Matrícula Inicial no Ensino Médio – Total: 184
+190	3519006	Herculândia	364	Matrícula Inicial no Ensino Médio – Total: 364
+191	3519105	Iacanga	328	Matrícula Inicial no Ensino Médio – Total: 328
+192	3519204	Iacri	300	Matrícula Inicial no Ensino Médio – Total: 300
+193	3519303	Ibaté	1402	Matrícula Inicial no Ensino Médio – Total: 1.402
+194	3519402	Ibirá	320	Matrícula Inicial no Ensino Médio – Total: 320
+195	3519501	Ibirarema	241	Matrícula Inicial no Ensino Médio – Total: 241
+196	3519600	Ibitinga	2088	Matrícula Inicial no Ensino Médio – Total: 2.088
+197	3519709	Ibiúna	3418	Matrícula Inicial no Ensino Médio – Total: 3.418
+198	3519808	Icém	399	Matrícula Inicial no Ensino Médio – Total: 399
+199	3519907	Iepê	399	Matrícula Inicial no Ensino Médio – Total: 399
+200	3520004	Igaraçu do Tietê	995	Matrícula Inicial no Ensino Médio – Total: 995
+201	3520103	Igarapava	1168	Matrícula Inicial no Ensino Médio – Total: 1.168
+202	3520202	Igaratá	398	Matrícula Inicial no Ensino Médio – Total: 398
+203	3520301	Iguape	1419	Matrícula Inicial no Ensino Médio – Total: 1.419
+204	3520400	Ilhabela	1248	Matrícula Inicial no Ensino Médio – Total: 1.248
+205	3520509	Indaiatuba	8683	Matrícula Inicial no Ensino Médio – Total: 8.683
+206	3520608	Indiana	258	Matrícula Inicial no Ensino Médio – Total: 258
+207	3520707	Indiaporã	133	Matrícula Inicial no Ensino Médio – Total: 133
+208	3520806	Inúbia Paulista	178	Matrícula Inicial no Ensino Médio – Total: 178
+209	3520905	Ipaussu	787	Matrícula Inicial no Ensino Médio – Total: 787
+210	3521002	Iperó	959	Matrícula Inicial no Ensino Médio – Total: 959
+211	3521101	Ipeúna	225	Matrícula Inicial no Ensino Médio – Total: 225
+212	3521200	Iporanga	300	Matrícula Inicial no Ensino Médio – Total: 300
+213	3521309	Ipuã	624	Matrícula Inicial no Ensino Médio – Total: 624
+214	3521408	Iracemápolis	912	Matrícula Inicial no Ensino Médio – Total: 912
+215	3521507	Irapuã	316	Matrícula Inicial no Ensino Médio – Total: 316
+216	3521606	Irapuru	276	Matrícula Inicial no Ensino Médio – Total: 276
+217	3521705	Itaberá	892	Matrícula Inicial no Ensino Médio – Total: 892
+218	3521804	Itaí	856	Matrícula Inicial no Ensino Médio – Total: 856
+219	3521903	Itajobi	624	Matrícula Inicial no Ensino Médio – Total: 624
+220	3522000	Itaju	143	Matrícula Inicial no Ensino Médio – Total: 143
+221	3522109	Itanhaém	4409	Matrícula Inicial no Ensino Médio – Total: 4.409
+222	3522208	Itapecerica da Serra	7792	Matrícula Inicial no Ensino Médio – Total: 7.792
+223	3522307	Itapetininga	6852	Matrícula Inicial no Ensino Médio – Total: 6.852
+224	3522406	Itapeva	4513	Matrícula Inicial no Ensino Médio – Total: 4.513
+225	3522505	Itapevi	8625	Matrícula Inicial no Ensino Médio – Total: 8.625
+226	3522604	Itapira	2961	Matrícula Inicial no Ensino Médio – Total: 2.961
+227	3522703	Itápolis	1751	Matrícula Inicial no Ensino Médio – Total: 1.751
+228	3522802	Itaporanga	863	Matrícula Inicial no Ensino Médio – Total: 863
+229	3522901	Itapuí	465	Matrícula Inicial no Ensino Médio – Total: 465
+230	3523008	Itapura	243	Matrícula Inicial no Ensino Médio – Total: 243
+231	3523107	Itaquaquecetuba	16332	Matrícula Inicial no Ensino Médio – Total: 16.332
+232	3523206	Itararé	2450	Matrícula Inicial no Ensino Médio – Total: 2.450
+233	3523305	Itariri	663	Matrícula Inicial no Ensino Médio – Total: 663
+234	3523404	Itatiba	4369	Matrícula Inicial no Ensino Médio – Total: 4.369
+235	3523503	Itatinga	720	Matrícula Inicial no Ensino Médio – Total: 720
+236	3523602	Itirapina	535	Matrícula Inicial no Ensino Médio – Total: 535
+237	3523701	Itirapuã	240	Matrícula Inicial no Ensino Médio – Total: 240
+238	3523800	Itobi	305	Matrícula Inicial no Ensino Médio – Total: 305
+239	3523909	Itu	7128	Matrícula Inicial no Ensino Médio – Total: 7.128
+240	3524006	Itupeva	1684	Matrícula Inicial no Ensino Médio – Total: 1.684
+241	3524105	Ituverava	1545	Matrícula Inicial no Ensino Médio – Total: 1.545
+242	3524204	Jaborandi	307	Matrícula Inicial no Ensino Médio – Total: 307
+243	3524303	Jaboticabal	3295	Matrícula Inicial no Ensino Médio – Total: 3.295
+244	3524402	Jacareí	10168	Matrícula Inicial no Ensino Médio – Total: 10.168
+245	3524501	Jaci	252	Matrícula Inicial no Ensino Médio – Total: 252
+246	3524600	Jacupiranga	914	Matrícula Inicial no Ensino Médio – Total: 914
+247	3524709	Jaguariúna	1817	Matrícula Inicial no Ensino Médio – Total: 1.817
+248	3524808	Jales	2488	Matrícula Inicial no Ensino Médio – Total: 2.488
+249	3524907	Jambeiro	213	Matrícula Inicial no Ensino Médio – Total: 213
+250	3525003	Jandira	5072	Matrícula Inicial no Ensino Médio – Total: 5.072
+251	3525102	Jardinópolis	1413	Matrícula Inicial no Ensino Médio – Total: 1.413
+252	3525201	Jarinu	1013	Matrícula Inicial no Ensino Médio – Total: 1.013
+253	3525300	Jaú	6294	Matrícula Inicial no Ensino Médio – Total: 6.294
+254	3525409	Jeriquara	155	Matrícula Inicial no Ensino Médio – Total: 155
+255	3525508	Joanópolis	455	Matrícula Inicial no Ensino Médio – Total: 455
+256	3525607	João Ramalho	269	Matrícula Inicial no Ensino Médio – Total: 269
+257	3525706	José Bonifácio	1552	Matrícula Inicial no Ensino Médio – Total: 1.552
+258	3525805	Júlio Mesquita	229	Matrícula Inicial no Ensino Médio – Total: 229
+259	3525904	Jundiaí	18116	Matrícula Inicial no Ensino Médio – Total: 18.116
+260	3526001	Junqueirópolis	749	Matrícula Inicial no Ensino Médio – Total: 749
+261	3526100	Juquiá	1237	Matrícula Inicial no Ensino Médio – Total: 1.237
+262	3526209	Juquitiba	1686	Matrícula Inicial no Ensino Médio – Total: 1.686
+263	3526308	Lagoinha	280	Matrícula Inicial no Ensino Médio – Total: 280
+264	3526407	Laranjal Paulista	861	Matrícula Inicial no Ensino Médio – Total: 861
+265	3526506	Lavínia	179	Matrícula Inicial no Ensino Médio – Total: 179
+266	3526605	Lavrinhas	346	Matrícula Inicial no Ensino Médio – Total: 346
+267	3526704	Leme	3765	Matrícula Inicial no Ensino Médio – Total: 3.765
+268	3526803	Lençóis Paulista	2782	Matrícula Inicial no Ensino Médio – Total: 2.782
+269	3526902	Limeira	14448	Matrícula Inicial no Ensino Médio – Total: 14.448
+270	3527009	Lindóia	215	Matrícula Inicial no Ensino Médio – Total: 215
+271	3527108	Lins	3326	Matrícula Inicial no Ensino Médio – Total: 3.326
+272	3527207	Lorena	3854	Matrícula Inicial no Ensino Médio – Total: 3.854
+273	3527306	Louveira	1258	Matrícula Inicial no Ensino Médio – Total: 1.258
+274	3527405	Lucélia	845	Matrícula Inicial no Ensino Médio – Total: 845
+275	3527504	Lucianópolis	110	Matrícula Inicial no Ensino Médio – Total: 110
+276	3527603	Luís Antônio	424	Matrícula Inicial no Ensino Médio – Total: 424
+277	3527702	Luiziânia	183	Matrícula Inicial no Ensino Médio – Total: 183
+278	3527801	Lupércio	195	Matrícula Inicial no Ensino Médio – Total: 195
+279	3527900	Lutécia	168	Matrícula Inicial no Ensino Médio – Total: 168
+280	3528007	Macatuba	711	Matrícula Inicial no Ensino Médio – Total: 711
+281	3528106	Macaubal	293	Matrícula Inicial no Ensino Médio – Total: 293
+282	3528205	Macedônia	154	Matrícula Inicial no Ensino Médio – Total: 154
+283	3528304	Magda	160	Matrícula Inicial no Ensino Médio – Total: 160
+284	3528403	Mairinque	2072	Matrícula Inicial no Ensino Médio – Total: 2.072
+285	3528502	Mairiporã	3669	Matrícula Inicial no Ensino Médio – Total: 3.669
+286	3528601	Manduri	399	Matrícula Inicial no Ensino Médio – Total: 399
+287	3528700	Marabá Paulista	153	Matrícula Inicial no Ensino Médio – Total: 153
+288	3528809	Maracaí	705	Matrícula Inicial no Ensino Médio – Total: 705
+289	3528908	Mariápolis	209	Matrícula Inicial no Ensino Médio – Total: 209
+290	3529005	Marília	9910	Matrícula Inicial no Ensino Médio – Total: 9.910
+291	3529104	Marinópolis	107	Matrícula Inicial no Ensino Médio – Total: 107
+292	3529203	Martinópolis	958	Matrícula Inicial no Ensino Médio – Total: 958
+293	3529302	Matão	4068	Matrícula Inicial no Ensino Médio – Total: 4.068
+294	3529401	Mauá	20759	Matrícula Inicial no Ensino Médio – Total: 20.759
+295	3529500	Mendonça	161	Matrícula Inicial no Ensino Médio – Total: 161
+296	3529609	Meridiano	191	Matrícula Inicial no Ensino Médio – Total: 191
+297	3529708	Miguelópolis	1099	Matrícula Inicial no Ensino Médio – Total: 1.099
+298	3529807	Mineiros do Tietê	508	Matrícula Inicial no Ensino Médio – Total: 508
+299	3529906	Miracatu	1089	Matrícula Inicial no Ensino Médio – Total: 1.089
+300	3530003	Mira Estrela	145	Matrícula Inicial no Ensino Médio – Total: 145
+301	3530102	Mirandópolis	1257	Matrícula Inicial no Ensino Médio – Total: 1.257
+302	3530201	Mirante do Paranapanema	947	Matrícula Inicial no Ensino Médio – Total: 947
+303	3530300	Mirassol	2450	Matrícula Inicial no Ensino Médio – Total: 2.450
+304	3530409	Mirassolândia	166	Matrícula Inicial no Ensino Médio – Total: 166
+305	3530508	Mococa	3675	Matrícula Inicial no Ensino Médio – Total: 3.675
+306	3530607	Mogi das Cruzes	18245	Matrícula Inicial no Ensino Médio – Total: 18.245
+307	3530706	Mogi Guaçu	7212	Matrícula Inicial no Ensino Médio – Total: 7.212
+308	3530805	Moji Mirim	3807	Matrícula Inicial no Ensino Médio – Total: 3.807
+309	3530904	Mombuca	204	Matrícula Inicial no Ensino Médio – Total: 204
+310	3531001	Monções	103	Matrícula Inicial no Ensino Médio – Total: 103
+311	3531100	Mongaguá	1991	Matrícula Inicial no Ensino Médio – Total: 1.991
+312	3531209	Monte Alegre do Sul	396	Matrícula Inicial no Ensino Médio – Total: 396
+313	3531308	Monte Alto	2025	Matrícula Inicial no Ensino Médio – Total: 2.025
+314	3531407	Monte Aprazível	850	Matrícula Inicial no Ensino Médio – Total: 850
+315	3531506	Monte Azul Paulista	898	Matrícula Inicial no Ensino Médio – Total: 898
+316	3531605	Monte Castelo	169	Matrícula Inicial no Ensino Médio – Total: 169
+317	3531704	Monteiro Lobato	205	Matrícula Inicial no Ensino Médio – Total: 205
+318	3531803	Monte Mor	2191	Matrícula Inicial no Ensino Médio – Total: 2.191
+319	3531902	Morro Agudo	1102	Matrícula Inicial no Ensino Médio – Total: 1.102
+320	3532009	Morungaba	493	Matrícula Inicial no Ensino Médio – Total: 493
+321	3532108	Murutinga do Sul	178	Matrícula Inicial no Ensino Médio – Total: 178
+322	3532207	Narandiba	215	Matrícula Inicial no Ensino Médio – Total: 215
+323	3532306	Natividade da Serra	292	Matrícula Inicial no Ensino Médio – Total: 292
+324	3532405	Nazaré Paulista	956	Matrícula Inicial no Ensino Médio – Total: 956
+325	3532504	Neves Paulista	375	Matrícula Inicial no Ensino Médio – Total: 375
+326	3532603	Nhandeara	547	Matrícula Inicial no Ensino Médio – Total: 547
+327	3532702	Nipoã	173	Matrícula Inicial no Ensino Médio – Total: 173
+328	3532801	Nova Aliança	206	Matrícula Inicial no Ensino Médio – Total: 206
+329	3532900	Nova Europa	411	Matrícula Inicial no Ensino Médio – Total: 411
+330	3533007	Nova Granada	935	Matrícula Inicial no Ensino Médio – Total: 935
+331	3533106	Nova Guataporanga	72	Matrícula Inicial no Ensino Médio – Total: 72
+332	3533205	Nova Independência	135	Matrícula Inicial no Ensino Médio – Total: 135
+333	3533304	Nova Luzitânia	130	Matrícula Inicial no Ensino Médio – Total: 130
+334	3533403	Nova Odessa	2510	Matrícula Inicial no Ensino Médio – Total: 2.510
+335	3533502	Novo Horizonte	1528	Matrícula Inicial no Ensino Médio – Total: 1.528
+336	3533601	Nuporanga	345	Matrícula Inicial no Ensino Médio – Total: 345
+337	3533700	Ocauçu	185	Matrícula Inicial no Ensino Médio – Total: 185
+338	3533809	Óleo	148	Matrícula Inicial no Ensino Médio – Total: 148
+339	3533908	Olímpia	2367	Matrícula Inicial no Ensino Médio – Total: 2.367
+340	3534005	Onda Verde	177	Matrícula Inicial no Ensino Médio – Total: 177
+341	3534104	Oriente	298	Matrícula Inicial no Ensino Médio – Total: 298
+342	3534203	Orindiúva	253	Matrícula Inicial no Ensino Médio – Total: 253
+343	3534302	Orlândia	1868	Matrícula Inicial no Ensino Médio – Total: 1.868
+344	3534401	Osasco	35282	Matrícula Inicial no Ensino Médio – Total: 35.282
+345	3534500	Oscar Bressane	131	Matrícula Inicial no Ensino Médio – Total: 131
+346	3534609	Osvaldo Cruz	1298	Matrícula Inicial no Ensino Médio – Total: 1.298
+347	3534708	Ourinhos	4690	Matrícula Inicial no Ensino Médio – Total: 4.690
+348	3534807	Ouro Verde	396	Matrícula Inicial no Ensino Médio – Total: 396
+349	3534906	Pacaembu	514	Matrícula Inicial no Ensino Médio – Total: 514
+350	3535002	Palestina	355	Matrícula Inicial no Ensino Médio – Total: 355
+351	3535101	Palmares Paulista	613	Matrícula Inicial no Ensino Médio – Total: 613
+352	3535200	Palmeira d'Oeste	380	Matrícula Inicial no Ensino Médio – Total: 380
+353	3535309	Palmital	887	Matrícula Inicial no Ensino Médio – Total: 887
+354	3535408	Panorama	568	Matrícula Inicial no Ensino Médio – Total: 568
+355	3535507	Paraguaçu Paulista	1841	Matrícula Inicial no Ensino Médio – Total: 1.841
+356	3535606	Paraibuna	1100	Matrícula Inicial no Ensino Médio – Total: 1.100
+357	3535705	Paraíso	239	Matrícula Inicial no Ensino Médio – Total: 239
+358	3535804	Paranapanema	662	Matrícula Inicial no Ensino Médio – Total: 662
+359	3535903	Paranapuã	147	Matrícula Inicial no Ensino Médio – Total: 147
+360	3536000	Parapuã	469	Matrícula Inicial no Ensino Médio – Total: 469
+361	3536109	Pardinho	235	Matrícula Inicial no Ensino Médio – Total: 235
+362	3536208	Pariquera-Açu	937	Matrícula Inicial no Ensino Médio – Total: 937
+363	3536307	Patrocínio Paulista	572	Matrícula Inicial no Ensino Médio – Total: 572
+364	3536406	Paulicéia	289	Matrícula Inicial no Ensino Médio – Total: 289
+365	3536505	Paulínia	3301	Matrícula Inicial no Ensino Médio – Total: 3.301
+366	3536604	Paulo de Faria	461	Matrícula Inicial no Ensino Médio – Total: 461
+367	3536703	Pederneiras	1958	Matrícula Inicial no Ensino Médio – Total: 1.958
+368	3536802	Pedra Bela	242	Matrícula Inicial no Ensino Médio – Total: 242
+369	3536901	Pedranópolis	138	Matrícula Inicial no Ensino Médio – Total: 138
+370	3537008	Pedregulho	648	Matrícula Inicial no Ensino Médio – Total: 648
+371	3537107	Pedreira	1788	Matrícula Inicial no Ensino Médio – Total: 1.788
+372	3537206	Pedro de Toledo	644	Matrícula Inicial no Ensino Médio – Total: 644
+373	3537305	Penápolis	2761	Matrícula Inicial no Ensino Médio – Total: 2.761
+374	3537404	Pereira Barreto	1241	Matrícula Inicial no Ensino Médio – Total: 1.241
+375	3537503	Pereiras	331	Matrícula Inicial no Ensino Médio – Total: 331
+376	3537602	Peruíbe	3433	Matrícula Inicial no Ensino Médio – Total: 3.433
+377	3537701	Piacatu	202	Matrícula Inicial no Ensino Médio – Total: 202
+378	3537800	Piedade	2236	Matrícula Inicial no Ensino Médio – Total: 2.236
+379	3537909	Pilar do Sul	1206	Matrícula Inicial no Ensino Médio – Total: 1.206
+380	3538006	Pindamonhangaba	7028	Matrícula Inicial no Ensino Médio – Total: 7.028
+381	3538105	Pindorama	491	Matrícula Inicial no Ensino Médio – Total: 491
+382	3515186	Espírito Santo do Pinhal	1748	Matrícula Inicial no Ensino Médio – Total: 1.748
+383	3538204	Pinhalzinho	412	Matrícula Inicial no Ensino Médio – Total: 412
+384	3538303	Piquerobi	163	Matrícula Inicial no Ensino Médio – Total: 163
+385	3538501	Piquete	608	Matrícula Inicial no Ensino Médio – Total: 608
+386	3538600	Piracaia	998	Matrícula Inicial no Ensino Médio – Total: 998
+387	3538709	Piracicaba	16436	Matrícula Inicial no Ensino Médio – Total: 16.436
+388	3538808	Piraju	1437	Matrícula Inicial no Ensino Médio – Total: 1.437
+389	3538907	Pirajuí	845	Matrícula Inicial no Ensino Médio – Total: 845
+390	3539004	Pirangi	427	Matrícula Inicial no Ensino Médio – Total: 427
+391	3539103	Pirapora do Bom Jesus	714	Matrícula Inicial no Ensino Médio – Total: 714
+392	3539202	Pirapozinho	1134	Matrícula Inicial no Ensino Médio – Total: 1.134
+393	3539301	Pirassununga	3107	Matrícula Inicial no Ensino Médio – Total: 3.107
+394	3539400	Piratininga	526	Matrícula Inicial no Ensino Médio – Total: 526
+395	3539509	Pitangueiras	1579	Matrícula Inicial no Ensino Médio – Total: 1.579
+396	3539608	Planalto	156	Matrícula Inicial no Ensino Médio – Total: 156
+397	3539707	Platina	154	Matrícula Inicial no Ensino Médio – Total: 154
+398	3539806	Poá	7038	Matrícula Inicial no Ensino Médio – Total: 7.038
+399	3539905	Poloni	291	Matrícula Inicial no Ensino Médio – Total: 291
+400	3540002	Pompéia	1017	Matrícula Inicial no Ensino Médio – Total: 1.017
+401	3540101	Pongaí	178	Matrícula Inicial no Ensino Médio – Total: 178
+402	3540200	Pontal	1576	Matrícula Inicial no Ensino Médio – Total: 1.576
+403	3540309	Pontes Gestal	127	Matrícula Inicial no Ensino Médio – Total: 127
+404	3540408	Populina	156	Matrícula Inicial no Ensino Médio – Total: 156
+405	3540507	Porangaba	356	Matrícula Inicial no Ensino Médio – Total: 356
+406	3540606	Porto Feliz	2206	Matrícula Inicial no Ensino Médio – Total: 2.206
+407	3540705	Porto Ferreira	1990	Matrícula Inicial no Ensino Médio – Total: 1.990
+408	3540804	Potirendaba	550	Matrícula Inicial no Ensino Médio – Total: 550
+409	3540903	Pradópolis	642	Matrícula Inicial no Ensino Médio – Total: 642
+410	3541000	Praia Grande	10162	Matrícula Inicial no Ensino Médio – Total: 10.162
+411	3541109	Presidente Alves	221	Matrícula Inicial no Ensino Médio – Total: 221
+412	3541208	Presidente Bernardes	563	Matrícula Inicial no Ensino Médio – Total: 563
+413	3541307	Presidente Epitácio	1948	Matrícula Inicial no Ensino Médio – Total: 1.948
+414	3541406	Presidente Prudente	10011	Matrícula Inicial no Ensino Médio – Total: 10.011
+415	3541505	Presidente Venceslau	1940	Matrícula Inicial no Ensino Médio – Total: 1.940
+416	3541604	Promissão	1482	Matrícula Inicial no Ensino Médio – Total: 1.482
+417	3541703	Quatá	747	Matrícula Inicial no Ensino Médio – Total: 747
+418	3541802	Queiroz	110	Matrícula Inicial no Ensino Médio – Total: 110
+419	3541901	Queluz	357	Matrícula Inicial no Ensino Médio – Total: 357
+420	3542008	Quintana	270	Matrícula Inicial no Ensino Médio – Total: 270
+421	3542107	Rafard	347	Matrícula Inicial no Ensino Médio – Total: 347
+422	3542206	Rancharia	1565	Matrícula Inicial no Ensino Médio – Total: 1.565
+423	3542305	Redenção da Serra	208	Matrícula Inicial no Ensino Médio – Total: 208
+424	3542404	Regente Feijó	807	Matrícula Inicial no Ensino Médio – Total: 807
+425	3542503	Reginópolis	208	Matrícula Inicial no Ensino Médio – Total: 208
+426	3542602	Registro	3173	Matrícula Inicial no Ensino Médio – Total: 3.173
+427	3542701	Restinga	253	Matrícula Inicial no Ensino Médio – Total: 253
+428	3542800	Ribeira	220	Matrícula Inicial no Ensino Médio – Total: 220
+429	3542909	Ribeirão Bonito	539	Matrícula Inicial no Ensino Médio – Total: 539
+430	3543006	Ribeirão Branco	978	Matrícula Inicial no Ensino Médio – Total: 978
+431	3543105	Ribeirão Corrente	186	Matrícula Inicial no Ensino Médio – Total: 186
+432	3543204	Ribeirão do Sul	236	Matrícula Inicial no Ensino Médio – Total: 236
+433	3543303	Ribeirão Pires	5764	Matrícula Inicial no Ensino Médio – Total: 5.764
+434	3543402	Ribeirão Preto	25838	Matrícula Inicial no Ensino Médio – Total: 25.838
+435	3543501	Riversul	333	Matrícula Inicial no Ensino Médio – Total: 333
+436	3543600	Rifaina	184	Matrícula Inicial no Ensino Médio – Total: 184
+437	3543709	Rincão	497	Matrícula Inicial no Ensino Médio – Total: 497
+438	3543808	Rinópolis	412	Matrícula Inicial no Ensino Médio – Total: 412
+439	3543907	Rio Claro	7973	Matrícula Inicial no Ensino Médio – Total: 7.973
+440	3544004	Rio das Pedras	1141	Matrícula Inicial no Ensino Médio – Total: 1.141
+441	3544103	Rio Grande da Serra	1726	Matrícula Inicial no Ensino Médio – Total: 1.726
+442	3544202	Riolândia	381	Matrícula Inicial no Ensino Médio – Total: 381
+443	3544301	Roseira	380	Matrícula Inicial no Ensino Médio – Total: 380
+444	3544400	Rubiácea	141	Matrícula Inicial no Ensino Médio – Total: 141
+445	3544509	Rubinéia	122	Matrícula Inicial no Ensino Médio – Total: 122
+446	3544608	Sabino	238	Matrícula Inicial no Ensino Médio – Total: 238
+447	3544707	Sagres	135	Matrícula Inicial no Ensino Médio – Total: 135
+448	3544806	Sales	225	Matrícula Inicial no Ensino Médio – Total: 225
+449	3544905	Sales Oliveira	395	Matrícula Inicial no Ensino Médio – Total: 395
+450	3545001	Salesópolis	778	Matrícula Inicial no Ensino Médio – Total: 778
+451	3545100	Salmourão	229	Matrícula Inicial no Ensino Médio – Total: 229
+452	3545209	Salto	5006	Matrícula Inicial no Ensino Médio – Total: 5.006
+453	3545308	Salto de Pirapora	1817	Matrícula Inicial no Ensino Médio – Total: 1.817
+454	3545407	Salto Grande	350	Matrícula Inicial no Ensino Médio – Total: 350
+455	3545506	Sandovalina	197	Matrícula Inicial no Ensino Médio – Total: 197
+456	3545605	Santa Adélia	660	Matrícula Inicial no Ensino Médio – Total: 660
+457	3545704	Santa Albertina	228	Matrícula Inicial no Ensino Médio – Total: 228
+458	3545803	Santa Bárbara d'Oeste	7483	Matrícula Inicial no Ensino Médio – Total: 7.483
+459	3500550	Águas de Santa Bárbara	276	Matrícula Inicial no Ensino Médio – Total: 276
+460	3546009	Santa Branca	677	Matrícula Inicial no Ensino Médio – Total: 677
+461	3546108	Santa Clara d'Oeste	102	Matrícula Inicial no Ensino Médio – Total: 102
+462	3546207	Santa Cruz da Conceição	207	Matrícula Inicial no Ensino Médio – Total: 207
+463	3546306	Santa Cruz das Palmeiras	1106	Matrícula Inicial no Ensino Médio – Total: 1.106
+464	3546405	Santa Cruz do Rio Pardo	2116	Matrícula Inicial no Ensino Médio – Total: 2.116
+465	3546504	Santa Ernestina	280	Matrícula Inicial no Ensino Médio – Total: 280
+466	3546603	Santa Fé do Sul	1482	Matrícula Inicial no Ensino Médio – Total: 1.482
+467	3546702	Santa Gertrudes	785	Matrícula Inicial no Ensino Médio – Total: 785
+468	3546801	Santa Isabel	2665	Matrícula Inicial no Ensino Médio – Total: 2.665
+469	3546900	Santa Lucia	428	Matrícula Inicial no Ensino Médio – Total: 428
+470	3547007	Santa Maria da Serra	268	Matrícula Inicial no Ensino Médio – Total: 268
+471	3547106	Santa Mercedes	146	Matrícula Inicial no Ensino Médio – Total: 146
+472	3547403	Santa Rita d'Oeste	122	Matrícula Inicial no Ensino Médio – Total: 122
+473	3547502	Santa Rita do Passa Quatro	1063	Matrícula Inicial no Ensino Médio – Total: 1.063
+474	3547601	Santa Rosa do Viterbo	1249	Matrícula Inicial no Ensino Médio – Total: 1.249
+475	3547205	Santana da Ponte Pensa	99	Matrícula Inicial no Ensino Médio – Total: 99
+476	3547304	Santana de Parnaíba	4014	Matrícula Inicial no Ensino Médio – Total: 4.014
+477	3547700	Santo Anastácio	878	Matrícula Inicial no Ensino Médio – Total: 878
+478	3547809	Santo André	33427	Matrícula Inicial no Ensino Médio – Total: 33.427
+479	3547908	Santo Antonio da Alegria	367	Matrícula Inicial no Ensino Médio – Total: 367
+480	3548104	Santo Antonio do Jardim	309	Matrícula Inicial no Ensino Médio – Total: 309
+481	3548203	Santo Antonio do Pinhal	338	Matrícula Inicial no Ensino Médio – Total: 338
+482	3548005	Santo Antonio de Posse	763	Matrícula Inicial no Ensino Médio – Total: 763
+483	3548302	Santo Expedito	140	Matrícula Inicial no Ensino Médio – Total: 140
+484	3548401	Santópolis do Aguapeí	221	Matrícula Inicial no Ensino Médio – Total: 221
+485	3548500	Santos	17844	Matrícula Inicial no Ensino Médio – Total: 17.844
+486	3548609	São Bento do Sapucaí	479	Matrícula Inicial no Ensino Médio – Total: 479
+487	3548708	São Bernardo do Campo	37627	Matrícula Inicial no Ensino Médio – Total: 37.627
+488	3548807	São Caetano do Sul	9246	Matrícula Inicial no Ensino Médio – Total: 9.246
+489	3548906	São Carlos	10143	Matrícula Inicial no Ensino Médio – Total: 10.143
+490	3549003	São Francisco	133	Matrícula Inicial no Ensino Médio – Total: 133
+491	3549102	São João da Boa Vista	3760	Matrícula Inicial no Ensino Médio – Total: 3.760
+492	3549201	São João das Duas Pontes	155	Matrícula Inicial no Ensino Médio – Total: 155
+493	3549300	São João do Pau d'Alho	115	Matrícula Inicial no Ensino Médio – Total: 115
+494	3549409	São Joaquim da Barra	1940	Matrícula Inicial no Ensino Médio – Total: 1.940
+495	3549607	São José do Barreiro	217	Matrícula Inicial no Ensino Médio – Total: 217
+496	3549508	São José da Bela Vista	336	Matrícula Inicial no Ensino Médio – Total: 336
+497	3549706	São José do Rio Pardo	2608	Matrícula Inicial no Ensino Médio – Total: 2.608
+498	3549805	São José do Rio Preto	18581	Matrícula Inicial no Ensino Médio – Total: 18.581
+499	3549904	São José dos Campos	30751	Matrícula Inicial no Ensino Médio – Total: 30.751
+500	3550001	São Luís do Paraitinga	621	Matrícula Inicial no Ensino Médio – Total: 621
+501	3550100	São Manuel	1725	Matrícula Inicial no Ensino Médio – Total: 1.725
+502	3550209	São Miguel Arcanjo	1426	Matrícula Inicial no Ensino Médio – Total: 1.426
+503	3550308	São Paulo	520421	Matrícula Inicial no Ensino Médio – Total: 520.421
+504	3550407	São Pedro	1039	Matrícula Inicial no Ensino Médio – Total: 1.039
+505	3550506	São Pedro do Turvo	276	Matrícula Inicial no Ensino Médio – Total: 276
+506	3550605	São Roque	3272	Matrícula Inicial no Ensino Médio – Total: 3.272
+507	3550704	São Sebastião	3228	Matrícula Inicial no Ensino Médio – Total: 3.228
+508	3550803	São Sebastião da Grama	488	Matrícula Inicial no Ensino Médio – Total: 488
+509	3550902	São Simão	853	Matrícula Inicial no Ensino Médio – Total: 853
+510	3551009	São Vicente	14465	Matrícula Inicial no Ensino Médio – Total: 14.465
+511	3551108	Sarapuí	367	Matrícula Inicial no Ensino Médio – Total: 367
+512	3551207	Sarutaiá	187	Matrícula Inicial no Ensino Médio – Total: 187
+513	3551306	Sebastianópolis do Sul	139	Matrícula Inicial no Ensino Médio – Total: 139
+514	3551405	Serra Azul	376	Matrícula Inicial no Ensino Médio – Total: 376
+515	3551603	Serra Negra	954	Matrícula Inicial no Ensino Médio – Total: 954
+516	3551504	Serrana	1741	Matrícula Inicial no Ensino Médio – Total: 1.741
+517	3551702	Sertãozinho	5111	Matrícula Inicial no Ensino Médio – Total: 5.111
+518	3551801	Sete Barras	657	Matrícula Inicial no Ensino Médio – Total: 657
+519	3551900	Severínia	646	Matrícula Inicial no Ensino Médio – Total: 646
+520	3552007	Silveiras	306	Matrícula Inicial no Ensino Médio – Total: 306
+521	3552106	Socorro	1462	Matrícula Inicial no Ensino Médio – Total: 1.462
+522	3552205	Sorocaba	28655	Matrícula Inicial no Ensino Médio – Total: 28.655
+523	3552304	Sud Mennucci	412	Matrícula Inicial no Ensino Médio – Total: 412
+524	3552403	Sumaré	9570	Matrícula Inicial no Ensino Médio – Total: 9.570
+525	3552502	Suzano	13752	Matrícula Inicial no Ensino Médio – Total: 13.752
+526	3552601	Tabapuã	406	Matrícula Inicial no Ensino Médio – Total: 406
+527	3552700	Tabatinga	532	Matrícula Inicial no Ensino Médio – Total: 532
+528	3552809	Taboão da Serra	11664	Matrícula Inicial no Ensino Médio – Total: 11.664
+529	3552908	Taciba	309	Matrícula Inicial no Ensino Médio – Total: 309
+530	3553005	Taguaí	390	Matrícula Inicial no Ensino Médio – Total: 390
+531	3553104	Taiaçu	213	Matrícula Inicial no Ensino Médio – Total: 213
+532	3553203	Taiúva	206	Matrícula Inicial no Ensino Médio – Total: 206
+533	3553302	Tambaú	913	Matrícula Inicial no Ensino Médio – Total: 913
+534	3553401	Tanabi	933	Matrícula Inicial no Ensino Médio – Total: 933
+535	3553500	Tapiraí	312	Matrícula Inicial no Ensino Médio – Total: 312
+536	3553609	Tapiratiba	654	Matrícula Inicial no Ensino Médio – Total: 654
+537	3553708	Taquaritinga	2519	Matrícula Inicial no Ensino Médio – Total: 2.519
+538	3553807	Taquarituba	986	Matrícula Inicial no Ensino Médio – Total: 986
+539	3553906	Tarabaí	437	Matrícula Inicial no Ensino Médio – Total: 437
+540	3554003	Tatuí	4591	Matrícula Inicial no Ensino Médio – Total: 4.591
+541	3554102	Taubaté	12703	Matrícula Inicial no Ensino Médio – Total: 12.703
+542	3554201	Tejupá	228	Matrícula Inicial no Ensino Médio – Total: 228
+543	3554300	Teodoro Sampaio	1023	Matrícula Inicial no Ensino Médio – Total: 1.023
+544	3554409	Terra Roxa	356	Matrícula Inicial no Ensino Médio – Total: 356
+545	3554508	Tietê	1574	Matrícula Inicial no Ensino Médio – Total: 1.574
+546	3554607	Timburi	168	Matrícula Inicial no Ensino Médio – Total: 168
+547	3554706	Torrinha	357	Matrícula Inicial no Ensino Médio – Total: 357
+548	3554805	Tremembé	1280	Matrícula Inicial no Ensino Médio – Total: 1.280
+549	3554904	Três Fronteiras	195	Matrícula Inicial no Ensino Médio – Total: 195
+550	3555000	Tupã	2961	Matrícula Inicial no Ensino Médio – Total: 2.961
+551	3555109	Tupi Paulista	743	Matrícula Inicial no Ensino Médio – Total: 743
+552	3555208	Turiúba	93	Matrícula Inicial no Ensino Médio – Total: 93
+553	3555307	Turmalina	103	Matrícula Inicial no Ensino Médio – Total: 103
+554	3555406	Ubatuba	3969	Matrícula Inicial no Ensino Médio – Total: 3.969
+555	3555505	Ubirajara	179	Matrícula Inicial no Ensino Médio – Total: 179
+556	3555604	Uchôa	452	Matrícula Inicial no Ensino Médio – Total: 452
+557	3555703	União Paulista	55	Matrícula Inicial no Ensino Médio – Total: 55
+558	3555802	Urânia	318	Matrícula Inicial no Ensino Médio – Total: 318
+559	3555901	Uru	81	Matrícula Inicial no Ensino Médio – Total: 81
+560	3556008	Urupês	641	Matrícula Inicial no Ensino Médio – Total: 641
+561	3556107	Valentim Gentil	464	Matrícula Inicial no Ensino Médio – Total: 464
+562	3556206	Valinhos	5171	Matrícula Inicial no Ensino Médio – Total: 5.171
+563	3556305	Valparaíso	957	Matrícula Inicial no Ensino Médio – Total: 957
+564	3556404	Vargem Grande do Sul	1417	Matrícula Inicial no Ensino Médio – Total: 1.417
+565	3556503	Várzea Paulista	4352	Matrícula Inicial no Ensino Médio – Total: 4.352
+566	3556602	Vera Cruz	579	Matrícula Inicial no Ensino Médio – Total: 579
+567	3556701	Vinhedo	2777	Matrícula Inicial no Ensino Médio – Total: 2.777
+568	3556800	Viradouro	681	Matrícula Inicial no Ensino Médio – Total: 681
+569	3556909	Vista Alegre do Alto	233	Matrícula Inicial no Ensino Médio – Total: 233
+570	3557006	Votorantim	3970	Matrícula Inicial no Ensino Médio – Total: 3.970
+571	3557105	Votuporanga	4061	Matrícula Inicial no Ensino Médio – Total: 4.061
+572	3556453	Vargem Grande Paulista	2164	Matrícula Inicial no Ensino Médio – Total: 2.164
+573	3500758	Alambari	238	Matrícula Inicial no Ensino Médio – Total: 238
+574	3501152	Alumínio	1002	Matrícula Inicial no Ensino Médio – Total: 1.002
+575	3502754	Araçariguama	594	Matrícula Inicial no Ensino Médio – Total: 594
+576	3503158	Arapeí	137	Matrícula Inicial no Ensino Médio – Total: 137
+577	3503950	Aspásia	83	Matrícula Inicial no Ensino Médio – Total: 83
+578	3505351	Barra do Chapéu	275	Matrícula Inicial no Ensino Médio – Total: 275
+579	3506359	Bertioga	2028	Matrícula Inicial no Ensino Médio – Total: 2.028
+580	3507159	Bom Sucesso de Itararé	201	Matrícula Inicial no Ensino Médio – Total: 201
+581	3507456	Borebi	124	Matrícula Inicial no Ensino Médio – Total: 124
+582	3509254	Cajati	1334	Matrícula Inicial no Ensino Médio – Total: 1.334
+583	3509452	Campina do Monte Alegre	317	Matrícula Inicial no Ensino Médio – Total: 317
+584	3510153	Canitar	208	Matrícula Inicial no Ensino Médio – Total: 208
+585	3513850	Dirce Reis	80	Matrícula Inicial no Ensino Médio – Total: 80
+586	3514924	Elisiário	154	Matrícula Inicial no Ensino Médio – Total: 154
+587	3514957	Embaúba	120	Matrícula Inicial no Ensino Médio – Total: 120
+588	3515129	Emilianópolis	111	Matrícula Inicial no Ensino Médio – Total: 111
+589	3515152	Engenheiro Coelho	837	Matrícula Inicial no Ensino Médio – Total: 837
+590	3515194	Espírito Santo do Turvo	224	Matrícula Inicial no Ensino Médio – Total: 224
+591	3557303	Estiva Gerbi	456	Matrícula Inicial no Ensino Médio – Total: 456
+592	3515350	Euclides da Cunha Paulista	555	Matrícula Inicial no Ensino Médio – Total: 555
+593	3518859	Guatapará	438	Matrícula Inicial no Ensino Médio – Total: 438
+594	3519055	Holambra	683	Matrícula Inicial no Ensino Médio – Total: 683
+595	3519071	Hortolândia	8187	Matrícula Inicial no Ensino Médio – Total: 8.187
+596	3519253	Iaras	168	Matrícula Inicial no Ensino Médio – Total: 168
+597	3520426	Ilha Comprida	351	Matrícula Inicial no Ensino Médio – Total: 351
+598	3520442	Ilha Solteira	1277	Matrícula Inicial no Ensino Médio – Total: 1.277
+599	3522158	Itaóca	257	Matrícula Inicial no Ensino Médio – Total: 257
+600	3522653	Itapirapuã Paulista	229	Matrícula Inicial no Ensino Médio – Total: 229
+601	3527256	Lourdes	160	Matrícula Inicial no Ensino Médio – Total: 160
+602	3528858	Marapoama	109	Matrícula Inicial no Ensino Médio – Total: 109
+603	3529658	Mesópolis	77	Matrícula Inicial no Ensino Médio – Total: 77
+604	3532058	Motuca	259	Matrícula Inicial no Ensino Médio – Total: 259
+605	3532827	Nova Campina	325	Matrícula Inicial no Ensino Médio – Total: 325
+606	3532843	Nova Canaã Paulista	86	Matrícula Inicial no Ensino Médio – Total: 86
+607	3533254	Novais	226	Matrícula Inicial no Ensino Médio – Total: 226
+608	3536257	Parisi	95	Matrícula Inicial no Ensino Médio – Total: 95
+609	3537156	Pedrinhas Paulista	166	Matrícula Inicial no Ensino Médio – Total: 166
+610	3540259	Pontalinda	173	Matrícula Inicial no Ensino Médio – Total: 173
+611	3540754	Potim	445	Matrícula Inicial no Ensino Médio – Total: 445
+612	3543253	Ribeirão Grande	447	Matrícula Inicial no Ensino Médio – Total: 447
+613	3544251	Rosana	1127	Matrícula Inicial no Ensino Médio – Total: 1.127
+614	3545159	Saltinho	323	Matrícula Inicial no Ensino Médio – Total: 323
+615	3549250	São João de Iracema	99	Matrícula Inicial no Ensino Médio – Total: 99
+616	3549953	São Lourenço da Serra	604	Matrícula Inicial no Ensino Médio – Total: 604
+617	3548054	Santo Antonio do Aracanguá	477	Matrícula Inicial no Ensino Médio – Total: 477
+618	3552551	Suzanápolis	158	Matrícula Inicial no Ensino Médio – Total: 158
+619	3553856	Taquarivaí	305	Matrícula Inicial no Ensino Médio – Total: 305
+620	3553955	Tarumã	543	Matrícula Inicial no Ensino Médio – Total: 543
+621	3554656	Torre de Pedra	114	Matrícula Inicial no Ensino Médio – Total: 114
+622	3554953	Tuiuti	163	Matrícula Inicial no Ensino Médio – Total: 163
+623	3555356	Ubarana	180	Matrícula Inicial no Ensino Médio – Total: 180
+624	3556354	Vargem	413	Matrícula Inicial no Ensino Médio – Total: 413
+625	3557154	Zacarias	102	Matrícula Inicial no Ensino Médio – Total: 102
+626	3503356	Arco Íris	131	Matrícula Inicial no Ensino Médio – Total: 131
+627	3507753	Brejo Alegre	145	Matrícula Inicial no Ensino Médio – Total: 145
+628	3509957	Canas	303	Matrícula Inicial no Ensino Médio – Total: 303
+629	3540853	Pracinha	90	Matrícula Inicial no Ensino Médio – Total: 90
+630	3541059	Pratânia	301	Matrícula Inicial no Ensino Médio – Total: 301
+631	3541653	Quadra	152	Matrícula Inicial no Ensino Médio – Total: 152
+632	3546256	Santa Cruz da Esperança	97	Matrícula Inicial no Ensino Médio – Total: 97
+633	3547650	Santa Salete	53	Matrícula Inicial no Ensino Médio – Total: 53
+634	3556958	Vitória Brasil	68	Matrícula Inicial no Ensino Médio – Total: 68
+635	3521150	Ipiguá	242	Matrícula Inicial no Ensino Médio – Total: 242
+636	3553658	Taquaral	100	Matrícula Inicial no Ensino Médio – Total: 100
+637	3515657	Fernão	66	Matrícula Inicial no Ensino Médio – Total: 66
+638	3516853	Gavião Peixoto	284	Matrícula Inicial no Ensino Médio – Total: 284
+639	3525854	Jumirim	123	Matrícula Inicial no Ensino Médio – Total: 123
+640	3532157	Nantes	184	Matrícula Inicial no Ensino Médio – Total: 184
+641	3532868	Nova Castilho	85	Matrícula Inicial no Ensino Médio – Total: 85
+642	3534757	Ouroeste	386	Matrícula Inicial no Ensino Médio – Total: 386
+643	3536570	Paulistânia	72	Matrícula Inicial no Ensino Médio – Total: 72
+644	3543238	Ribeirão dos Índios	75	Matrícula Inicial no Ensino Médio – Total: 75
+645	3554755	Trabiju	62	Matrícula Inicial no Ensino Médio – Total: 62

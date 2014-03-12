@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+2	3500204	Adolfo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+3	3500303	Aguaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+4	3500402	Águas da Prata	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+5	3500501	Águas de Lindóia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+6	3500600	Águas de São Pedro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+7	3500709	Agudos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+8	3500808	Alfredo Marcondes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+9	3500907	Altair	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+10	3501004	Altinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+11	3501103	Alto Alegre	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+12	3501202	Álvares Florence	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+13	3501301	Álvares Machado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+14	3501400	Álvaro de Carvalho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+15	3501509	Alvinlândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+16	3501608	Americana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+17	3501707	Américo Brasiliense	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+18	3501806	Américo de Campos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+19	3501905	Amparo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+20	3502002	Analândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+21	3502101	Andradina	1.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,4
+22	3502200	Angatuba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+23	3502309	Anhembi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+24	3502408	Anhumas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+25	3502507	Aparecida	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+26	3502606	Aparecida d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+27	3502705	Apiaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+28	3502804	Araçatuba	0.7	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,7
+29	3502903	Araçoiaba da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+30	3503000	Aramina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+31	3503109	Arandu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+32	3503208	Araraquara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+33	3503307	Araras	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+34	3503406	Arealva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+35	3503505	Areias	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+36	3503604	Areiópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+37	3503703	Ariranha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+38	3503802	Artur Nogueira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+39	3503901	Arujá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+40	3504008	Assis	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,2
+41	3504107	Atibaia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+42	3504206	Auriflama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+43	3504305	Avaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+44	3504404	Avanhandava	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+45	3504503	Avaré	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+46	3504602	Bady Bassitt	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+47	3504701	Balbinos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+48	3504800	Bálsamo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+49	3504909	Bananal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+50	3505005	Barão de Antonina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+51	3505104	Barbosa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+52	3505203	Bariri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+53	3505302	Barra Bonita	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+54	3505401	Barra do Turvo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+55	3505500	Barretos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+56	3505609	Barrinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+57	3505708	Barueri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+58	3505807	Bastos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+59	3505906	Batatais	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+60	3506003	Bauru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+61	3506102	Bebedouro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+62	3506201	Bento de Abreu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+63	3506300	Bernardino de Campos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+64	3506409	Bilac	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+65	3506508	Birigui	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+66	3506607	Biritiba Mirim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+67	3506706	Boa Esperança do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+68	3506805	Bocaina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+69	3506904	Bofete	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+70	3507001	Boituva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+71	3507100	Bom Jesus dos Perdões	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+72	3507209	Borá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+73	3507308	Boracéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+74	3507407	Borborema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+75	3507506	Botucatu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+76	3507605	Bragança Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+77	3507704	Braúna	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+78	3507803	Brodowski	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+79	3507902	Brotas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+80	3508009	Buri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+81	3508108	Buritama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+82	3508207	Buritizal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+83	3508306	Cabrália Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+84	3508405	Cabreúva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+85	3508504	Caçapava	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+86	3508603	Cachoeira Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+87	3508702	Caconde	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+88	3508801	Cafelândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+89	3508900	Caiabu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+90	3509007	Caieiras	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,9
+91	3509106	Caiuá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+92	3509205	Cajamar	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+93	3509304	Cajobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+94	3509403	Cajuru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+95	3509502	Campinas	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+96	3509601	Campo Limpo Paulista	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+97	3509700	Campos do Jordão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+98	3509809	Campos Novos Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+99	3509908	Cananéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+100	3510005	Cândido Mota	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+101	3510104	Cândido Rodrigues	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+102	3510203	Capão Bonito	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+103	3510302	Capela do Alto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+104	3510401	Capivari	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+105	3510500	Caraguatatuba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+106	3510609	Carapicuíba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+107	3510708	Cardoso	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+108	3510807	Casa Branca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+109	3510906	Cássia dos Coqueiros	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+110	3511003	Castilho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+111	3511102	Catanduva	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,4
+112	3511201	Catiguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+113	3511300	Cedral	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+114	3511409	Cerqueira César	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+115	3511508	Cerquilho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+116	3511607	Cesário Lange	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+117	3511706	Charqueada	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+118	3557204	Chavantes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+119	3511904	Clementina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+120	3512001	Colina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+121	3512100	Colômbia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+122	3512209	Conchal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+123	3512308	Conchas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+124	3512407	Cordeirópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+125	3512506	Coroados	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+126	3512605	Coronel Macedo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+127	3512704	Corumbataí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+128	3512803	Cosmópolis	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,1
+129	3512902	Cosmorama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+130	3513009	Cotia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+131	3513108	Cravinhos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+132	3513207	Cristais Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+133	3513306	Cruzália	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+134	3513405	Cruzeiro	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+135	3513504	Cubatão	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,4
+136	3513603	Cunha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+137	3513702	Descalvado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+138	3513801	Diadema	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+139	3513900	Divinolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+140	3514007	Dobrada	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+141	3514106	Dois Córregos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+142	3514205	Dolcinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+143	3514304	Dourado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+144	3514403	Dracena	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+145	3514502	Duartina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+146	3514601	Dumont	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+147	3514700	Echaporã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+148	3514809	Eldorado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+149	3514908	Elias Fausto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+150	3515004	Embu das Artes	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+151	3515103	Embu-Guaçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+152	3515202	Estrela d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+153	3515301	Estrela do Norte	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+154	3515400	Fartura	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+155	3515509	Fernandópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+156	3515608	Fernando Prestes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+157	3515707	Ferraz de Vasconcelos	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+158	3515806	Flora Rica	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+159	3515905	Floreal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+160	3516002	Flórida Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+161	3516101	Florínia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+162	3516200	Franca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+163	3516309	Francisco Morato	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+164	3516408	Franco da Rocha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+165	3516507	Gabriel Monteiro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+166	3516606	Gália	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+167	3516705	Garça	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+168	3516804	Gastão Vidigal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+169	3516903	General Salgado	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+170	3517000	Getulina	8.7	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 8,7
+171	3517109	Glicério	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+172	3517208	Guaiçara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+173	3517307	Guaimbê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+174	3517406	Guaíra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+175	3517505	Guapiaçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+176	3517604	Guapiara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+177	3517703	Guará	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+178	3517802	Guaraçaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+179	3517901	Guaraci	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+180	3518008	Guarani d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+181	3518107	Guarantã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+182	3518206	Guararapes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+183	3518305	Guararema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+184	3518404	Guaratinguetá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+185	3518503	Guareí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+186	3518602	Guariba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+187	3518701	Guarujá	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+188	3518800	Guarulhos	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+189	3518909	Guzolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+190	3519006	Herculândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+191	3519105	Iacanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+192	3519204	Iacri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+193	3519303	Ibaté	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+194	3519402	Ibirá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+195	3519501	Ibirarema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+196	3519600	Ibitinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+197	3519709	Ibiúna	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,5
+198	3519808	Icém	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+199	3519907	Iepê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+200	3520004	Igaraçu do Tietê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+201	3520103	Igarapava	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+202	3520202	Igaratá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+203	3520301	Iguape	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+204	3520400	Ilhabela	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+205	3520509	Indaiatuba	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+206	3520608	Indiana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+207	3520707	Indiaporã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+208	3520806	Inúbia Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+209	3520905	Ipaussu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+210	3521002	Iperó	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+211	3521101	Ipeúna	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+212	3521200	Iporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+213	3521309	Ipuã	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,0
+214	3521408	Iracemápolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+215	3521507	Irapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+216	3521606	Irapuru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+217	3521705	Itaberá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+218	3521804	Itaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+219	3521903	Itajobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+220	3522000	Itaju	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+221	3522109	Itanhaém	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+222	3522208	Itapecerica da Serra	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,2
+223	3522307	Itapetininga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+224	3522406	Itapeva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+225	3522505	Itapevi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+226	3522604	Itapira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+227	3522703	Itápolis	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,6
+228	3522802	Itaporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+229	3522901	Itapuí	1.8	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,8
+230	3523008	Itapura	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+231	3523107	Itaquaquecetuba	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,4
+232	3523206	Itararé	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+233	3523305	Itariri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+234	3523404	Itatiba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+235	3523503	Itatinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+236	3523602	Itirapina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+237	3523701	Itirapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+238	3523800	Itobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+239	3523909	Itu	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+240	3524006	Itupeva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+241	3524105	Ituverava	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+242	3524204	Jaborandi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+243	3524303	Jaboticabal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+244	3524402	Jacareí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+245	3524501	Jaci	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+246	3524600	Jacupiranga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+247	3524709	Jaguariúna	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+248	3524808	Jales	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+249	3524907	Jambeiro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+250	3525003	Jandira	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+251	3525102	Jardinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+252	3525201	Jarinu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+253	3525300	Jaú	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+254	3525409	Jeriquara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+255	3525508	Joanópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+256	3525607	João Ramalho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+257	3525706	José Bonifácio	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+258	3525805	Júlio Mesquita	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+259	3525904	Jundiaí	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+260	3526001	Junqueirópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+261	3526100	Juquiá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+262	3526209	Juquitiba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+263	3526308	Lagoinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+264	3526407	Laranjal Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+265	3526506	Lavínia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+266	3526605	Lavrinhas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+267	3526704	Leme	0.8	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,8
+268	3526803	Lençóis Paulista	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,4
+269	3526902	Limeira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+270	3527009	Lindóia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+271	3527108	Lins	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+272	3527207	Lorena	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+273	3527306	Louveira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+274	3527405	Lucélia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+275	3527504	Lucianópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+276	3527603	Luís Antônio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+277	3527702	Luiziânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+278	3527801	Lupércio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+279	3527900	Lutécia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+280	3528007	Macatuba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+281	3528106	Macaubal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+282	3528205	Macedônia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+283	3528304	Magda	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+284	3528403	Mairinque	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+285	3528502	Mairiporã	2.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 2,1
+286	3528601	Manduri	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+287	3528700	Marabá Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+288	3528809	Maracaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+289	3528908	Mariápolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+290	3529005	Marília	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+291	3529104	Marinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+292	3529203	Martinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+293	3529302	Matão	1.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,1
+294	3529401	Mauá	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+295	3529500	Mendonça	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+296	3529609	Meridiano	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+297	3529708	Miguelópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+298	3529807	Mineiros do Tietê	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+299	3529906	Miracatu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+300	3530003	Mira Estrela	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+301	3530102	Mirandópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+302	3530201	Mirante do Paranapanema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+303	3530300	Mirassol	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+304	3530409	Mirassolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+305	3530508	Mococa	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+306	3530607	Mogi das Cruzes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+307	3530706	Mogi Guaçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+308	3530805	Moji Mirim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+309	3530904	Mombuca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+310	3531001	Monções	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+311	3531100	Mongaguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+312	3531209	Monte Alegre do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+313	3531308	Monte Alto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+314	3531407	Monte Aprazível	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+315	3531506	Monte Azul Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+316	3531605	Monte Castelo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+317	3531704	Monteiro Lobato	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+318	3531803	Monte Mor	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+319	3531902	Morro Agudo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+320	3532009	Morungaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+321	3532108	Murutinga do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+322	3532207	Narandiba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+323	3532306	Natividade da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+324	3532405	Nazaré Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+325	3532504	Neves Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+326	3532603	Nhandeara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+327	3532702	Nipoã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+328	3532801	Nova Aliança	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+329	3532900	Nova Europa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+330	3533007	Nova Granada	1.6	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,6
+331	3533106	Nova Guataporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+332	3533205	Nova Independência	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+333	3533304	Nova Luzitânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+334	3533403	Nova Odessa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+335	3533502	Novo Horizonte	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+336	3533601	Nuporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+337	3533700	Ocauçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+338	3533809	Óleo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+339	3533908	Olímpia	1.6	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,6
+340	3534005	Onda Verde	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+341	3534104	Oriente	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+342	3534203	Orindiúva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+343	3534302	Orlândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+344	3534401	Osasco	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+345	3534500	Oscar Bressane	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+346	3534609	Osvaldo Cruz	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+347	3534708	Ourinhos	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+348	3534807	Ouro Verde	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+349	3534906	Pacaembu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+350	3535002	Palestina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+351	3535101	Palmares Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+352	3535200	Palmeira d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+353	3535309	Palmital	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+354	3535408	Panorama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+355	3535507	Paraguaçu Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+356	3535606	Paraibuna	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+357	3535705	Paraíso	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+358	3535804	Paranapanema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+359	3535903	Paranapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+360	3536000	Parapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+361	3536109	Pardinho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+362	3536208	Pariquera-Açu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+363	3536307	Patrocínio Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+364	3536406	Paulicéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+365	3536505	Paulínia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+366	3536604	Paulo de Faria	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+367	3536703	Pederneiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+368	3536802	Pedra Bela	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+369	3536901	Pedranópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+370	3537008	Pedregulho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+371	3537107	Pedreira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+372	3537206	Pedro de Toledo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+373	3537305	Penápolis	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+374	3537404	Pereira Barreto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+375	3537503	Pereiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+376	3537602	Peruíbe	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+377	3537701	Piacatu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+378	3537800	Piedade	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+379	3537909	Pilar do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+380	3538006	Pindamonhangaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+381	3538105	Pindorama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+382	3515186	Espírito Santo do Pinhal	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,6
+383	3538204	Pinhalzinho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+384	3538303	Piquerobi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+385	3538501	Piquete	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+386	3538600	Piracaia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+387	3538709	Piracicaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+388	3538808	Piraju	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+389	3538907	Pirajuí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+390	3539004	Pirangi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+391	3539103	Pirapora do Bom Jesus	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+392	3539202	Pirapozinho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+393	3539301	Pirassununga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+394	3539400	Piratininga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+395	3539509	Pitangueiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+396	3539608	Planalto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+397	3539707	Platina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+398	3539806	Poá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+399	3539905	Poloni	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+400	3540002	Pompéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+401	3540101	Pongaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+402	3540200	Pontal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+403	3540309	Pontes Gestal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+404	3540408	Populina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+405	3540507	Porangaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+406	3540606	Porto Feliz	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+407	3540705	Porto Ferreira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+408	3540804	Potirendaba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+409	3540903	Pradópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+410	3541000	Praia Grande	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+411	3541109	Presidente Alves	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+412	3541208	Presidente Bernardes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+413	3541307	Presidente Epitácio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+414	3541406	Presidente Prudente	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+415	3541505	Presidente Venceslau	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+416	3541604	Promissão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+417	3541703	Quatá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+418	3541802	Queiroz	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+419	3541901	Queluz	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+420	3542008	Quintana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+421	3542107	Rafard	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+422	3542206	Rancharia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+423	3542305	Redenção da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+424	3542404	Regente Feijó	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+425	3542503	Reginópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+426	3542602	Registro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+427	3542701	Restinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+428	3542800	Ribeira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+429	3542909	Ribeirão Bonito	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+430	3543006	Ribeirão Branco	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+431	3543105	Ribeirão Corrente	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+432	3543204	Ribeirão do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+433	3543303	Ribeirão Pires	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+434	3543402	Ribeirão Preto	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+435	3543501	Riversul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+436	3543600	Rifaina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+437	3543709	Rincão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+438	3543808	Rinópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+439	3543907	Rio Claro	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+440	3544004	Rio das Pedras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+441	3544103	Rio Grande da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+442	3544202	Riolândia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+443	3544301	Roseira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+444	3544400	Rubiácea	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+445	3544509	Rubinéia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+446	3544608	Sabino	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+447	3544707	Sagres	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+448	3544806	Sales	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+449	3544905	Sales Oliveira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+450	3545001	Salesópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+451	3545100	Salmourão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+452	3545209	Salto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+453	3545308	Salto de Pirapora	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+454	3545407	Salto Grande	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+455	3545506	Sandovalina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+456	3545605	Santa Adélia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+457	3545704	Santa Albertina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+458	3545803	Santa Bárbara d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+459	3500550	Águas de Santa Bárbara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+460	3546009	Santa Branca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+461	3546108	Santa Clara d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+462	3546207	Santa Cruz da Conceição	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+463	3546306	Santa Cruz das Palmeiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+464	3546405	Santa Cruz do Rio Pardo	1.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,4
+465	3546504	Santa Ernestina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+466	3546603	Santa Fé do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+467	3546702	Santa Gertrudes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+468	3546801	Santa Isabel	1.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,2
+469	3546900	Santa Lucia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+470	3547007	Santa Maria da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+471	3547106	Santa Mercedes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+472	3547403	Santa Rita d'Oeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+473	3547502	Santa Rita do Passa Quatro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+474	3547601	Santa Rosa do Viterbo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+475	3547205	Santana da Ponte Pensa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+476	3547304	Santana de Parnaíba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+477	3547700	Santo Anastácio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+478	3547809	Santo André	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+479	3547908	Santo Antonio da Alegria	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+480	3548104	Santo Antonio do Jardim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+481	3548203	Santo Antonio do Pinhal	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+482	3548005	Santo Antonio de Posse	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+483	3548302	Santo Expedito	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+484	3548401	Santópolis do Aguapeí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+485	3548500	Santos	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+486	3548609	São Bento do Sapucaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+487	3548708	São Bernardo do Campo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+488	3548807	São Caetano do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+489	3548906	São Carlos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+490	3549003	São Francisco	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+491	3549102	São João da Boa Vista	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+492	3549201	São João das Duas Pontes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+493	3549300	São João do Pau d'Alho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+494	3549409	São Joaquim da Barra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+495	3549607	São José do Barreiro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+496	3549508	São José da Bela Vista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+497	3549706	São José do Rio Pardo	0.5	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,5
+498	3549805	São José do Rio Preto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+499	3549904	São José dos Campos	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+500	3550001	São Luís do Paraitinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+501	3550100	São Manuel	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+502	3550209	São Miguel Arcanjo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+503	3550308	São Paulo	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+504	3550407	São Pedro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+505	3550506	São Pedro do Turvo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+506	3550605	São Roque	0.1	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,1
+507	3550704	São Sebastião	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+508	3550803	São Sebastião da Grama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+509	3550902	São Simão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+510	3551009	São Vicente	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+511	3551108	Sarapuí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+512	3551207	Sarutaiá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+513	3551306	Sebastianópolis do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+514	3551405	Serra Azul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+515	3551603	Serra Negra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+516	3551504	Serrana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+517	3551702	Sertãozinho	0.6	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,6
+518	3551801	Sete Barras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+519	3551900	Severínia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+520	3552007	Silveiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+521	3552106	Socorro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+522	3552205	Sorocaba	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+523	3552304	Sud Mennucci	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+524	3552403	Sumaré	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+525	3552502	Suzano	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+526	3552601	Tabapuã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+527	3552700	Tabatinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+528	3552809	Taboão da Serra	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,4
+529	3552908	Taciba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+530	3553005	Taguaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+531	3553104	Taiaçu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+532	3553203	Taiúva	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+533	3553302	Tambaú	0.4	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,4
+534	3553401	Tanabi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+535	3553500	Tapiraí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+536	3553609	Tapiratiba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+537	3553708	Taquaritinga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+538	3553807	Taquarituba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+539	3553906	Tarabaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+540	3554003	Tatuí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+541	3554102	Taubaté	0.9	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,9
+542	3554201	Tejupá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+543	3554300	Teodoro Sampaio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+544	3554409	Terra Roxa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+545	3554508	Tietê	0.3	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,3
+546	3554607	Timburi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+547	3554706	Torrinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+548	3554805	Tremembé	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+549	3554904	Três Fronteiras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+550	3555000	Tupã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+551	3555109	Tupi Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+552	3555208	Turiúba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+553	3555307	Turmalina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+554	3555406	Ubatuba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+555	3555505	Ubirajara	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+556	3555604	Uchôa	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+557	3555703	União Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+558	3555802	Urânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+559	3555901	Uru	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+560	3556008	Urupês	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+561	3556107	Valentim Gentil	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+562	3556206	Valinhos	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+563	3556305	Valparaíso	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+564	3556404	Vargem Grande do Sul	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+565	3556503	Várzea Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+566	3556602	Vera Cruz	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+567	3556701	Vinhedo	1.0	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 1,0
+568	3556800	Viradouro	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+569	3556909	Vista Alegre do Alto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+570	3557006	Votorantim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+571	3557105	Votuporanga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+572	3556453	Vargem Grande Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+573	3500758	Alambari	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+574	3501152	Alumínio	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+575	3502754	Araçariguama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+576	3503158	Arapeí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+577	3503950	Aspásia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+578	3505351	Barra do Chapéu	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+579	3506359	Bertioga	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+580	3507159	Bom Sucesso de Itararé	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+581	3507456	Borebi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+582	3509254	Cajati	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+583	3509452	Campina do Monte Alegre	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+584	3510153	Canitar	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+585	3513850	Dirce Reis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+586	3514924	Elisiário	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+587	3514957	Embaúba	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+588	3515129	Emilianópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+589	3515152	Engenheiro Coelho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+590	3515194	Espírito Santo do Turvo	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+591	3557303	Estiva Gerbi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+592	3515350	Euclides da Cunha Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+593	3518859	Guatapará	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+594	3519055	Holambra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+595	3519071	Hortolândia	0.2	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: 0,2
+596	3519253	Iaras	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+597	3520426	Ilha Comprida	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+598	3520442	Ilha Solteira	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+599	3522158	Itaóca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+600	3522653	Itapirapuã Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+601	3527256	Lourdes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+602	3528858	Marapoama	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+603	3529658	Mesópolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+604	3532058	Motuca	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+605	3532827	Nova Campina	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+606	3532843	Nova Canaã Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+607	3533254	Novais	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+608	3536257	Parisi	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+609	3537156	Pedrinhas Paulista	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+610	3540259	Pontalinda	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+611	3540754	Potim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+612	3543253	Ribeirão Grande	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+613	3544251	Rosana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+614	3545159	Saltinho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+615	3549250	São João de Iracema	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+616	3549953	São Lourenço da Serra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+617	3548054	Santo Antonio do Aracanguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+618	3552551	Suzanápolis	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+619	3553856	Taquarivaí	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+620	3553955	Tarumã	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+621	3554656	Torre de Pedra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+622	3554953	Tuiuti	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+623	3555356	Ubarana	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+624	3556354	Vargem	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+625	3557154	Zacarias	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+626	3503356	Arco Íris	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+627	3507753	Brejo Alegre	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+628	3509957	Canas	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+629	3540853	Pracinha	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+630	3541059	Pratânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+631	3541653	Quadra	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+632	3546256	Santa Cruz da Esperança	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+633	3547650	Santa Salete	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+634	3556958	Vitória Brasil	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+635	3521150	Ipiguá	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+636	3553658	Taquaral	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+637	3515657	Fernão	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+638	3516853	Gavião Peixoto	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+639	3525854	Jumirim	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+640	3532157	Nantes	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+641	3532868	Nova Castilho	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+642	3534757	Ouroeste	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+643	3536570	Paulistânia	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+644	3543238	Ribeirão dos Índios	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -
+645	3554755	Trabiju	-	Taxa de Abandono 1ª a 4ª Séries – Rede Particular: -

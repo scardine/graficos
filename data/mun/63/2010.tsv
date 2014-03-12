@@ -1,646 +1,646 @@
 id	ibge	localidade	valor	label
-1	3500105	Adamantina	5.25	"Taxa de 5,25"
-2	3500204	Adolfo	null	"informacao nao disponivel"
-3	3500303	Aguaí	18.63	"Taxa de 18,63"
-4	3500402	"Águas da Prata"	null	"informacao nao disponivel"
-5	3500501	"Águas de Lindóia"	3.68	"Taxa de 3,68"
-6	3500600	"Águas de São Pedro"	null	"informacao nao disponivel"
-7	3500709	Agudos	24.24	"Taxa de 24,24"
-8	3500808	"Alfredo Marcondes"	null	"informacao nao disponivel"
-9	3500907	Altair	null	"informacao nao disponivel"
-10	3501004	Altinópolis	5.24	"Taxa de 5,24"
-11	3501103	"Alto Alegre"	null	"informacao nao disponivel"
-12	3501202	"Álvares Florence"	38.46	"Taxa de 38,46"
-13	3501301	"Álvares Machado"	7.49	"Taxa de 7,49"
-14	3501400	"Álvaro de Carvalho"	null	"informacao nao disponivel"
-15	3501509	Alvinlândia	null	"informacao nao disponivel"
-16	3501608	Americana	11.15	"Taxa de 11,15"
-17	3501707	"Américo Brasiliense"	8.90	"Taxa de 8,90"
-18	3501806	"Américo de Campos"	17.54	"Taxa de 17,54"
-19	3501905	Amparo	13.72	"Taxa de 13,72"
-20	3502002	Analândia	45.45	"Taxa de 45,45"
-21	3502101	Andradina	5.62	"Taxa de 5,62"
-22	3502200	Angatuba	13.33	"Taxa de 13,33"
-23	3502309	Anhembi	null	"informacao nao disponivel"
-24	3502408	Anhumas	22.22	"Taxa de 22,22"
-25	3502507	Aparecida	11.74	"Taxa de 11,74"
-26	3502606	"Aparecida d Oeste"	null	"informacao nao disponivel"
-27	3502705	Apiaí	11.76	"Taxa de 11,76"
-28	3502804	Araçatuba	10.94	"Taxa de 10,94"
-29	3502903	"Araçoiaba da Serra"	9.76	"Taxa de 9,76"
-30	3503000	Aramina	null	"informacao nao disponivel"
-31	3503109	Arandu	39.47	"Taxa de 39,47"
-32	3503208	Araraquara	11.84	"Taxa de 11,84"
-33	3503307	Araras	9.49	"Taxa de 9,49"
-34	3503406	Arealva	22.99	"Taxa de 22,99"
-35	3503505	Areias	null	"informacao nao disponivel"
-36	3503604	Areiópolis	12.20	"Taxa de 12,20"
-37	3503703	Ariranha	null	"informacao nao disponivel"
-38	3503802	"Artur Nogueira"	6.64	"Taxa de 6,64"
-39	3503901	Arujá	9.27	"Taxa de 9,27"
-40	3504008	Assis	12.23	"Taxa de 12,23"
-41	3504107	Atibaia	16.77	"Taxa de 16,77"
-42	3504206	Auriflama	13.07	"Taxa de 13,07"
-43	3504305	Avaí	46.15	"Taxa de 46,15"
-44	3504404	Avanhandava	6.29	"Taxa de 6,29"
-45	3504503	Avaré	21.82	"Taxa de 21,82"
-46	3504602	"Bady Bassitt"	null	"informacao nao disponivel"
-47	3504701	Balbinos	null	"informacao nao disponivel"
-48	3504800	Bálsamo	null	"informacao nao disponivel"
-49	3504909	Bananal	17.09	"Taxa de 17,09"
-50	3505005	"Barão de Antonina"	null	"informacao nao disponivel"
-51	3505104	Barbosa	21.28	"Taxa de 21,28"
-52	3505203	Bariri	11.14	"Taxa de 11,14"
-53	3505302	"Barra Bonita"	22.16	"Taxa de 22,16"
-54	3505401	"Barra do Turvo"	17.09	"Taxa de 17,09"
-55	3505500	Barretos	7.17	"Taxa de 7,17"
-56	3505609	Barrinha	24.54	"Taxa de 24,54"
-57	3505708	Barueri	8.00	"Taxa de 8,00"
-58	3505807	Bastos	7.66	"Taxa de 7,66"
-59	3505906	Batatais	11.85	"Taxa de 11,85"
-60	3506003	Bauru	9.29	"Taxa de 9,29"
-61	3506102	Bebedouro	3.45	"Taxa de 3,45"
-62	3506201	"Bento de Abreu"	null	"informacao nao disponivel"
-63	3506300	"Bernardino de Campos"	7.19	"Taxa de 7,19"
-64	3506409	Bilac	null	"informacao nao disponivel"
-65	3506508	Birigui	14.98	"Taxa de 14,98"
-66	3506607	"Biritiba Mirim"	15.70	"Taxa de 15,70"
-67	3506706	"Boa Esperança do Sul"	25.25	"Taxa de 25,25"
-68	3506805	Bocaina	6.13	"Taxa de 6,13"
-69	3506904	Bofete	24.79	"Taxa de 24,79"
-70	3507001	Boituva	11.22	"Taxa de 11,22"
-71	3507100	"Bom Jesus dos Perdões"	21.66	"Taxa de 21,66"
-72	3507209	Borá	null	"informacao nao disponivel"
-73	3507308	Boracéia	29.41	"Taxa de 29,41"
-74	3507407	Borborema	null	"informacao nao disponivel"
-75	3507506	Botucatu	10.92	"Taxa de 10,92"
-76	3507605	"Bragança Paulista"	15.75	"Taxa de 15,75"
-77	3507704	Braúna	43.48	"Taxa de 43,48"
-78	3507803	Brodowski	15.87	"Taxa de 15,87"
-79	3507902	Brotas	24.05	"Taxa de 24,05"
-80	3508009	Buri	17.05	"Taxa de 17,05"
-81	3508108	Buritama	21.51	"Taxa de 21,51"
-82	3508207	Buritizal	21.74	"Taxa de 21,74"
-83	3508306	"Cabrália Paulista"	19.23	"Taxa de 19,23"
-84	3508405	Cabreúva	11.92	"Taxa de 11,92"
-85	3508504	Caçapava	15.15	"Taxa de 15,15"
-86	3508603	"Cachoeira Paulista"	5.21	"Taxa de 5,21"
-87	3508702	Caconde	10.36	"Taxa de 10,36"
-88	3508801	Cafelândia	null	"informacao nao disponivel"
-89	3508900	Caiabu	null	"informacao nao disponivel"
-90	3509007	Caieiras	13.85	"Taxa de 13,85"
-91	3509106	Caiuá	null	"informacao nao disponivel"
-92	3509205	Cajamar	12.13	"Taxa de 12,13"
-93	3509304	Cajobi	29.41	"Taxa de 29,41"
-94	3509403	Cajuru	13.93	"Taxa de 13,93"
-95	3509502	Campinas	10.34	"Taxa de 10,34"
-96	3509601	"Campo Limpo Paulista"	12.74	"Taxa de 12,74"
-97	3509700	"Campos do Jordão"	20.08	"Taxa de 20,08"
-98	3509809	"Campos Novos Paulista"	null	"informacao nao disponivel"
-99	3509908	Cananéia	15.87	"Taxa de 15,87"
-100	3510005	"Cândido Mota"	null	"informacao nao disponivel"
-101	3510104	"Cândido Rodrigues"	41.67	"Taxa de 41,67"
-102	3510203	"Capão Bonito"	15.36	"Taxa de 15,36"
-103	3510302	"Capela do Alto"	7.87	"Taxa de 7,87"
-104	3510401	Capivari	11.25	"Taxa de 11,25"
-105	3510500	Caraguatatuba	18.37	"Taxa de 18,37"
-106	3510609	Carapicuíba	10.05	"Taxa de 10,05"
-107	3510708	Cardoso	16.26	"Taxa de 16,26"
-108	3510807	"Casa Branca"	13.51	"Taxa de 13,51"
-109	3510906	"Cássia dos Coqueiros"	58.82	"Taxa de 58,82"
-110	3511003	Castilho	33.20	"Taxa de 33,20"
-111	3511102	Catanduva	10.53	"Taxa de 10,53"
-112	3511201	Catiguá	null	"informacao nao disponivel"
-113	3511300	Cedral	11.11	"Taxa de 11,11"
-114	3511409	"Cerqueira Cesar"	21.28	"Taxa de 21,28"
-115	3511508	Cerquilho	11.54	"Taxa de 11,54"
-116	3511607	"Cesário Lange"	19.23	"Taxa de 19,23"
-117	3511706	Charqueada	31.96	"Taxa de 31,96"
-118	3557204	Chavantes	21.16	"Taxa de 21,16"
-119	3511904	Clementina	7.94	"Taxa de 7,94"
-120	3512001	Colina	9.17	"Taxa de 9,17"
-121	3512100	Colômbia	10.64	"Taxa de 10,64"
-122	3512209	Conchal	10.00	"Taxa de 10,00"
-123	3512308	Conchas	8.62	"Taxa de 8,62"
-124	3512407	Cordeirópolis	20.13	"Taxa de 20,13"
-125	3512506	Coroados	42.55	"Taxa de 42,55"
-126	3512605	"Coronel Macedo"	16.67	"Taxa de 16,67"
-127	3512704	Corumbataí	20.41	"Taxa de 20,41"
-128	3512803	Cosmópolis	12.82	"Taxa de 12,82"
-129	3512902	Cosmorama	null	"informacao nao disponivel"
-130	3513009	Cotia	12.81	"Taxa de 12,81"
-131	3513108	Cravinhos	null	"informacao nao disponivel"
-132	3513207	"Cristais Paulista"	null	"informacao nao disponivel"
-133	3513306	Cruzália	37.04	"Taxa de 37,04"
-134	3513405	Cruzeiro	16.85	"Taxa de 16,85"
-135	3513504	Cubatão	8.63	"Taxa de 8,63"
-136	3513603	Cunha	18.25	"Taxa de 18,25"
-137	3513702	Descalvado	2.86	"Taxa de 2,86"
-138	3513801	Diadema	12.34	"Taxa de 12,34"
-139	3513900	Divinolândia	8.33	"Taxa de 8,33"
-140	3514007	Dobrada	null	"informacao nao disponivel"
-141	3514106	"Dois Córregos"	9.76	"Taxa de 9,76"
-142	3514205	Dolcinópolis	null	"informacao nao disponivel"
-143	3514304	Dourado	11.24	"Taxa de 11,24"
-144	3514403	Dracena	16.49	"Taxa de 16,49"
-145	3514502	Duartina	6.90	"Taxa de 6,90"
-146	3514601	Dumont	10.31	"Taxa de 10,31"
-147	3514700	Echaporã	34.48	"Taxa de 34,48"
-148	3514809	Eldorado	8.37	"Taxa de 8,37"
-149	3514908	"Elias Fausto"	null	"informacao nao disponivel"
-150	3515004	Embu	9.60	"Taxa de 9,60"
-151	3515103	Embu-Guaçu	9.55	"Taxa de 9,55"
-152	3515202	"Estrela d Oeste"	10.53	"Taxa de 10,53"
-153	3515301	"Estrela do Norte"	28.57	"Taxa de 28,57"
-154	3515400	Fartura	5.03	"Taxa de 5,03"
-155	3515509	Fernandópolis	8.76	"Taxa de 8,76"
-156	3515608	"Fernando Prestes"	null	"informacao nao disponivel"
-157	3515707	"Ferraz de Vasconcelos"	14.76	"Taxa de 14,76"
-158	3515806	"Flora Rica"	null	"informacao nao disponivel"
-159	3515905	Floreal	null	"informacao nao disponivel"
-160	3516002	"Flórida Paulista"	19.48	"Taxa de 19,48"
-161	3516101	Florínia	null	"informacao nao disponivel"
-162	3516200	Franca	11.05	"Taxa de 11,05"
-163	3516309	"Francisco Morato"	12.21	"Taxa de 12,21"
-164	3516408	"Franco da Rocha"	13.53	"Taxa de 13,53"
-165	3516507	"Gabriel Monteiro"	111.11	"Taxa de 111,11"
-166	3516606	Gália	13.51	"Taxa de 13,51"
-167	3516705	Garça	11.21	"Taxa de 11,21"
-168	3516804	"Gastão Vidigal"	null	"informacao nao disponivel"
-169	3516903	"General Salgado"	8.47	"Taxa de 8,47"
-170	3517000	Getulina	25.00	"Taxa de 25,00"
-171	3517109	Glicério	75.47	"Taxa de 75,47"
-172	3517208	Guaiçara	6.41	"Taxa de 6,41"
-173	3517307	Guaimbê	null	"informacao nao disponivel"
-174	3517406	Guaíra	9.09	"Taxa de 9,09"
-175	3517505	Guapiaçu	9.39	"Taxa de 9,39"
-176	3517604	Guapiara	10.71	"Taxa de 10,71"
-177	3517703	Guará	12.20	"Taxa de 12,20"
-178	3517802	Guaraçai	10.20	"Taxa de 10,20"
-179	3517901	Guaraci	null	"informacao nao disponivel"
-180	3518008	"Guarani d Oeste"	58.82	"Taxa de 58,82"
-181	3518107	Guarantã	null	"informacao nao disponivel"
-182	3518206	Guararapes	11.76	"Taxa de 11,76"
-183	3518305	Guararema	7.26	"Taxa de 7,26"
-184	3518404	Guaratinguetá	13.82	"Taxa de 13,82"
-185	3518503	Guarei	6.71	"Taxa de 6,71"
-186	3518602	Guariba	7.56	"Taxa de 7,56"
-187	3518701	Guarujá	19.15	"Taxa de 19,15"
-188	3518800	Guarulhos	12.67	"Taxa de 12,67"
-189	3518909	Guzolândia	null	"informacao nao disponivel"
-190	3519006	Herculândia	8.13	"Taxa de 8,13"
-191	3519105	Iacanga	14.81	"Taxa de 14,81"
-192	3519204	Iacri	48.78	"Taxa de 48,78"
-193	3519303	Ibaté	8.23	"Taxa de 8,23"
-194	3519402	Ibirá	21.90	"Taxa de 21,90"
-195	3519501	Ibirarema	23.81	"Taxa de 23,81"
-196	3519600	Ibitinga	25.39	"Taxa de 25,39"
-197	3519709	Ibiúna	19.40	"Taxa de 19,40"
-198	3519808	Icém	17.86	"Taxa de 17,86"
-199	3519907	Iepê	9.62	"Taxa de 9,62"
-200	3520004	"Igaraçu do Tietê"	8.24	"Taxa de 8,24"
-201	3520103	Igarapava	5.43	"Taxa de 5,43"
-202	3520202	Igaratá	14.08	"Taxa de 14,08"
-203	3520301	Iguape	8.26	"Taxa de 8,26"
-204	3520400	Ilhabela	10.25	"Taxa de 10,25"
-205	3520509	Indaiatuba	10.47	"Taxa de 10,47"
-206	3520608	Indiana	16.39	"Taxa de 16,39"
-207	3520707	Indiaporã	18.52	"Taxa de 18,52"
-208	3520806	"Inúbia Paulista"	null	"informacao nao disponivel"
-209	3520905	Ipaussu	10.70	"Taxa de 10,70"
-210	3521002	Iperó	18.42	"Taxa de 18,42"
-211	3521101	Ipeúna	12.82	"Taxa de 12,82"
-212	3521200	Iporanga	null	"informacao nao disponivel"
-213	3521309	Ipuã	9.48	"Taxa de 9,48"
-214	3521408	Iracemápolis	15.69	"Taxa de 15,69"
-215	3521507	Irapuã	12.82	"Taxa de 12,82"
-216	3521606	Irapuru	28.99	"Taxa de 28,99"
-217	3521705	Itaberá	12.30	"Taxa de 12,30"
-218	3521804	Itai	12.08	"Taxa de 12,08"
-219	3521903	Itajobi	20.41	"Taxa de 20,41"
-220	3522000	Itaju	null	"informacao nao disponivel"
-221	3522109	Itanhaém	14.51	"Taxa de 14,51"
-222	3522208	"Itapecerica da Serra"	10.14	"Taxa de 10,14"
-223	3522307	Itapetininga	12.91	"Taxa de 12,91"
-224	3522406	Itapeva	18.99	"Taxa de 18,99"
-225	3522505	Itapevi	13.23	"Taxa de 13,23"
-226	3522604	Itapira	9.27	"Taxa de 9,27"
-227	3522703	Itápolis	11.01	"Taxa de 11,01"
-228	3522802	Itaporanga	null	"informacao nao disponivel"
-229	3522901	Itapuí	6.13	"Taxa de 6,13"
-230	3523008	Itapura	19.23	"Taxa de 19,23"
-231	3523107	Itaquaquecetuba	13.45	"Taxa de 13,45"
-232	3523206	Itararé	11.18	"Taxa de 11,18"
-233	3523305	Itariri	17.96	"Taxa de 17,96"
-234	3523404	Itatiba	11.90	"Taxa de 11,90"
-235	3523503	Itatinga	21.54	"Taxa de 21,54"
-236	3523602	Itirapina	16.22	"Taxa de 16,22"
-237	3523701	Itirapuã	null	"informacao nao disponivel"
-238	3523800	Itobi	25.00	"Taxa de 25,00"
-239	3523909	Itu	9.00	"Taxa de 9,00"
-240	3524006	Itupeva	11.42	"Taxa de 11,42"
-241	3524105	Ituverava	7.97	"Taxa de 7,97"
-242	3524204	Jaborandi	32.97	"Taxa de 32,97"
-243	3524303	Jaboticabal	8.30	"Taxa de 8,30"
-244	3524402	Jacareí	9.83	"Taxa de 9,83"
-245	3524501	Jaci	null	"informacao nao disponivel"
-246	3524600	Jacupiranga	8.23	"Taxa de 8,23"
-247	3524709	Jaguariúna	8.97	"Taxa de 8,97"
-248	3524808	Jales	11.49	"Taxa de 11,49"
-249	3524907	Jambeiro	null	"informacao nao disponivel"
-250	3525003	Jandira	10.14	"Taxa de 10,14"
-251	3525102	Jardinópolis	7.92	"Taxa de 7,92"
-252	3525201	Jarinu	8.11	"Taxa de 8,11"
-253	3525300	Jaú	11.33	"Taxa de 11,33"
-254	3525409	Jeriquara	null	"informacao nao disponivel"
-255	3525508	Joanópolis	15.15	"Taxa de 15,15"
-256	3525607	"João Ramalho"	35.09	"Taxa de 35,09"
-257	3525706	"José Bonifácio"	10.34	"Taxa de 10,34"
-258	3525805	"Júlio Mesquita"	32.26	"Taxa de 32,26"
-259	3525904	Jundiaí	11.18	"Taxa de 11,18"
-260	3526001	Junqueirópolis	22.62	"Taxa de 22,62"
-261	3526100	Juquiá	21.35	"Taxa de 21,35"
-262	3526209	Juquitiba	4.33	"Taxa de 4,33"
-263	3526308	Lagoinha	18.18	"Taxa de 18,18"
-264	3526407	"Laranjal Paulista"	15.77	"Taxa de 15,77"
-265	3526506	Lavínia	17.86	"Taxa de 17,86"
-266	3526605	Lavrinhas	8.70	"Taxa de 8,70"
-267	3526704	Leme	12.80	"Taxa de 12,80"
-268	3526803	"Lençóis Paulista"	11.11	"Taxa de 11,11"
-269	3526902	Limeira	12.30	"Taxa de 12,30"
-270	3527009	Lindóia	null	"informacao nao disponivel"
-271	3527108	Lins	18.87	"Taxa de 18,87"
-272	3527207	Lorena	9.80	"Taxa de 9,80"
-273	3527306	Louveira	9.40	"Taxa de 9,40"
-274	3527405	Lucélia	null	"informacao nao disponivel"
-275	3527504	Lucianópolis	null	"informacao nao disponivel"
-276	3527603	"Luís Antônio"	null	"informacao nao disponivel"
-277	3527702	Luiziânia	14.49	"Taxa de 14,49"
-278	3527801	Lupércio	null	"informacao nao disponivel"
-279	3527900	Lutécia	27.03	"Taxa de 27,03"
-280	3528007	Macatuba	8.13	"Taxa de 8,13"
-281	3528106	Macaubal	40.00	"Taxa de 40,00"
-282	3528205	Macedônia	null	"informacao nao disponivel"
-283	3528304	Magda	null	"informacao nao disponivel"
-284	3528403	Mairinque	10.51	"Taxa de 10,51"
-285	3528502	Mairiporã	11.84	"Taxa de 11,84"
-286	3528601	Manduri	36.36	"Taxa de 36,36"
-287	3528700	"Marabá Paulista"	null	"informacao nao disponivel"
-288	3528809	Maracaí	null	"informacao nao disponivel"
-289	3528908	Mariápolis	null	"informacao nao disponivel"
-290	3529005	Marília	13.13	"Taxa de 13,13"
-291	3529104	Marinópolis	null	"informacao nao disponivel"
-292	3529203	Martinópolis	13.65	"Taxa de 13,65"
-293	3529302	Matão	17.91	"Taxa de 17,91"
-294	3529401	Mauá	17.36	"Taxa de 17,36"
-295	3529500	Mendonça	null	"informacao nao disponivel"
-296	3529609	Meridiano	32.26	"Taxa de 32,26"
-297	3529708	Miguelópolis	6.71	"Taxa de 6,71"
-298	3529807	"Mineiros do Tietê"	11.17	"Taxa de 11,17"
-299	3529906	Miracatu	28.09	"Taxa de 28,09"
-300	3530003	"Mira Estrela"	null	"informacao nao disponivel"
-301	3530102	Mirandópolis	8.88	"Taxa de 8,88"
-302	3530201	"Mirante do Paranapanema"	20.00	"Taxa de 20,00"
-303	3530300	Mirassol	12.74	"Taxa de 12,74"
-304	3530409	Mirassolândia	null	"informacao nao disponivel"
-305	3530508	Mococa	11.02	"Taxa de 11,02"
-306	3530607	"Mogi das Cruzes"	13.43	"Taxa de 13,43"
-307	3530706	"Mogi Guaçu"	9.74	"Taxa de 9,74"
-308	3530805	"Moji Mirim"	12.67	"Taxa de 12,67"
-309	3530904	Mombuca	41.67	"Taxa de 41,67"
-310	3531001	Monções	null	"informacao nao disponivel"
-311	3531100	Mongaguá	22.16	"Taxa de 22,16"
-312	3531209	"Monte Alegre do Sul"	36.59	"Taxa de 36,59"
-313	3531308	"Monte Alto"	3.78	"Taxa de 3,78"
-314	3531407	"Monte Aprazível"	8.89	"Taxa de 8,89"
-315	3531506	"Monte Azul Paulista"	12.88	"Taxa de 12,88"
-316	3531605	"Monte Castelo"	26.32	"Taxa de 26,32"
-317	3531704	"Monteiro Lobato"	null	"informacao nao disponivel"
-318	3531803	"Monte Mor"	15.23	"Taxa de 15,23"
-319	3531902	"Morro Agudo"	10.37	"Taxa de 10,37"
-320	3532009	Morungaba	46.78	"Taxa de 46,78"
-321	3532108	"Murutinga do Sul"	null	"informacao nao disponivel"
-322	3532207	Narandiba	27.03	"Taxa de 27,03"
-323	3532306	"Natividade da Serra"	36.36	"Taxa de 36,36"
-324	3532405	"Nazaré Paulista"	8.26	"Taxa de 8,26"
-325	3532504	"Neves Paulista"	null	"informacao nao disponivel"
-326	3532603	Nhandeara	22.22	"Taxa de 22,22"
-327	3532702	Nipoã	33.33	"Taxa de 33,33"
-328	3532801	"Nova Aliança"	30.30	"Taxa de 30,30"
-329	3532900	"Nova Europa"	8.00	"Taxa de 8,00"
-330	3533007	"Nova Granada"	12.55	"Taxa de 12,55"
-331	3533106	"Nova Guataporanga"	null	"informacao nao disponivel"
-332	3533205	"Nova Independência"	17.24	"Taxa de 17,24"
-333	3533304	"Nova Luzitânia"	null	"informacao nao disponivel"
-334	3533403	"Nova Odessa"	7.95	"Taxa de 7,95"
-335	3533502	"Novo Horizonte"	6.70	"Taxa de 6,70"
-336	3533601	Nuporanga	12.20	"Taxa de 12,20"
-337	3533700	Ocauçu	19.61	"Taxa de 19,61"
-338	3533809	Óleo	28.57	"Taxa de 28,57"
-339	3533908	Olímpia	6.38	"Taxa de 6,38"
-340	3534005	"Onda Verde"	null	"informacao nao disponivel"
-341	3534104	Oriente	27.40	"Taxa de 27,40"
-342	3534203	Orindiúva	14.71	"Taxa de 14,71"
-343	3534302	Orlândia	18.18	"Taxa de 18,18"
-344	3534401	Osasco	12.13	"Taxa de 12,13"
-345	3534500	"Oscar Bressane"	null	"informacao nao disponivel"
-346	3534609	"Osvaldo Cruz"	13.61	"Taxa de 13,61"
-347	3534708	Ourinhos	8.16	"Taxa de 8,16"
-348	3534807	"Ouro Verde"	10.10	"Taxa de 10,10"
-349	3534906	Pacaembú	8.47	"Taxa de 8,47"
-350	3535002	Palestina	8.26	"Taxa de 8,26"
-351	3535101	"Palmares Paulista"	14.18	"Taxa de 14,18"
-352	3535200	"Palmeira d Oeste"	11.36	"Taxa de 11,36"
-353	3535309	Palmital	3.50	"Taxa de 3,50"
-354	3535408	Panorama	5.00	"Taxa de 5,00"
-355	3535507	"Paraguaçu Paulista"	12.09	"Taxa de 12,09"
-356	3535606	Paraibuna	8.47	"Taxa de 8,47"
-357	3535705	Paraíso	null	"informacao nao disponivel"
-358	3535804	Paranapanema	3.79	"Taxa de 3,79"
-359	3535903	Paranapuã	27.03	"Taxa de 27,03"
-360	3536000	Parapuã	9.62	"Taxa de 9,62"
-361	3536109	Pardinho	21.28	"Taxa de 21,28"
-362	3536208	Pariquera-Açu	13.65	"Taxa de 13,65"
-363	3536307	"Patrocínio Paulista"	4.98	"Taxa de 4,98"
-364	3536406	Paulicéia	10.64	"Taxa de 10,64"
-365	3536505	Paulínia	7.46	"Taxa de 7,46"
-366	3536604	"Paulo de Faria"	8.85	"Taxa de 8,85"
-367	3536703	Pederneiras	16.27	"Taxa de 16,27"
-368	3536802	"Pedra Bela"	14.08	"Taxa de 14,08"
-369	3536901	Pedranópolis	null	"informacao nao disponivel"
-370	3537008	Pedregulho	8.47	"Taxa de 8,47"
-371	3537107	Pedreira	13.38	"Taxa de 13,38"
-372	3537206	"Pedro de Toledo"	7.69	"Taxa de 7,69"
-373	3537305	Penápolis	9.82	"Taxa de 9,82"
-374	3537404	"Pereira Barreto"	9.04	"Taxa de 9,04"
-375	3537503	Pereiras	null	"informacao nao disponivel"
-376	3537602	Peruíbe	8.29	"Taxa de 8,29"
-377	3537701	Piacatu	null	"informacao nao disponivel"
-378	3537800	Piedade	21.74	"Taxa de 21,74"
-379	3537909	"Pilar do Sul"	14.29	"Taxa de 14,29"
-380	3538006	Pindamonhangaba	12.79	"Taxa de 12,79"
-381	3538105	Pindorama	null	"informacao nao disponivel"
-382	3515186	"Espírito Santo do Pinhal"	14.89	"Taxa de 14,89"
-383	3538204	Pinhalzinho	7.14	"Taxa de 7,14"
-384	3538303	Piquerobi	null	"informacao nao disponivel"
-385	3538501	Piquete	11.83	"Taxa de 11,83"
-386	3538600	Piracaia	18.02	"Taxa de 18,02"
-387	3538709	Piracicaba	10.35	"Taxa de 10,35"
-388	3538808	Piraju	8.38	"Taxa de 8,38"
-389	3538907	Pirajuí	9.66	"Taxa de 9,66"
-390	3539004	Pirangi	9.52	"Taxa de 9,52"
-391	3539103	"Pirapora do Bom Jesus"	39.02	"Taxa de 39,02"
-392	3539202	Pirapozinho	11.59	"Taxa de 11,59"
-393	3539301	Pirassununga	15.29	"Taxa de 15,29"
-394	3539400	Piratininga	13.25	"Taxa de 13,25"
-395	3539509	Pitangueiras	12.80	"Taxa de 12,80"
-396	3539608	Planalto	null	"informacao nao disponivel"
-397	3539707	Platina	19.23	"Taxa de 19,23"
-398	3539806	Poá	9.83	"Taxa de 9,83"
-399	3539905	Poloni	null	"informacao nao disponivel"
-400	3540002	Pompéia	8.51	"Taxa de 8,51"
-401	3540101	Pongaí	null	"informacao nao disponivel"
-402	3540200	Pontal	14.86	"Taxa de 14,86"
-403	3540309	"Pontes Gestal"	null	"informacao nao disponivel"
-404	3540408	Populina	23.26	"Taxa de 23,26"
-405	3540507	Porangaba	22.47	"Taxa de 22,47"
-406	3540606	"Porto Feliz"	10.64	"Taxa de 10,64"
-407	3540705	"Porto Ferreira"	11.66	"Taxa de 11,66"
-408	3540804	Potirendaba	10.99	"Taxa de 10,99"
-409	3540903	Pradópolis	7.66	"Taxa de 7,66"
-410	3541000	"Praia Grande"	12.41	"Taxa de 12,41"
-411	3541109	"Presidente Alves"	null	"informacao nao disponivel"
-412	3541208	"Presidente Bernardes"	null	"informacao nao disponivel"
-413	3541307	"Presidente Epitácio"	17.99	"Taxa de 17,99"
-414	3541406	"Presidente Prudente"	9.75	"Taxa de 9,75"
-415	3541505	"Presidente Venceslau"	17.16	"Taxa de 17,16"
-416	3541604	Promissão	7.71	"Taxa de 7,71"
-417	3541703	Quatá	20.20	"Taxa de 20,20"
-418	3541802	Queiroz	null	"informacao nao disponivel"
-419	3541901	Queluz	15.15	"Taxa de 15,15"
-420	3542008	Quintana	null	"informacao nao disponivel"
-421	3542107	Rafard	22.39	"Taxa de 22,39"
-422	3542206	Rancharia	13.81	"Taxa de 13,81"
-423	3542305	"Redenção da Serra"	45.45	"Taxa de 45,45"
-424	3542404	"Regente Feijó"	9.09	"Taxa de 9,09"
-425	3542503	Reginópolis	null	"informacao nao disponivel"
-426	3542602	Registro	6.22	"Taxa de 6,22"
-427	3542701	Restinga	null	"informacao nao disponivel"
-428	3542800	Ribeira	null	"informacao nao disponivel"
-429	3542909	"Ribeirão Bonito"	15.23	"Taxa de 15,23"
-430	3543006	"Ribeirão Branco"	19.08	"Taxa de 19,08"
-431	3543105	"Ribeirão Corrente"	14.93	"Taxa de 14,93"
-432	3543204	"Ribeirão do Sul"	null	"informacao nao disponivel"
-433	3543303	"Ribeirão Pires"	14.63	"Taxa de 14,63"
-434	3543402	"Ribeirão Preto"	9.56	"Taxa de 9,56"
-435	3543501	Riversul	11.36	"Taxa de 11,36"
-436	3543600	Rifaina	71.43	"Taxa de 71,43"
-437	3543709	Rincão	14.60	"Taxa de 14,60"
-438	3543808	Rinópolis	null	"informacao nao disponivel"
-439	3543907	"Rio Claro"	14.64	"Taxa de 14,64"
-440	3544004	"Rio das Pedras"	12.76	"Taxa de 12,76"
-441	3544103	"Rio Grande da Serra"	15.95	"Taxa de 15,95"
-442	3544202	Riolândia	27.40	"Taxa de 27,40"
-443	3544301	Roseira	7.69	"Taxa de 7,69"
-444	3544400	Rubiácea	null	"informacao nao disponivel"
-445	3544509	Rubinéia	null	"informacao nao disponivel"
-446	3544608	Sabino	26.32	"Taxa de 26,32"
-447	3544707	Sagres	null	"informacao nao disponivel"
-448	3544806	Sales	null	"informacao nao disponivel"
-449	3544905	"Sales Oliveira"	null	"informacao nao disponivel"
-450	3545001	Salesópolis	4.22	"Taxa de 4,22"
-451	3545100	Salmourão	18.87	"Taxa de 18,87"
-452	3545209	Salto	8.50	"Taxa de 8,50"
-453	3545308	"Salto de Pirapóra"	25.00	"Taxa de 25,00"
-454	3545407	"Salto Grande"	30.53	"Taxa de 30,53"
-455	3545506	Sandovalina	null	"informacao nao disponivel"
-456	3545605	"Santa Adélia"	18.75	"Taxa de 18,75"
-457	3545704	"Santa Albertina"	20.00	"Taxa de 20,00"
-458	3545803	"Santa Barbara d Oeste"	10.73	"Taxa de 10,73"
-459	3500550	"Águas de Santa Bárbara"	null	"informacao nao disponivel"
-460	3546009	"Santa Branca"	5.29	"Taxa de 5,29"
-461	3546108	"Santa Clara d Oeste"	null	"informacao nao disponivel"
-462	3546207	"Santa Cruz da Conceição"	null	"informacao nao disponivel"
-463	3546306	"Santa Cruz das Palmeiras"	4.72	"Taxa de 4,72"
-464	3546405	"Santa Cruz do Rio Pardo"	13.20	"Taxa de 13,20"
-465	3546504	"Santa Ernestina"	13.89	"Taxa de 13,89"
-466	3546603	"Santa Fé do Sul"	6.41	"Taxa de 6,41"
-467	3546702	"Santa Gertrudes"	15.97	"Taxa de 15,97"
-468	3546801	"Santa Isabel"	13.21	"Taxa de 13,21"
-469	3546900	"Santa Lucia"	null	"informacao nao disponivel"
-470	3547007	"Santa Maria da Serra"	12.99	"Taxa de 12,99"
-471	3547106	"Santa Mercedes"	null	"informacao nao disponivel"
-472	3547403	"Santa Rita d Oeste"	null	"informacao nao disponivel"
-473	3547502	"Santa Rita do Passa Quatro"	10.10	"Taxa de 10,10"
-474	3547601	"Santa Rosa do Viterbo"	20.76	"Taxa de 20,76"
-475	3547205	"Santana da Ponte Pensa"	null	"informacao nao disponivel"
-476	3547304	"Santana de Parnaíba"	11.24	"Taxa de 11,24"
-477	3547700	"Santo Anastácio"	7.94	"Taxa de 7,94"
-478	3547809	"Santo André"	11.13	"Taxa de 11,13"
-479	3547908	"Santo Antonio da Alegria"	15.63	"Taxa de 15,63"
-480	3548104	"Santo Antonio do Jardim"	null	"informacao nao disponivel"
-481	3548203	"Santo Antonio do Pinhal"	null	"informacao nao disponivel"
-482	3548005	"Santo Antonio de Posse"	7.19	"Taxa de 7,19"
-483	3548302	"Santo Expedito"	null	"informacao nao disponivel"
-484	3548401	"Santópolis do Aguapeí"	16.95	"Taxa de 16,95"
-485	3548500	Santos	14.13	"Taxa de 14,13"
-486	3548609	"São Bento do Sapucaí"	15.38	"Taxa de 15,38"
-487	3548708	"São Bernardo do Campo"	13.35	"Taxa de 13,35"
-488	3548807	"São Caetano do Sul"	7.67	"Taxa de 7,67"
-489	3548906	"São Carlos"	7.45	"Taxa de 7,45"
-490	3549003	"São Francisco"	null	"informacao nao disponivel"
-491	3549102	"São João da Boa Vista"	16.06	"Taxa de 16,06"
-492	3549201	"São João das Duas Pontes"	null	"informacao nao disponivel"
-493	3549300	"São João do Pau D Alho"	null	"informacao nao disponivel"
-494	3549409	"São Joaquim da Barra"	17.77	"Taxa de 17,77"
-495	3549607	"São José do Barreiro"	null	"informacao nao disponivel"
-496	3549508	"São José da Bela Vista"	16.95	"Taxa de 16,95"
-497	3549706	"São José do Rio Pardo"	13.98	"Taxa de 13,98"
-498	3549805	"São José do Rio Preto"	6.93	"Taxa de 6,93"
-499	3549904	"São José dos Campos"	9.27	"Taxa de 9,27"
-500	3550001	"São Luís do Paraitinga"	null	"informacao nao disponivel"
-501	3550100	"São Manuel"	3.85	"Taxa de 3,85"
-502	3550209	"São Miguel Arcanjo"	6.64	"Taxa de 6,64"
-503	3550308	"São Paulo"	11.51	"Taxa de 11,51"
-504	3550407	"São Pedro"	15.71	"Taxa de 15,71"
-505	3550506	"São Pedro do Turvo"	null	"informacao nao disponivel"
-506	3550605	"São Roque"	20.87	"Taxa de 20,87"
-507	3550704	"São Sebastião"	13.78	"Taxa de 13,78"
-508	3550803	"São Sebastião da Grama"	null	"informacao nao disponivel"
-509	3550902	"São Simão"	5.92	"Taxa de 5,92"
-510	3551009	"São Vicente"	19.06	"Taxa de 19,06"
-511	3551108	Sarapuí	null	"informacao nao disponivel"
-512	3551207	Sarutaiá	19.61	"Taxa de 19,61"
-513	3551306	"Sebastianópolis do Sul"	null	"informacao nao disponivel"
-514	3551405	"Serra Azul"	8.13	"Taxa de 8,13"
-515	3551603	"Serra Negra"	3.50	"Taxa de 3,50"
-516	3551504	Serrana	4.84	"Taxa de 4,84"
-517	3551702	Sertãozinho	13.75	"Taxa de 13,75"
-518	3551801	"Sete Barras"	9.80	"Taxa de 9,80"
-519	3551900	Severínia	14.15	"Taxa de 14,15"
-520	3552007	Silveiras	null	"informacao nao disponivel"
-521	3552106	Socorro	18.48	"Taxa de 18,48"
-522	3552205	Sorocaba	13.35	"Taxa de 13,35"
-523	3552304	"Sud Mennucci"	18.35	"Taxa de 18,35"
-524	3552403	Sumaré	10.25	"Taxa de 10,25"
-525	3552502	Suzano	11.18	"Taxa de 11,18"
-526	3552601	Tabapuã	8.70	"Taxa de 8,70"
-527	3552700	Tabatinga	11.11	"Taxa de 11,11"
-528	3552809	"Taboão da Serra"	12.36	"Taxa de 12,36"
-529	3552908	Taciba	15.38	"Taxa de 15,38"
-530	3553005	Taguaí	10.53	"Taxa de 10,53"
-531	3553104	Taiaçu	null	"informacao nao disponivel"
-532	3553203	Taiúva	23.26	"Taxa de 23,26"
-533	3553302	Tambaú	22.88	"Taxa de 22,88"
-534	3553401	Tanabi	3.52	"Taxa de 3,52"
-535	3553500	Tapiraí	27.03	"Taxa de 27,03"
-536	3553609	Tapiratiba	6.99	"Taxa de 6,99"
-537	3553708	Taquaritinga	10.84	"Taxa de 10,84"
-538	3553807	Taquarituba	11.87	"Taxa de 11,87"
-539	3553906	Tarabaí	null	"informacao nao disponivel"
-540	3554003	Tatuí	9.80	"Taxa de 9,80"
-541	3554102	Taubaté	15.33	"Taxa de 15,33"
-542	3554201	Tejupá	14.08	"Taxa de 14,08"
-543	3554300	"Teodoro Sampaio"	17.01	"Taxa de 17,01"
-544	3554409	"Terra Roxa"	10.31	"Taxa de 10,31"
-545	3554508	Tietê	2.03	"Taxa de 2,03"
-546	3554607	Timburi	null	"informacao nao disponivel"
-547	3554706	Torrinha	19.80	"Taxa de 19,80"
-548	3554805	Tremembé	9.23	"Taxa de 9,23"
-549	3554904	"Três Fronteiras"	27.78	"Taxa de 27,78"
-550	3555000	Tupã	13.60	"Taxa de 13,60"
-551	3555109	"Tupi Paulista"	8.06	"Taxa de 8,06"
-552	3555208	Turiúba	null	"informacao nao disponivel"
-553	3555307	Turmalina	83.33	"Taxa de 83,33"
-554	3555406	Ubatuba	12.59	"Taxa de 12,59"
-555	3555505	Ubirajara	13.51	"Taxa de 13,51"
-556	3555604	Uchôa	20.83	"Taxa de 20,83"
-557	3555703	"União Paulista"	null	"informacao nao disponivel"
-558	3555802	Urânia	36.14	"Taxa de 36,14"
-559	3555901	Uru	null	"informacao nao disponivel"
-560	3556008	Urupês	18.87	"Taxa de 18,87"
-561	3556107	"Valentim Gentil"	13.99	"Taxa de 13,99"
-562	3556206	Valinhos	10.72	"Taxa de 10,72"
-563	3556305	Valparaíso	3.33	"Taxa de 3,33"
-564	3556404	"Vargem Grande do Sul"	5.52	"Taxa de 5,52"
-565	3556503	"Várzea Paulista"	12.52	"Taxa de 12,52"
-566	3556602	"Vera Cruz"	8.62	"Taxa de 8,62"
-567	3556701	Vinhedo	10.00	"Taxa de 10,00"
-568	3556800	Viradouro	8.77	"Taxa de 8,77"
-569	3556909	"Vista Alegre do Alto"	12.66	"Taxa de 12,66"
-570	3557006	Votorantim	14.06	"Taxa de 14,06"
-571	3557105	Votuporanga	10.21	"Taxa de 10,21"
-572	3556453	"Vargem Grande Paulista"	8.77	"Taxa de 8,77"
-573	3500758	Alambari	null	"informacao nao disponivel"
-574	3501152	Alumínio	4.13	"Taxa de 4,13"
-575	3502754	Araçariguama	20.76	"Taxa de 20,76"
-576	3503158	Arapeí	null	"informacao nao disponivel"
-577	3503950	Aspásia	null	"informacao nao disponivel"
-578	3505351	"Barra do Chapéu"	27.78	"Taxa de 27,78"
-579	3506359	Bertioga	8.45	"Taxa de 8,45"
-580	3507159	"Bom Sucesso de Itararé"	70.18	"Taxa de 70,18"
-581	3507456	Borebi	null	"informacao nao disponivel"
-582	3509254	Cajati	8.40	"Taxa de 8,40"
-583	3509452	"Campina do Monte Alegre"	12.35	"Taxa de 12,35"
-584	3510153	Canitar	29.85	"Taxa de 29,85"
-585	3513850	"Dirce Reis"	null	"informacao nao disponivel"
-586	3514924	Elisiário	null	"informacao nao disponivel"
-587	3514957	Embaúba	null	"informacao nao disponivel"
-588	3515129	Emilianópolis	null	"informacao nao disponivel"
-589	3515152	"Engenheiro Coelho"	7.84	"Taxa de 7,84"
-590	3515194	"Espírito Santo do Turvo"	null	"informacao nao disponivel"
-591	3557303	"Estiva Gerbi"	7.69	"Taxa de 7,69"
-592	3515350	"Euclides da Cunha Paulista"	15.04	"Taxa de 15,04"
-593	3518859	Guatapará	null	"informacao nao disponivel"
-594	3519055	Holambra	10.00	"Taxa de 10,00"
-595	3519071	Hortolândia	8.85	"Taxa de 8,85"
-596	3519253	Iaras	null	"informacao nao disponivel"
-597	3520426	"Ilha Comprida"	8.33	"Taxa de 8,33"
-598	3520442	"Ilha Solteira"	10.75	"Taxa de 10,75"
-599	3522158	Itaóca	57.14	"Taxa de 57,14"
-600	3522653	"Itapirapuã Paulista"	43.48	"Taxa de 43,48"
-601	3527256	Lourdes	null	"informacao nao disponivel"
-602	3528858	Marapoama	null	"informacao nao disponivel"
-603	3529658	Mesópolis	32.26	"Taxa de 32,26"
-604	3532058	Motuca	null	"informacao nao disponivel"
-605	3532827	"Nova Campina"	8.93	"Taxa de 8,93"
-606	3532843	"Nova Canaã Paulista"	null	"informacao nao disponivel"
-607	3533254	Novais	null	"informacao nao disponivel"
-608	3536257	Parisi	55.56	"Taxa de 55,56"
-609	3537156	"Pedrinhas Paulista"	null	"informacao nao disponivel"
-610	3540259	Pontalinda	null	"informacao nao disponivel"
-611	3540754	Potim	7.55	"Taxa de 7,55"
-612	3543253	"Ribeirão Grande"	9.80	"Taxa de 9,80"
-613	3544251	Rosana	20.00	"Taxa de 20,00"
-614	3545159	Saltinho	null	"informacao nao disponivel"
-615	3549250	"São João de Iracema"	95.24	"Taxa de 95,24"
-616	3549953	"São Lourenço da Serra"	10.00	"Taxa de 10,00"
-617	3548054	"Santo Antonio do Aracanguá"	25.21	"Taxa de 25,21"
-618	3552551	Suzanápolis	null	"informacao nao disponivel"
-619	3553856	Taquarivaí	40.54	"Taxa de 40,54"
-620	3553955	Tarumã	19.61	"Taxa de 19,61"
-621	3554656	"Torre de Pedra"	null	"informacao nao disponivel"
-622	3554953	Tuiuti	null	"informacao nao disponivel"
-623	3555356	Ubarana	25.32	"Taxa de 25,32"
-624	3556354	Vargem	22.73	"Taxa de 22,73"
-625	3557154	Zacarias	null	"informacao nao disponivel"
-626	3503356	Arco-Íris	null	"informacao nao disponivel"
-627	3507753	"Brejo Alegre"	null	"informacao nao disponivel"
-628	3509957	Canas	12.66	"Taxa de 12,66"
-629	3540853	Pracinha	null	"informacao nao disponivel"
-630	3541059	Pratânia	null	"informacao nao disponivel"
-631	3541653	Quadra	35.71	"Taxa de 35,71"
-632	3546256	"Santa Cruz da Esperança"	null	"informacao nao disponivel"
-633	3547650	"Santa Salete"	null	"informacao nao disponivel"
-634	3556958	"Vitória Brasil"	52.63	"Taxa de 52,63"
-635	3521150	Ipiguá	18.87	"Taxa de 18,87"
-636	3553658	Taquaral	null	"informacao nao disponivel"
-637	3515657	Fernão	null	"informacao nao disponivel"
-638	3516853	"Gavião Peixoto"	null	"informacao nao disponivel"
-639	3525854	Jumirim	null	"informacao nao disponivel"
-640	3532157	Nantes	null	"informacao nao disponivel"
-641	3532868	"Nova Castilho"	null	"informacao nao disponivel"
-642	3534757	Ouroeste	null	"informacao nao disponivel"
-643	3536570	Paulistánia	null	"informacao nao disponivel"
-644	3543238	"Ribeirão dos Índios"	null	"informacao nao disponivel"
-645	3554755	Trabiju	null	"informacao nao disponivel"
+1	3500105	Adamantina	5.25	Taxa de Mortalidade Infantil: 5,25
+2	3500204	Adolfo	-	Taxa de Mortalidade Infantil: -
+3	3500303	Aguaí	18.63	Taxa de Mortalidade Infantil: 18,63
+4	3500402	Águas da Prata	-	Taxa de Mortalidade Infantil: -
+5	3500501	Águas de Lindóia	3.68	Taxa de Mortalidade Infantil: 3,68
+6	3500600	Águas de São Pedro	-	Taxa de Mortalidade Infantil: -
+7	3500709	Agudos	24.24	Taxa de Mortalidade Infantil: 24,24
+8	3500808	Alfredo Marcondes	-	Taxa de Mortalidade Infantil: -
+9	3500907	Altair	-	Taxa de Mortalidade Infantil: -
+10	3501004	Altinópolis	5.24	Taxa de Mortalidade Infantil: 5,24
+11	3501103	Alto Alegre	-	Taxa de Mortalidade Infantil: -
+12	3501202	Álvares Florence	38.46	Taxa de Mortalidade Infantil: 38,46
+13	3501301	Álvares Machado	7.49	Taxa de Mortalidade Infantil: 7,49
+14	3501400	Álvaro de Carvalho	-	Taxa de Mortalidade Infantil: -
+15	3501509	Alvinlândia	-	Taxa de Mortalidade Infantil: -
+16	3501608	Americana	11.15	Taxa de Mortalidade Infantil: 11,15
+17	3501707	Américo Brasiliense	8.90	Taxa de Mortalidade Infantil: 8,90
+18	3501806	Américo de Campos	17.54	Taxa de Mortalidade Infantil: 17,54
+19	3501905	Amparo	13.72	Taxa de Mortalidade Infantil: 13,72
+20	3502002	Analândia	45.45	Taxa de Mortalidade Infantil: 45,45
+21	3502101	Andradina	5.62	Taxa de Mortalidade Infantil: 5,62
+22	3502200	Angatuba	13.33	Taxa de Mortalidade Infantil: 13,33
+23	3502309	Anhembi	-	Taxa de Mortalidade Infantil: -
+24	3502408	Anhumas	22.22	Taxa de Mortalidade Infantil: 22,22
+25	3502507	Aparecida	11.74	Taxa de Mortalidade Infantil: 11,74
+26	3502606	Aparecida d'Oeste	-	Taxa de Mortalidade Infantil: -
+27	3502705	Apiaí	11.76	Taxa de Mortalidade Infantil: 11,76
+28	3502804	Araçatuba	10.94	Taxa de Mortalidade Infantil: 10,94
+29	3502903	Araçoiaba da Serra	9.76	Taxa de Mortalidade Infantil: 9,76
+30	3503000	Aramina	-	Taxa de Mortalidade Infantil: -
+31	3503109	Arandu	39.47	Taxa de Mortalidade Infantil: 39,47
+32	3503208	Araraquara	11.84	Taxa de Mortalidade Infantil: 11,84
+33	3503307	Araras	9.49	Taxa de Mortalidade Infantil: 9,49
+34	3503406	Arealva	22.99	Taxa de Mortalidade Infantil: 22,99
+35	3503505	Areias	-	Taxa de Mortalidade Infantil: -
+36	3503604	Areiópolis	12.20	Taxa de Mortalidade Infantil: 12,20
+37	3503703	Ariranha	-	Taxa de Mortalidade Infantil: -
+38	3503802	Artur Nogueira	6.64	Taxa de Mortalidade Infantil: 6,64
+39	3503901	Arujá	9.27	Taxa de Mortalidade Infantil: 9,27
+40	3504008	Assis	12.23	Taxa de Mortalidade Infantil: 12,23
+41	3504107	Atibaia	16.77	Taxa de Mortalidade Infantil: 16,77
+42	3504206	Auriflama	13.07	Taxa de Mortalidade Infantil: 13,07
+43	3504305	Avaí	46.15	Taxa de Mortalidade Infantil: 46,15
+44	3504404	Avanhandava	6.29	Taxa de Mortalidade Infantil: 6,29
+45	3504503	Avaré	21.82	Taxa de Mortalidade Infantil: 21,82
+46	3504602	Bady Bassitt	-	Taxa de Mortalidade Infantil: -
+47	3504701	Balbinos	-	Taxa de Mortalidade Infantil: -
+48	3504800	Bálsamo	-	Taxa de Mortalidade Infantil: -
+49	3504909	Bananal	17.09	Taxa de Mortalidade Infantil: 17,09
+50	3505005	Barão de Antonina	-	Taxa de Mortalidade Infantil: -
+51	3505104	Barbosa	21.28	Taxa de Mortalidade Infantil: 21,28
+52	3505203	Bariri	11.14	Taxa de Mortalidade Infantil: 11,14
+53	3505302	Barra Bonita	22.16	Taxa de Mortalidade Infantil: 22,16
+54	3505401	Barra do Turvo	17.09	Taxa de Mortalidade Infantil: 17,09
+55	3505500	Barretos	7.17	Taxa de Mortalidade Infantil: 7,17
+56	3505609	Barrinha	24.54	Taxa de Mortalidade Infantil: 24,54
+57	3505708	Barueri	8.00	Taxa de Mortalidade Infantil: 8,00
+58	3505807	Bastos	7.66	Taxa de Mortalidade Infantil: 7,66
+59	3505906	Batatais	11.85	Taxa de Mortalidade Infantil: 11,85
+60	3506003	Bauru	9.29	Taxa de Mortalidade Infantil: 9,29
+61	3506102	Bebedouro	3.45	Taxa de Mortalidade Infantil: 3,45
+62	3506201	Bento de Abreu	-	Taxa de Mortalidade Infantil: -
+63	3506300	Bernardino de Campos	7.19	Taxa de Mortalidade Infantil: 7,19
+64	3506409	Bilac	-	Taxa de Mortalidade Infantil: -
+65	3506508	Birigui	14.98	Taxa de Mortalidade Infantil: 14,98
+66	3506607	Biritiba Mirim	15.70	Taxa de Mortalidade Infantil: 15,70
+67	3506706	Boa Esperança do Sul	25.25	Taxa de Mortalidade Infantil: 25,25
+68	3506805	Bocaina	6.13	Taxa de Mortalidade Infantil: 6,13
+69	3506904	Bofete	24.79	Taxa de Mortalidade Infantil: 24,79
+70	3507001	Boituva	11.22	Taxa de Mortalidade Infantil: 11,22
+71	3507100	Bom Jesus dos Perdões	21.66	Taxa de Mortalidade Infantil: 21,66
+72	3507209	Borá	-	Taxa de Mortalidade Infantil: -
+73	3507308	Boracéia	29.41	Taxa de Mortalidade Infantil: 29,41
+74	3507407	Borborema	-	Taxa de Mortalidade Infantil: -
+75	3507506	Botucatu	10.92	Taxa de Mortalidade Infantil: 10,92
+76	3507605	Bragança Paulista	15.75	Taxa de Mortalidade Infantil: 15,75
+77	3507704	Braúna	43.48	Taxa de Mortalidade Infantil: 43,48
+78	3507803	Brodowski	15.87	Taxa de Mortalidade Infantil: 15,87
+79	3507902	Brotas	24.05	Taxa de Mortalidade Infantil: 24,05
+80	3508009	Buri	17.05	Taxa de Mortalidade Infantil: 17,05
+81	3508108	Buritama	21.51	Taxa de Mortalidade Infantil: 21,51
+82	3508207	Buritizal	21.74	Taxa de Mortalidade Infantil: 21,74
+83	3508306	Cabrália Paulista	19.23	Taxa de Mortalidade Infantil: 19,23
+84	3508405	Cabreúva	11.92	Taxa de Mortalidade Infantil: 11,92
+85	3508504	Caçapava	15.15	Taxa de Mortalidade Infantil: 15,15
+86	3508603	Cachoeira Paulista	5.21	Taxa de Mortalidade Infantil: 5,21
+87	3508702	Caconde	10.36	Taxa de Mortalidade Infantil: 10,36
+88	3508801	Cafelândia	-	Taxa de Mortalidade Infantil: -
+89	3508900	Caiabu	-	Taxa de Mortalidade Infantil: -
+90	3509007	Caieiras	13.85	Taxa de Mortalidade Infantil: 13,85
+91	3509106	Caiuá	-	Taxa de Mortalidade Infantil: -
+92	3509205	Cajamar	12.13	Taxa de Mortalidade Infantil: 12,13
+93	3509304	Cajobi	29.41	Taxa de Mortalidade Infantil: 29,41
+94	3509403	Cajuru	13.93	Taxa de Mortalidade Infantil: 13,93
+95	3509502	Campinas	10.34	Taxa de Mortalidade Infantil: 10,34
+96	3509601	Campo Limpo Paulista	12.74	Taxa de Mortalidade Infantil: 12,74
+97	3509700	Campos do Jordão	20.08	Taxa de Mortalidade Infantil: 20,08
+98	3509809	Campos Novos Paulista	-	Taxa de Mortalidade Infantil: -
+99	3509908	Cananéia	15.87	Taxa de Mortalidade Infantil: 15,87
+100	3510005	Cândido Mota	-	Taxa de Mortalidade Infantil: -
+101	3510104	Cândido Rodrigues	41.67	Taxa de Mortalidade Infantil: 41,67
+102	3510203	Capão Bonito	15.36	Taxa de Mortalidade Infantil: 15,36
+103	3510302	Capela do Alto	7.87	Taxa de Mortalidade Infantil: 7,87
+104	3510401	Capivari	11.25	Taxa de Mortalidade Infantil: 11,25
+105	3510500	Caraguatatuba	18.37	Taxa de Mortalidade Infantil: 18,37
+106	3510609	Carapicuíba	10.05	Taxa de Mortalidade Infantil: 10,05
+107	3510708	Cardoso	16.26	Taxa de Mortalidade Infantil: 16,26
+108	3510807	Casa Branca	13.51	Taxa de Mortalidade Infantil: 13,51
+109	3510906	Cássia dos Coqueiros	58.82	Taxa de Mortalidade Infantil: 58,82
+110	3511003	Castilho	33.20	Taxa de Mortalidade Infantil: 33,20
+111	3511102	Catanduva	10.53	Taxa de Mortalidade Infantil: 10,53
+112	3511201	Catiguá	-	Taxa de Mortalidade Infantil: -
+113	3511300	Cedral	11.11	Taxa de Mortalidade Infantil: 11,11
+114	3511409	Cerqueira César	21.28	Taxa de Mortalidade Infantil: 21,28
+115	3511508	Cerquilho	11.54	Taxa de Mortalidade Infantil: 11,54
+116	3511607	Cesário Lange	19.23	Taxa de Mortalidade Infantil: 19,23
+117	3511706	Charqueada	31.96	Taxa de Mortalidade Infantil: 31,96
+118	3557204	Chavantes	21.16	Taxa de Mortalidade Infantil: 21,16
+119	3511904	Clementina	7.94	Taxa de Mortalidade Infantil: 7,94
+120	3512001	Colina	9.17	Taxa de Mortalidade Infantil: 9,17
+121	3512100	Colômbia	10.64	Taxa de Mortalidade Infantil: 10,64
+122	3512209	Conchal	10.00	Taxa de Mortalidade Infantil: 10,00
+123	3512308	Conchas	8.62	Taxa de Mortalidade Infantil: 8,62
+124	3512407	Cordeirópolis	20.13	Taxa de Mortalidade Infantil: 20,13
+125	3512506	Coroados	42.55	Taxa de Mortalidade Infantil: 42,55
+126	3512605	Coronel Macedo	16.67	Taxa de Mortalidade Infantil: 16,67
+127	3512704	Corumbataí	20.41	Taxa de Mortalidade Infantil: 20,41
+128	3512803	Cosmópolis	12.82	Taxa de Mortalidade Infantil: 12,82
+129	3512902	Cosmorama	-	Taxa de Mortalidade Infantil: -
+130	3513009	Cotia	12.81	Taxa de Mortalidade Infantil: 12,81
+131	3513108	Cravinhos	-	Taxa de Mortalidade Infantil: -
+132	3513207	Cristais Paulista	-	Taxa de Mortalidade Infantil: -
+133	3513306	Cruzália	37.04	Taxa de Mortalidade Infantil: 37,04
+134	3513405	Cruzeiro	16.85	Taxa de Mortalidade Infantil: 16,85
+135	3513504	Cubatão	8.63	Taxa de Mortalidade Infantil: 8,63
+136	3513603	Cunha	18.25	Taxa de Mortalidade Infantil: 18,25
+137	3513702	Descalvado	2.86	Taxa de Mortalidade Infantil: 2,86
+138	3513801	Diadema	12.34	Taxa de Mortalidade Infantil: 12,34
+139	3513900	Divinolândia	8.33	Taxa de Mortalidade Infantil: 8,33
+140	3514007	Dobrada	-	Taxa de Mortalidade Infantil: -
+141	3514106	Dois Córregos	9.76	Taxa de Mortalidade Infantil: 9,76
+142	3514205	Dolcinópolis	-	Taxa de Mortalidade Infantil: -
+143	3514304	Dourado	11.24	Taxa de Mortalidade Infantil: 11,24
+144	3514403	Dracena	16.49	Taxa de Mortalidade Infantil: 16,49
+145	3514502	Duartina	6.90	Taxa de Mortalidade Infantil: 6,90
+146	3514601	Dumont	10.31	Taxa de Mortalidade Infantil: 10,31
+147	3514700	Echaporã	34.48	Taxa de Mortalidade Infantil: 34,48
+148	3514809	Eldorado	8.37	Taxa de Mortalidade Infantil: 8,37
+149	3514908	Elias Fausto	-	Taxa de Mortalidade Infantil: -
+150	3515004	Embu das Artes	9.60	Taxa de Mortalidade Infantil: 9,60
+151	3515103	Embu-Guaçu	9.55	Taxa de Mortalidade Infantil: 9,55
+152	3515202	Estrela d'Oeste	10.53	Taxa de Mortalidade Infantil: 10,53
+153	3515301	Estrela do Norte	28.57	Taxa de Mortalidade Infantil: 28,57
+154	3515400	Fartura	5.03	Taxa de Mortalidade Infantil: 5,03
+155	3515509	Fernandópolis	8.76	Taxa de Mortalidade Infantil: 8,76
+156	3515608	Fernando Prestes	-	Taxa de Mortalidade Infantil: -
+157	3515707	Ferraz de Vasconcelos	14.76	Taxa de Mortalidade Infantil: 14,76
+158	3515806	Flora Rica	-	Taxa de Mortalidade Infantil: -
+159	3515905	Floreal	-	Taxa de Mortalidade Infantil: -
+160	3516002	Flórida Paulista	19.48	Taxa de Mortalidade Infantil: 19,48
+161	3516101	Florínia	-	Taxa de Mortalidade Infantil: -
+162	3516200	Franca	11.05	Taxa de Mortalidade Infantil: 11,05
+163	3516309	Francisco Morato	12.21	Taxa de Mortalidade Infantil: 12,21
+164	3516408	Franco da Rocha	13.53	Taxa de Mortalidade Infantil: 13,53
+165	3516507	Gabriel Monteiro	111.11	Taxa de Mortalidade Infantil: 111,11
+166	3516606	Gália	13.51	Taxa de Mortalidade Infantil: 13,51
+167	3516705	Garça	11.21	Taxa de Mortalidade Infantil: 11,21
+168	3516804	Gastão Vidigal	-	Taxa de Mortalidade Infantil: -
+169	3516903	General Salgado	8.47	Taxa de Mortalidade Infantil: 8,47
+170	3517000	Getulina	25.00	Taxa de Mortalidade Infantil: 25,00
+171	3517109	Glicério	75.47	Taxa de Mortalidade Infantil: 75,47
+172	3517208	Guaiçara	6.41	Taxa de Mortalidade Infantil: 6,41
+173	3517307	Guaimbê	-	Taxa de Mortalidade Infantil: -
+174	3517406	Guaíra	9.09	Taxa de Mortalidade Infantil: 9,09
+175	3517505	Guapiaçu	9.39	Taxa de Mortalidade Infantil: 9,39
+176	3517604	Guapiara	10.71	Taxa de Mortalidade Infantil: 10,71
+177	3517703	Guará	12.20	Taxa de Mortalidade Infantil: 12,20
+178	3517802	Guaraçaí	10.20	Taxa de Mortalidade Infantil: 10,20
+179	3517901	Guaraci	-	Taxa de Mortalidade Infantil: -
+180	3518008	Guarani d'Oeste	58.82	Taxa de Mortalidade Infantil: 58,82
+181	3518107	Guarantã	-	Taxa de Mortalidade Infantil: -
+182	3518206	Guararapes	11.76	Taxa de Mortalidade Infantil: 11,76
+183	3518305	Guararema	7.26	Taxa de Mortalidade Infantil: 7,26
+184	3518404	Guaratinguetá	13.82	Taxa de Mortalidade Infantil: 13,82
+185	3518503	Guareí	6.71	Taxa de Mortalidade Infantil: 6,71
+186	3518602	Guariba	7.56	Taxa de Mortalidade Infantil: 7,56
+187	3518701	Guarujá	19.15	Taxa de Mortalidade Infantil: 19,15
+188	3518800	Guarulhos	12.67	Taxa de Mortalidade Infantil: 12,67
+189	3518909	Guzolândia	-	Taxa de Mortalidade Infantil: -
+190	3519006	Herculândia	8.13	Taxa de Mortalidade Infantil: 8,13
+191	3519105	Iacanga	14.81	Taxa de Mortalidade Infantil: 14,81
+192	3519204	Iacri	48.78	Taxa de Mortalidade Infantil: 48,78
+193	3519303	Ibaté	8.23	Taxa de Mortalidade Infantil: 8,23
+194	3519402	Ibirá	21.90	Taxa de Mortalidade Infantil: 21,90
+195	3519501	Ibirarema	23.81	Taxa de Mortalidade Infantil: 23,81
+196	3519600	Ibitinga	25.39	Taxa de Mortalidade Infantil: 25,39
+197	3519709	Ibiúna	19.40	Taxa de Mortalidade Infantil: 19,40
+198	3519808	Icém	17.86	Taxa de Mortalidade Infantil: 17,86
+199	3519907	Iepê	9.62	Taxa de Mortalidade Infantil: 9,62
+200	3520004	Igaraçu do Tietê	8.24	Taxa de Mortalidade Infantil: 8,24
+201	3520103	Igarapava	5.43	Taxa de Mortalidade Infantil: 5,43
+202	3520202	Igaratá	14.08	Taxa de Mortalidade Infantil: 14,08
+203	3520301	Iguape	8.26	Taxa de Mortalidade Infantil: 8,26
+204	3520400	Ilhabela	10.25	Taxa de Mortalidade Infantil: 10,25
+205	3520509	Indaiatuba	10.47	Taxa de Mortalidade Infantil: 10,47
+206	3520608	Indiana	16.39	Taxa de Mortalidade Infantil: 16,39
+207	3520707	Indiaporã	18.52	Taxa de Mortalidade Infantil: 18,52
+208	3520806	Inúbia Paulista	-	Taxa de Mortalidade Infantil: -
+209	3520905	Ipaussu	10.70	Taxa de Mortalidade Infantil: 10,70
+210	3521002	Iperó	18.42	Taxa de Mortalidade Infantil: 18,42
+211	3521101	Ipeúna	12.82	Taxa de Mortalidade Infantil: 12,82
+212	3521200	Iporanga	-	Taxa de Mortalidade Infantil: -
+213	3521309	Ipuã	9.48	Taxa de Mortalidade Infantil: 9,48
+214	3521408	Iracemápolis	15.69	Taxa de Mortalidade Infantil: 15,69
+215	3521507	Irapuã	12.82	Taxa de Mortalidade Infantil: 12,82
+216	3521606	Irapuru	28.99	Taxa de Mortalidade Infantil: 28,99
+217	3521705	Itaberá	12.30	Taxa de Mortalidade Infantil: 12,30
+218	3521804	Itaí	12.08	Taxa de Mortalidade Infantil: 12,08
+219	3521903	Itajobi	20.41	Taxa de Mortalidade Infantil: 20,41
+220	3522000	Itaju	-	Taxa de Mortalidade Infantil: -
+221	3522109	Itanhaém	14.51	Taxa de Mortalidade Infantil: 14,51
+222	3522208	Itapecerica da Serra	10.14	Taxa de Mortalidade Infantil: 10,14
+223	3522307	Itapetininga	12.91	Taxa de Mortalidade Infantil: 12,91
+224	3522406	Itapeva	18.99	Taxa de Mortalidade Infantil: 18,99
+225	3522505	Itapevi	13.23	Taxa de Mortalidade Infantil: 13,23
+226	3522604	Itapira	9.27	Taxa de Mortalidade Infantil: 9,27
+227	3522703	Itápolis	11.01	Taxa de Mortalidade Infantil: 11,01
+228	3522802	Itaporanga	-	Taxa de Mortalidade Infantil: -
+229	3522901	Itapuí	6.13	Taxa de Mortalidade Infantil: 6,13
+230	3523008	Itapura	19.23	Taxa de Mortalidade Infantil: 19,23
+231	3523107	Itaquaquecetuba	13.45	Taxa de Mortalidade Infantil: 13,45
+232	3523206	Itararé	11.18	Taxa de Mortalidade Infantil: 11,18
+233	3523305	Itariri	17.96	Taxa de Mortalidade Infantil: 17,96
+234	3523404	Itatiba	11.90	Taxa de Mortalidade Infantil: 11,90
+235	3523503	Itatinga	21.54	Taxa de Mortalidade Infantil: 21,54
+236	3523602	Itirapina	16.22	Taxa de Mortalidade Infantil: 16,22
+237	3523701	Itirapuã	-	Taxa de Mortalidade Infantil: -
+238	3523800	Itobi	25.00	Taxa de Mortalidade Infantil: 25,00
+239	3523909	Itu	9.00	Taxa de Mortalidade Infantil: 9,00
+240	3524006	Itupeva	11.42	Taxa de Mortalidade Infantil: 11,42
+241	3524105	Ituverava	7.97	Taxa de Mortalidade Infantil: 7,97
+242	3524204	Jaborandi	32.97	Taxa de Mortalidade Infantil: 32,97
+243	3524303	Jaboticabal	8.30	Taxa de Mortalidade Infantil: 8,30
+244	3524402	Jacareí	9.83	Taxa de Mortalidade Infantil: 9,83
+245	3524501	Jaci	-	Taxa de Mortalidade Infantil: -
+246	3524600	Jacupiranga	8.23	Taxa de Mortalidade Infantil: 8,23
+247	3524709	Jaguariúna	8.97	Taxa de Mortalidade Infantil: 8,97
+248	3524808	Jales	11.49	Taxa de Mortalidade Infantil: 11,49
+249	3524907	Jambeiro	-	Taxa de Mortalidade Infantil: -
+250	3525003	Jandira	10.14	Taxa de Mortalidade Infantil: 10,14
+251	3525102	Jardinópolis	7.92	Taxa de Mortalidade Infantil: 7,92
+252	3525201	Jarinu	8.11	Taxa de Mortalidade Infantil: 8,11
+253	3525300	Jaú	11.33	Taxa de Mortalidade Infantil: 11,33
+254	3525409	Jeriquara	-	Taxa de Mortalidade Infantil: -
+255	3525508	Joanópolis	15.15	Taxa de Mortalidade Infantil: 15,15
+256	3525607	João Ramalho	35.09	Taxa de Mortalidade Infantil: 35,09
+257	3525706	José Bonifácio	10.34	Taxa de Mortalidade Infantil: 10,34
+258	3525805	Júlio Mesquita	32.26	Taxa de Mortalidade Infantil: 32,26
+259	3525904	Jundiaí	11.18	Taxa de Mortalidade Infantil: 11,18
+260	3526001	Junqueirópolis	22.62	Taxa de Mortalidade Infantil: 22,62
+261	3526100	Juquiá	21.35	Taxa de Mortalidade Infantil: 21,35
+262	3526209	Juquitiba	4.33	Taxa de Mortalidade Infantil: 4,33
+263	3526308	Lagoinha	18.18	Taxa de Mortalidade Infantil: 18,18
+264	3526407	Laranjal Paulista	15.77	Taxa de Mortalidade Infantil: 15,77
+265	3526506	Lavínia	17.86	Taxa de Mortalidade Infantil: 17,86
+266	3526605	Lavrinhas	8.70	Taxa de Mortalidade Infantil: 8,70
+267	3526704	Leme	12.80	Taxa de Mortalidade Infantil: 12,80
+268	3526803	Lençóis Paulista	11.11	Taxa de Mortalidade Infantil: 11,11
+269	3526902	Limeira	12.30	Taxa de Mortalidade Infantil: 12,30
+270	3527009	Lindóia	-	Taxa de Mortalidade Infantil: -
+271	3527108	Lins	18.87	Taxa de Mortalidade Infantil: 18,87
+272	3527207	Lorena	9.80	Taxa de Mortalidade Infantil: 9,80
+273	3527306	Louveira	9.40	Taxa de Mortalidade Infantil: 9,40
+274	3527405	Lucélia	-	Taxa de Mortalidade Infantil: -
+275	3527504	Lucianópolis	-	Taxa de Mortalidade Infantil: -
+276	3527603	Luís Antônio	-	Taxa de Mortalidade Infantil: -
+277	3527702	Luiziânia	14.49	Taxa de Mortalidade Infantil: 14,49
+278	3527801	Lupércio	-	Taxa de Mortalidade Infantil: -
+279	3527900	Lutécia	27.03	Taxa de Mortalidade Infantil: 27,03
+280	3528007	Macatuba	8.13	Taxa de Mortalidade Infantil: 8,13
+281	3528106	Macaubal	40.00	Taxa de Mortalidade Infantil: 40,00
+282	3528205	Macedônia	-	Taxa de Mortalidade Infantil: -
+283	3528304	Magda	-	Taxa de Mortalidade Infantil: -
+284	3528403	Mairinque	10.51	Taxa de Mortalidade Infantil: 10,51
+285	3528502	Mairiporã	11.84	Taxa de Mortalidade Infantil: 11,84
+286	3528601	Manduri	36.36	Taxa de Mortalidade Infantil: 36,36
+287	3528700	Marabá Paulista	-	Taxa de Mortalidade Infantil: -
+288	3528809	Maracaí	-	Taxa de Mortalidade Infantil: -
+289	3528908	Mariápolis	-	Taxa de Mortalidade Infantil: -
+290	3529005	Marília	13.13	Taxa de Mortalidade Infantil: 13,13
+291	3529104	Marinópolis	-	Taxa de Mortalidade Infantil: -
+292	3529203	Martinópolis	13.65	Taxa de Mortalidade Infantil: 13,65
+293	3529302	Matão	17.91	Taxa de Mortalidade Infantil: 17,91
+294	3529401	Mauá	17.36	Taxa de Mortalidade Infantil: 17,36
+295	3529500	Mendonça	-	Taxa de Mortalidade Infantil: -
+296	3529609	Meridiano	32.26	Taxa de Mortalidade Infantil: 32,26
+297	3529708	Miguelópolis	6.71	Taxa de Mortalidade Infantil: 6,71
+298	3529807	Mineiros do Tietê	11.17	Taxa de Mortalidade Infantil: 11,17
+299	3529906	Miracatu	28.09	Taxa de Mortalidade Infantil: 28,09
+300	3530003	Mira Estrela	-	Taxa de Mortalidade Infantil: -
+301	3530102	Mirandópolis	8.88	Taxa de Mortalidade Infantil: 8,88
+302	3530201	Mirante do Paranapanema	20.00	Taxa de Mortalidade Infantil: 20,00
+303	3530300	Mirassol	12.74	Taxa de Mortalidade Infantil: 12,74
+304	3530409	Mirassolândia	-	Taxa de Mortalidade Infantil: -
+305	3530508	Mococa	11.02	Taxa de Mortalidade Infantil: 11,02
+306	3530607	Mogi das Cruzes	13.43	Taxa de Mortalidade Infantil: 13,43
+307	3530706	Mogi Guaçu	9.74	Taxa de Mortalidade Infantil: 9,74
+308	3530805	Moji Mirim	12.67	Taxa de Mortalidade Infantil: 12,67
+309	3530904	Mombuca	41.67	Taxa de Mortalidade Infantil: 41,67
+310	3531001	Monções	-	Taxa de Mortalidade Infantil: -
+311	3531100	Mongaguá	22.16	Taxa de Mortalidade Infantil: 22,16
+312	3531209	Monte Alegre do Sul	36.59	Taxa de Mortalidade Infantil: 36,59
+313	3531308	Monte Alto	3.78	Taxa de Mortalidade Infantil: 3,78
+314	3531407	Monte Aprazível	8.89	Taxa de Mortalidade Infantil: 8,89
+315	3531506	Monte Azul Paulista	12.88	Taxa de Mortalidade Infantil: 12,88
+316	3531605	Monte Castelo	26.32	Taxa de Mortalidade Infantil: 26,32
+317	3531704	Monteiro Lobato	-	Taxa de Mortalidade Infantil: -
+318	3531803	Monte Mor	15.23	Taxa de Mortalidade Infantil: 15,23
+319	3531902	Morro Agudo	10.37	Taxa de Mortalidade Infantil: 10,37
+320	3532009	Morungaba	46.78	Taxa de Mortalidade Infantil: 46,78
+321	3532108	Murutinga do Sul	-	Taxa de Mortalidade Infantil: -
+322	3532207	Narandiba	27.03	Taxa de Mortalidade Infantil: 27,03
+323	3532306	Natividade da Serra	36.36	Taxa de Mortalidade Infantil: 36,36
+324	3532405	Nazaré Paulista	8.26	Taxa de Mortalidade Infantil: 8,26
+325	3532504	Neves Paulista	-	Taxa de Mortalidade Infantil: -
+326	3532603	Nhandeara	22.22	Taxa de Mortalidade Infantil: 22,22
+327	3532702	Nipoã	33.33	Taxa de Mortalidade Infantil: 33,33
+328	3532801	Nova Aliança	30.30	Taxa de Mortalidade Infantil: 30,30
+329	3532900	Nova Europa	8.00	Taxa de Mortalidade Infantil: 8,00
+330	3533007	Nova Granada	12.55	Taxa de Mortalidade Infantil: 12,55
+331	3533106	Nova Guataporanga	-	Taxa de Mortalidade Infantil: -
+332	3533205	Nova Independência	17.24	Taxa de Mortalidade Infantil: 17,24
+333	3533304	Nova Luzitânia	-	Taxa de Mortalidade Infantil: -
+334	3533403	Nova Odessa	7.95	Taxa de Mortalidade Infantil: 7,95
+335	3533502	Novo Horizonte	6.70	Taxa de Mortalidade Infantil: 6,70
+336	3533601	Nuporanga	12.20	Taxa de Mortalidade Infantil: 12,20
+337	3533700	Ocauçu	19.61	Taxa de Mortalidade Infantil: 19,61
+338	3533809	Óleo	28.57	Taxa de Mortalidade Infantil: 28,57
+339	3533908	Olímpia	6.38	Taxa de Mortalidade Infantil: 6,38
+340	3534005	Onda Verde	-	Taxa de Mortalidade Infantil: -
+341	3534104	Oriente	27.40	Taxa de Mortalidade Infantil: 27,40
+342	3534203	Orindiúva	14.71	Taxa de Mortalidade Infantil: 14,71
+343	3534302	Orlândia	18.18	Taxa de Mortalidade Infantil: 18,18
+344	3534401	Osasco	12.13	Taxa de Mortalidade Infantil: 12,13
+345	3534500	Oscar Bressane	-	Taxa de Mortalidade Infantil: -
+346	3534609	Osvaldo Cruz	13.61	Taxa de Mortalidade Infantil: 13,61
+347	3534708	Ourinhos	8.16	Taxa de Mortalidade Infantil: 8,16
+348	3534807	Ouro Verde	10.10	Taxa de Mortalidade Infantil: 10,10
+349	3534906	Pacaembu	8.47	Taxa de Mortalidade Infantil: 8,47
+350	3535002	Palestina	8.26	Taxa de Mortalidade Infantil: 8,26
+351	3535101	Palmares Paulista	14.18	Taxa de Mortalidade Infantil: 14,18
+352	3535200	Palmeira d'Oeste	11.36	Taxa de Mortalidade Infantil: 11,36
+353	3535309	Palmital	3.50	Taxa de Mortalidade Infantil: 3,50
+354	3535408	Panorama	5.00	Taxa de Mortalidade Infantil: 5,00
+355	3535507	Paraguaçu Paulista	12.09	Taxa de Mortalidade Infantil: 12,09
+356	3535606	Paraibuna	8.47	Taxa de Mortalidade Infantil: 8,47
+357	3535705	Paraíso	-	Taxa de Mortalidade Infantil: -
+358	3535804	Paranapanema	3.79	Taxa de Mortalidade Infantil: 3,79
+359	3535903	Paranapuã	27.03	Taxa de Mortalidade Infantil: 27,03
+360	3536000	Parapuã	9.62	Taxa de Mortalidade Infantil: 9,62
+361	3536109	Pardinho	21.28	Taxa de Mortalidade Infantil: 21,28
+362	3536208	Pariquera-Açu	13.65	Taxa de Mortalidade Infantil: 13,65
+363	3536307	Patrocínio Paulista	4.98	Taxa de Mortalidade Infantil: 4,98
+364	3536406	Paulicéia	10.64	Taxa de Mortalidade Infantil: 10,64
+365	3536505	Paulínia	7.46	Taxa de Mortalidade Infantil: 7,46
+366	3536604	Paulo de Faria	8.85	Taxa de Mortalidade Infantil: 8,85
+367	3536703	Pederneiras	16.27	Taxa de Mortalidade Infantil: 16,27
+368	3536802	Pedra Bela	14.08	Taxa de Mortalidade Infantil: 14,08
+369	3536901	Pedranópolis	-	Taxa de Mortalidade Infantil: -
+370	3537008	Pedregulho	8.47	Taxa de Mortalidade Infantil: 8,47
+371	3537107	Pedreira	13.38	Taxa de Mortalidade Infantil: 13,38
+372	3537206	Pedro de Toledo	7.69	Taxa de Mortalidade Infantil: 7,69
+373	3537305	Penápolis	9.82	Taxa de Mortalidade Infantil: 9,82
+374	3537404	Pereira Barreto	9.04	Taxa de Mortalidade Infantil: 9,04
+375	3537503	Pereiras	-	Taxa de Mortalidade Infantil: -
+376	3537602	Peruíbe	8.29	Taxa de Mortalidade Infantil: 8,29
+377	3537701	Piacatu	-	Taxa de Mortalidade Infantil: -
+378	3537800	Piedade	21.74	Taxa de Mortalidade Infantil: 21,74
+379	3537909	Pilar do Sul	14.29	Taxa de Mortalidade Infantil: 14,29
+380	3538006	Pindamonhangaba	12.79	Taxa de Mortalidade Infantil: 12,79
+381	3538105	Pindorama	-	Taxa de Mortalidade Infantil: -
+382	3515186	Espírito Santo do Pinhal	14.89	Taxa de Mortalidade Infantil: 14,89
+383	3538204	Pinhalzinho	7.14	Taxa de Mortalidade Infantil: 7,14
+384	3538303	Piquerobi	-	Taxa de Mortalidade Infantil: -
+385	3538501	Piquete	11.83	Taxa de Mortalidade Infantil: 11,83
+386	3538600	Piracaia	18.02	Taxa de Mortalidade Infantil: 18,02
+387	3538709	Piracicaba	10.35	Taxa de Mortalidade Infantil: 10,35
+388	3538808	Piraju	8.38	Taxa de Mortalidade Infantil: 8,38
+389	3538907	Pirajuí	9.66	Taxa de Mortalidade Infantil: 9,66
+390	3539004	Pirangi	9.52	Taxa de Mortalidade Infantil: 9,52
+391	3539103	Pirapora do Bom Jesus	39.02	Taxa de Mortalidade Infantil: 39,02
+392	3539202	Pirapozinho	11.59	Taxa de Mortalidade Infantil: 11,59
+393	3539301	Pirassununga	15.29	Taxa de Mortalidade Infantil: 15,29
+394	3539400	Piratininga	13.25	Taxa de Mortalidade Infantil: 13,25
+395	3539509	Pitangueiras	12.80	Taxa de Mortalidade Infantil: 12,80
+396	3539608	Planalto	-	Taxa de Mortalidade Infantil: -
+397	3539707	Platina	19.23	Taxa de Mortalidade Infantil: 19,23
+398	3539806	Poá	9.83	Taxa de Mortalidade Infantil: 9,83
+399	3539905	Poloni	-	Taxa de Mortalidade Infantil: -
+400	3540002	Pompéia	8.51	Taxa de Mortalidade Infantil: 8,51
+401	3540101	Pongaí	-	Taxa de Mortalidade Infantil: -
+402	3540200	Pontal	14.86	Taxa de Mortalidade Infantil: 14,86
+403	3540309	Pontes Gestal	-	Taxa de Mortalidade Infantil: -
+404	3540408	Populina	23.26	Taxa de Mortalidade Infantil: 23,26
+405	3540507	Porangaba	22.47	Taxa de Mortalidade Infantil: 22,47
+406	3540606	Porto Feliz	10.64	Taxa de Mortalidade Infantil: 10,64
+407	3540705	Porto Ferreira	11.66	Taxa de Mortalidade Infantil: 11,66
+408	3540804	Potirendaba	10.99	Taxa de Mortalidade Infantil: 10,99
+409	3540903	Pradópolis	7.66	Taxa de Mortalidade Infantil: 7,66
+410	3541000	Praia Grande	12.41	Taxa de Mortalidade Infantil: 12,41
+411	3541109	Presidente Alves	-	Taxa de Mortalidade Infantil: -
+412	3541208	Presidente Bernardes	-	Taxa de Mortalidade Infantil: -
+413	3541307	Presidente Epitácio	17.99	Taxa de Mortalidade Infantil: 17,99
+414	3541406	Presidente Prudente	9.75	Taxa de Mortalidade Infantil: 9,75
+415	3541505	Presidente Venceslau	17.16	Taxa de Mortalidade Infantil: 17,16
+416	3541604	Promissão	7.71	Taxa de Mortalidade Infantil: 7,71
+417	3541703	Quatá	20.20	Taxa de Mortalidade Infantil: 20,20
+418	3541802	Queiroz	-	Taxa de Mortalidade Infantil: -
+419	3541901	Queluz	15.15	Taxa de Mortalidade Infantil: 15,15
+420	3542008	Quintana	-	Taxa de Mortalidade Infantil: -
+421	3542107	Rafard	22.39	Taxa de Mortalidade Infantil: 22,39
+422	3542206	Rancharia	13.81	Taxa de Mortalidade Infantil: 13,81
+423	3542305	Redenção da Serra	45.45	Taxa de Mortalidade Infantil: 45,45
+424	3542404	Regente Feijó	9.09	Taxa de Mortalidade Infantil: 9,09
+425	3542503	Reginópolis	-	Taxa de Mortalidade Infantil: -
+426	3542602	Registro	6.22	Taxa de Mortalidade Infantil: 6,22
+427	3542701	Restinga	-	Taxa de Mortalidade Infantil: -
+428	3542800	Ribeira	-	Taxa de Mortalidade Infantil: -
+429	3542909	Ribeirão Bonito	15.23	Taxa de Mortalidade Infantil: 15,23
+430	3543006	Ribeirão Branco	19.08	Taxa de Mortalidade Infantil: 19,08
+431	3543105	Ribeirão Corrente	14.93	Taxa de Mortalidade Infantil: 14,93
+432	3543204	Ribeirão do Sul	-	Taxa de Mortalidade Infantil: -
+433	3543303	Ribeirão Pires	14.63	Taxa de Mortalidade Infantil: 14,63
+434	3543402	Ribeirão Preto	9.56	Taxa de Mortalidade Infantil: 9,56
+435	3543501	Riversul	11.36	Taxa de Mortalidade Infantil: 11,36
+436	3543600	Rifaina	71.43	Taxa de Mortalidade Infantil: 71,43
+437	3543709	Rincão	14.60	Taxa de Mortalidade Infantil: 14,60
+438	3543808	Rinópolis	-	Taxa de Mortalidade Infantil: -
+439	3543907	Rio Claro	14.64	Taxa de Mortalidade Infantil: 14,64
+440	3544004	Rio das Pedras	12.76	Taxa de Mortalidade Infantil: 12,76
+441	3544103	Rio Grande da Serra	15.95	Taxa de Mortalidade Infantil: 15,95
+442	3544202	Riolândia	27.40	Taxa de Mortalidade Infantil: 27,40
+443	3544301	Roseira	7.69	Taxa de Mortalidade Infantil: 7,69
+444	3544400	Rubiácea	-	Taxa de Mortalidade Infantil: -
+445	3544509	Rubinéia	-	Taxa de Mortalidade Infantil: -
+446	3544608	Sabino	26.32	Taxa de Mortalidade Infantil: 26,32
+447	3544707	Sagres	-	Taxa de Mortalidade Infantil: -
+448	3544806	Sales	-	Taxa de Mortalidade Infantil: -
+449	3544905	Sales Oliveira	-	Taxa de Mortalidade Infantil: -
+450	3545001	Salesópolis	4.22	Taxa de Mortalidade Infantil: 4,22
+451	3545100	Salmourão	18.87	Taxa de Mortalidade Infantil: 18,87
+452	3545209	Salto	8.50	Taxa de Mortalidade Infantil: 8,50
+453	3545308	Salto de Pirapora	25.00	Taxa de Mortalidade Infantil: 25,00
+454	3545407	Salto Grande	30.53	Taxa de Mortalidade Infantil: 30,53
+455	3545506	Sandovalina	-	Taxa de Mortalidade Infantil: -
+456	3545605	Santa Adélia	18.75	Taxa de Mortalidade Infantil: 18,75
+457	3545704	Santa Albertina	20.00	Taxa de Mortalidade Infantil: 20,00
+458	3545803	Santa Bárbara d'Oeste	10.73	Taxa de Mortalidade Infantil: 10,73
+459	3500550	Águas de Santa Bárbara	-	Taxa de Mortalidade Infantil: -
+460	3546009	Santa Branca	5.29	Taxa de Mortalidade Infantil: 5,29
+461	3546108	Santa Clara d'Oeste	-	Taxa de Mortalidade Infantil: -
+462	3546207	Santa Cruz da Conceição	-	Taxa de Mortalidade Infantil: -
+463	3546306	Santa Cruz das Palmeiras	4.72	Taxa de Mortalidade Infantil: 4,72
+464	3546405	Santa Cruz do Rio Pardo	13.20	Taxa de Mortalidade Infantil: 13,20
+465	3546504	Santa Ernestina	13.89	Taxa de Mortalidade Infantil: 13,89
+466	3546603	Santa Fé do Sul	6.41	Taxa de Mortalidade Infantil: 6,41
+467	3546702	Santa Gertrudes	15.97	Taxa de Mortalidade Infantil: 15,97
+468	3546801	Santa Isabel	13.21	Taxa de Mortalidade Infantil: 13,21
+469	3546900	Santa Lucia	-	Taxa de Mortalidade Infantil: -
+470	3547007	Santa Maria da Serra	12.99	Taxa de Mortalidade Infantil: 12,99
+471	3547106	Santa Mercedes	-	Taxa de Mortalidade Infantil: -
+472	3547403	Santa Rita d'Oeste	-	Taxa de Mortalidade Infantil: -
+473	3547502	Santa Rita do Passa Quatro	10.10	Taxa de Mortalidade Infantil: 10,10
+474	3547601	Santa Rosa do Viterbo	20.76	Taxa de Mortalidade Infantil: 20,76
+475	3547205	Santana da Ponte Pensa	-	Taxa de Mortalidade Infantil: -
+476	3547304	Santana de Parnaíba	11.24	Taxa de Mortalidade Infantil: 11,24
+477	3547700	Santo Anastácio	7.94	Taxa de Mortalidade Infantil: 7,94
+478	3547809	Santo André	11.13	Taxa de Mortalidade Infantil: 11,13
+479	3547908	Santo Antonio da Alegria	15.63	Taxa de Mortalidade Infantil: 15,63
+480	3548104	Santo Antonio do Jardim	-	Taxa de Mortalidade Infantil: -
+481	3548203	Santo Antonio do Pinhal	-	Taxa de Mortalidade Infantil: -
+482	3548005	Santo Antonio de Posse	7.19	Taxa de Mortalidade Infantil: 7,19
+483	3548302	Santo Expedito	-	Taxa de Mortalidade Infantil: -
+484	3548401	Santópolis do Aguapeí	16.95	Taxa de Mortalidade Infantil: 16,95
+485	3548500	Santos	14.13	Taxa de Mortalidade Infantil: 14,13
+486	3548609	São Bento do Sapucaí	15.38	Taxa de Mortalidade Infantil: 15,38
+487	3548708	São Bernardo do Campo	13.35	Taxa de Mortalidade Infantil: 13,35
+488	3548807	São Caetano do Sul	7.67	Taxa de Mortalidade Infantil: 7,67
+489	3548906	São Carlos	7.45	Taxa de Mortalidade Infantil: 7,45
+490	3549003	São Francisco	-	Taxa de Mortalidade Infantil: -
+491	3549102	São João da Boa Vista	16.06	Taxa de Mortalidade Infantil: 16,06
+492	3549201	São João das Duas Pontes	-	Taxa de Mortalidade Infantil: -
+493	3549300	São João do Pau d'Alho	-	Taxa de Mortalidade Infantil: -
+494	3549409	São Joaquim da Barra	17.77	Taxa de Mortalidade Infantil: 17,77
+495	3549607	São José do Barreiro	-	Taxa de Mortalidade Infantil: -
+496	3549508	São José da Bela Vista	16.95	Taxa de Mortalidade Infantil: 16,95
+497	3549706	São José do Rio Pardo	13.98	Taxa de Mortalidade Infantil: 13,98
+498	3549805	São José do Rio Preto	6.93	Taxa de Mortalidade Infantil: 6,93
+499	3549904	São José dos Campos	9.27	Taxa de Mortalidade Infantil: 9,27
+500	3550001	São Luís do Paraitinga	-	Taxa de Mortalidade Infantil: -
+501	3550100	São Manuel	3.85	Taxa de Mortalidade Infantil: 3,85
+502	3550209	São Miguel Arcanjo	6.64	Taxa de Mortalidade Infantil: 6,64
+503	3550308	São Paulo	11.51	Taxa de Mortalidade Infantil: 11,51
+504	3550407	São Pedro	15.71	Taxa de Mortalidade Infantil: 15,71
+505	3550506	São Pedro do Turvo	-	Taxa de Mortalidade Infantil: -
+506	3550605	São Roque	20.87	Taxa de Mortalidade Infantil: 20,87
+507	3550704	São Sebastião	13.78	Taxa de Mortalidade Infantil: 13,78
+508	3550803	São Sebastião da Grama	-	Taxa de Mortalidade Infantil: -
+509	3550902	São Simão	5.92	Taxa de Mortalidade Infantil: 5,92
+510	3551009	São Vicente	19.06	Taxa de Mortalidade Infantil: 19,06
+511	3551108	Sarapuí	-	Taxa de Mortalidade Infantil: -
+512	3551207	Sarutaiá	19.61	Taxa de Mortalidade Infantil: 19,61
+513	3551306	Sebastianópolis do Sul	-	Taxa de Mortalidade Infantil: -
+514	3551405	Serra Azul	8.13	Taxa de Mortalidade Infantil: 8,13
+515	3551603	Serra Negra	3.50	Taxa de Mortalidade Infantil: 3,50
+516	3551504	Serrana	4.84	Taxa de Mortalidade Infantil: 4,84
+517	3551702	Sertãozinho	13.75	Taxa de Mortalidade Infantil: 13,75
+518	3551801	Sete Barras	9.80	Taxa de Mortalidade Infantil: 9,80
+519	3551900	Severínia	14.15	Taxa de Mortalidade Infantil: 14,15
+520	3552007	Silveiras	-	Taxa de Mortalidade Infantil: -
+521	3552106	Socorro	18.48	Taxa de Mortalidade Infantil: 18,48
+522	3552205	Sorocaba	13.35	Taxa de Mortalidade Infantil: 13,35
+523	3552304	Sud Mennucci	18.35	Taxa de Mortalidade Infantil: 18,35
+524	3552403	Sumaré	10.25	Taxa de Mortalidade Infantil: 10,25
+525	3552502	Suzano	11.18	Taxa de Mortalidade Infantil: 11,18
+526	3552601	Tabapuã	8.70	Taxa de Mortalidade Infantil: 8,70
+527	3552700	Tabatinga	11.11	Taxa de Mortalidade Infantil: 11,11
+528	3552809	Taboão da Serra	12.36	Taxa de Mortalidade Infantil: 12,36
+529	3552908	Taciba	15.38	Taxa de Mortalidade Infantil: 15,38
+530	3553005	Taguaí	10.53	Taxa de Mortalidade Infantil: 10,53
+531	3553104	Taiaçu	-	Taxa de Mortalidade Infantil: -
+532	3553203	Taiúva	23.26	Taxa de Mortalidade Infantil: 23,26
+533	3553302	Tambaú	22.88	Taxa de Mortalidade Infantil: 22,88
+534	3553401	Tanabi	3.52	Taxa de Mortalidade Infantil: 3,52
+535	3553500	Tapiraí	27.03	Taxa de Mortalidade Infantil: 27,03
+536	3553609	Tapiratiba	6.99	Taxa de Mortalidade Infantil: 6,99
+537	3553708	Taquaritinga	10.84	Taxa de Mortalidade Infantil: 10,84
+538	3553807	Taquarituba	11.87	Taxa de Mortalidade Infantil: 11,87
+539	3553906	Tarabaí	-	Taxa de Mortalidade Infantil: -
+540	3554003	Tatuí	9.80	Taxa de Mortalidade Infantil: 9,80
+541	3554102	Taubaté	15.33	Taxa de Mortalidade Infantil: 15,33
+542	3554201	Tejupá	14.08	Taxa de Mortalidade Infantil: 14,08
+543	3554300	Teodoro Sampaio	17.01	Taxa de Mortalidade Infantil: 17,01
+544	3554409	Terra Roxa	10.31	Taxa de Mortalidade Infantil: 10,31
+545	3554508	Tietê	2.03	Taxa de Mortalidade Infantil: 2,03
+546	3554607	Timburi	-	Taxa de Mortalidade Infantil: -
+547	3554706	Torrinha	19.80	Taxa de Mortalidade Infantil: 19,80
+548	3554805	Tremembé	9.23	Taxa de Mortalidade Infantil: 9,23
+549	3554904	Três Fronteiras	27.78	Taxa de Mortalidade Infantil: 27,78
+550	3555000	Tupã	13.60	Taxa de Mortalidade Infantil: 13,60
+551	3555109	Tupi Paulista	8.06	Taxa de Mortalidade Infantil: 8,06
+552	3555208	Turiúba	-	Taxa de Mortalidade Infantil: -
+553	3555307	Turmalina	83.33	Taxa de Mortalidade Infantil: 83,33
+554	3555406	Ubatuba	12.59	Taxa de Mortalidade Infantil: 12,59
+555	3555505	Ubirajara	13.51	Taxa de Mortalidade Infantil: 13,51
+556	3555604	Uchôa	20.83	Taxa de Mortalidade Infantil: 20,83
+557	3555703	União Paulista	-	Taxa de Mortalidade Infantil: -
+558	3555802	Urânia	36.14	Taxa de Mortalidade Infantil: 36,14
+559	3555901	Uru	-	Taxa de Mortalidade Infantil: -
+560	3556008	Urupês	18.87	Taxa de Mortalidade Infantil: 18,87
+561	3556107	Valentim Gentil	13.99	Taxa de Mortalidade Infantil: 13,99
+562	3556206	Valinhos	10.72	Taxa de Mortalidade Infantil: 10,72
+563	3556305	Valparaíso	3.33	Taxa de Mortalidade Infantil: 3,33
+564	3556404	Vargem Grande do Sul	5.52	Taxa de Mortalidade Infantil: 5,52
+565	3556503	Várzea Paulista	12.52	Taxa de Mortalidade Infantil: 12,52
+566	3556602	Vera Cruz	8.62	Taxa de Mortalidade Infantil: 8,62
+567	3556701	Vinhedo	10.00	Taxa de Mortalidade Infantil: 10,00
+568	3556800	Viradouro	8.77	Taxa de Mortalidade Infantil: 8,77
+569	3556909	Vista Alegre do Alto	12.66	Taxa de Mortalidade Infantil: 12,66
+570	3557006	Votorantim	14.06	Taxa de Mortalidade Infantil: 14,06
+571	3557105	Votuporanga	10.21	Taxa de Mortalidade Infantil: 10,21
+572	3556453	Vargem Grande Paulista	8.77	Taxa de Mortalidade Infantil: 8,77
+573	3500758	Alambari	-	Taxa de Mortalidade Infantil: -
+574	3501152	Alumínio	4.13	Taxa de Mortalidade Infantil: 4,13
+575	3502754	Araçariguama	20.76	Taxa de Mortalidade Infantil: 20,76
+576	3503158	Arapeí	-	Taxa de Mortalidade Infantil: -
+577	3503950	Aspásia	-	Taxa de Mortalidade Infantil: -
+578	3505351	Barra do Chapéu	27.78	Taxa de Mortalidade Infantil: 27,78
+579	3506359	Bertioga	8.45	Taxa de Mortalidade Infantil: 8,45
+580	3507159	Bom Sucesso de Itararé	70.18	Taxa de Mortalidade Infantil: 70,18
+581	3507456	Borebi	-	Taxa de Mortalidade Infantil: -
+582	3509254	Cajati	8.40	Taxa de Mortalidade Infantil: 8,40
+583	3509452	Campina do Monte Alegre	12.35	Taxa de Mortalidade Infantil: 12,35
+584	3510153	Canitar	29.85	Taxa de Mortalidade Infantil: 29,85
+585	3513850	Dirce Reis	-	Taxa de Mortalidade Infantil: -
+586	3514924	Elisiário	-	Taxa de Mortalidade Infantil: -
+587	3514957	Embaúba	-	Taxa de Mortalidade Infantil: -
+588	3515129	Emilianópolis	-	Taxa de Mortalidade Infantil: -
+589	3515152	Engenheiro Coelho	7.84	Taxa de Mortalidade Infantil: 7,84
+590	3515194	Espírito Santo do Turvo	-	Taxa de Mortalidade Infantil: -
+591	3557303	Estiva Gerbi	7.69	Taxa de Mortalidade Infantil: 7,69
+592	3515350	Euclides da Cunha Paulista	15.04	Taxa de Mortalidade Infantil: 15,04
+593	3518859	Guatapará	-	Taxa de Mortalidade Infantil: -
+594	3519055	Holambra	10.00	Taxa de Mortalidade Infantil: 10,00
+595	3519071	Hortolândia	8.85	Taxa de Mortalidade Infantil: 8,85
+596	3519253	Iaras	-	Taxa de Mortalidade Infantil: -
+597	3520426	Ilha Comprida	8.33	Taxa de Mortalidade Infantil: 8,33
+598	3520442	Ilha Solteira	10.75	Taxa de Mortalidade Infantil: 10,75
+599	3522158	Itaóca	57.14	Taxa de Mortalidade Infantil: 57,14
+600	3522653	Itapirapuã Paulista	43.48	Taxa de Mortalidade Infantil: 43,48
+601	3527256	Lourdes	-	Taxa de Mortalidade Infantil: -
+602	3528858	Marapoama	-	Taxa de Mortalidade Infantil: -
+603	3529658	Mesópolis	32.26	Taxa de Mortalidade Infantil: 32,26
+604	3532058	Motuca	-	Taxa de Mortalidade Infantil: -
+605	3532827	Nova Campina	8.93	Taxa de Mortalidade Infantil: 8,93
+606	3532843	Nova Canaã Paulista	-	Taxa de Mortalidade Infantil: -
+607	3533254	Novais	-	Taxa de Mortalidade Infantil: -
+608	3536257	Parisi	55.56	Taxa de Mortalidade Infantil: 55,56
+609	3537156	Pedrinhas Paulista	-	Taxa de Mortalidade Infantil: -
+610	3540259	Pontalinda	-	Taxa de Mortalidade Infantil: -
+611	3540754	Potim	7.55	Taxa de Mortalidade Infantil: 7,55
+612	3543253	Ribeirão Grande	9.80	Taxa de Mortalidade Infantil: 9,80
+613	3544251	Rosana	20.00	Taxa de Mortalidade Infantil: 20,00
+614	3545159	Saltinho	-	Taxa de Mortalidade Infantil: -
+615	3549250	São João de Iracema	95.24	Taxa de Mortalidade Infantil: 95,24
+616	3549953	São Lourenço da Serra	10.00	Taxa de Mortalidade Infantil: 10,00
+617	3548054	Santo Antonio do Aracanguá	25.21	Taxa de Mortalidade Infantil: 25,21
+618	3552551	Suzanápolis	-	Taxa de Mortalidade Infantil: -
+619	3553856	Taquarivaí	40.54	Taxa de Mortalidade Infantil: 40,54
+620	3553955	Tarumã	19.61	Taxa de Mortalidade Infantil: 19,61
+621	3554656	Torre de Pedra	-	Taxa de Mortalidade Infantil: -
+622	3554953	Tuiuti	-	Taxa de Mortalidade Infantil: -
+623	3555356	Ubarana	25.32	Taxa de Mortalidade Infantil: 25,32
+624	3556354	Vargem	22.73	Taxa de Mortalidade Infantil: 22,73
+625	3557154	Zacarias	-	Taxa de Mortalidade Infantil: -
+626	3503356	Arco Íris	-	Taxa de Mortalidade Infantil: -
+627	3507753	Brejo Alegre	-	Taxa de Mortalidade Infantil: -
+628	3509957	Canas	12.66	Taxa de Mortalidade Infantil: 12,66
+629	3540853	Pracinha	-	Taxa de Mortalidade Infantil: -
+630	3541059	Pratânia	-	Taxa de Mortalidade Infantil: -
+631	3541653	Quadra	35.71	Taxa de Mortalidade Infantil: 35,71
+632	3546256	Santa Cruz da Esperança	-	Taxa de Mortalidade Infantil: -
+633	3547650	Santa Salete	-	Taxa de Mortalidade Infantil: -
+634	3556958	Vitória Brasil	52.63	Taxa de Mortalidade Infantil: 52,63
+635	3521150	Ipiguá	18.87	Taxa de Mortalidade Infantil: 18,87
+636	3553658	Taquaral	-	Taxa de Mortalidade Infantil: -
+637	3515657	Fernão	-	Taxa de Mortalidade Infantil: -
+638	3516853	Gavião Peixoto	-	Taxa de Mortalidade Infantil: -
+639	3525854	Jumirim	-	Taxa de Mortalidade Infantil: -
+640	3532157	Nantes	-	Taxa de Mortalidade Infantil: -
+641	3532868	Nova Castilho	-	Taxa de Mortalidade Infantil: -
+642	3534757	Ouroeste	-	Taxa de Mortalidade Infantil: -
+643	3536570	Paulistânia	-	Taxa de Mortalidade Infantil: -
+644	3543238	Ribeirão dos Índios	-	Taxa de Mortalidade Infantil: -
+645	3554755	Trabiju	-	Taxa de Mortalidade Infantil: -

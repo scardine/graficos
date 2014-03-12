@@ -10,6 +10,9 @@
             <a scope-ref="prev"><i class="fa fa-angle-left" ng-hide="current == alternatives[0]"></i></a>
             {{ current }}
             <a scope-ref="next"><i class="fa fa-angle-right" ng-hide="current == alternatives.slice(-1)[0]"></i></a>
+            <div class="levels">
+                <a class="btn btn-default" ng-repeat="f in features" ng-click="setLevel(f)" ng-hide="feature == f">{{ featureLabels[f] }}</a>
+            </div>
         </div>
     </div>
 </div>

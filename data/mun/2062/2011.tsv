@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+10	3501004	Altinópolis	11.96	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,96
+11	3501103	Alto Alegre	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+12	3501202	Álvares Florence	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+1	3500105	Adamantina	12.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,89
+2	3500204	Adolfo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+3	3500303	Aguaí	8.78	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,78
+4	3500402	Águas da Prata	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+5	3500501	Águas de Lindóia	4.18	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,18
+6	3500600	Águas de São Pedro	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+7	3500709	Agudos	6.79	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,79
+8	3500808	Alfredo Marcondes	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+9	3500907	Altair	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+18	3501806	Américo de Campos	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+19	3501905	Amparo	10.69	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,69
+20	3502002	Analândia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+21	3502101	Andradina	13.60	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,60
+22	3502200	Angatuba	2.38	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,38
+23	3502309	Anhembi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+24	3502408	Anhumas	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+25	3502507	Aparecida	7.74	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,74
+26	3502606	Aparecida d'Oeste	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+27	3502705	Apiaí	1.92	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,92
+28	3502804	Araçatuba	23.59	% Matriculas na pré-escola na rede privada  exceto conveniada: 23,59
+29	3502903	Araçoiaba da Serra	7.27	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,27
+30	3503000	Aramina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+31	3503109	Arandu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+32	3503208	Araraquara	18.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 18,00
+33	3503307	Araras	10.82	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,82
+34	3503406	Arealva	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+35	3503505	Areias	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+36	3503604	Areiópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+37	3503703	Ariranha	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+38	3503802	Artur Nogueira	8.66	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,66
+39	3503901	Arujá	10.39	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,39
+40	3504008	Assis	13.38	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,38
+41	3504107	Atibaia	12.06	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,06
+42	3504206	Auriflama	15.98	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,98
+43	3504305	Avaí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+44	3504404	Avanhandava	11.54	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,54
+45	3504503	Avaré	11.60	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,60
+46	3504602	Bady Bassitt	9.23	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,23
+47	3504701	Balbinos	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+48	3504800	Bálsamo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+49	3504909	Bananal	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+50	3505005	Barão de Antonina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+51	3505104	Barbosa	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+52	3505203	Bariri	8.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,47
+53	3505302	Barra Bonita	15.86	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,86
+54	3505401	Barra do Turvo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+55	3505500	Barretos	8.92	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,92
+56	3505609	Barrinha	3.35	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,35
+57	3505708	Barueri	4.14	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,14
+58	3505807	Bastos	7.94	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,94
+13	3501301	Álvares Machado	10.63	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,63
+14	3501400	Álvaro de Carvalho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+15	3501509	Alvinlândia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+16	3501608	Americana	19.55	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,55
+17	3501707	Américo Brasiliense	5.01	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,01
+59	3505906	Batatais	24.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 24,89
+60	3506003	Bauru	19.64	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,64
+61	3506102	Bebedouro	20.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,00
+62	3506201	Bento de Abreu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+63	3506300	Bernardino de Campos	8.10	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,10
+64	3506409	Bilac	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+65	3506508	Birigui	5.49	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,49
+66	3506607	Biritiba Mirim	4.57	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,57
+67	3506706	Boa Esperança do Sul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+68	3506805	Bocaina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+69	3506904	Bofete	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+70	3507001	Boituva	12.35	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,35
+71	3507100	Bom Jesus dos Perdões	8.99	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,99
+72	3507209	Borá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+73	3507308	Boracéia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+74	3507407	Borborema	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+75	3507506	Botucatu	17.14	% Matriculas na pré-escola na rede privada  exceto conveniada: 17,14
+76	3507605	Bragança Paulista	15.13	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,13
+77	3507704	Braúna	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+78	3507803	Brodowski	9.87	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,87
+79	3507902	Brotas	5.65	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,65
+80	3508009	Buri	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+81	3508108	Buritama	4.04	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,04
+82	3508207	Buritizal	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+83	3508306	Cabrália Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+84	3508405	Cabreúva	5.06	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,06
+85	3508504	Caçapava	21.77	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,77
+86	3508603	Cachoeira Paulista	27.73	% Matriculas na pré-escola na rede privada  exceto conveniada: 27,73
+87	3508702	Caconde	3.81	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,81
+88	3508801	Cafelândia	9.48	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,48
+89	3508900	Caiabu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+90	3509007	Caieiras	9.08	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,08
+91	3509106	Caiuá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+92	3509205	Cajamar	8.13	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,13
+93	3509304	Cajobi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+94	3509403	Cajuru	11.03	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,03
+95	3509502	Campinas	19.61	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,61
+96	3509601	Campo Limpo Paulista	13.01	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,01
+97	3509700	Campos do Jordão	9.66	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,66
+98	3509809	Campos Novos Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+99	3509908	Cananéia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+100	3510005	Cândido Mota	5.26	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,26
+101	3510104	Cândido Rodrigues	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+102	3510203	Capão Bonito	4.20	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,20
+103	3510302	Capela do Alto	2.79	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,79
+104	3510401	Capivari	8.51	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,51
+105	3510500	Caraguatatuba	10.63	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,63
+106	3510609	Carapicuíba	12.52	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,52
+107	3510708	Cardoso	14.46	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,46
+108	3510807	Casa Branca	7.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,25
+109	3510906	Cássia dos Coqueiros	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+110	3511003	Castilho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+111	3511102	Catanduva	24.21	% Matriculas na pré-escola na rede privada  exceto conveniada: 24,21
+112	3511201	Catiguá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+113	3511300	Cedral	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+114	3511409	Cerqueira César	10.49	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,49
+115	3511508	Cerquilho	8.33	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,33
+116	3511607	Cesário Lange	4.22	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,22
+117	3511706	Charqueada	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+118	3557204	Chavantes	3.68	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,68
+119	3511904	Clementina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+120	3512001	Colina	5.51	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,51
+121	3512100	Colômbia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+122	3512209	Conchal	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+123	3512308	Conchas	14.82	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,82
+124	3512407	Cordeirópolis	4.84	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,84
+125	3512506	Coroados	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+126	3512605	Coronel Macedo	14.55	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,55
+127	3512704	Corumbataí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+128	3512803	Cosmópolis	5.36	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,36
+129	3512902	Cosmorama	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+130	3513009	Cotia	17.60	% Matriculas na pré-escola na rede privada  exceto conveniada: 17,60
+131	3513108	Cravinhos	24.69	% Matriculas na pré-escola na rede privada  exceto conveniada: 24,69
+132	3513207	Cristais Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+133	3513306	Cruzália	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+134	3513405	Cruzeiro	26.85	% Matriculas na pré-escola na rede privada  exceto conveniada: 26,85
+135	3513504	Cubatão	8.26	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,26
+136	3513603	Cunha	14.73	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,73
+137	3513702	Descalvado	8.70	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,70
+138	3513801	Diadema	7.12	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,12
+139	3513900	Divinolândia	0.95	% Matriculas na pré-escola na rede privada  exceto conveniada: 0,95
+140	3514007	Dobrada	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+141	3514106	Dois Córregos	8.81	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,81
+142	3514205	Dolcinópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+143	3514304	Dourado	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+144	3514403	Dracena	5.45	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,45
+145	3514502	Duartina	8.75	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,75
+146	3514601	Dumont	5.24	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,24
+147	3514700	Echaporã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+148	3514809	Eldorado	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+149	3514908	Elias Fausto	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+150	3515004	Embu das Artes	8.55	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,55
+151	3515103	Embu-Guaçu	11.26	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,26
+152	3515202	Estrela d'Oeste	5.52	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,52
+153	3515301	Estrela do Norte	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+154	3515400	Fartura	8.19	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,19
+155	3515509	Fernandópolis	8.75	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,75
+156	3515608	Fernando Prestes	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+157	3515707	Ferraz de Vasconcelos	4.19	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,19
+158	3515806	Flora Rica	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+159	3515905	Floreal	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+160	3516002	Flórida Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+161	3516101	Florínia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+162	3516200	Franca	13.44	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,44
+163	3516309	Francisco Morato	2.22	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,22
+164	3516408	Franco da Rocha	4.99	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,99
+165	3516507	Gabriel Monteiro	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+166	3516606	Gália	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+167	3516705	Garça	11.83	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,83
+168	3516804	Gastão Vidigal	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+169	3516903	General Salgado	6.11	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,11
+170	3517000	Getulina	7.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,30
+171	3517109	Glicério	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+172	3517208	Guaiçara	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+173	3517307	Guaimbê	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+174	3517406	Guaíra	12.21	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,21
+175	3517505	Guapiaçu	2.09	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,09
+176	3517604	Guapiara	0.21	% Matriculas na pré-escola na rede privada  exceto conveniada: 0,21
+177	3517703	Guará	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+178	3517802	Guaraçaí	7.02	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,02
+179	3517901	Guaraci	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+180	3518008	Guarani d'Oeste	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+181	3518107	Guarantã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+182	3518206	Guararapes	11.96	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,96
+183	3518305	Guararema	2.43	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,43
+184	3518404	Guaratinguetá	15.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,47
+185	3518503	Guareí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+186	3518602	Guariba	5.35	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,35
+187	3518701	Guarujá	13.77	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,77
+188	3518800	Guarulhos	13.07	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,07
+189	3518909	Guzolândia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+190	3519006	Herculândia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+191	3519105	Iacanga	16.02	% Matriculas na pré-escola na rede privada  exceto conveniada: 16,02
+192	3519204	Iacri	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+193	3519303	Ibaté	3.01	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,01
+194	3519402	Ibirá	9.56	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,56
+195	3519501	Ibirarema	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+196	3519600	Ibitinga	12.83	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,83
+197	3519709	Ibiúna	11.99	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,99
+198	3519808	Icém	10.48	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,48
+199	3519907	Iepê	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+200	3520004	Igaraçu do Tietê	11.15	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,15
+201	3520103	Igarapava	15.13	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,13
+202	3520202	Igaratá	7.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,47
+203	3520301	Iguape	8.96	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,96
+204	3520400	Ilhabela	7.58	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,58
+205	3520509	Indaiatuba	19.01	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,01
+206	3520608	Indiana	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+207	3520707	Indiaporã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+208	3520806	Inúbia Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+209	3520905	Ipaussu	9.19	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,19
+210	3521002	Iperó	1.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,89
+211	3521101	Ipeúna	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+212	3521200	Iporanga	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+213	3521309	Ipuã	11.19	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,19
+214	3521408	Iracemápolis	4.44	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,44
+215	3521507	Irapuã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+216	3521606	Irapuru	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+217	3521705	Itaberá	4.42	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,42
+218	3521804	Itaí	4.85	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,85
+219	3521903	Itajobi	6.12	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,12
+220	3522000	Itaju	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+221	3522109	Itanhaém	7.40	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,40
+222	3522208	Itapecerica da Serra	6.86	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,86
+223	3522307	Itapetininga	9.03	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,03
+224	3522406	Itapeva	4.32	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,32
+225	3522505	Itapevi	3.83	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,83
+226	3522604	Itapira	9.91	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,91
+227	3522703	Itápolis	10.29	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,29
+228	3522802	Itaporanga	5.56	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,56
+229	3522901	Itapuí	4.94	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,94
+230	3523008	Itapura	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+231	3523107	Itaquaquecetuba	5.77	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,77
+232	3523206	Itararé	5.93	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,93
+233	3523305	Itariri	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+234	3523404	Itatiba	13.64	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,64
+235	3523503	Itatinga	3.46	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,46
+236	3523602	Itirapina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+237	3523701	Itirapuã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+238	3523800	Itobi	11.62	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,62
+239	3523909	Itu	12.86	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,86
+240	3524006	Itupeva	8.33	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,33
+241	3524105	Ituverava	7.10	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,10
+242	3524204	Jaborandi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+243	3524303	Jaboticabal	16.94	% Matriculas na pré-escola na rede privada  exceto conveniada: 16,94
+244	3524402	Jacareí	14.36	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,36
+245	3524501	Jaci	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+246	3524600	Jacupiranga	7.85	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,85
+247	3524709	Jaguariúna	5.97	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,97
+248	3524808	Jales	23.54	% Matriculas na pré-escola na rede privada  exceto conveniada: 23,54
+249	3524907	Jambeiro	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+250	3525003	Jandira	21.05	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,05
+251	3525102	Jardinópolis	22.07	% Matriculas na pré-escola na rede privada  exceto conveniada: 22,07
+252	3525201	Jarinu	4.27	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,27
+253	3525300	Jaú	20.08	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,08
+254	3525409	Jeriquara	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+255	3525508	Joanópolis	9.57	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,57
+256	3525607	João Ramalho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+257	3525706	José Bonifácio	21.40	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,40
+258	3525805	Júlio Mesquita	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+259	3525904	Jundiaí	20.71	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,71
+260	3526001	Junqueirópolis	8.54	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,54
+261	3526100	Juquiá	1.21	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,21
+262	3526209	Juquitiba	5.76	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,76
+263	3526308	Lagoinha	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+264	3526407	Laranjal Paulista	9.28	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,28
+265	3526506	Lavínia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+266	3526605	Lavrinhas	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+267	3526704	Leme	4.24	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,24
+268	3526803	Lençóis Paulista	8.15	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,15
+269	3526902	Limeira	12.94	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,94
+270	3527009	Lindóia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+271	3527108	Lins	17.65	% Matriculas na pré-escola na rede privada  exceto conveniada: 17,65
+272	3527207	Lorena	20.73	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,73
+273	3527306	Louveira	3.65	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,65
+274	3527405	Lucélia	5.84	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,84
+275	3527504	Lucianópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+276	3527603	Luís Antônio	8.06	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,06
+277	3527702	Luiziânia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+278	3527801	Lupércio	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+279	3527900	Lutécia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+280	3528007	Macatuba	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+281	3528106	Macaubal	4.41	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,41
+282	3528205	Macedônia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+283	3528304	Magda	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+284	3528403	Mairinque	4.36	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,36
+285	3528502	Mairiporã	10.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,25
+286	3528601	Manduri	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+287	3528700	Marabá Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+288	3528809	Maracaí	5.45	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,45
+289	3528908	Mariápolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+290	3529005	Marília	13.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,00
+291	3529104	Marinópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+292	3529203	Martinópolis	6.79	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,79
+293	3529302	Matão	9.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,30
+294	3529401	Mauá	10.72	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,72
+295	3529500	Mendonça	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+296	3529609	Meridiano	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+297	3529708	Miguelópolis	6.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,30
+298	3529807	Mineiros do Tietê	4.17	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,17
+299	3529906	Miracatu	1.02	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,02
+300	3530003	Mira Estrela	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+301	3530102	Mirandópolis	8.93	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,93
+302	3530201	Mirante do Paranapanema	11.98	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,98
+303	3530300	Mirassol	18.79	% Matriculas na pré-escola na rede privada  exceto conveniada: 18,79
+304	3530409	Mirassolândia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+305	3530508	Mococa	12.64	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,64
+306	3530607	Mogi das Cruzes	11.29	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,29
+307	3530706	Mogi Guaçu	9.62	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,62
+308	3530805	Moji Mirim	6.33	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,33
+309	3530904	Mombuca	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+310	3531001	Monções	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+311	3531100	Mongaguá	5.76	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,76
+312	3531209	Monte Alegre do Sul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+313	3531308	Monte Alto	11.53	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,53
+314	3531407	Monte Aprazível	19.20	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,20
+315	3531506	Monte Azul Paulista	13.35	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,35
+316	3531605	Monte Castelo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+317	3531704	Monteiro Lobato	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+318	3531803	Monte Mor	3.08	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,08
+319	3531902	Morro Agudo	2.91	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,91
+320	3532009	Morungaba	13.12	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,12
+321	3532108	Murutinga do Sul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+322	3532207	Narandiba	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+323	3532306	Natividade da Serra	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+324	3532405	Nazaré Paulista	1.34	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,34
+325	3532504	Neves Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+326	3532603	Nhandeara	13.07	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,07
+327	3532702	Nipoã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+328	3532801	Nova Aliança	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+329	3532900	Nova Europa	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+330	3533007	Nova Granada	10.61	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,61
+331	3533106	Nova Guataporanga	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+332	3533205	Nova Independência	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+333	3533304	Nova Luzitânia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+334	3533403	Nova Odessa	13.83	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,83
+335	3533502	Novo Horizonte	12.26	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,26
+336	3533601	Nuporanga	2.34	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,34
+337	3533700	Ocauçu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+338	3533809	Óleo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+339	3533908	Olímpia	13.45	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,45
+340	3534005	Onda Verde	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+341	3534104	Oriente	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+342	3534203	Orindiúva	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+343	3534302	Orlândia	6.17	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,17
+344	3534401	Osasco	19.06	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,06
+345	3534500	Oscar Bressane	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+346	3534609	Osvaldo Cruz	18.88	% Matriculas na pré-escola na rede privada  exceto conveniada: 18,88
+347	3534708	Ourinhos	10.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,00
+348	3534807	Ouro Verde	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+349	3534906	Pacaembu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+350	3535002	Palestina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+351	3535101	Palmares Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+352	3535200	Palmeira d'Oeste	14.88	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,88
+353	3535309	Palmital	10.83	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,83
+354	3535408	Panorama	4.01	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,01
+355	3535507	Paraguaçu Paulista	7.90	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,90
+356	3535606	Paraibuna	5.31	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,31
+357	3535705	Paraíso	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+358	3535804	Paranapanema	11.09	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,09
+359	3535903	Paranapuã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+360	3536000	Parapuã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+361	3536109	Pardinho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+362	3536208	Pariquera-Açu	11.36	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,36
+363	3536307	Patrocínio Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+364	3536406	Paulicéia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+365	3536505	Paulínia	3.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,47
+366	3536604	Paulo de Faria	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+367	3536703	Pederneiras	9.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,25
+368	3536802	Pedra Bela	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+369	3536901	Pedranópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+370	3537008	Pedregulho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+371	3537107	Pedreira	6.29	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,29
+372	3537206	Pedro de Toledo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+373	3537305	Penápolis	12.15	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,15
+374	3537404	Pereira Barreto	8.37	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,37
+375	3537503	Pereiras	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+376	3537602	Peruíbe	10.14	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,14
+377	3537701	Piacatu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+378	3537800	Piedade	6.84	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,84
+379	3537909	Pilar do Sul	3.62	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,62
+380	3538006	Pindamonhangaba	27.13	% Matriculas na pré-escola na rede privada  exceto conveniada: 27,13
+381	3538105	Pindorama	4.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,89
+382	3515186	Espírito Santo do Pinhal	14.17	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,17
+383	3538204	Pinhalzinho	8.41	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,41
+384	3538303	Piquerobi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+385	3538501	Piquete	23.29	% Matriculas na pré-escola na rede privada  exceto conveniada: 23,29
+386	3538600	Piracaia	9.23	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,23
+387	3538709	Piracicaba	18.48	% Matriculas na pré-escola na rede privada  exceto conveniada: 18,48
+388	3538808	Piraju	12.75	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,75
+389	3538907	Pirajuí	14.58	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,58
+390	3539004	Pirangi	12.39	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,39
+391	3539103	Pirapora do Bom Jesus	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+392	3539202	Pirapozinho	14.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,00
+393	3539301	Pirassununga	15.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,00
+394	3539400	Piratininga	19.91	% Matriculas na pré-escola na rede privada  exceto conveniada: 19,91
+395	3539509	Pitangueiras	5.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 5,47
+396	3539608	Planalto	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+397	3539707	Platina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+398	3539806	Poá	8.78	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,78
+399	3539905	Poloni	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+400	3540002	Pompéia	7.00	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,00
+401	3540101	Pongaí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+402	3540200	Pontal	12.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,30
+403	3540309	Pontes Gestal	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+404	3540408	Populina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+405	3540507	Porangaba	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+406	3540606	Porto Feliz	13.83	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,83
+407	3540705	Porto Ferreira	12.51	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,51
+408	3540804	Potirendaba	7.32	% Matriculas na pré-escola na rede privada  exceto conveniada: 7,32
+409	3540903	Pradópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+410	3541000	Praia Grande	15.77	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,77
+411	3541109	Presidente Alves	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+412	3541208	Presidente Bernardes	9.54	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,54
+413	3541307	Presidente Epitácio	17.12	% Matriculas na pré-escola na rede privada  exceto conveniada: 17,12
+414	3541406	Presidente Prudente	21.54	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,54
+415	3541505	Presidente Venceslau	8.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,25
+416	3541604	Promissão	8.62	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,62
+417	3541703	Quatá	8.05	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,05
+418	3541802	Queiroz	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+419	3541901	Queluz	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+420	3542008	Quintana	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+421	3542107	Rafard	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+422	3542206	Rancharia	9.20	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,20
+423	3542305	Redenção da Serra	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+424	3542404	Regente Feijó	6.94	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,94
+425	3542503	Reginópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+426	3542602	Registro	15.98	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,98
+427	3542701	Restinga	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+428	3542800	Ribeira	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+429	3542909	Ribeirão Bonito	4.85	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,85
+430	3543006	Ribeirão Branco	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+431	3543105	Ribeirão Corrente	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+432	3543204	Ribeirão do Sul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+433	3543303	Ribeirão Pires	12.35	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,35
+434	3543402	Ribeirão Preto	26.90	% Matriculas na pré-escola na rede privada  exceto conveniada: 26,90
+435	3543501	Riversul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+436	3543600	Rifaina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+437	3543709	Rincão	3.97	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,97
+438	3543808	Rinópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+439	3543907	Rio Claro	13.31	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,31
+440	3544004	Rio das Pedras	10.33	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,33
+441	3544103	Rio Grande da Serra	13.66	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,66
+442	3544202	Riolândia	6.80	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,80
+443	3544301	Roseira	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+444	3544400	Rubiácea	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+445	3544509	Rubinéia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+446	3544608	Sabino	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+447	3544707	Sagres	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+448	3544806	Sales	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+449	3544905	Sales Oliveira	6.44	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,44
+450	3545001	Salesópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+451	3545100	Salmourão	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+452	3545209	Salto	9.03	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,03
+453	3545308	Salto de Pirapora	9.70	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,70
+454	3545407	Salto Grande	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+455	3545506	Sandovalina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+456	3545605	Santa Adélia	3.82	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,82
+457	3545704	Santa Albertina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+458	3545803	Santa Bárbara d'Oeste	10.64	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,64
+459	3500550	Águas de Santa Bárbara	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+460	3546009	Santa Branca	4.56	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,56
+461	3546108	Santa Clara d'Oeste	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+462	3546207	Santa Cruz da Conceição	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+463	3546306	Santa Cruz das Palmeiras	3.85	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,85
+464	3546405	Santa Cruz do Rio Pardo	8.49	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,49
+465	3546504	Santa Ernestina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+466	3546603	Santa Fé do Sul	15.16	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,16
+467	3546702	Santa Gertrudes	2.80	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,80
+468	3546801	Santa Isabel	3.73	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,73
+469	3546900	Santa Lucia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+470	3547007	Santa Maria da Serra	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+471	3547106	Santa Mercedes	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+472	3547403	Santa Rita d'Oeste	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+473	3547502	Santa Rita do Passa Quatro	16.07	% Matriculas na pré-escola na rede privada  exceto conveniada: 16,07
+474	3547601	Santa Rosa do Viterbo	9.44	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,44
+475	3547205	Santana da Ponte Pensa	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+476	3547304	Santana de Parnaíba	21.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,30
+477	3547700	Santo Anastácio	23.49	% Matriculas na pré-escola na rede privada  exceto conveniada: 23,49
+478	3547809	Santo André	33.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 33,47
+479	3547908	Santo Antonio da Alegria	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+480	3548104	Santo Antonio do Jardim	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+481	3548203	Santo Antonio do Pinhal	1.70	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,70
+482	3548005	Santo Antonio de Posse	4.90	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,90
+483	3548302	Santo Expedito	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+484	3548401	Santópolis do Aguapeí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+485	3548500	Santos	29.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 29,25
+486	3548609	São Bento do Sapucaí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+487	3548708	São Bernardo do Campo	10.20	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,20
+488	3548807	São Caetano do Sul	21.04	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,04
+489	3548906	São Carlos	14.03	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,03
+490	3549003	São Francisco	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+491	3549102	São João da Boa Vista	15.97	% Matriculas na pré-escola na rede privada  exceto conveniada: 15,97
+492	3549201	São João das Duas Pontes	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+493	3549300	São João do Pau d'Alho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+494	3549409	São Joaquim da Barra	10.94	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,94
+495	3549607	São José do Barreiro	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+496	3549508	São José da Bela Vista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+497	3549706	São José do Rio Pardo	20.40	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,40
+498	3549805	São José do Rio Preto	20.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,89
+499	3549904	São José dos Campos	13.78	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,78
+500	3550001	São Luís do Paraitinga	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+501	3550100	São Manuel	14.87	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,87
+502	3550209	São Miguel Arcanjo	0.67	% Matriculas na pré-escola na rede privada  exceto conveniada: 0,67
+503	3550308	São Paulo	24.57	% Matriculas na pré-escola na rede privada  exceto conveniada: 24,57
+504	3550407	São Pedro	11.58	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,58
+505	3550506	São Pedro do Turvo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+506	3550605	São Roque	12.44	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,44
+507	3550704	São Sebastião	6.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,89
+508	3550803	São Sebastião da Grama	8.71	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,71
+509	3550902	São Simão	18.89	% Matriculas na pré-escola na rede privada  exceto conveniada: 18,89
+510	3551009	São Vicente	16.53	% Matriculas na pré-escola na rede privada  exceto conveniada: 16,53
+511	3551108	Sarapuí	2.90	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,90
+512	3551207	Sarutaiá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+513	3551306	Sebastianópolis do Sul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+514	3551405	Serra Azul	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+515	3551603	Serra Negra	1.34	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,34
+516	3551504	Serrana	13.01	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,01
+517	3551702	Sertãozinho	11.14	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,14
+518	3551801	Sete Barras	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+519	3551900	Severínia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+520	3552007	Silveiras	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+521	3552106	Socorro	14.32	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,32
+522	3552205	Sorocaba	14.04	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,04
+523	3552304	Sud Mennucci	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+524	3552403	Sumaré	4.47	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,47
+525	3552502	Suzano	8.42	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,42
+526	3552601	Tabapuã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+527	3552700	Tabatinga	14.76	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,76
+528	3552809	Taboão da Serra	12.91	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,91
+529	3552908	Taciba	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+530	3553005	Taguaí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+531	3553104	Taiaçu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+532	3553203	Taiúva	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+533	3553302	Tambaú	8.92	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,92
+534	3553401	Tanabi	11.11	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,11
+535	3553500	Tapiraí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+536	3553609	Tapiratiba	11.37	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,37
+537	3553708	Taquaritinga	13.58	% Matriculas na pré-escola na rede privada  exceto conveniada: 13,58
+538	3553807	Taquarituba	9.95	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,95
+539	3553906	Tarabaí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+540	3554003	Tatuí	11.26	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,26
+541	3554102	Taubaté	18.14	% Matriculas na pré-escola na rede privada  exceto conveniada: 18,14
+542	3554201	Tejupá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+543	3554300	Teodoro Sampaio	11.26	% Matriculas na pré-escola na rede privada  exceto conveniada: 11,26
+544	3554409	Terra Roxa	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+545	3554508	Tietê	2.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,30
+546	3554607	Timburi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+547	3554706	Torrinha	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+548	3554805	Tremembé	6.78	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,78
+549	3554904	Três Fronteiras	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+550	3555000	Tupã	16.08	% Matriculas na pré-escola na rede privada  exceto conveniada: 16,08
+551	3555109	Tupi Paulista	4.23	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,23
+552	3555208	Turiúba	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+553	3555307	Turmalina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+554	3555406	Ubatuba	9.24	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,24
+555	3555505	Ubirajara	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+556	3555604	Uchôa	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+557	3555703	União Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+558	3555802	Urânia	6.45	% Matriculas na pré-escola na rede privada  exceto conveniada: 6,45
+559	3555901	Uru	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+560	3556008	Urupês	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+561	3556107	Valentim Gentil	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+562	3556206	Valinhos	21.86	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,86
+563	3556305	Valparaíso	9.64	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,64
+564	3556404	Vargem Grande do Sul	14.14	% Matriculas na pré-escola na rede privada  exceto conveniada: 14,14
+565	3556503	Várzea Paulista	3.53	% Matriculas na pré-escola na rede privada  exceto conveniada: 3,53
+566	3556602	Vera Cruz	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+567	3556701	Vinhedo	21.49	% Matriculas na pré-escola na rede privada  exceto conveniada: 21,49
+568	3556800	Viradouro	17.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 17,25
+569	3556909	Vista Alegre do Alto	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+570	3557006	Votorantim	9.86	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,86
+571	3557105	Votuporanga	12.93	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,93
+572	3556453	Vargem Grande Paulista	16.55	% Matriculas na pré-escola na rede privada  exceto conveniada: 16,55
+573	3500758	Alambari	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+574	3501152	Alumínio	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+575	3502754	Araçariguama	2.73	% Matriculas na pré-escola na rede privada  exceto conveniada: 2,73
+576	3503158	Arapeí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+577	3503950	Aspásia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+578	3505351	Barra do Chapéu	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+579	3506359	Bertioga	4.45	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,45
+580	3507159	Bom Sucesso de Itararé	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+581	3507456	Borebi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+582	3509254	Cajati	8.40	% Matriculas na pré-escola na rede privada  exceto conveniada: 8,40
+583	3509452	Campina do Monte Alegre	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+584	3510153	Canitar	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+585	3513850	Dirce Reis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+586	3514924	Elisiário	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+587	3514957	Embaúba	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+588	3515129	Emilianópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+589	3515152	Engenheiro Coelho	9.57	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,57
+590	3515194	Espírito Santo do Turvo	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+591	3557303	Estiva Gerbi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+592	3515350	Euclides da Cunha Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+593	3518859	Guatapará	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+594	3519055	Holambra	20.25	% Matriculas na pré-escola na rede privada  exceto conveniada: 20,25
+595	3519071	Hortolândia	9.46	% Matriculas na pré-escola na rede privada  exceto conveniada: 9,46
+596	3519253	Iaras	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+597	3520426	Ilha Comprida	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+598	3520442	Ilha Solteira	4.30	% Matriculas na pré-escola na rede privada  exceto conveniada: 4,30
+599	3522158	Itaóca	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+600	3522653	Itapirapuã Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+601	3527256	Lourdes	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+602	3528858	Marapoama	12.07	% Matriculas na pré-escola na rede privada  exceto conveniada: 12,07
+603	3529658	Mesópolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+604	3532058	Motuca	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+605	3532827	Nova Campina	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+606	3532843	Nova Canaã Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+607	3533254	Novais	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+608	3536257	Parisi	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+609	3537156	Pedrinhas Paulista	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+610	3540259	Pontalinda	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+611	3540754	Potim	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+612	3543253	Ribeirão Grande	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+613	3544251	Rosana	10.13	% Matriculas na pré-escola na rede privada  exceto conveniada: 10,13
+614	3545159	Saltinho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+615	3549250	São João de Iracema	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+616	3549953	São Lourenço da Serra	1.93	% Matriculas na pré-escola na rede privada  exceto conveniada: 1,93
+617	3548054	Santo Antonio do Aracanguá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+618	3552551	Suzanápolis	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+619	3553856	Taquarivaí	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+620	3553955	Tarumã	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+621	3554656	Torre de Pedra	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+622	3554953	Tuiuti	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+623	3555356	Ubarana	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+624	3556354	Vargem	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+625	3557154	Zacarias	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+626	3503356	Arco Íris	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+627	3507753	Brejo Alegre	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+628	3509957	Canas	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+629	3540853	Pracinha	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+630	3541059	Pratânia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+631	3541653	Quadra	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+632	3546256	Santa Cruz da Esperança	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+633	3547650	Santa Salete	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+634	3556958	Vitória Brasil	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+635	3521150	Ipiguá	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+636	3553658	Taquaral	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+637	3515657	Fernão	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+638	3516853	Gavião Peixoto	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+639	3525854	Jumirim	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+640	3532157	Nantes	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+641	3532868	Nova Castilho	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+642	3534757	Ouroeste	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+643	3536570	Paulistânia	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+644	3543238	Ribeirão dos Índios	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -
+645	3554755	Trabiju	-	% Matriculas na pré-escola na rede privada  exceto conveniada: -

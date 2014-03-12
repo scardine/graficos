@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	22.86	Taxa de Mortalidade Infantil: 22,86
+2	3500204	Adolfo	-	Taxa de Mortalidade Infantil: -
+3	3500303	Aguaí	16.88	Taxa de Mortalidade Infantil: 16,88
+4	3500402	Águas da Prata	-	Taxa de Mortalidade Infantil: -
+5	3500501	Águas de Lindóia	14.93	Taxa de Mortalidade Infantil: 14,93
+6	3500600	Águas de São Pedro	-	Taxa de Mortalidade Infantil: -
+7	3500709	Agudos	12.15	Taxa de Mortalidade Infantil: 12,15
+8	3500808	Alfredo Marcondes	-	Taxa de Mortalidade Infantil: -
+9	3500907	Altair	17.24	Taxa de Mortalidade Infantil: 17,24
+10	3501004	Altinópolis	10.42	Taxa de Mortalidade Infantil: 10,42
+11	3501103	Alto Alegre	23.26	Taxa de Mortalidade Infantil: 23,26
+12	3501202	Álvares Florence	-	Taxa de Mortalidade Infantil: -
+13	3501301	Álvares Machado	21.66	Taxa de Mortalidade Infantil: 21,66
+14	3501400	Álvaro de Carvalho	15.38	Taxa de Mortalidade Infantil: 15,38
+15	3501509	Alvinlândia	23.26	Taxa de Mortalidade Infantil: 23,26
+16	3501608	Americana	10.00	Taxa de Mortalidade Infantil: 10,00
+17	3501707	Américo Brasiliense	16.30	Taxa de Mortalidade Infantil: 16,30
+18	3501806	Américo de Campos	17.24	Taxa de Mortalidade Infantil: 17,24
+19	3501905	Amparo	7.76	Taxa de Mortalidade Infantil: 7,76
+20	3502002	Analândia	-	Taxa de Mortalidade Infantil: -
+21	3502101	Andradina	21.08	Taxa de Mortalidade Infantil: 21,08
+22	3502200	Angatuba	12.12	Taxa de Mortalidade Infantil: 12,12
+23	3502309	Anhembi	-	Taxa de Mortalidade Infantil: -
+24	3502408	Anhumas	25.64	Taxa de Mortalidade Infantil: 25,64
+25	3502507	Aparecida	7.87	Taxa de Mortalidade Infantil: 7,87
+26	3502606	Aparecida d'Oeste	40.00	Taxa de Mortalidade Infantil: 40,00
+27	3502705	Apiaí	26.04	Taxa de Mortalidade Infantil: 26,04
+28	3502804	Araçatuba	15.32	Taxa de Mortalidade Infantil: 15,32
+29	3502903	Araçoiaba da Serra	21.47	Taxa de Mortalidade Infantil: 21,47
+30	3503000	Aramina	-	Taxa de Mortalidade Infantil: -
+31	3503109	Arandu	-	Taxa de Mortalidade Infantil: -
+32	3503208	Araraquara	14.41	Taxa de Mortalidade Infantil: 14,41
+33	3503307	Araras	12.06	Taxa de Mortalidade Infantil: 12,06
+34	3503406	Arealva	-	Taxa de Mortalidade Infantil: -
+35	3503505	Areias	26.32	Taxa de Mortalidade Infantil: 26,32
+36	3503604	Areiópolis	16.67	Taxa de Mortalidade Infantil: 16,67
+37	3503703	Ariranha	-	Taxa de Mortalidade Infantil: -
+38	3503802	Artur Nogueira	16.72	Taxa de Mortalidade Infantil: 16,72
+39	3503901	Arujá	13.87	Taxa de Mortalidade Infantil: 13,87
+40	3504008	Assis	9.08	Taxa de Mortalidade Infantil: 9,08
+41	3504107	Atibaia	15.79	Taxa de Mortalidade Infantil: 15,79
+42	3504206	Auriflama	5.92	Taxa de Mortalidade Infantil: 5,92
+43	3504305	Avaí	-	Taxa de Mortalidade Infantil: -
+44	3504404	Avanhandava	6.94	Taxa de Mortalidade Infantil: 6,94
+45	3504503	Avaré	15.78	Taxa de Mortalidade Infantil: 15,78
+46	3504602	Bady Bassitt	6.49	Taxa de Mortalidade Infantil: 6,49
+47	3504701	Balbinos	111.11	Taxa de Mortalidade Infantil: 111,11
+48	3504800	Bálsamo	-	Taxa de Mortalidade Infantil: -
+49	3504909	Bananal	-	Taxa de Mortalidade Infantil: -
+50	3505005	Barão de Antonina	52.63	Taxa de Mortalidade Infantil: 52,63
+51	3505104	Barbosa	22.73	Taxa de Mortalidade Infantil: 22,73
+52	3505203	Bariri	15.54	Taxa de Mortalidade Infantil: 15,54
+53	3505302	Barra Bonita	17.16	Taxa de Mortalidade Infantil: 17,16
+54	3505401	Barra do Turvo	18.52	Taxa de Mortalidade Infantil: 18,52
+55	3505500	Barretos	8.95	Taxa de Mortalidade Infantil: 8,95
+56	3505609	Barrinha	8.06	Taxa de Mortalidade Infantil: 8,06
+57	3505708	Barueri	8.49	Taxa de Mortalidade Infantil: 8,49
+58	3505807	Bastos	10.53	Taxa de Mortalidade Infantil: 10,53
+59	3505906	Batatais	10.91	Taxa de Mortalidade Infantil: 10,91
+60	3506003	Bauru	12.99	Taxa de Mortalidade Infantil: 12,99
+61	3506102	Bebedouro	10.15	Taxa de Mortalidade Infantil: 10,15
+62	3506201	Bento de Abreu	-	Taxa de Mortalidade Infantil: -
+63	3506300	Bernardino de Campos	20.27	Taxa de Mortalidade Infantil: 20,27
+64	3506409	Bilac	-	Taxa de Mortalidade Infantil: -
+65	3506508	Birigui	14.02	Taxa de Mortalidade Infantil: 14,02
+66	3506607	Biritiba Mirim	4.62	Taxa de Mortalidade Infantil: 4,62
+67	3506706	Boa Esperança do Sul	10.36	Taxa de Mortalidade Infantil: 10,36
+68	3506805	Bocaina	6.06	Taxa de Mortalidade Infantil: 6,06
+69	3506904	Bofete	-	Taxa de Mortalidade Infantil: -
+70	3507001	Boituva	6.65	Taxa de Mortalidade Infantil: 6,65
+71	3507100	Bom Jesus dos Perdões	19.46	Taxa de Mortalidade Infantil: 19,46
+72	3507209	Borá	-	Taxa de Mortalidade Infantil: -
+73	3507308	Boracéia	17.54	Taxa de Mortalidade Infantil: 17,54
+74	3507407	Borborema	12.35	Taxa de Mortalidade Infantil: 12,35
+75	3507506	Botucatu	14.46	Taxa de Mortalidade Infantil: 14,46
+76	3507605	Bragança Paulista	13.31	Taxa de Mortalidade Infantil: 13,31
+77	3507704	Braúna	16.67	Taxa de Mortalidade Infantil: 16,67
+78	3507803	Brodowski	12.00	Taxa de Mortalidade Infantil: 12,00
+79	3507902	Brotas	13.07	Taxa de Mortalidade Infantil: 13,07
+80	3508009	Buri	17.70	Taxa de Mortalidade Infantil: 17,70
+81	3508108	Buritama	15.00	Taxa de Mortalidade Infantil: 15,00
+82	3508207	Buritizal	-	Taxa de Mortalidade Infantil: -
+83	3508306	Cabrália Paulista	-	Taxa de Mortalidade Infantil: -
+84	3508405	Cabreúva	14.27	Taxa de Mortalidade Infantil: 14,27
+85	3508504	Caçapava	17.84	Taxa de Mortalidade Infantil: 17,84
+86	3508603	Cachoeira Paulista	13.39	Taxa de Mortalidade Infantil: 13,39
+87	3508702	Caconde	8.85	Taxa de Mortalidade Infantil: 8,85
+88	3508801	Cafelândia	26.32	Taxa de Mortalidade Infantil: 26,32
+89	3508900	Caiabu	50.00	Taxa de Mortalidade Infantil: 50,00
+90	3509007	Caieiras	14.99	Taxa de Mortalidade Infantil: 14,99
+91	3509106	Caiuá	-	Taxa de Mortalidade Infantil: -
+92	3509205	Cajamar	6.91	Taxa de Mortalidade Infantil: 6,91
+93	3509304	Cajobi	28.85	Taxa de Mortalidade Infantil: 28,85
+94	3509403	Cajuru	-	Taxa de Mortalidade Infantil: -
+95	3509502	Campinas	8.59	Taxa de Mortalidade Infantil: 8,59
+96	3509601	Campo Limpo Paulista	11.57	Taxa de Mortalidade Infantil: 11,57
+97	3509700	Campos do Jordão	22.14	Taxa de Mortalidade Infantil: 22,14
+98	3509809	Campos Novos Paulista	-	Taxa de Mortalidade Infantil: -
+99	3509908	Cananéia	5.13	Taxa de Mortalidade Infantil: 5,13
+100	3510005	Cândido Mota	13.23	Taxa de Mortalidade Infantil: 13,23
+101	3510104	Cândido Rodrigues	32.26	Taxa de Mortalidade Infantil: 32,26
+102	3510203	Capão Bonito	18.66	Taxa de Mortalidade Infantil: 18,66
+103	3510302	Capela do Alto	10.31	Taxa de Mortalidade Infantil: 10,31
+104	3510401	Capivari	4.12	Taxa de Mortalidade Infantil: 4,12
+105	3510500	Caraguatatuba	12.21	Taxa de Mortalidade Infantil: 12,21
+106	3510609	Carapicuíba	11.23	Taxa de Mortalidade Infantil: 11,23
+107	3510708	Cardoso	14.18	Taxa de Mortalidade Infantil: 14,18
+108	3510807	Casa Branca	23.12	Taxa de Mortalidade Infantil: 23,12
+109	3510906	Cássia dos Coqueiros	-	Taxa de Mortalidade Infantil: -
+110	3511003	Castilho	15.44	Taxa de Mortalidade Infantil: 15,44
+111	3511102	Catanduva	9.50	Taxa de Mortalidade Infantil: 9,50
+112	3511201	Catiguá	9.26	Taxa de Mortalidade Infantil: 9,26
+113	3511300	Cedral	10.31	Taxa de Mortalidade Infantil: 10,31
+114	3511409	Cerqueira César	22.22	Taxa de Mortalidade Infantil: 22,22
+115	3511508	Cerquilho	6.36	Taxa de Mortalidade Infantil: 6,36
+116	3511607	Cesário Lange	14.49	Taxa de Mortalidade Infantil: 14,49
+117	3511706	Charqueada	9.30	Taxa de Mortalidade Infantil: 9,30
+118	3557204	Chavantes	5.95	Taxa de Mortalidade Infantil: 5,95
+119	3511904	Clementina	24.79	Taxa de Mortalidade Infantil: 24,79
+120	3512001	Colina	13.16	Taxa de Mortalidade Infantil: 13,16
+121	3512100	Colômbia	10.31	Taxa de Mortalidade Infantil: 10,31
+122	3512209	Conchal	18.23	Taxa de Mortalidade Infantil: 18,23
+123	3512308	Conchas	3.69	Taxa de Mortalidade Infantil: 3,69
+124	3512407	Cordeirópolis	14.93	Taxa de Mortalidade Infantil: 14,93
+125	3512506	Coroados	15.87	Taxa de Mortalidade Infantil: 15,87
+126	3512605	Coronel Macedo	17.54	Taxa de Mortalidade Infantil: 17,54
+127	3512704	Corumbataí	-	Taxa de Mortalidade Infantil: -
+128	3512803	Cosmópolis	9.35	Taxa de Mortalidade Infantil: 9,35
+129	3512902	Cosmorama	-	Taxa de Mortalidade Infantil: -
+130	3513009	Cotia	12.92	Taxa de Mortalidade Infantil: 12,92
+131	3513108	Cravinhos	12.08	Taxa de Mortalidade Infantil: 12,08
+132	3513207	Cristais Paulista	-	Taxa de Mortalidade Infantil: -
+133	3513306	Cruzália	-	Taxa de Mortalidade Infantil: -
+134	3513405	Cruzeiro	7.84	Taxa de Mortalidade Infantil: 7,84
+135	3513504	Cubatão	13.04	Taxa de Mortalidade Infantil: 13,04
+136	3513603	Cunha	3.86	Taxa de Mortalidade Infantil: 3,86
+137	3513702	Descalvado	9.76	Taxa de Mortalidade Infantil: 9,76
+138	3513801	Diadema	11.82	Taxa de Mortalidade Infantil: 11,82
+139	3513900	Divinolândia	7.87	Taxa de Mortalidade Infantil: 7,87
+140	3514007	Dobrada	-	Taxa de Mortalidade Infantil: -
+141	3514106	Dois Córregos	17.03	Taxa de Mortalidade Infantil: 17,03
+142	3514205	Dolcinópolis	-	Taxa de Mortalidade Infantil: -
+143	3514304	Dourado	-	Taxa de Mortalidade Infantil: -
+144	3514403	Dracena	7.87	Taxa de Mortalidade Infantil: 7,87
+145	3514502	Duartina	6.62	Taxa de Mortalidade Infantil: 6,62
+146	3514601	Dumont	-	Taxa de Mortalidade Infantil: -
+147	3514700	Echaporã	23.26	Taxa de Mortalidade Infantil: 23,26
+148	3514809	Eldorado	8.37	Taxa de Mortalidade Infantil: 8,37
+149	3514908	Elias Fausto	11.63	Taxa de Mortalidade Infantil: 11,63
+150	3515004	Embu das Artes	11.67	Taxa de Mortalidade Infantil: 11,67
+151	3515103	Embu-Guaçu	12.70	Taxa de Mortalidade Infantil: 12,70
+152	3515202	Estrela d'Oeste	36.14	Taxa de Mortalidade Infantil: 36,14
+153	3515301	Estrela do Norte	22.73	Taxa de Mortalidade Infantil: 22,73
+154	3515400	Fartura	8.93	Taxa de Mortalidade Infantil: 8,93
+155	3515509	Fernandópolis	11.51	Taxa de Mortalidade Infantil: 11,51
+156	3515608	Fernando Prestes	51.72	Taxa de Mortalidade Infantil: 51,72
+157	3515707	Ferraz de Vasconcelos	16.86	Taxa de Mortalidade Infantil: 16,86
+158	3515806	Flora Rica	-	Taxa de Mortalidade Infantil: -
+159	3515905	Floreal	55.56	Taxa de Mortalidade Infantil: 55,56
+160	3516002	Flórida Paulista	12.82	Taxa de Mortalidade Infantil: 12,82
+161	3516101	Florínia	43.48	Taxa de Mortalidade Infantil: 43,48
+162	3516200	Franca	11.14	Taxa de Mortalidade Infantil: 11,14
+163	3516309	Francisco Morato	14.93	Taxa de Mortalidade Infantil: 14,93
+164	3516408	Franco da Rocha	22.39	Taxa de Mortalidade Infantil: 22,39
+165	3516507	Gabriel Monteiro	-	Taxa de Mortalidade Infantil: -
+166	3516606	Gália	28.17	Taxa de Mortalidade Infantil: 28,17
+167	3516705	Garça	10.87	Taxa de Mortalidade Infantil: 10,87
+168	3516804	Gastão Vidigal	14.29	Taxa de Mortalidade Infantil: 14,29
+169	3516903	General Salgado	16.67	Taxa de Mortalidade Infantil: 16,67
+170	3517000	Getulina	28.99	Taxa de Mortalidade Infantil: 28,99
+171	3517109	Glicério	40.00	Taxa de Mortalidade Infantil: 40,00
+172	3517208	Guaiçara	12.74	Taxa de Mortalidade Infantil: 12,74
+173	3517307	Guaimbê	-	Taxa de Mortalidade Infantil: -
+174	3517406	Guaíra	3.91	Taxa de Mortalidade Infantil: 3,91
+175	3517505	Guapiaçu	23.70	Taxa de Mortalidade Infantil: 23,70
+176	3517604	Guapiara	11.54	Taxa de Mortalidade Infantil: 11,54
+177	3517703	Guará	12.54	Taxa de Mortalidade Infantil: 12,54
+178	3517802	Guaraçaí	12.82	Taxa de Mortalidade Infantil: 12,82
+179	3517901	Guaraci	12.74	Taxa de Mortalidade Infantil: 12,74
+180	3518008	Guarani d'Oeste	-	Taxa de Mortalidade Infantil: -
+181	3518107	Guarantã	22.22	Taxa de Mortalidade Infantil: 22,22
+182	3518206	Guararapes	25.50	Taxa de Mortalidade Infantil: 25,50
+183	3518305	Guararema	9.48	Taxa de Mortalidade Infantil: 9,48
+184	3518404	Guaratinguetá	16.17	Taxa de Mortalidade Infantil: 16,17
+185	3518503	Guareí	19.61	Taxa de Mortalidade Infantil: 19,61
+186	3518602	Guariba	13.96	Taxa de Mortalidade Infantil: 13,96
+187	3518701	Guarujá	15.96	Taxa de Mortalidade Infantil: 15,96
+188	3518800	Guarulhos	13.30	Taxa de Mortalidade Infantil: 13,30
+189	3518909	Guzolândia	-	Taxa de Mortalidade Infantil: -
+190	3519006	Herculândia	28.04	Taxa de Mortalidade Infantil: 28,04
+191	3519105	Iacanga	21.28	Taxa de Mortalidade Infantil: 21,28
+192	3519204	Iacri	13.33	Taxa de Mortalidade Infantil: 13,33
+193	3519303	Ibaté	20.69	Taxa de Mortalidade Infantil: 20,69
+194	3519402	Ibirá	15.63	Taxa de Mortalidade Infantil: 15,63
+195	3519501	Ibirarema	30.61	Taxa de Mortalidade Infantil: 30,61
+196	3519600	Ibitinga	7.54	Taxa de Mortalidade Infantil: 7,54
+197	3519709	Ibiúna	23.79	Taxa de Mortalidade Infantil: 23,79
+198	3519808	Icém	24.79	Taxa de Mortalidade Infantil: 24,79
+199	3519907	Iepê	-	Taxa de Mortalidade Infantil: -
+200	3520004	Igaraçu do Tietê	12.12	Taxa de Mortalidade Infantil: 12,12
+201	3520103	Igarapava	4.77	Taxa de Mortalidade Infantil: 4,77
+202	3520202	Igaratá	-	Taxa de Mortalidade Infantil: -
+203	3520301	Iguape	12.59	Taxa de Mortalidade Infantil: 12,59
+204	3520400	Ilhabela	15.78	Taxa de Mortalidade Infantil: 15,78
+205	3520509	Indaiatuba	9.85	Taxa de Mortalidade Infantil: 9,85
+206	3520608	Indiana	35.71	Taxa de Mortalidade Infantil: 35,71
+207	3520707	Indiaporã	-	Taxa de Mortalidade Infantil: -
+208	3520806	Inúbia Paulista	-	Taxa de Mortalidade Infantil: -
+209	3520905	Ipaussu	10.31	Taxa de Mortalidade Infantil: 10,31
+210	3521002	Iperó	17.96	Taxa de Mortalidade Infantil: 17,96
+211	3521101	Ipeúna	12.66	Taxa de Mortalidade Infantil: 12,66
+212	3521200	Iporanga	14.93	Taxa de Mortalidade Infantil: 14,93
+213	3521309	Ipuã	10.10	Taxa de Mortalidade Infantil: 10,10
+214	3521408	Iracemápolis	3.47	Taxa de Mortalidade Infantil: 3,47
+215	3521507	Irapuã	-	Taxa de Mortalidade Infantil: -
+216	3521606	Irapuru	-	Taxa de Mortalidade Infantil: -
+217	3521705	Itaberá	8.16	Taxa de Mortalidade Infantil: 8,16
+218	3521804	Itaí	13.55	Taxa de Mortalidade Infantil: 13,55
+219	3521903	Itajobi	7.69	Taxa de Mortalidade Infantil: 7,69
+220	3522000	Itaju	50.00	Taxa de Mortalidade Infantil: 50,00
+221	3522109	Itanhaém	13.16	Taxa de Mortalidade Infantil: 13,16
+222	3522208	Itapecerica da Serra	15.09	Taxa de Mortalidade Infantil: 15,09
+223	3522307	Itapetininga	14.28	Taxa de Mortalidade Infantil: 14,28
+224	3522406	Itapeva	17.65	Taxa de Mortalidade Infantil: 17,65
+225	3522505	Itapevi	12.76	Taxa de Mortalidade Infantil: 12,76
+226	3522604	Itapira	17.64	Taxa de Mortalidade Infantil: 17,64
+227	3522703	Itápolis	4.76	Taxa de Mortalidade Infantil: 4,76
+228	3522802	Itaporanga	4.42	Taxa de Mortalidade Infantil: 4,42
+229	3522901	Itapuí	20.83	Taxa de Mortalidade Infantil: 20,83
+230	3523008	Itapura	-	Taxa de Mortalidade Infantil: -
+231	3523107	Itaquaquecetuba	17.66	Taxa de Mortalidade Infantil: 17,66
+232	3523206	Itararé	8.04	Taxa de Mortalidade Infantil: 8,04
+233	3523305	Itariri	15.15	Taxa de Mortalidade Infantil: 15,15
+234	3523404	Itatiba	14.96	Taxa de Mortalidade Infantil: 14,96
+235	3523503	Itatinga	16.13	Taxa de Mortalidade Infantil: 16,13
+236	3523602	Itirapina	17.05	Taxa de Mortalidade Infantil: 17,05
+237	3523701	Itirapuã	-	Taxa de Mortalidade Infantil: -
+238	3523800	Itobi	21.28	Taxa de Mortalidade Infantil: 21,28
+239	3523909	Itu	14.40	Taxa de Mortalidade Infantil: 14,40
+240	3524006	Itupeva	22.19	Taxa de Mortalidade Infantil: 22,19
+241	3524105	Ituverava	13.67	Taxa de Mortalidade Infantil: 13,67
+242	3524204	Jaborandi	-	Taxa de Mortalidade Infantil: -
+243	3524303	Jaboticabal	8.16	Taxa de Mortalidade Infantil: 8,16
+244	3524402	Jacareí	15.33	Taxa de Mortalidade Infantil: 15,33
+245	3524501	Jaci	-	Taxa de Mortalidade Infantil: -
+246	3524600	Jacupiranga	3.77	Taxa de Mortalidade Infantil: 3,77
+247	3524709	Jaguariúna	11.74	Taxa de Mortalidade Infantil: 11,74
+248	3524808	Jales	3.52	Taxa de Mortalidade Infantil: 3,52
+249	3524907	Jambeiro	23.26	Taxa de Mortalidade Infantil: 23,26
+250	3525003	Jandira	19.85	Taxa de Mortalidade Infantil: 19,85
+251	3525102	Jardinópolis	7.58	Taxa de Mortalidade Infantil: 7,58
+252	3525201	Jarinu	15.34	Taxa de Mortalidade Infantil: 15,34
+253	3525300	Jaú	10.29	Taxa de Mortalidade Infantil: 10,29
+254	3525409	Jeriquara	-	Taxa de Mortalidade Infantil: -
+255	3525508	Joanópolis	18.75	Taxa de Mortalidade Infantil: 18,75
+256	3525607	João Ramalho	31.75	Taxa de Mortalidade Infantil: 31,75
+257	3525706	José Bonifácio	7.69	Taxa de Mortalidade Infantil: 7,69
+258	3525805	Júlio Mesquita	-	Taxa de Mortalidade Infantil: -
+259	3525904	Jundiaí	11.22	Taxa de Mortalidade Infantil: 11,22
+260	3526001	Junqueirópolis	4.63	Taxa de Mortalidade Infantil: 4,63
+261	3526100	Juquiá	10.95	Taxa de Mortalidade Infantil: 10,95
+262	3526209	Juquitiba	4.75	Taxa de Mortalidade Infantil: 4,75
+263	3526308	Lagoinha	17.86	Taxa de Mortalidade Infantil: 17,86
+264	3526407	Laranjal Paulista	8.98	Taxa de Mortalidade Infantil: 8,98
+265	3526506	Lavínia	-	Taxa de Mortalidade Infantil: -
+266	3526605	Lavrinhas	21.28	Taxa de Mortalidade Infantil: 21,28
+267	3526704	Leme	8.88	Taxa de Mortalidade Infantil: 8,88
+268	3526803	Lençóis Paulista	10.24	Taxa de Mortalidade Infantil: 10,24
+269	3526902	Limeira	9.10	Taxa de Mortalidade Infantil: 9,10
+270	3527009	Lindóia	-	Taxa de Mortalidade Infantil: -
+271	3527108	Lins	10.74	Taxa de Mortalidade Infantil: 10,74
+272	3527207	Lorena	16.30	Taxa de Mortalidade Infantil: 16,30
+273	3527306	Louveira	12.50	Taxa de Mortalidade Infantil: 12,50
+274	3527405	Lucélia	21.10	Taxa de Mortalidade Infantil: 21,10
+275	3527504	Lucianópolis	-	Taxa de Mortalidade Infantil: -
+276	3527603	Luís Antônio	14.29	Taxa de Mortalidade Infantil: 14,29
+277	3527702	Luiziânia	15.15	Taxa de Mortalidade Infantil: 15,15
+278	3527801	Lupércio	-	Taxa de Mortalidade Infantil: -
+279	3527900	Lutécia	-	Taxa de Mortalidade Infantil: -
+280	3528007	Macatuba	3.98	Taxa de Mortalidade Infantil: 3,98
+281	3528106	Macaubal	22.47	Taxa de Mortalidade Infantil: 22,47
+282	3528205	Macedônia	68.97	Taxa de Mortalidade Infantil: 68,97
+283	3528304	Magda	39.22	Taxa de Mortalidade Infantil: 39,22
+284	3528403	Mairinque	11.90	Taxa de Mortalidade Infantil: 11,90
+285	3528502	Mairiporã	17.05	Taxa de Mortalidade Infantil: 17,05
+286	3528601	Manduri	9.43	Taxa de Mortalidade Infantil: 9,43
+287	3528700	Marabá Paulista	43.48	Taxa de Mortalidade Infantil: 43,48
+288	3528809	Maracaí	5.46	Taxa de Mortalidade Infantil: 5,46
+289	3528908	Mariápolis	-	Taxa de Mortalidade Infantil: -
+290	3529005	Marília	14.79	Taxa de Mortalidade Infantil: 14,79
+291	3529104	Marinópolis	-	Taxa de Mortalidade Infantil: -
+292	3529203	Martinópolis	9.52	Taxa de Mortalidade Infantil: 9,52
+293	3529302	Matão	13.02	Taxa de Mortalidade Infantil: 13,02
+294	3529401	Mauá	15.65	Taxa de Mortalidade Infantil: 15,65
+295	3529500	Mendonça	-	Taxa de Mortalidade Infantil: -
+296	3529609	Meridiano	-	Taxa de Mortalidade Infantil: -
+297	3529708	Miguelópolis	9.87	Taxa de Mortalidade Infantil: 9,87
+298	3529807	Mineiros do Tietê	12.74	Taxa de Mortalidade Infantil: 12,74
+299	3529906	Miracatu	13.09	Taxa de Mortalidade Infantil: 13,09
+300	3530003	Mira Estrela	43.48	Taxa de Mortalidade Infantil: 43,48
+301	3530102	Mirandópolis	12.99	Taxa de Mortalidade Infantil: 12,99
+302	3530201	Mirante do Paranapanema	-	Taxa de Mortalidade Infantil: -
+303	3530300	Mirassol	10.79	Taxa de Mortalidade Infantil: 10,79
+304	3530409	Mirassolândia	17.54	Taxa de Mortalidade Infantil: 17,54
+305	3530508	Mococa	11.78	Taxa de Mortalidade Infantil: 11,78
+306	3530607	Mogi das Cruzes	11.39	Taxa de Mortalidade Infantil: 11,39
+307	3530706	Mogi Guaçu	5.11	Taxa de Mortalidade Infantil: 5,11
+308	3530805	Moji Mirim	6.38	Taxa de Mortalidade Infantil: 6,38
+309	3530904	Mombuca	68.18	Taxa de Mortalidade Infantil: 68,18
+310	3531001	Monções	40.00	Taxa de Mortalidade Infantil: 40,00
+311	3531100	Mongaguá	21.87	Taxa de Mortalidade Infantil: 21,87
+312	3531209	Monte Alegre do Sul	11.11	Taxa de Mortalidade Infantil: 11,11
+313	3531308	Monte Alto	14.11	Taxa de Mortalidade Infantil: 14,11
+314	3531407	Monte Aprazível	11.58	Taxa de Mortalidade Infantil: 11,58
+315	3531506	Monte Azul Paulista	8.77	Taxa de Mortalidade Infantil: 8,77
+316	3531605	Monte Castelo	25.64	Taxa de Mortalidade Infantil: 25,64
+317	3531704	Monteiro Lobato	-	Taxa de Mortalidade Infantil: -
+318	3531803	Monte Mor	13.70	Taxa de Mortalidade Infantil: 13,70
+319	3531902	Morro Agudo	6.47	Taxa de Mortalidade Infantil: 6,47
+320	3532009	Morungaba	16.57	Taxa de Mortalidade Infantil: 16,57
+321	3532108	Murutinga do Sul	-	Taxa de Mortalidade Infantil: -
+322	3532207	Narandiba	14.71	Taxa de Mortalidade Infantil: 14,71
+323	3532306	Natividade da Serra	-	Taxa de Mortalidade Infantil: -
+324	3532405	Nazaré Paulista	20.00	Taxa de Mortalidade Infantil: 20,00
+325	3532504	Neves Paulista	16.13	Taxa de Mortalidade Infantil: 16,13
+326	3532603	Nhandeara	9.35	Taxa de Mortalidade Infantil: 9,35
+327	3532702	Nipoã	-	Taxa de Mortalidade Infantil: -
+328	3532801	Nova Aliança	35.09	Taxa de Mortalidade Infantil: 35,09
+329	3532900	Nova Europa	21.58	Taxa de Mortalidade Infantil: 21,58
+330	3533007	Nova Granada	12.15	Taxa de Mortalidade Infantil: 12,15
+331	3533106	Nova Guataporanga	45.45	Taxa de Mortalidade Infantil: 45,45
+332	3533205	Nova Independência	31.25	Taxa de Mortalidade Infantil: 31,25
+333	3533304	Nova Luzitânia	-	Taxa de Mortalidade Infantil: -
+334	3533403	Nova Odessa	6.54	Taxa de Mortalidade Infantil: 6,54
+335	3533502	Novo Horizonte	19.16	Taxa de Mortalidade Infantil: 19,16
+336	3533601	Nuporanga	-	Taxa de Mortalidade Infantil: -
+337	3533700	Ocauçu	17.86	Taxa de Mortalidade Infantil: 17,86
+338	3533809	Óleo	31.25	Taxa de Mortalidade Infantil: 31,25
+339	3533908	Olímpia	7.95	Taxa de Mortalidade Infantil: 7,95
+340	3534005	Onda Verde	17.54	Taxa de Mortalidade Infantil: 17,54
+341	3534104	Oriente	29.41	Taxa de Mortalidade Infantil: 29,41
+342	3534203	Orindiúva	10.42	Taxa de Mortalidade Infantil: 10,42
+343	3534302	Orlândia	7.17	Taxa de Mortalidade Infantil: 7,17
+344	3534401	Osasco	12.78	Taxa de Mortalidade Infantil: 12,78
+345	3534500	Oscar Bressane	30.30	Taxa de Mortalidade Infantil: 30,30
+346	3534609	Osvaldo Cruz	20.48	Taxa de Mortalidade Infantil: 20,48
+347	3534708	Ourinhos	7.24	Taxa de Mortalidade Infantil: 7,24
+348	3534807	Ouro Verde	8.93	Taxa de Mortalidade Infantil: 8,93
+349	3534906	Pacaembu	30.53	Taxa de Mortalidade Infantil: 30,53
+350	3535002	Palestina	18.52	Taxa de Mortalidade Infantil: 18,52
+351	3535101	Palmares Paulista	19.35	Taxa de Mortalidade Infantil: 19,35
+352	3535200	Palmeira d'Oeste	17.54	Taxa de Mortalidade Infantil: 17,54
+353	3535309	Palmital	11.32	Taxa de Mortalidade Infantil: 11,32
+354	3535408	Panorama	9.39	Taxa de Mortalidade Infantil: 9,39
+355	3535507	Paraguaçu Paulista	19.32	Taxa de Mortalidade Infantil: 19,32
+356	3535606	Paraibuna	5.00	Taxa de Mortalidade Infantil: 5,00
+357	3535705	Paraíso	-	Taxa de Mortalidade Infantil: -
+358	3535804	Paranapanema	8.23	Taxa de Mortalidade Infantil: 8,23
+359	3535903	Paranapuã	60.61	Taxa de Mortalidade Infantil: 60,61
+360	3536000	Parapuã	-	Taxa de Mortalidade Infantil: -
+361	3536109	Pardinho	-	Taxa de Mortalidade Infantil: -
+362	3536208	Pariquera-Açu	27.68	Taxa de Mortalidade Infantil: 27,68
+363	3536307	Patrocínio Paulista	5.75	Taxa de Mortalidade Infantil: 5,75
+364	3536406	Paulicéia	14.08	Taxa de Mortalidade Infantil: 14,08
+365	3536505	Paulínia	7.56	Taxa de Mortalidade Infantil: 7,56
+366	3536604	Paulo de Faria	16.26	Taxa de Mortalidade Infantil: 16,26
+367	3536703	Pederneiras	11.90	Taxa de Mortalidade Infantil: 11,90
+368	3536802	Pedra Bela	14.71	Taxa de Mortalidade Infantil: 14,71
+369	3536901	Pedranópolis	-	Taxa de Mortalidade Infantil: -
+370	3537008	Pedregulho	12.40	Taxa de Mortalidade Infantil: 12,40
+371	3537107	Pedreira	17.54	Taxa de Mortalidade Infantil: 17,54
+372	3537206	Pedro de Toledo	37.88	Taxa de Mortalidade Infantil: 37,88
+373	3537305	Penápolis	7.63	Taxa de Mortalidade Infantil: 7,63
+374	3537404	Pereira Barreto	27.92	Taxa de Mortalidade Infantil: 27,92
+375	3537503	Pereiras	10.10	Taxa de Mortalidade Infantil: 10,10
+376	3537602	Peruíbe	24.30	Taxa de Mortalidade Infantil: 24,30
+377	3537701	Piacatu	-	Taxa de Mortalidade Infantil: -
+378	3537800	Piedade	27.22	Taxa de Mortalidade Infantil: 27,22
+379	3537909	Pilar do Sul	22.56	Taxa de Mortalidade Infantil: 22,56
+380	3538006	Pindamonhangaba	16.64	Taxa de Mortalidade Infantil: 16,64
+381	3538105	Pindorama	18.29	Taxa de Mortalidade Infantil: 18,29
+382	3515186	Espírito Santo do Pinhal	11.11	Taxa de Mortalidade Infantil: 11,11
+383	3538204	Pinhalzinho	25.64	Taxa de Mortalidade Infantil: 25,64
+384	3538303	Piquerobi	-	Taxa de Mortalidade Infantil: -
+385	3538501	Piquete	5.18	Taxa de Mortalidade Infantil: 5,18
+386	3538600	Piracaia	5.95	Taxa de Mortalidade Infantil: 5,95
+387	3538709	Piracicaba	11.02	Taxa de Mortalidade Infantil: 11,02
+388	3538808	Piraju	8.93	Taxa de Mortalidade Infantil: 8,93
+389	3538907	Pirajuí	32.00	Taxa de Mortalidade Infantil: 32,00
+390	3539004	Pirangi	7.75	Taxa de Mortalidade Infantil: 7,75
+391	3539103	Pirapora do Bom Jesus	17.32	Taxa de Mortalidade Infantil: 17,32
+392	3539202	Pirapozinho	3.33	Taxa de Mortalidade Infantil: 3,33
+393	3539301	Pirassununga	13.78	Taxa de Mortalidade Infantil: 13,78
+394	3539400	Piratininga	47.62	Taxa de Mortalidade Infantil: 47,62
+395	3539509	Pitangueiras	17.76	Taxa de Mortalidade Infantil: 17,76
+396	3539608	Planalto	-	Taxa de Mortalidade Infantil: -
+397	3539707	Platina	-	Taxa de Mortalidade Infantil: -
+398	3539806	Poá	10.57	Taxa de Mortalidade Infantil: 10,57
+399	3539905	Poloni	-	Taxa de Mortalidade Infantil: -
+400	3540002	Pompéia	13.04	Taxa de Mortalidade Infantil: 13,04
+401	3540101	Pongaí	-	Taxa de Mortalidade Infantil: -
+402	3540200	Pontal	8.36	Taxa de Mortalidade Infantil: 8,36
+403	3540309	Pontes Gestal	-	Taxa de Mortalidade Infantil: -
+404	3540408	Populina	-	Taxa de Mortalidade Infantil: -
+405	3540507	Porangaba	-	Taxa de Mortalidade Infantil: -
+406	3540606	Porto Feliz	12.82	Taxa de Mortalidade Infantil: 12,82
+407	3540705	Porto Ferreira	10.26	Taxa de Mortalidade Infantil: 10,26
+408	3540804	Potirendaba	5.10	Taxa de Mortalidade Infantil: 5,10
+409	3540903	Pradópolis	15.15	Taxa de Mortalidade Infantil: 15,15
+410	3541000	Praia Grande	17.08	Taxa de Mortalidade Infantil: 17,08
+411	3541109	Presidente Alves	18.87	Taxa de Mortalidade Infantil: 18,87
+412	3541208	Presidente Bernardes	22.90	Taxa de Mortalidade Infantil: 22,90
+413	3541307	Presidente Epitácio	14.63	Taxa de Mortalidade Infantil: 14,63
+414	3541406	Presidente Prudente	9.48	Taxa de Mortalidade Infantil: 9,48
+415	3541505	Presidente Venceslau	9.20	Taxa de Mortalidade Infantil: 9,20
+416	3541604	Promissão	7.87	Taxa de Mortalidade Infantil: 7,87
+417	3541703	Quatá	16.22	Taxa de Mortalidade Infantil: 16,22
+418	3541802	Queiroz	-	Taxa de Mortalidade Infantil: -
+419	3541901	Queluz	6.33	Taxa de Mortalidade Infantil: 6,33
+420	3542008	Quintana	-	Taxa de Mortalidade Infantil: -
+421	3542107	Rafard	-	Taxa de Mortalidade Infantil: -
+422	3542206	Rancharia	10.72	Taxa de Mortalidade Infantil: 10,72
+423	3542305	Redenção da Serra	-	Taxa de Mortalidade Infantil: -
+424	3542404	Regente Feijó	33.02	Taxa de Mortalidade Infantil: 33,02
+425	3542503	Reginópolis	34.48	Taxa de Mortalidade Infantil: 34,48
+426	3542602	Registro	14.67	Taxa de Mortalidade Infantil: 14,67
+427	3542701	Restinga	8.93	Taxa de Mortalidade Infantil: 8,93
+428	3542800	Ribeira	-	Taxa de Mortalidade Infantil: -
+429	3542909	Ribeirão Bonito	10.81	Taxa de Mortalidade Infantil: 10,81
+430	3543006	Ribeirão Branco	17.18	Taxa de Mortalidade Infantil: 17,18
+431	3543105	Ribeirão Corrente	16.39	Taxa de Mortalidade Infantil: 16,39
+432	3543204	Ribeirão do Sul	18.18	Taxa de Mortalidade Infantil: 18,18
+433	3543303	Ribeirão Pires	13.62	Taxa de Mortalidade Infantil: 13,62
+434	3543402	Ribeirão Preto	9.05	Taxa de Mortalidade Infantil: 9,05
+435	3543501	Riversul	37.04	Taxa de Mortalidade Infantil: 37,04
+436	3543600	Rifaina	-	Taxa de Mortalidade Infantil: -
+437	3543709	Rincão	26.85	Taxa de Mortalidade Infantil: 26,85
+438	3543808	Rinópolis	36.04	Taxa de Mortalidade Infantil: 36,04
+439	3543907	Rio Claro	12.96	Taxa de Mortalidade Infantil: 12,96
+440	3544004	Rio das Pedras	20.69	Taxa de Mortalidade Infantil: 20,69
+441	3544103	Rio Grande da Serra	20.41	Taxa de Mortalidade Infantil: 20,41
+442	3544202	Riolândia	13.70	Taxa de Mortalidade Infantil: 13,70
+443	3544301	Roseira	15.75	Taxa de Mortalidade Infantil: 15,75
+444	3544400	Rubiácea	-	Taxa de Mortalidade Infantil: -
+445	3544509	Rubinéia	-	Taxa de Mortalidade Infantil: -
+446	3544608	Sabino	42.86	Taxa de Mortalidade Infantil: 42,86
+447	3544707	Sagres	-	Taxa de Mortalidade Infantil: -
+448	3544806	Sales	-	Taxa de Mortalidade Infantil: -
+449	3544905	Sales Oliveira	20.41	Taxa de Mortalidade Infantil: 20,41
+450	3545001	Salesópolis	16.72	Taxa de Mortalidade Infantil: 16,72
+451	3545100	Salmourão	20.00	Taxa de Mortalidade Infantil: 20,00
+452	3545209	Salto	14.18	Taxa de Mortalidade Infantil: 14,18
+453	3545308	Salto de Pirapora	9.12	Taxa de Mortalidade Infantil: 9,12
+454	3545407	Salto Grande	-	Taxa de Mortalidade Infantil: -
+455	3545506	Sandovalina	-	Taxa de Mortalidade Infantil: -
+456	3545605	Santa Adélia	15.96	Taxa de Mortalidade Infantil: 15,96
+457	3545704	Santa Albertina	18.18	Taxa de Mortalidade Infantil: 18,18
+458	3545803	Santa Bárbara d'Oeste	8.30	Taxa de Mortalidade Infantil: 8,30
+459	3500550	Águas de Santa Bárbara	13.16	Taxa de Mortalidade Infantil: 13,16
+460	3546009	Santa Branca	12.35	Taxa de Mortalidade Infantil: 12,35
+461	3546108	Santa Clara d'Oeste	-	Taxa de Mortalidade Infantil: -
+462	3546207	Santa Cruz da Conceição	26.32	Taxa de Mortalidade Infantil: 26,32
+463	3546306	Santa Cruz das Palmeiras	15.22	Taxa de Mortalidade Infantil: 15,22
+464	3546405	Santa Cruz do Rio Pardo	15.41	Taxa de Mortalidade Infantil: 15,41
+465	3546504	Santa Ernestina	-	Taxa de Mortalidade Infantil: -
+466	3546603	Santa Fé do Sul	15.20	Taxa de Mortalidade Infantil: 15,20
+467	3546702	Santa Gertrudes	-	Taxa de Mortalidade Infantil: -
+468	3546801	Santa Isabel	6.49	Taxa de Mortalidade Infantil: 6,49
+469	3546900	Santa Lucia	8.55	Taxa de Mortalidade Infantil: 8,55
+470	3547007	Santa Maria da Serra	12.05	Taxa de Mortalidade Infantil: 12,05
+471	3547106	Santa Mercedes	-	Taxa de Mortalidade Infantil: -
+472	3547403	Santa Rita d'Oeste	-	Taxa de Mortalidade Infantil: -
+473	3547502	Santa Rita do Passa Quatro	17.54	Taxa de Mortalidade Infantil: 17,54
+474	3547601	Santa Rosa do Viterbo	6.31	Taxa de Mortalidade Infantil: 6,31
+475	3547205	Santana da Ponte Pensa	-	Taxa de Mortalidade Infantil: -
+476	3547304	Santana de Parnaíba	13.66	Taxa de Mortalidade Infantil: 13,66
+477	3547700	Santo Anastácio	11.45	Taxa de Mortalidade Infantil: 11,45
+478	3547809	Santo André	12.75	Taxa de Mortalidade Infantil: 12,75
+479	3547908	Santo Antonio da Alegria	-	Taxa de Mortalidade Infantil: -
+480	3548104	Santo Antonio do Jardim	-	Taxa de Mortalidade Infantil: -
+481	3548203	Santo Antonio do Pinhal	41.67	Taxa de Mortalidade Infantil: 41,67
+482	3548005	Santo Antonio de Posse	7.25	Taxa de Mortalidade Infantil: 7,25
+483	3548302	Santo Expedito	33.33	Taxa de Mortalidade Infantil: 33,33
+484	3548401	Santópolis do Aguapeí	30.30	Taxa de Mortalidade Infantil: 30,30
+485	3548500	Santos	12.53	Taxa de Mortalidade Infantil: 12,53
+486	3548609	São Bento do Sapucaí	22.73	Taxa de Mortalidade Infantil: 22,73
+487	3548708	São Bernardo do Campo	12.20	Taxa de Mortalidade Infantil: 12,20
+488	3548807	São Caetano do Sul	4.09	Taxa de Mortalidade Infantil: 4,09
+489	3548906	São Carlos	7.07	Taxa de Mortalidade Infantil: 7,07
+490	3549003	São Francisco	-	Taxa de Mortalidade Infantil: -
+491	3549102	São João da Boa Vista	16.04	Taxa de Mortalidade Infantil: 16,04
+492	3549201	São João das Duas Pontes	-	Taxa de Mortalidade Infantil: -
+493	3549300	São João do Pau d'Alho	-	Taxa de Mortalidade Infantil: -
+494	3549409	São Joaquim da Barra	15.46	Taxa de Mortalidade Infantil: 15,46
+495	3549607	São José do Barreiro	16.95	Taxa de Mortalidade Infantil: 16,95
+496	3549508	São José da Bela Vista	14.18	Taxa de Mortalidade Infantil: 14,18
+497	3549706	São José do Rio Pardo	7.89	Taxa de Mortalidade Infantil: 7,89
+498	3549805	São José do Rio Preto	10.20	Taxa de Mortalidade Infantil: 10,20
+499	3549904	São José dos Campos	11.43	Taxa de Mortalidade Infantil: 11,43
+500	3550001	São Luís do Paraitinga	18.02	Taxa de Mortalidade Infantil: 18,02
+501	3550100	São Manuel	9.43	Taxa de Mortalidade Infantil: 9,43
+502	3550209	São Miguel Arcanjo	14.23	Taxa de Mortalidade Infantil: 14,23
+503	3550308	São Paulo	11.99	Taxa de Mortalidade Infantil: 11,99
+504	3550407	São Pedro	15.58	Taxa de Mortalidade Infantil: 15,58
+505	3550506	São Pedro do Turvo	-	Taxa de Mortalidade Infantil: -
+506	3550605	São Roque	11.81	Taxa de Mortalidade Infantil: 11,81
+507	3550704	São Sebastião	15.21	Taxa de Mortalidade Infantil: 15,21
+508	3550803	São Sebastião da Grama	33.56	Taxa de Mortalidade Infantil: 33,56
+509	3550902	São Simão	22.22	Taxa de Mortalidade Infantil: 22,22
+510	3551009	São Vicente	20.33	Taxa de Mortalidade Infantil: 20,33
+511	3551108	Sarapuí	30.93	Taxa de Mortalidade Infantil: 30,93
+512	3551207	Sarutaiá	-	Taxa de Mortalidade Infantil: -
+513	3551306	Sebastianópolis do Sul	-	Taxa de Mortalidade Infantil: -
+514	3551405	Serra Azul	25.86	Taxa de Mortalidade Infantil: 25,86
+515	3551603	Serra Negra	28.21	Taxa de Mortalidade Infantil: 28,21
+516	3551504	Serrana	10.74	Taxa de Mortalidade Infantil: 10,74
+517	3551702	Sertãozinho	11.03	Taxa de Mortalidade Infantil: 11,03
+518	3551801	Sete Barras	16.95	Taxa de Mortalidade Infantil: 16,95
+519	3551900	Severínia	9.26	Taxa de Mortalidade Infantil: 9,26
+520	3552007	Silveiras	40.00	Taxa de Mortalidade Infantil: 40,00
+521	3552106	Socorro	9.69	Taxa de Mortalidade Infantil: 9,69
+522	3552205	Sorocaba	12.35	Taxa de Mortalidade Infantil: 12,35
+523	3552304	Sud Mennucci	17.39	Taxa de Mortalidade Infantil: 17,39
+524	3552403	Sumaré	11.13	Taxa de Mortalidade Infantil: 11,13
+525	3552502	Suzano	17.63	Taxa de Mortalidade Infantil: 17,63
+526	3552601	Tabapuã	6.58	Taxa de Mortalidade Infantil: 6,58
+527	3552700	Tabatinga	10.58	Taxa de Mortalidade Infantil: 10,58
+528	3552809	Taboão da Serra	12.45	Taxa de Mortalidade Infantil: 12,45
+529	3552908	Taciba	14.71	Taxa de Mortalidade Infantil: 14,71
+530	3553005	Taguaí	-	Taxa de Mortalidade Infantil: -
+531	3553104	Taiaçu	33.33	Taxa de Mortalidade Infantil: 33,33
+532	3553203	Taiúva	15.38	Taxa de Mortalidade Infantil: 15,38
+533	3553302	Tambaú	6.37	Taxa de Mortalidade Infantil: 6,37
+534	3553401	Tanabi	14.34	Taxa de Mortalidade Infantil: 14,34
+535	3553500	Tapiraí	8.47	Taxa de Mortalidade Infantil: 8,47
+536	3553609	Tapiratiba	6.54	Taxa de Mortalidade Infantil: 6,54
+537	3553708	Taquaritinga	21.51	Taxa de Mortalidade Infantil: 21,51
+538	3553807	Taquarituba	13.42	Taxa de Mortalidade Infantil: 13,42
+539	3553906	Tarabaí	27.03	Taxa de Mortalidade Infantil: 27,03
+540	3554003	Tatuí	17.29	Taxa de Mortalidade Infantil: 17,29
+541	3554102	Taubaté	12.33	Taxa de Mortalidade Infantil: 12,33
+542	3554201	Tejupá	16.39	Taxa de Mortalidade Infantil: 16,39
+543	3554300	Teodoro Sampaio	14.34	Taxa de Mortalidade Infantil: 14,34
+544	3554409	Terra Roxa	16.00	Taxa de Mortalidade Infantil: 16,00
+545	3554508	Tietê	7.58	Taxa de Mortalidade Infantil: 7,58
+546	3554607	Timburi	-	Taxa de Mortalidade Infantil: -
+547	3554706	Torrinha	9.35	Taxa de Mortalidade Infantil: 9,35
+548	3554805	Tremembé	14.80	Taxa de Mortalidade Infantil: 14,80
+549	3554904	Três Fronteiras	102.04	Taxa de Mortalidade Infantil: 102,04
+550	3555000	Tupã	13.40	Taxa de Mortalidade Infantil: 13,40
+551	3555109	Tupi Paulista	-	Taxa de Mortalidade Infantil: -
+552	3555208	Turiúba	-	Taxa de Mortalidade Infantil: -
+553	3555307	Turmalina	55.56	Taxa de Mortalidade Infantil: 55,56
+554	3555406	Ubatuba	11.22	Taxa de Mortalidade Infantil: 11,22
+555	3555505	Ubirajara	38.46	Taxa de Mortalidade Infantil: 38,46
+556	3555604	Uchôa	-	Taxa de Mortalidade Infantil: -
+557	3555703	União Paulista	-	Taxa de Mortalidade Infantil: -
+558	3555802	Urânia	10.42	Taxa de Mortalidade Infantil: 10,42
+559	3555901	Uru	76.92	Taxa de Mortalidade Infantil: 76,92
+560	3556008	Urupês	17.24	Taxa de Mortalidade Infantil: 17,24
+561	3556107	Valentim Gentil	61.95	Taxa de Mortalidade Infantil: 61,95
+562	3556206	Valinhos	9.29	Taxa de Mortalidade Infantil: 9,29
+563	3556305	Valparaíso	27.30	Taxa de Mortalidade Infantil: 27,30
+564	3556404	Vargem Grande do Sul	16.13	Taxa de Mortalidade Infantil: 16,13
+565	3556503	Várzea Paulista	11.36	Taxa de Mortalidade Infantil: 11,36
+566	3556602	Vera Cruz	17.24	Taxa de Mortalidade Infantil: 17,24
+567	3556701	Vinhedo	14.15	Taxa de Mortalidade Infantil: 14,15
+568	3556800	Viradouro	8.13	Taxa de Mortalidade Infantil: 8,13
+569	3556909	Vista Alegre do Alto	13.16	Taxa de Mortalidade Infantil: 13,16
+570	3557006	Votorantim	19.77	Taxa de Mortalidade Infantil: 19,77
+571	3557105	Votuporanga	23.33	Taxa de Mortalidade Infantil: 23,33
+572	3556453	Vargem Grande Paulista	6.79	Taxa de Mortalidade Infantil: 6,79
+573	3500758	Alambari	15.15	Taxa de Mortalidade Infantil: 15,15
+574	3501152	Alumínio	22.47	Taxa de Mortalidade Infantil: 22,47
+575	3502754	Araçariguama	6.54	Taxa de Mortalidade Infantil: 6,54
+576	3503158	Arapeí	-	Taxa de Mortalidade Infantil: -
+577	3503950	Aspásia	-	Taxa de Mortalidade Infantil: -
+578	3505351	Barra do Chapéu	12.66	Taxa de Mortalidade Infantil: 12,66
+579	3506359	Bertioga	17.45	Taxa de Mortalidade Infantil: 17,45
+580	3507159	Bom Sucesso de Itararé	11.11	Taxa de Mortalidade Infantil: 11,11
+581	3507456	Borebi	55.56	Taxa de Mortalidade Infantil: 55,56
+582	3509254	Cajati	7.83	Taxa de Mortalidade Infantil: 7,83
+583	3509452	Campina do Monte Alegre	-	Taxa de Mortalidade Infantil: -
+584	3510153	Canitar	12.50	Taxa de Mortalidade Infantil: 12,50
+585	3513850	Dirce Reis	-	Taxa de Mortalidade Infantil: -
+586	3514924	Elisiário	-	Taxa de Mortalidade Infantil: -
+587	3514957	Embaúba	37.04	Taxa de Mortalidade Infantil: 37,04
+588	3515129	Emilianópolis	-	Taxa de Mortalidade Infantil: -
+589	3515152	Engenheiro Coelho	13.64	Taxa de Mortalidade Infantil: 13,64
+590	3515194	Espírito Santo do Turvo	-	Taxa de Mortalidade Infantil: -
+591	3557303	Estiva Gerbi	8.00	Taxa de Mortalidade Infantil: 8,00
+592	3515350	Euclides da Cunha Paulista	15.87	Taxa de Mortalidade Infantil: 15,87
+593	3518859	Guatapará	10.00	Taxa de Mortalidade Infantil: 10,00
+594	3519055	Holambra	-	Taxa de Mortalidade Infantil: -
+595	3519071	Hortolândia	9.70	Taxa de Mortalidade Infantil: 9,70
+596	3519253	Iaras	14.29	Taxa de Mortalidade Infantil: 14,29
+597	3520426	Ilha Comprida	7.69	Taxa de Mortalidade Infantil: 7,69
+598	3520442	Ilha Solteira	10.45	Taxa de Mortalidade Infantil: 10,45
+599	3522158	Itaóca	-	Taxa de Mortalidade Infantil: -
+600	3522653	Itapirapuã Paulista	30.30	Taxa de Mortalidade Infantil: 30,30
+601	3527256	Lourdes	-	Taxa de Mortalidade Infantil: -
+602	3528858	Marapoama	-	Taxa de Mortalidade Infantil: -
+603	3529658	Mesópolis	-	Taxa de Mortalidade Infantil: -
+604	3532058	Motuca	-	Taxa de Mortalidade Infantil: -
+605	3532827	Nova Campina	14.71	Taxa de Mortalidade Infantil: 14,71
+606	3532843	Nova Canaã Paulista	-	Taxa de Mortalidade Infantil: -
+607	3533254	Novais	13.16	Taxa de Mortalidade Infantil: 13,16
+608	3536257	Parisi	-	Taxa de Mortalidade Infantil: -
+609	3537156	Pedrinhas Paulista	38.46	Taxa de Mortalidade Infantil: 38,46
+610	3540259	Pontalinda	12.99	Taxa de Mortalidade Infantil: 12,99
+611	3540754	Potim	18.25	Taxa de Mortalidade Infantil: 18,25
+612	3543253	Ribeirão Grande	18.87	Taxa de Mortalidade Infantil: 18,87
+613	3544251	Rosana	8.03	Taxa de Mortalidade Infantil: 8,03
+614	3545159	Saltinho	-	Taxa de Mortalidade Infantil: -
+615	3549250	São João de Iracema	-	Taxa de Mortalidade Infantil: -
+616	3549953	São Lourenço da Serra	14.63	Taxa de Mortalidade Infantil: 14,63
+617	3548054	Santo Antonio do Aracanguá	10.75	Taxa de Mortalidade Infantil: 10,75
+618	3552551	Suzanápolis	-	Taxa de Mortalidade Infantil: -
+619	3553856	Taquarivaí	21.28	Taxa de Mortalidade Infantil: 21,28
+620	3553955	Tarumã	4.61	Taxa de Mortalidade Infantil: 4,61
+621	3554656	Torre de Pedra	-	Taxa de Mortalidade Infantil: -
+622	3554953	Tuiuti	-	Taxa de Mortalidade Infantil: -
+623	3555356	Ubarana	-	Taxa de Mortalidade Infantil: -
+624	3556354	Vargem	21.05	Taxa de Mortalidade Infantil: 21,05
+625	3557154	Zacarias	74.07	Taxa de Mortalidade Infantil: 74,07
+626	3503356	Arco Íris	-	Taxa de Mortalidade Infantil: -
+627	3507753	Brejo Alegre	38.46	Taxa de Mortalidade Infantil: 38,46
+628	3509957	Canas	12.05	Taxa de Mortalidade Infantil: 12,05
+629	3540853	Pracinha	-	Taxa de Mortalidade Infantil: -
+630	3541059	Pratânia	14.49	Taxa de Mortalidade Infantil: 14,49
+631	3541653	Quadra	-	Taxa de Mortalidade Infantil: -
+632	3546256	Santa Cruz da Esperança	-	Taxa de Mortalidade Infantil: -
+633	3547650	Santa Salete	-	Taxa de Mortalidade Infantil: -
+634	3556958	Vitória Brasil	-	Taxa de Mortalidade Infantil: -
+635	3521150	Ipiguá	15.38	Taxa de Mortalidade Infantil: 15,38
+636	3553658	Taquaral	-	Taxa de Mortalidade Infantil: -
+637	3515657	Fernão	-	Taxa de Mortalidade Infantil: -
+638	3516853	Gavião Peixoto	13.89	Taxa de Mortalidade Infantil: 13,89
+639	3525854	Jumirim	43.48	Taxa de Mortalidade Infantil: 43,48
+640	3532157	Nantes	-	Taxa de Mortalidade Infantil: -
+641	3532868	Nova Castilho	-	Taxa de Mortalidade Infantil: -
+642	3534757	Ouroeste	-	Taxa de Mortalidade Infantil: -
+643	3536570	Paulistânia	-	Taxa de Mortalidade Infantil: -
+644	3543238	Ribeirão dos Índios	-	Taxa de Mortalidade Infantil: -
+645	3554755	Trabiju	-	Taxa de Mortalidade Infantil: -

@@ -35,8 +35,8 @@
                     </div>
                 </div>
                 <vega-map ng-repeat="mapa in mapas" url="data/{{ mapa.feature }}/{{ mapa.id }}/{{ mapa.current }}.tsv" width="845" height="550" info="mapa.info"
-                        feature="{{ mapa.feature }}" geometry="data/{{ mapa.feature }}.topo.json" parse="mapa.parse"
-                        data-title="{{ mapa.title }}" current="mapa.current" alternatives="mapa.alternatives"
+                        feature="mapa.feature" features="mapa.features" geometry="data/{{ mapa.feature }}.topo.json" parse="mapa.parse"
+                        data-title="{{ mapa.title }}" current="mapa.current" alternatives="mapa.alternatives" feature-labels="mapa.featureLabels"
                         scale="{{ mapa.scale }}" domain="mapa.domain" range="mapa.range" on-close="remove($index)">
                     <div ng-show="mapa.info">
                         <h3>{{ mapa.info.localidade }}</h3>

@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	1516	População em Idade Escolar de 0 a 3 Anos: 1.516
+2	3500204	Adolfo	172	População em Idade Escolar de 0 a 3 Anos: 172
+3	3500303	Aguaí	1905	População em Idade Escolar de 0 a 3 Anos: 1.905
+4	3500402	Águas da Prata	342	População em Idade Escolar de 0 a 3 Anos: 342
+5	3500501	Águas de Lindóia	903	População em Idade Escolar de 0 a 3 Anos: 903
+6	3500600	Águas de São Pedro	80	População em Idade Escolar de 0 a 3 Anos: 80
+7	3500709	Agudos	2123	População em Idade Escolar de 0 a 3 Anos: 2.123
+8	3500808	Alfredo Marcondes	172	População em Idade Escolar de 0 a 3 Anos: 172
+9	3500907	Altair	245	População em Idade Escolar de 0 a 3 Anos: 245
+10	3501004	Altinópolis	866	População em Idade Escolar de 0 a 3 Anos: 866
+11	3501103	Alto Alegre	194	População em Idade Escolar de 0 a 3 Anos: 194
+12	3501202	Álvares Florence	179	População em Idade Escolar de 0 a 3 Anos: 179
+13	3501301	Álvares Machado	1352	População em Idade Escolar de 0 a 3 Anos: 1.352
+14	3501400	Álvaro de Carvalho	239	População em Idade Escolar de 0 a 3 Anos: 239
+15	3501509	Alvinlândia	201	População em Idade Escolar de 0 a 3 Anos: 201
+16	3501608	Americana	9974	População em Idade Escolar de 0 a 3 Anos: 9.974
+17	3501707	Américo Brasiliense	2139	População em Idade Escolar de 0 a 3 Anos: 2.139
+18	3501806	Américo de Campos	274	População em Idade Escolar de 0 a 3 Anos: 274
+19	3501905	Amparo	3182	População em Idade Escolar de 0 a 3 Anos: 3.182
+20	3502002	Analândia	225	População em Idade Escolar de 0 a 3 Anos: 225
+21	3502101	Andradina	2860	População em Idade Escolar de 0 a 3 Anos: 2.860
+22	3502200	Angatuba	1269	População em Idade Escolar de 0 a 3 Anos: 1.269
+23	3502309	Anhembi	355	População em Idade Escolar de 0 a 3 Anos: 355
+24	3502408	Anhumas	209	População em Idade Escolar de 0 a 3 Anos: 209
+25	3502507	Aparecida	1968	População em Idade Escolar de 0 a 3 Anos: 1.968
+26	3502606	Aparecida d'Oeste	218	População em Idade Escolar de 0 a 3 Anos: 218
+27	3502705	Apiaí	1942	População em Idade Escolar de 0 a 3 Anos: 1.942
+28	3502804	Araçatuba	9156	População em Idade Escolar de 0 a 3 Anos: 9.156
+29	3502903	Araçoiaba da Serra	1462	População em Idade Escolar de 0 a 3 Anos: 1.462
+30	3503000	Aramina	258	População em Idade Escolar de 0 a 3 Anos: 258
+31	3503109	Arandu	382	População em Idade Escolar de 0 a 3 Anos: 382
+32	3503208	Araraquara	9731	População em Idade Escolar de 0 a 3 Anos: 9.731
+33	3503307	Araras	6132	População em Idade Escolar de 0 a 3 Anos: 6.132
+34	3503406	Arealva	384	População em Idade Escolar de 0 a 3 Anos: 384
+35	3503505	Areias	253	População em Idade Escolar de 0 a 3 Anos: 253
+36	3503604	Areiópolis	751	População em Idade Escolar de 0 a 3 Anos: 751
+37	3503703	Ariranha	449	População em Idade Escolar de 0 a 3 Anos: 449
+38	3503802	Artur Nogueira	2495	População em Idade Escolar de 0 a 3 Anos: 2.495
+39	3503901	Arujá	4609	População em Idade Escolar de 0 a 3 Anos: 4.609
+40	3504008	Assis	4864	População em Idade Escolar de 0 a 3 Anos: 4.864
+41	3504107	Atibaia	7054	População em Idade Escolar de 0 a 3 Anos: 7.054
+42	3504206	Auriflama	641	População em Idade Escolar de 0 a 3 Anos: 641
+43	3504305	Avaí	294	População em Idade Escolar de 0 a 3 Anos: 294
+44	3504404	Avanhandava	658	População em Idade Escolar de 0 a 3 Anos: 658
+45	3504503	Avaré	4709	População em Idade Escolar de 0 a 3 Anos: 4.709
+46	3504602	Bady Bassitt	781	População em Idade Escolar de 0 a 3 Anos: 781
+47	3504701	Balbinos	98	População em Idade Escolar de 0 a 3 Anos: 98
+48	3504800	Bálsamo	377	População em Idade Escolar de 0 a 3 Anos: 377
+49	3504909	Bananal	638	População em Idade Escolar de 0 a 3 Anos: 638
+50	3505005	Barão de Antonina	194	População em Idade Escolar de 0 a 3 Anos: 194
+51	3505104	Barbosa	408	População em Idade Escolar de 0 a 3 Anos: 408
+52	3505203	Bariri	1724	População em Idade Escolar de 0 a 3 Anos: 1.724
+53	3505302	Barra Bonita	1740	População em Idade Escolar de 0 a 3 Anos: 1.740
+54	3505401	Barra do Turvo	635	População em Idade Escolar de 0 a 3 Anos: 635
+55	3505500	Barretos	5760	População em Idade Escolar de 0 a 3 Anos: 5.760
+56	3505609	Barrinha	1999	População em Idade Escolar de 0 a 3 Anos: 1.999
+57	3505708	Barueri	16077	População em Idade Escolar de 0 a 3 Anos: 16.077
+58	3505807	Bastos	1259	População em Idade Escolar de 0 a 3 Anos: 1.259
+59	3505906	Batatais	2929	População em Idade Escolar de 0 a 3 Anos: 2.929
+60	3506003	Bauru	18368	População em Idade Escolar de 0 a 3 Anos: 18.368
+61	3506102	Bebedouro	4160	População em Idade Escolar de 0 a 3 Anos: 4.160
+62	3506201	Bento de Abreu	151	População em Idade Escolar de 0 a 3 Anos: 151
+63	3506300	Bernardino de Campos	604	População em Idade Escolar de 0 a 3 Anos: 604
+64	3506409	Bilac	283	População em Idade Escolar de 0 a 3 Anos: 283
+65	3506508	Birigui	5465	População em Idade Escolar de 0 a 3 Anos: 5.465
+66	3506607	Biritiba Mirim	1908	População em Idade Escolar de 0 a 3 Anos: 1.908
+67	3506706	Boa Esperança do Sul	912	População em Idade Escolar de 0 a 3 Anos: 912
+68	3506805	Bocaina	583	População em Idade Escolar de 0 a 3 Anos: 583
+69	3506904	Bofete	546	População em Idade Escolar de 0 a 3 Anos: 546
+70	3507001	Boituva	2587	População em Idade Escolar de 0 a 3 Anos: 2.587
+71	3507100	Bom Jesus dos Perdões	1086	População em Idade Escolar de 0 a 3 Anos: 1.086
+72	3507209	Borá	39	População em Idade Escolar de 0 a 3 Anos: 39
+73	3507308	Boracéia	251	População em Idade Escolar de 0 a 3 Anos: 251
+74	3507407	Borborema	727	População em Idade Escolar de 0 a 3 Anos: 727
+75	3507506	Botucatu	6758	População em Idade Escolar de 0 a 3 Anos: 6.758
+76	3507605	Bragança Paulista	7673	População em Idade Escolar de 0 a 3 Anos: 7.673
+77	3507704	Braúna	244	População em Idade Escolar de 0 a 3 Anos: 244
+78	3507803	Brodowski	1103	População em Idade Escolar de 0 a 3 Anos: 1.103
+79	3507902	Brotas	1228	População em Idade Escolar de 0 a 3 Anos: 1.228
+80	3508009	Buri	1414	População em Idade Escolar de 0 a 3 Anos: 1.414
+81	3508108	Buritama	802	População em Idade Escolar de 0 a 3 Anos: 802
+82	3508207	Buritizal	209	População em Idade Escolar de 0 a 3 Anos: 209
+83	3508306	Cabrália Paulista	286	População em Idade Escolar de 0 a 3 Anos: 286
+84	3508405	Cabreúva	2795	População em Idade Escolar de 0 a 3 Anos: 2.795
+85	3508504	Caçapava	4922	População em Idade Escolar de 0 a 3 Anos: 4.922
+86	3508603	Cachoeira Paulista	1714	População em Idade Escolar de 0 a 3 Anos: 1.714
+87	3508702	Caconde	1189	População em Idade Escolar de 0 a 3 Anos: 1.189
+88	3508801	Cafelândia	915	População em Idade Escolar de 0 a 3 Anos: 915
+89	3508900	Caiabu	229	População em Idade Escolar de 0 a 3 Anos: 229
+90	3509007	Caieiras	5345	População em Idade Escolar de 0 a 3 Anos: 5.345
+91	3509106	Caiuá	254	População em Idade Escolar de 0 a 3 Anos: 254
+92	3509205	Cajamar	4224	População em Idade Escolar de 0 a 3 Anos: 4.224
+93	3509304	Cajobi	457	População em Idade Escolar de 0 a 3 Anos: 457
+94	3509403	Cajuru	1398	População em Idade Escolar de 0 a 3 Anos: 1.398
+95	3509502	Campinas	56085	População em Idade Escolar de 0 a 3 Anos: 56.085
+96	3509601	Campo Limpo Paulista	4495	População em Idade Escolar de 0 a 3 Anos: 4.495
+97	3509700	Campos do Jordão	3153	População em Idade Escolar de 0 a 3 Anos: 3.153
+98	3509809	Campos Novos Paulista	277	População em Idade Escolar de 0 a 3 Anos: 277
+99	3509908	Cananéia	903	População em Idade Escolar de 0 a 3 Anos: 903
+100	3510005	Cândido Mota	1733	População em Idade Escolar de 0 a 3 Anos: 1.733
+101	3510104	Cândido Rodrigues	110	População em Idade Escolar de 0 a 3 Anos: 110
+102	3510203	Capão Bonito	3254	População em Idade Escolar de 0 a 3 Anos: 3.254
+103	3510302	Capela do Alto	1093	População em Idade Escolar de 0 a 3 Anos: 1.093
+104	3510401	Capivari	2823	População em Idade Escolar de 0 a 3 Anos: 2.823
+105	3510500	Caraguatatuba	6065	População em Idade Escolar de 0 a 3 Anos: 6.065
+106	3510609	Carapicuíba	25114	População em Idade Escolar de 0 a 3 Anos: 25.114
+107	3510708	Cardoso	612	População em Idade Escolar de 0 a 3 Anos: 612
+108	3510807	Casa Branca	1462	População em Idade Escolar de 0 a 3 Anos: 1.462
+109	3510906	Cássia dos Coqueiros	143	População em Idade Escolar de 0 a 3 Anos: 143
+110	3511003	Castilho	988	População em Idade Escolar de 0 a 3 Anos: 988
+111	3511102	Catanduva	5553	População em Idade Escolar de 0 a 3 Anos: 5.553
+112	3511201	Catiguá	378	População em Idade Escolar de 0 a 3 Anos: 378
+113	3511300	Cedral	350	População em Idade Escolar de 0 a 3 Anos: 350
+114	3511409	Cerqueira César	999	População em Idade Escolar de 0 a 3 Anos: 999
+115	3511508	Cerquilho	2005	População em Idade Escolar de 0 a 3 Anos: 2.005
+116	3511607	Cesário Lange	889	População em Idade Escolar de 0 a 3 Anos: 889
+117	3511706	Charqueada	871	População em Idade Escolar de 0 a 3 Anos: 871
+118	3557204	Chavantes	788	População em Idade Escolar de 0 a 3 Anos: 788
+119	3511904	Clementina	393	População em Idade Escolar de 0 a 3 Anos: 393
+120	3512001	Colina	957	População em Idade Escolar de 0 a 3 Anos: 957
+121	3512100	Colômbia	353	População em Idade Escolar de 0 a 3 Anos: 353
+122	3512209	Conchal	1639	População em Idade Escolar de 0 a 3 Anos: 1.639
+123	3512308	Conchas	953	População em Idade Escolar de 0 a 3 Anos: 953
+124	3512407	Cordeirópolis	1171	População em Idade Escolar de 0 a 3 Anos: 1.171
+125	3512506	Coroados	283	População em Idade Escolar de 0 a 3 Anos: 283
+126	3512605	Coronel Macedo	354	População em Idade Escolar de 0 a 3 Anos: 354
+127	3512704	Corumbataí	224	População em Idade Escolar de 0 a 3 Anos: 224
+128	3512803	Cosmópolis	3219	População em Idade Escolar de 0 a 3 Anos: 3.219
+129	3512902	Cosmorama	333	População em Idade Escolar de 0 a 3 Anos: 333
+130	3513009	Cotia	12044	População em Idade Escolar de 0 a 3 Anos: 12.044
+131	3513108	Cravinhos	1831	População em Idade Escolar de 0 a 3 Anos: 1.831
+132	3513207	Cristais Paulista	435	População em Idade Escolar de 0 a 3 Anos: 435
+133	3513306	Cruzália	134	População em Idade Escolar de 0 a 3 Anos: 134
+134	3513405	Cruzeiro	4560	População em Idade Escolar de 0 a 3 Anos: 4.560
+135	3513504	Cubatão	7770	População em Idade Escolar de 0 a 3 Anos: 7.770
+136	3513603	Cunha	1279	População em Idade Escolar de 0 a 3 Anos: 1.279
+137	3513702	Descalvado	1626	População em Idade Escolar de 0 a 3 Anos: 1.626
+138	3513801	Diadema	25431	População em Idade Escolar de 0 a 3 Anos: 25.431
+139	3513900	Divinolândia	563	População em Idade Escolar de 0 a 3 Anos: 563
+140	3514007	Dobrada	510	População em Idade Escolar de 0 a 3 Anos: 510
+141	3514106	Dois Córregos	1469	População em Idade Escolar de 0 a 3 Anos: 1.469
+142	3514205	Dolcinópolis	95	População em Idade Escolar de 0 a 3 Anos: 95
+143	3514304	Dourado	427	População em Idade Escolar de 0 a 3 Anos: 427
+144	3514403	Dracena	1925	População em Idade Escolar de 0 a 3 Anos: 1.925
+145	3514502	Duartina	613	População em Idade Escolar de 0 a 3 Anos: 613
+146	3514601	Dumont	434	População em Idade Escolar de 0 a 3 Anos: 434
+147	3514700	Echaporã	428	População em Idade Escolar de 0 a 3 Anos: 428
+148	3514809	Eldorado	1161	População em Idade Escolar de 0 a 3 Anos: 1.161
+149	3514908	Elias Fausto	977	População em Idade Escolar de 0 a 3 Anos: 977
+150	3515004	Embu das Artes	16755	População em Idade Escolar de 0 a 3 Anos: 16.755
+151	3515103	Embu-Guaçu	4145	População em Idade Escolar de 0 a 3 Anos: 4.145
+152	3515202	Estrela d'Oeste	404	População em Idade Escolar de 0 a 3 Anos: 404
+153	3515301	Estrela do Norte	179	População em Idade Escolar de 0 a 3 Anos: 179
+154	3515400	Fartura	887	População em Idade Escolar de 0 a 3 Anos: 887
+155	3515509	Fernandópolis	3048	População em Idade Escolar de 0 a 3 Anos: 3.048
+156	3515608	Fernando Prestes	260	População em Idade Escolar de 0 a 3 Anos: 260
+157	3515707	Ferraz de Vasconcelos	11611	População em Idade Escolar de 0 a 3 Anos: 11.611
+158	3515806	Flora Rica	87	População em Idade Escolar de 0 a 3 Anos: 87
+159	3515905	Floreal	104	População em Idade Escolar de 0 a 3 Anos: 104
+160	3516002	Flórida Paulista	649	População em Idade Escolar de 0 a 3 Anos: 649
+161	3516101	Florínia	162	População em Idade Escolar de 0 a 3 Anos: 162
+162	3516200	Franca	18731	População em Idade Escolar de 0 a 3 Anos: 18.731
+163	3516309	Francisco Morato	11778	População em Idade Escolar de 0 a 3 Anos: 11.778
+164	3516408	Franco da Rocha	8135	População em Idade Escolar de 0 a 3 Anos: 8.135
+165	3516507	Gabriel Monteiro	120	População em Idade Escolar de 0 a 3 Anos: 120
+166	3516606	Gália	412	População em Idade Escolar de 0 a 3 Anos: 412
+167	3516705	Garça	2456	População em Idade Escolar de 0 a 3 Anos: 2.456
+168	3516804	Gastão Vidigal	223	População em Idade Escolar de 0 a 3 Anos: 223
+169	3516903	General Salgado	541	População em Idade Escolar de 0 a 3 Anos: 541
+170	3517000	Getulina	556	População em Idade Escolar de 0 a 3 Anos: 556
+171	3517109	Glicério	273	População em Idade Escolar de 0 a 3 Anos: 273
+172	3517208	Guaiçara	658	População em Idade Escolar de 0 a 3 Anos: 658
+173	3517307	Guaimbê	359	População em Idade Escolar de 0 a 3 Anos: 359
+174	3517406	Guaíra	2084	População em Idade Escolar de 0 a 3 Anos: 2.084
+175	3517505	Guapiaçu	818	População em Idade Escolar de 0 a 3 Anos: 818
+176	3517604	Guapiara	1322	População em Idade Escolar de 0 a 3 Anos: 1.322
+177	3517703	Guará	1343	População em Idade Escolar de 0 a 3 Anos: 1.343
+178	3517802	Guaraçaí	444	População em Idade Escolar de 0 a 3 Anos: 444
+179	3517901	Guaraci	573	População em Idade Escolar de 0 a 3 Anos: 573
+180	3518008	Guarani d'Oeste	99	População em Idade Escolar de 0 a 3 Anos: 99
+181	3518107	Guarantã	444	População em Idade Escolar de 0 a 3 Anos: 444
+182	3518206	Guararapes	1568	População em Idade Escolar de 0 a 3 Anos: 1.568
+183	3518305	Guararema	1471	População em Idade Escolar de 0 a 3 Anos: 1.471
+184	3518404	Guaratinguetá	6011	População em Idade Escolar de 0 a 3 Anos: 6.011
+185	3518503	Guareí	720	População em Idade Escolar de 0 a 3 Anos: 720
+186	3518602	Guariba	2245	População em Idade Escolar de 0 a 3 Anos: 2.245
+187	3518701	Guarujá	19308	População em Idade Escolar de 0 a 3 Anos: 19.308
+188	3518800	Guarulhos	80408	População em Idade Escolar de 0 a 3 Anos: 80.408
+189	3518909	Guzolândia	281	População em Idade Escolar de 0 a 3 Anos: 281
+190	3519006	Herculândia	505	População em Idade Escolar de 0 a 3 Anos: 505
+191	3519105	Iacanga	507	População em Idade Escolar de 0 a 3 Anos: 507
+192	3519204	Iacri	369	População em Idade Escolar de 0 a 3 Anos: 369
+193	3519303	Ibaté	1980	População em Idade Escolar de 0 a 3 Anos: 1.980
+194	3519402	Ibirá	535	População em Idade Escolar de 0 a 3 Anos: 535
+195	3519501	Ibirarema	375	População em Idade Escolar de 0 a 3 Anos: 375
+196	3519600	Ibitinga	2721	População em Idade Escolar de 0 a 3 Anos: 2.721
+197	3519709	Ibiúna	4671	População em Idade Escolar de 0 a 3 Anos: 4.671
+198	3519808	Icém	442	População em Idade Escolar de 0 a 3 Anos: 442
+199	3519907	Iepê	431	População em Idade Escolar de 0 a 3 Anos: 431
+200	3520004	Igaraçu do Tietê	1417	População em Idade Escolar de 0 a 3 Anos: 1.417
+201	3520103	Igarapava	1556	População em Idade Escolar de 0 a 3 Anos: 1.556
+202	3520202	Igaratá	559	População em Idade Escolar de 0 a 3 Anos: 559
+203	3520301	Iguape	1818	População em Idade Escolar de 0 a 3 Anos: 1.818
+204	3520400	Ilhabela	1705	População em Idade Escolar de 0 a 3 Anos: 1.705
+205	3520509	Indaiatuba	10300	População em Idade Escolar de 0 a 3 Anos: 10.300
+206	3520608	Indiana	262	População em Idade Escolar de 0 a 3 Anos: 262
+207	3520707	Indiaporã	171	População em Idade Escolar de 0 a 3 Anos: 171
+208	3520806	Inúbia Paulista	195	População em Idade Escolar de 0 a 3 Anos: 195
+209	3520905	Ipaussu	870	População em Idade Escolar de 0 a 3 Anos: 870
+210	3521002	Iperó	1564	População em Idade Escolar de 0 a 3 Anos: 1.564
+211	3521101	Ipeúna	334	População em Idade Escolar de 0 a 3 Anos: 334
+212	3521200	Iporanga	352	População em Idade Escolar de 0 a 3 Anos: 352
+213	3521309	Ipuã	814	População em Idade Escolar de 0 a 3 Anos: 814
+214	3521408	Iracemápolis	1025	População em Idade Escolar de 0 a 3 Anos: 1.025
+215	3521507	Irapuã	412	População em Idade Escolar de 0 a 3 Anos: 412
+216	3521606	Irapuru	333	População em Idade Escolar de 0 a 3 Anos: 333
+217	3521705	Itaberá	1254	População em Idade Escolar de 0 a 3 Anos: 1.254
+218	3521804	Itaí	1535	População em Idade Escolar de 0 a 3 Anos: 1.535
+219	3521903	Itajobi	661	População em Idade Escolar de 0 a 3 Anos: 661
+220	3522000	Itaju	163	População em Idade Escolar de 0 a 3 Anos: 163
+221	3522109	Itanhaém	5497	População em Idade Escolar de 0 a 3 Anos: 5.497
+222	3522208	Itapecerica da Serra	10631	População em Idade Escolar de 0 a 3 Anos: 10.631
+223	3522307	Itapetininga	8644	População em Idade Escolar de 0 a 3 Anos: 8.644
+224	3522406	Itapeva	6076	População em Idade Escolar de 0 a 3 Anos: 6.076
+225	3522505	Itapevi	14455	População em Idade Escolar de 0 a 3 Anos: 14.455
+226	3522604	Itapira	3266	População em Idade Escolar de 0 a 3 Anos: 3.266
+227	3522703	Itápolis	1950	População em Idade Escolar de 0 a 3 Anos: 1.950
+228	3522802	Itaporanga	943	População em Idade Escolar de 0 a 3 Anos: 943
+229	3522901	Itapuí	720	População em Idade Escolar de 0 a 3 Anos: 720
+230	3523008	Itapura	258	População em Idade Escolar de 0 a 3 Anos: 258
+231	3523107	Itaquaquecetuba	23664	População em Idade Escolar de 0 a 3 Anos: 23.664
+232	3523206	Itararé	3189	População em Idade Escolar de 0 a 3 Anos: 3.189
+233	3523305	Itariri	1181	População em Idade Escolar de 0 a 3 Anos: 1.181
+234	3523404	Itatiba	5176	População em Idade Escolar de 0 a 3 Anos: 5.176
+235	3523503	Itatinga	1286	População em Idade Escolar de 0 a 3 Anos: 1.286
+236	3523602	Itirapina	757	População em Idade Escolar de 0 a 3 Anos: 757
+237	3523701	Itirapuã	384	População em Idade Escolar de 0 a 3 Anos: 384
+238	3523800	Itobi	448	População em Idade Escolar de 0 a 3 Anos: 448
+239	3523909	Itu	9003	População em Idade Escolar de 0 a 3 Anos: 9.003
+240	3524006	Itupeva	2378	População em Idade Escolar de 0 a 3 Anos: 2.378
+241	3524105	Ituverava	2061	População em Idade Escolar de 0 a 3 Anos: 2.061
+242	3524204	Jaborandi	362	População em Idade Escolar de 0 a 3 Anos: 362
+243	3524303	Jaboticabal	3719	População em Idade Escolar de 0 a 3 Anos: 3.719
+244	3524402	Jacareí	12490	População em Idade Escolar de 0 a 3 Anos: 12.490
+245	3524501	Jaci	281	População em Idade Escolar de 0 a 3 Anos: 281
+246	3524600	Jacupiranga	1218	População em Idade Escolar de 0 a 3 Anos: 1.218
+247	3524709	Jaguariúna	2206	População em Idade Escolar de 0 a 3 Anos: 2.206
+248	3524808	Jales	2270	População em Idade Escolar de 0 a 3 Anos: 2.270
+249	3524907	Jambeiro	287	População em Idade Escolar de 0 a 3 Anos: 287
+250	3525003	Jandira	7404	População em Idade Escolar de 0 a 3 Anos: 7.404
+251	3525102	Jardinópolis	2198	População em Idade Escolar de 0 a 3 Anos: 2.198
+252	3525201	Jarinu	1315	População em Idade Escolar de 0 a 3 Anos: 1.315
+253	3525300	Jaú	6664	População em Idade Escolar de 0 a 3 Anos: 6.664
+254	3525409	Jeriquara	223	População em Idade Escolar de 0 a 3 Anos: 223
+255	3525508	Joanópolis	586	População em Idade Escolar de 0 a 3 Anos: 586
+256	3525607	João Ramalho	252	População em Idade Escolar de 0 a 3 Anos: 252
+257	3525706	José Bonifácio	1715	População em Idade Escolar de 0 a 3 Anos: 1.715
+258	3525805	Júlio Mesquita	256	População em Idade Escolar de 0 a 3 Anos: 256
+259	3525904	Jundiaí	18480	População em Idade Escolar de 0 a 3 Anos: 18.480
+260	3526001	Junqueirópolis	825	População em Idade Escolar de 0 a 3 Anos: 825
+261	3526100	Juquiá	1457	População em Idade Escolar de 0 a 3 Anos: 1.457
+262	3526209	Juquitiba	2080	População em Idade Escolar de 0 a 3 Anos: 2.080
+263	3526308	Lagoinha	251	População em Idade Escolar de 0 a 3 Anos: 251
+264	3526407	Laranjal Paulista	1305	População em Idade Escolar de 0 a 3 Anos: 1.305
+265	3526506	Lavínia	314	População em Idade Escolar de 0 a 3 Anos: 314
+266	3526605	Lavrinhas	482	População em Idade Escolar de 0 a 3 Anos: 482
+267	3526704	Leme	5527	População em Idade Escolar de 0 a 3 Anos: 5.527
+268	3526803	Lençóis Paulista	3637	População em Idade Escolar de 0 a 3 Anos: 3.637
+269	3526902	Limeira	15149	População em Idade Escolar de 0 a 3 Anos: 15.149
+270	3527009	Lindóia	359	População em Idade Escolar de 0 a 3 Anos: 359
+271	3527108	Lins	3672	População em Idade Escolar de 0 a 3 Anos: 3.672
+272	3527207	Lorena	4809	População em Idade Escolar de 0 a 3 Anos: 4.809
+273	3527306	Louveira	1989	População em Idade Escolar de 0 a 3 Anos: 1.989
+274	3527405	Lucélia	964	População em Idade Escolar de 0 a 3 Anos: 964
+275	3527504	Lucianópolis	122	População em Idade Escolar de 0 a 3 Anos: 122
+276	3527603	Luís Antônio	654	População em Idade Escolar de 0 a 3 Anos: 654
+277	3527702	Luiziânia	272	População em Idade Escolar de 0 a 3 Anos: 272
+278	3527801	Lupércio	303	População em Idade Escolar de 0 a 3 Anos: 303
+279	3527900	Lutécia	146	População em Idade Escolar de 0 a 3 Anos: 146
+280	3528007	Macatuba	1019	População em Idade Escolar de 0 a 3 Anos: 1.019
+281	3528106	Macaubal	368	População em Idade Escolar de 0 a 3 Anos: 368
+282	3528205	Macedônia	172	População em Idade Escolar de 0 a 3 Anos: 172
+283	3528304	Magda	150	População em Idade Escolar de 0 a 3 Anos: 150
+284	3528403	Mairinque	2789	População em Idade Escolar de 0 a 3 Anos: 2.789
+285	3528502	Mairiporã	4316	População em Idade Escolar de 0 a 3 Anos: 4.316
+286	3528601	Manduri	516	População em Idade Escolar de 0 a 3 Anos: 516
+287	3528700	Marabá Paulista	232	População em Idade Escolar de 0 a 3 Anos: 232
+288	3528809	Maracaí	749	População em Idade Escolar de 0 a 3 Anos: 749
+289	3528908	Mariápolis	209	População em Idade Escolar de 0 a 3 Anos: 209
+290	3529005	Marília	11436	População em Idade Escolar de 0 a 3 Anos: 11.436
+291	3529104	Marinópolis	105	População em Idade Escolar de 0 a 3 Anos: 105
+292	3529203	Martinópolis	1255	População em Idade Escolar de 0 a 3 Anos: 1.255
+293	3529302	Matão	4115	População em Idade Escolar de 0 a 3 Anos: 4.115
+294	3529401	Mauá	26261	População em Idade Escolar de 0 a 3 Anos: 26.261
+295	3529500	Mendonça	196	População em Idade Escolar de 0 a 3 Anos: 196
+296	3529609	Meridiano	203	População em Idade Escolar de 0 a 3 Anos: 203
+297	3529708	Miguelópolis	1276	População em Idade Escolar de 0 a 3 Anos: 1.276
+298	3529807	Mineiros do Tietê	707	População em Idade Escolar de 0 a 3 Anos: 707
+299	3529906	Miracatu	1701	População em Idade Escolar de 0 a 3 Anos: 1.701
+300	3530003	Mira Estrela	129	População em Idade Escolar de 0 a 3 Anos: 129
+301	3530102	Mirandópolis	1180	População em Idade Escolar de 0 a 3 Anos: 1.180
+302	3530201	Mirante do Paranapanema	935	População em Idade Escolar de 0 a 3 Anos: 935
+303	3530300	Mirassol	2656	População em Idade Escolar de 0 a 3 Anos: 2.656
+304	3530409	Mirassolândia	227	População em Idade Escolar de 0 a 3 Anos: 227
+305	3530508	Mococa	3603	População em Idade Escolar de 0 a 3 Anos: 3.603
+306	3530607	Mogi das Cruzes	23959	População em Idade Escolar de 0 a 3 Anos: 23.959
+307	3530706	Mogi Guaçu	7409	População em Idade Escolar de 0 a 3 Anos: 7.409
+308	3530805	Moji Mirim	4481	População em Idade Escolar de 0 a 3 Anos: 4.481
+309	3530904	Mombuca	223	População em Idade Escolar de 0 a 3 Anos: 223
+310	3531001	Monções	102	População em Idade Escolar de 0 a 3 Anos: 102
+311	3531100	Mongaguá	2790	População em Idade Escolar de 0 a 3 Anos: 2.790
+312	3531209	Monte Alegre do Sul	340	População em Idade Escolar de 0 a 3 Anos: 340
+313	3531308	Monte Alto	2282	População em Idade Escolar de 0 a 3 Anos: 2.282
+314	3531407	Monte Aprazível	909	População em Idade Escolar de 0 a 3 Anos: 909
+315	3531506	Monte Azul Paulista	1077	População em Idade Escolar de 0 a 3 Anos: 1.077
+316	3531605	Monte Castelo	171	População em Idade Escolar de 0 a 3 Anos: 171
+317	3531704	Monteiro Lobato	214	População em Idade Escolar de 0 a 3 Anos: 214
+318	3531803	Monte Mor	2978	População em Idade Escolar de 0 a 3 Anos: 2.978
+319	3531902	Morro Agudo	1904	População em Idade Escolar de 0 a 3 Anos: 1.904
+320	3532009	Morungaba	685	População em Idade Escolar de 0 a 3 Anos: 685
+321	3532108	Murutinga do Sul	178	População em Idade Escolar de 0 a 3 Anos: 178
+322	3532207	Narandiba	250	População em Idade Escolar de 0 a 3 Anos: 250
+323	3532306	Natividade da Serra	428	População em Idade Escolar de 0 a 3 Anos: 428
+324	3532405	Nazaré Paulista	928	População em Idade Escolar de 0 a 3 Anos: 928
+325	3532504	Neves Paulista	357	População em Idade Escolar de 0 a 3 Anos: 357
+326	3532603	Nhandeara	433	População em Idade Escolar de 0 a 3 Anos: 433
+327	3532702	Nipoã	202	População em Idade Escolar de 0 a 3 Anos: 202
+328	3532801	Nova Aliança	288	População em Idade Escolar de 0 a 3 Anos: 288
+329	3532900	Nova Europa	544	População em Idade Escolar de 0 a 3 Anos: 544
+330	3533007	Nova Granada	1021	População em Idade Escolar de 0 a 3 Anos: 1.021
+331	3533106	Nova Guataporanga	109	População em Idade Escolar de 0 a 3 Anos: 109
+332	3533205	Nova Independência	147	População em Idade Escolar de 0 a 3 Anos: 147
+333	3533304	Nova Luzitânia	183	População em Idade Escolar de 0 a 3 Anos: 183
+334	3533403	Nova Odessa	2664	População em Idade Escolar de 0 a 3 Anos: 2.664
+335	3533502	Novo Horizonte	1868	População em Idade Escolar de 0 a 3 Anos: 1.868
+336	3533601	Nuporanga	354	População em Idade Escolar de 0 a 3 Anos: 354
+337	3533700	Ocauçu	256	População em Idade Escolar de 0 a 3 Anos: 256
+338	3533809	Óleo	147	População em Idade Escolar de 0 a 3 Anos: 147
+339	3533908	Olímpia	2549	População em Idade Escolar de 0 a 3 Anos: 2.549
+340	3534005	Onda Verde	220	População em Idade Escolar de 0 a 3 Anos: 220
+341	3534104	Oriente	293	População em Idade Escolar de 0 a 3 Anos: 293
+342	3534203	Orindiúva	315	População em Idade Escolar de 0 a 3 Anos: 315
+343	3534302	Orlândia	2115	População em Idade Escolar de 0 a 3 Anos: 2.115
+344	3534401	Osasco	42183	População em Idade Escolar de 0 a 3 Anos: 42.183
+345	3534500	Oscar Bressane	129	População em Idade Escolar de 0 a 3 Anos: 129
+346	3534609	Osvaldo Cruz	1419	População em Idade Escolar de 0 a 3 Anos: 1.419
+347	3534708	Ourinhos	5803	População em Idade Escolar de 0 a 3 Anos: 5.803
+348	3534807	Ouro Verde	454	População em Idade Escolar de 0 a 3 Anos: 454
+349	3534906	Pacaembu	577	População em Idade Escolar de 0 a 3 Anos: 577
+350	3535002	Palestina	507	População em Idade Escolar de 0 a 3 Anos: 507
+351	3535101	Palmares Paulista	686	População em Idade Escolar de 0 a 3 Anos: 686
+352	3535200	Palmeira d'Oeste	482	População em Idade Escolar de 0 a 3 Anos: 482
+353	3535309	Palmital	1182	População em Idade Escolar de 0 a 3 Anos: 1.182
+354	3535408	Panorama	961	População em Idade Escolar de 0 a 3 Anos: 961
+355	3535507	Paraguaçu Paulista	2459	População em Idade Escolar de 0 a 3 Anos: 2.459
+356	3535606	Paraibuna	1101	População em Idade Escolar de 0 a 3 Anos: 1.101
+357	3535705	Paraíso	322	População em Idade Escolar de 0 a 3 Anos: 322
+358	3535804	Paranapanema	1160	População em Idade Escolar de 0 a 3 Anos: 1.160
+359	3535903	Paranapuã	203	População em Idade Escolar de 0 a 3 Anos: 203
+360	3536000	Parapuã	555	População em Idade Escolar de 0 a 3 Anos: 555
+361	3536109	Pardinho	364	População em Idade Escolar de 0 a 3 Anos: 364
+362	3536208	Pariquera-Açu	1217	População em Idade Escolar de 0 a 3 Anos: 1.217
+363	3536307	Patrocínio Paulista	790	População em Idade Escolar de 0 a 3 Anos: 790
+364	3536406	Paulicéia	377	População em Idade Escolar de 0 a 3 Anos: 377
+365	3536505	Paulínia	4055	População em Idade Escolar de 0 a 3 Anos: 4.055
+366	3536604	Paulo de Faria	491	População em Idade Escolar de 0 a 3 Anos: 491
+367	3536703	Pederneiras	2487	População em Idade Escolar de 0 a 3 Anos: 2.487
+368	3536802	Pedra Bela	320	População em Idade Escolar de 0 a 3 Anos: 320
+369	3536901	Pedranópolis	115	População em Idade Escolar de 0 a 3 Anos: 115
+370	3537008	Pedregulho	959	População em Idade Escolar de 0 a 3 Anos: 959
+371	3537107	Pedreira	2088	População em Idade Escolar de 0 a 3 Anos: 2.088
+372	3537206	Pedro de Toledo	707	População em Idade Escolar de 0 a 3 Anos: 707
+373	3537305	Penápolis	2996	População em Idade Escolar de 0 a 3 Anos: 2.996
+374	3537404	Pereira Barreto	1470	População em Idade Escolar de 0 a 3 Anos: 1.470
+375	3537503	Pereiras	399	População em Idade Escolar de 0 a 3 Anos: 399
+376	3537602	Peruíbe	3917	População em Idade Escolar de 0 a 3 Anos: 3.917
+377	3537701	Piacatu	267	População em Idade Escolar de 0 a 3 Anos: 267
+378	3537800	Piedade	3231	População em Idade Escolar de 0 a 3 Anos: 3.231
+379	3537909	Pilar do Sul	1678	População em Idade Escolar de 0 a 3 Anos: 1.678
+380	3538006	Pindamonhangaba	8729	População em Idade Escolar de 0 a 3 Anos: 8.729
+381	3538105	Pindorama	702	População em Idade Escolar de 0 a 3 Anos: 702
+382	3515186	Espírito Santo do Pinhal	2214	População em Idade Escolar de 0 a 3 Anos: 2.214
+383	3538204	Pinhalzinho	668	População em Idade Escolar de 0 a 3 Anos: 668
+384	3538303	Piquerobi	170	População em Idade Escolar de 0 a 3 Anos: 170
+385	3538501	Piquete	781	População em Idade Escolar de 0 a 3 Anos: 781
+386	3538600	Piracaia	1471	População em Idade Escolar de 0 a 3 Anos: 1.471
+387	3538709	Piracicaba	19622	População em Idade Escolar de 0 a 3 Anos: 19.622
+388	3538808	Piraju	1580	População em Idade Escolar de 0 a 3 Anos: 1.580
+389	3538907	Pirajuí	1019	População em Idade Escolar de 0 a 3 Anos: 1.019
+390	3539004	Pirangi	493	População em Idade Escolar de 0 a 3 Anos: 493
+391	3539103	Pirapora do Bom Jesus	1182	População em Idade Escolar de 0 a 3 Anos: 1.182
+392	3539202	Pirapozinho	1366	População em Idade Escolar de 0 a 3 Anos: 1.366
+393	3539301	Pirassununga	3781	População em Idade Escolar de 0 a 3 Anos: 3.781
+394	3539400	Piratininga	610	População em Idade Escolar de 0 a 3 Anos: 610
+395	3539509	Pitangueiras	2398	População em Idade Escolar de 0 a 3 Anos: 2.398
+396	3539608	Planalto	248	População em Idade Escolar de 0 a 3 Anos: 248
+397	3539707	Platina	208	População em Idade Escolar de 0 a 3 Anos: 208
+398	3539806	Poá	6829	População em Idade Escolar de 0 a 3 Anos: 6.829
+399	3539905	Poloni	261	População em Idade Escolar de 0 a 3 Anos: 261
+400	3540002	Pompéia	1055	População em Idade Escolar de 0 a 3 Anos: 1.055
+401	3540101	Pongaí	148	População em Idade Escolar de 0 a 3 Anos: 148
+402	3540200	Pontal	2607	População em Idade Escolar de 0 a 3 Anos: 2.607
+403	3540309	Pontes Gestal	140	População em Idade Escolar de 0 a 3 Anos: 140
+404	3540408	Populina	224	População em Idade Escolar de 0 a 3 Anos: 224
+405	3540507	Porangaba	423	População em Idade Escolar de 0 a 3 Anos: 423
+406	3540606	Porto Feliz	2882	População em Idade Escolar de 0 a 3 Anos: 2.882
+407	3540705	Porto Ferreira	2858	População em Idade Escolar de 0 a 3 Anos: 2.858
+408	3540804	Potirendaba	695	População em Idade Escolar de 0 a 3 Anos: 695
+409	3540903	Pradópolis	932	População em Idade Escolar de 0 a 3 Anos: 932
+410	3541000	Praia Grande	15138	População em Idade Escolar de 0 a 3 Anos: 15.138
+411	3541109	Presidente Alves	243	População em Idade Escolar de 0 a 3 Anos: 243
+412	3541208	Presidente Bernardes	631	População em Idade Escolar de 0 a 3 Anos: 631
+413	3541307	Presidente Epitácio	2429	População em Idade Escolar de 0 a 3 Anos: 2.429
+414	3541406	Presidente Prudente	10747	População em Idade Escolar de 0 a 3 Anos: 10.747
+415	3541505	Presidente Venceslau	1904	População em Idade Escolar de 0 a 3 Anos: 1.904
+416	3541604	Promissão	1967	População em Idade Escolar de 0 a 3 Anos: 1.967
+417	3541703	Quatá	736	População em Idade Escolar de 0 a 3 Anos: 736
+418	3541802	Queiroz	166	População em Idade Escolar de 0 a 3 Anos: 166
+419	3541901	Queluz	661	População em Idade Escolar de 0 a 3 Anos: 661
+420	3542008	Quintana	309	População em Idade Escolar de 0 a 3 Anos: 309
+421	3542107	Rafard	482	População em Idade Escolar de 0 a 3 Anos: 482
+422	3542206	Rancharia	1622	População em Idade Escolar de 0 a 3 Anos: 1.622
+423	3542305	Redenção da Serra	245	População em Idade Escolar de 0 a 3 Anos: 245
+424	3542404	Regente Feijó	1012	População em Idade Escolar de 0 a 3 Anos: 1.012
+425	3542503	Reginópolis	293	População em Idade Escolar de 0 a 3 Anos: 293
+426	3542602	Registro	3697	População em Idade Escolar de 0 a 3 Anos: 3.697
+427	3542701	Restinga	466	População em Idade Escolar de 0 a 3 Anos: 466
+428	3542800	Ribeira	238	População em Idade Escolar de 0 a 3 Anos: 238
+429	3542909	Ribeirão Bonito	772	População em Idade Escolar de 0 a 3 Anos: 772
+430	3543006	Ribeirão Branco	1689	População em Idade Escolar de 0 a 3 Anos: 1.689
+431	3543105	Ribeirão Corrente	297	População em Idade Escolar de 0 a 3 Anos: 297
+432	3543204	Ribeirão do Sul	256	População em Idade Escolar de 0 a 3 Anos: 256
+433	3543303	Ribeirão Pires	6354	População em Idade Escolar de 0 a 3 Anos: 6.354
+434	3543402	Ribeirão Preto	29797	População em Idade Escolar de 0 a 3 Anos: 29.797
+435	3543501	Riversul	426	População em Idade Escolar de 0 a 3 Anos: 426
+436	3543600	Rifaina	177	População em Idade Escolar de 0 a 3 Anos: 177
+437	3543709	Rincão	685	População em Idade Escolar de 0 a 3 Anos: 685
+438	3543808	Rinópolis	505	População em Idade Escolar de 0 a 3 Anos: 505
+439	3543907	Rio Claro	9630	População em Idade Escolar de 0 a 3 Anos: 9.630
+440	3544004	Rio das Pedras	1684	População em Idade Escolar de 0 a 3 Anos: 1.684
+441	3544103	Rio Grande da Serra	2932	População em Idade Escolar de 0 a 3 Anos: 2.932
+442	3544202	Riolândia	549	População em Idade Escolar de 0 a 3 Anos: 549
+443	3544301	Roseira	586	População em Idade Escolar de 0 a 3 Anos: 586
+444	3544400	Rubiácea	148	População em Idade Escolar de 0 a 3 Anos: 148
+445	3544509	Rubinéia	129	População em Idade Escolar de 0 a 3 Anos: 129
+446	3544608	Sabino	259	População em Idade Escolar de 0 a 3 Anos: 259
+447	3544707	Sagres	139	População em Idade Escolar de 0 a 3 Anos: 139
+448	3544806	Sales	262	População em Idade Escolar de 0 a 3 Anos: 262
+449	3544905	Sales Oliveira	555	População em Idade Escolar de 0 a 3 Anos: 555
+450	3545001	Salesópolis	1005	População em Idade Escolar de 0 a 3 Anos: 1.005
+451	3545100	Salmourão	259	População em Idade Escolar de 0 a 3 Anos: 259
+452	3545209	Salto	5995	População em Idade Escolar de 0 a 3 Anos: 5.995
+453	3545308	Salto de Pirapora	2472	População em Idade Escolar de 0 a 3 Anos: 2.472
+454	3545407	Salto Grande	525	População em Idade Escolar de 0 a 3 Anos: 525
+455	3545506	Sandovalina	249	População em Idade Escolar de 0 a 3 Anos: 249
+456	3545605	Santa Adélia	773	População em Idade Escolar de 0 a 3 Anos: 773
+457	3545704	Santa Albertina	247	População em Idade Escolar de 0 a 3 Anos: 247
+458	3545803	Santa Bárbara d'Oeste	9499	População em Idade Escolar de 0 a 3 Anos: 9.499
+459	3500550	Águas de Santa Bárbara	347	População em Idade Escolar de 0 a 3 Anos: 347
+460	3546009	Santa Branca	814	População em Idade Escolar de 0 a 3 Anos: 814
+461	3546108	Santa Clara d'Oeste	103	População em Idade Escolar de 0 a 3 Anos: 103
+462	3546207	Santa Cruz da Conceição	207	População em Idade Escolar de 0 a 3 Anos: 207
+463	3546306	Santa Cruz das Palmeiras	1739	População em Idade Escolar de 0 a 3 Anos: 1.739
+464	3546405	Santa Cruz do Rio Pardo	2555	População em Idade Escolar de 0 a 3 Anos: 2.555
+465	3546504	Santa Ernestina	347	População em Idade Escolar de 0 a 3 Anos: 347
+466	3546603	Santa Fé do Sul	1343	População em Idade Escolar de 0 a 3 Anos: 1.343
+467	3546702	Santa Gertrudes	1301	População em Idade Escolar de 0 a 3 Anos: 1.301
+468	3546801	Santa Isabel	3101	População em Idade Escolar de 0 a 3 Anos: 3.101
+469	3546900	Santa Lucia	582	População em Idade Escolar de 0 a 3 Anos: 582
+470	3547007	Santa Maria da Serra	340	População em Idade Escolar de 0 a 3 Anos: 340
+471	3547106	Santa Mercedes	158	População em Idade Escolar de 0 a 3 Anos: 158
+472	3547403	Santa Rita d'Oeste	92	População em Idade Escolar de 0 a 3 Anos: 92
+473	3547502	Santa Rita do Passa Quatro	1239	População em Idade Escolar de 0 a 3 Anos: 1.239
+474	3547601	Santa Rosa do Viterbo	1317	População em Idade Escolar de 0 a 3 Anos: 1.317
+475	3547205	Santana da Ponte Pensa	69	População em Idade Escolar de 0 a 3 Anos: 69
+476	3547304	Santana de Parnaíba	6340	População em Idade Escolar de 0 a 3 Anos: 6.340
+477	3547700	Santo Anastácio	1118	População em Idade Escolar de 0 a 3 Anos: 1.118
+478	3547809	Santo André	34995	População em Idade Escolar de 0 a 3 Anos: 34.995
+479	3547908	Santo Antonio da Alegria	340	População em Idade Escolar de 0 a 3 Anos: 340
+480	3548104	Santo Antonio do Jardim	324	População em Idade Escolar de 0 a 3 Anos: 324
+481	3548203	Santo Antonio do Pinhal	420	População em Idade Escolar de 0 a 3 Anos: 420
+482	3548005	Santo Antonio de Posse	1253	População em Idade Escolar de 0 a 3 Anos: 1.253
+483	3548302	Santo Expedito	133	População em Idade Escolar de 0 a 3 Anos: 133
+484	3548401	Santópolis do Aguapeí	254	População em Idade Escolar de 0 a 3 Anos: 254
+485	3548500	Santos	19092	População em Idade Escolar de 0 a 3 Anos: 19.092
+486	3548609	São Bento do Sapucaí	582	População em Idade Escolar de 0 a 3 Anos: 582
+487	3548708	São Bernardo do Campo	43700	População em Idade Escolar de 0 a 3 Anos: 43.700
+488	3548807	São Caetano do Sul	5687	População em Idade Escolar de 0 a 3 Anos: 5.687
+489	3548906	São Carlos	11176	População em Idade Escolar de 0 a 3 Anos: 11.176
+490	3549003	São Francisco	138	População em Idade Escolar de 0 a 3 Anos: 138
+491	3549102	São João da Boa Vista	4090	População em Idade Escolar de 0 a 3 Anos: 4.090
+492	3549201	São João das Duas Pontes	152	População em Idade Escolar de 0 a 3 Anos: 152
+493	3549300	São João do Pau d'Alho	106	População em Idade Escolar de 0 a 3 Anos: 106
+494	3549409	São Joaquim da Barra	2490	População em Idade Escolar de 0 a 3 Anos: 2.490
+495	3549607	São José do Barreiro	262	População em Idade Escolar de 0 a 3 Anos: 262
+496	3549508	São José da Bela Vista	621	População em Idade Escolar de 0 a 3 Anos: 621
+497	3549706	São José do Rio Pardo	2629	População em Idade Escolar de 0 a 3 Anos: 2.629
+498	3549805	São José do Rio Preto	19316	População em Idade Escolar de 0 a 3 Anos: 19.316
+499	3549904	São José dos Campos	36398	População em Idade Escolar de 0 a 3 Anos: 36.398
+500	3550001	São Luís do Paraitinga	553	População em Idade Escolar de 0 a 3 Anos: 553
+501	3550100	São Manuel	2266	População em Idade Escolar de 0 a 3 Anos: 2.266
+502	3550209	São Miguel Arcanjo	2167	População em Idade Escolar de 0 a 3 Anos: 2.167
+503	3550308	São Paulo	641980	População em Idade Escolar de 0 a 3 Anos: 641.980
+504	3550407	São Pedro	1696	População em Idade Escolar de 0 a 3 Anos: 1.696
+505	3550506	São Pedro do Turvo	450	População em Idade Escolar de 0 a 3 Anos: 450
+506	3550605	São Roque	4246	População em Idade Escolar de 0 a 3 Anos: 4.246
+507	3550704	São Sebastião	4576	População em Idade Escolar de 0 a 3 Anos: 4.576
+508	3550803	São Sebastião da Grama	724	População em Idade Escolar de 0 a 3 Anos: 724
+509	3550902	São Simão	806	População em Idade Escolar de 0 a 3 Anos: 806
+510	3551009	São Vicente	20356	População em Idade Escolar de 0 a 3 Anos: 20.356
+511	3551108	Sarapuí	548	População em Idade Escolar de 0 a 3 Anos: 548
+512	3551207	Sarutaiá	227	População em Idade Escolar de 0 a 3 Anos: 227
+513	3551306	Sebastianópolis do Sul	133	População em Idade Escolar de 0 a 3 Anos: 133
+514	3551405	Serra Azul	630	População em Idade Escolar de 0 a 3 Anos: 630
+515	3551603	Serra Negra	1266	População em Idade Escolar de 0 a 3 Anos: 1.266
+516	3551504	Serrana	2594	População em Idade Escolar de 0 a 3 Anos: 2.594
+517	3551702	Sertãozinho	6126	População em Idade Escolar de 0 a 3 Anos: 6.126
+518	3551801	Sete Barras	1009	População em Idade Escolar de 0 a 3 Anos: 1.009
+519	3551900	Severínia	1011	População em Idade Escolar de 0 a 3 Anos: 1.011
+520	3552007	Silveiras	360	População em Idade Escolar de 0 a 3 Anos: 360
+521	3552106	Socorro	1718	População em Idade Escolar de 0 a 3 Anos: 1.718
+522	3552205	Sorocaba	31902	População em Idade Escolar de 0 a 3 Anos: 31.902
+523	3552304	Sud Mennucci	443	População em Idade Escolar de 0 a 3 Anos: 443
+524	3552403	Sumaré	14497	População em Idade Escolar de 0 a 3 Anos: 14.497
+525	3552502	Suzano	17286	População em Idade Escolar de 0 a 3 Anos: 17.286
+526	3552601	Tabapuã	560	População em Idade Escolar de 0 a 3 Anos: 560
+527	3552700	Tabatinga	825	População em Idade Escolar de 0 a 3 Anos: 825
+528	3552809	Taboão da Serra	15287	População em Idade Escolar de 0 a 3 Anos: 15.287
+529	3552908	Taciba	320	População em Idade Escolar de 0 a 3 Anos: 320
+530	3553005	Taguaí	591	População em Idade Escolar de 0 a 3 Anos: 591
+531	3553104	Taiaçu	349	População em Idade Escolar de 0 a 3 Anos: 349
+532	3553203	Taiúva	265	População em Idade Escolar de 0 a 3 Anos: 265
+533	3553302	Tambaú	1329	População em Idade Escolar de 0 a 3 Anos: 1.329
+534	3553401	Tanabi	1112	População em Idade Escolar de 0 a 3 Anos: 1.112
+535	3553500	Tapiraí	652	População em Idade Escolar de 0 a 3 Anos: 652
+536	3553609	Tapiratiba	726	População em Idade Escolar de 0 a 3 Anos: 726
+537	3553708	Taquaritinga	3074	População em Idade Escolar de 0 a 3 Anos: 3.074
+538	3553807	Taquarituba	1436	População em Idade Escolar de 0 a 3 Anos: 1.436
+539	3553906	Tarabaí	390	População em Idade Escolar de 0 a 3 Anos: 390
+540	3554003	Tatuí	6272	População em Idade Escolar de 0 a 3 Anos: 6.272
+541	3554102	Taubaté	15611	População em Idade Escolar de 0 a 3 Anos: 15.611
+542	3554201	Tejupá	385	População em Idade Escolar de 0 a 3 Anos: 385
+543	3554300	Teodoro Sampaio	1443	População em Idade Escolar de 0 a 3 Anos: 1.443
+544	3554409	Terra Roxa	483	População em Idade Escolar de 0 a 3 Anos: 483
+545	3554508	Tietê	1976	População em Idade Escolar de 0 a 3 Anos: 1.976
+546	3554607	Timburi	151	População em Idade Escolar de 0 a 3 Anos: 151
+547	3554706	Torrinha	460	População em Idade Escolar de 0 a 3 Anos: 460
+548	3554805	Tremembé	2233	População em Idade Escolar de 0 a 3 Anos: 2.233
+549	3554904	Três Fronteiras	266	População em Idade Escolar de 0 a 3 Anos: 266
+550	3555000	Tupã	3166	População em Idade Escolar de 0 a 3 Anos: 3.166
+551	3555109	Tupi Paulista	540	População em Idade Escolar de 0 a 3 Anos: 540
+552	3555208	Turiúba	85	População em Idade Escolar de 0 a 3 Anos: 85
+553	3555307	Turmalina	90	População em Idade Escolar de 0 a 3 Anos: 90
+554	3555406	Ubatuba	5074	População em Idade Escolar de 0 a 3 Anos: 5.074
+555	3555505	Ubirajara	275	População em Idade Escolar de 0 a 3 Anos: 275
+556	3555604	Uchôa	460	População em Idade Escolar de 0 a 3 Anos: 460
+557	3555703	União Paulista	82	População em Idade Escolar de 0 a 3 Anos: 82
+558	3555802	Urânia	426	População em Idade Escolar de 0 a 3 Anos: 426
+559	3555901	Uru	64	População em Idade Escolar de 0 a 3 Anos: 64
+560	3556008	Urupês	554	População em Idade Escolar de 0 a 3 Anos: 554
+561	3556107	Valentim Gentil	544	População em Idade Escolar de 0 a 3 Anos: 544
+562	3556206	Valinhos	4911	População em Idade Escolar de 0 a 3 Anos: 4.911
+563	3556305	Valparaíso	1248	População em Idade Escolar de 0 a 3 Anos: 1.248
+564	3556404	Vargem Grande do Sul	2307	População em Idade Escolar de 0 a 3 Anos: 2.307
+565	3556503	Várzea Paulista	6778	População em Idade Escolar de 0 a 3 Anos: 6.778
+566	3556602	Vera Cruz	615	População em Idade Escolar de 0 a 3 Anos: 615
+567	3556701	Vinhedo	2968	População em Idade Escolar de 0 a 3 Anos: 2.968
+568	3556800	Viradouro	1012	População em Idade Escolar de 0 a 3 Anos: 1.012
+569	3556909	Vista Alegre do Alto	326	População em Idade Escolar de 0 a 3 Anos: 326
+570	3557006	Votorantim	6729	População em Idade Escolar de 0 a 3 Anos: 6.729
+571	3557105	Votuporanga	3756	População em Idade Escolar de 0 a 3 Anos: 3.756
+572	3556453	Vargem Grande Paulista	2644	População em Idade Escolar de 0 a 3 Anos: 2.644
+573	3500758	Alambari	285	População em Idade Escolar de 0 a 3 Anos: 285
+574	3501152	Alumínio	1085	População em Idade Escolar de 0 a 3 Anos: 1.085
+575	3502754	Araçariguama	1079	População em Idade Escolar de 0 a 3 Anos: 1.079
+576	3503158	Arapeí	157	População em Idade Escolar de 0 a 3 Anos: 157
+577	3503950	Aspásia	92	População em Idade Escolar de 0 a 3 Anos: 92
+578	3505351	Barra do Chapéu	375	População em Idade Escolar de 0 a 3 Anos: 375
+579	3506359	Bertioga	3053	População em Idade Escolar de 0 a 3 Anos: 3.053
+580	3507159	Bom Sucesso de Itararé	309	População em Idade Escolar de 0 a 3 Anos: 309
+581	3507456	Borebi	155	População em Idade Escolar de 0 a 3 Anos: 155
+582	3509254	Cajati	2285	População em Idade Escolar de 0 a 3 Anos: 2.285
+583	3509452	Campina do Monte Alegre	354	População em Idade Escolar de 0 a 3 Anos: 354
+584	3510153	Canitar	301	População em Idade Escolar de 0 a 3 Anos: 301
+585	3513850	Dirce Reis	70	População em Idade Escolar de 0 a 3 Anos: 70
+586	3514924	Elisiário	155	População em Idade Escolar de 0 a 3 Anos: 155
+587	3514957	Embaúba	121	População em Idade Escolar de 0 a 3 Anos: 121
+588	3515129	Emilianópolis	134	População em Idade Escolar de 0 a 3 Anos: 134
+589	3515152	Engenheiro Coelho	927	População em Idade Escolar de 0 a 3 Anos: 927
+590	3515194	Espírito Santo do Turvo	271	População em Idade Escolar de 0 a 3 Anos: 271
+591	3557303	Estiva Gerbi	591	População em Idade Escolar de 0 a 3 Anos: 591
+592	3515350	Euclides da Cunha Paulista	710	População em Idade Escolar de 0 a 3 Anos: 710
+593	3518859	Guatapará	425	População em Idade Escolar de 0 a 3 Anos: 425
+594	3519055	Holambra	553	População em Idade Escolar de 0 a 3 Anos: 553
+595	3519071	Hortolândia	11670	População em Idade Escolar de 0 a 3 Anos: 11.670
+596	3519253	Iaras	339	População em Idade Escolar de 0 a 3 Anos: 339
+597	3520426	Ilha Comprida	453	População em Idade Escolar de 0 a 3 Anos: 453
+598	3520442	Ilha Solteira	1245	População em Idade Escolar de 0 a 3 Anos: 1.245
+599	3522158	Itaóca	226	População em Idade Escolar de 0 a 3 Anos: 226
+600	3522653	Itapirapuã Paulista	297	População em Idade Escolar de 0 a 3 Anos: 297
+601	3527256	Lourdes	93	População em Idade Escolar de 0 a 3 Anos: 93
+602	3528858	Marapoama	121	População em Idade Escolar de 0 a 3 Anos: 121
+603	3529658	Mesópolis	124	População em Idade Escolar de 0 a 3 Anos: 124
+604	3532058	Motuca	233	População em Idade Escolar de 0 a 3 Anos: 233
+605	3532827	Nova Campina	660	População em Idade Escolar de 0 a 3 Anos: 660
+606	3532843	Nova Canaã Paulista	104	População em Idade Escolar de 0 a 3 Anos: 104
+607	3533254	Novais	264	População em Idade Escolar de 0 a 3 Anos: 264
+608	3536257	Parisi	100	População em Idade Escolar de 0 a 3 Anos: 100
+609	3537156	Pedrinhas Paulista	156	População em Idade Escolar de 0 a 3 Anos: 156
+610	3540259	Pontalinda	220	População em Idade Escolar de 0 a 3 Anos: 220
+611	3540754	Potim	1168	População em Idade Escolar de 0 a 3 Anos: 1.168
+612	3543253	Ribeirão Grande	504	População em Idade Escolar de 0 a 3 Anos: 504
+613	3544251	Rosana	1482	População em Idade Escolar de 0 a 3 Anos: 1.482
+614	3545159	Saltinho	305	População em Idade Escolar de 0 a 3 Anos: 305
+615	3549250	São João de Iracema	87	População em Idade Escolar de 0 a 3 Anos: 87
+616	3549953	São Lourenço da Serra	906	População em Idade Escolar de 0 a 3 Anos: 906
+617	3548054	Santo Antonio do Aracanguá	393	População em Idade Escolar de 0 a 3 Anos: 393
+618	3552551	Suzanápolis	166	População em Idade Escolar de 0 a 3 Anos: 166
+619	3553856	Taquarivaí	395	População em Idade Escolar de 0 a 3 Anos: 395
+620	3553955	Tarumã	761	População em Idade Escolar de 0 a 3 Anos: 761
+621	3554656	Torre de Pedra	121	População em Idade Escolar de 0 a 3 Anos: 121
+622	3554953	Tuiuti	257	População em Idade Escolar de 0 a 3 Anos: 257
+623	3555356	Ubarana	333	População em Idade Escolar de 0 a 3 Anos: 333
+624	3556354	Vargem	475	População em Idade Escolar de 0 a 3 Anos: 475
+625	3557154	Zacarias	115	População em Idade Escolar de 0 a 3 Anos: 115
+626	3503356	Arco Íris	104	População em Idade Escolar de 0 a 3 Anos: 104
+627	3507753	Brejo Alegre	137	População em Idade Escolar de 0 a 3 Anos: 137
+628	3509957	Canas	306	População em Idade Escolar de 0 a 3 Anos: 306
+629	3540853	Pracinha	98	População em Idade Escolar de 0 a 3 Anos: 98
+630	3541059	Pratânia	281	População em Idade Escolar de 0 a 3 Anos: 281
+631	3541653	Quadra	177	População em Idade Escolar de 0 a 3 Anos: 177
+632	3546256	Santa Cruz da Esperança	116	População em Idade Escolar de 0 a 3 Anos: 116
+633	3547650	Santa Salete	49	População em Idade Escolar de 0 a 3 Anos: 49
+634	3556958	Vitória Brasil	86	População em Idade Escolar de 0 a 3 Anos: 86
+635	3521150	Ipiguá	222	População em Idade Escolar de 0 a 3 Anos: 222
+636	3553658	Taquaral	150	População em Idade Escolar de 0 a 3 Anos: 150
+637	3515657	Fernão	83	População em Idade Escolar de 0 a 3 Anos: 83
+638	3516853	Gavião Peixoto	266	População em Idade Escolar de 0 a 3 Anos: 266
+639	3525854	Jumirim	116	População em Idade Escolar de 0 a 3 Anos: 116
+640	3532157	Nantes	159	População em Idade Escolar de 0 a 3 Anos: 159
+641	3532868	Nova Castilho	65	População em Idade Escolar de 0 a 3 Anos: 65
+642	3534757	Ouroeste	392	População em Idade Escolar de 0 a 3 Anos: 392
+643	3536570	Paulistânia	92	População em Idade Escolar de 0 a 3 Anos: 92
+644	3543238	Ribeirão dos Índios	112	População em Idade Escolar de 0 a 3 Anos: 112
+645	3554755	Trabiju	91	População em Idade Escolar de 0 a 3 Anos: 91

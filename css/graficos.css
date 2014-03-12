@@ -34,3 +34,9 @@
   width: 240px; }
   .vega-map .navigate .fa {
     color: #ccc; }
+  .vega-map .navigate .levels {
+    font-size: 12px; }
+    .vega-map .navigate .levels a {
+      width: 180px;
+      display: block;
+      float: right; }

@@ -1,0 +1,646 @@
+id	ibge	localidade	valor	label
+1	3500105	Adamantina	95	Matrículas no EJA no EM: 95
+2	3500204	Adolfo	-	Matrículas no EJA no EM: -
+3	3500303	Aguaí	216	Matrículas no EJA no EM: 216
+4	3500402	Águas da Prata	18	Matrículas no EJA no EM: 18
+5	3500501	Águas de Lindóia	52	Matrículas no EJA no EM: 52
+6	3500600	Águas de São Pedro	-	Matrículas no EJA no EM: -
+7	3500709	Agudos	35	Matrículas no EJA no EM: 35
+8	3500808	Alfredo Marcondes	-	Matrículas no EJA no EM: -
+9	3500907	Altair	31	Matrículas no EJA no EM: 31
+10	3501004	Altinópolis	-	Matrículas no EJA no EM: -
+11	3501103	Alto Alegre	-	Matrículas no EJA no EM: -
+12	3501202	Álvares Florence	-	Matrículas no EJA no EM: -
+13	3501301	Álvares Machado	-	Matrículas no EJA no EM: -
+14	3501400	Álvaro de Carvalho	-	Matrículas no EJA no EM: -
+15	3501509	Alvinlândia	-	Matrículas no EJA no EM: -
+16	3501608	Americana	2105	Matrículas no EJA no EM: 2.105
+17	3501707	Américo Brasiliense	151	Matrículas no EJA no EM: 151
+18	3501806	Américo de Campos	-	Matrículas no EJA no EM: -
+19	3501905	Amparo	119	Matrículas no EJA no EM: 119
+20	3502002	Analândia	-	Matrículas no EJA no EM: -
+21	3502101	Andradina	165	Matrículas no EJA no EM: 165
+22	3502200	Angatuba	157	Matrículas no EJA no EM: 157
+23	3502309	Anhembi	25	Matrículas no EJA no EM: 25
+24	3502408	Anhumas	-	Matrículas no EJA no EM: -
+25	3502507	Aparecida	248	Matrículas no EJA no EM: 248
+26	3502606	Aparecida d'Oeste	-	Matrículas no EJA no EM: -
+27	3502705	Apiaí	107	Matrículas no EJA no EM: 107
+28	3502804	Araçatuba	435	Matrículas no EJA no EM: 435
+29	3502903	Araçoiaba da Serra	44	Matrículas no EJA no EM: 44
+30	3503000	Aramina	-	Matrículas no EJA no EM: -
+31	3503109	Arandu	32	Matrículas no EJA no EM: 32
+32	3503208	Araraquara	765	Matrículas no EJA no EM: 765
+33	3503307	Araras	402	Matrículas no EJA no EM: 402
+34	3503406	Arealva	-	Matrículas no EJA no EM: -
+35	3503505	Areias	-	Matrículas no EJA no EM: -
+36	3503604	Areiópolis	76	Matrículas no EJA no EM: 76
+37	3503703	Ariranha	26	Matrículas no EJA no EM: 26
+38	3503802	Artur Nogueira	147	Matrículas no EJA no EM: 147
+39	3503901	Arujá	521	Matrículas no EJA no EM: 521
+40	3504008	Assis	229	Matrículas no EJA no EM: 229
+41	3504107	Atibaia	610	Matrículas no EJA no EM: 610
+42	3504206	Auriflama	24	Matrículas no EJA no EM: 24
+43	3504305	Avaí	7	Matrículas no EJA no EM: 7
+44	3504404	Avanhandava	57	Matrículas no EJA no EM: 57
+45	3504503	Avaré	381	Matrículas no EJA no EM: 381
+46	3504602	Bady Bassitt	-	Matrículas no EJA no EM: -
+47	3504701	Balbinos	-	Matrículas no EJA no EM: -
+48	3504800	Bálsamo	-	Matrículas no EJA no EM: -
+49	3504909	Bananal	-	Matrículas no EJA no EM: -
+50	3505005	Barão de Antonina	-	Matrículas no EJA no EM: -
+51	3505104	Barbosa	-	Matrículas no EJA no EM: -
+52	3505203	Bariri	82	Matrículas no EJA no EM: 82
+53	3505302	Barra Bonita	202	Matrículas no EJA no EM: 202
+54	3505401	Barra do Turvo	38	Matrículas no EJA no EM: 38
+55	3505500	Barretos	666	Matrículas no EJA no EM: 666
+56	3505609	Barrinha	114	Matrículas no EJA no EM: 114
+57	3505708	Barueri	2307	Matrículas no EJA no EM: 2.307
+58	3505807	Bastos	24	Matrículas no EJA no EM: 24
+59	3505906	Batatais	225	Matrículas no EJA no EM: 225
+60	3506003	Bauru	3552	Matrículas no EJA no EM: 3.552
+61	3506102	Bebedouro	1132	Matrículas no EJA no EM: 1.132
+62	3506201	Bento de Abreu	-	Matrículas no EJA no EM: -
+63	3506300	Bernardino de Campos	47	Matrículas no EJA no EM: 47
+64	3506409	Bilac	-	Matrículas no EJA no EM: -
+65	3506508	Birigui	286	Matrículas no EJA no EM: 286
+66	3506607	Biritiba Mirim	227	Matrículas no EJA no EM: 227
+67	3506706	Boa Esperança do Sul	30	Matrículas no EJA no EM: 30
+68	3506805	Bocaina	42	Matrículas no EJA no EM: 42
+69	3506904	Bofete	49	Matrículas no EJA no EM: 49
+70	3507001	Boituva	360	Matrículas no EJA no EM: 360
+71	3507100	Bom Jesus dos Perdões	114	Matrículas no EJA no EM: 114
+72	3507209	Borá	-	Matrículas no EJA no EM: -
+73	3507308	Boracéia	30	Matrículas no EJA no EM: 30
+74	3507407	Borborema	72	Matrículas no EJA no EM: 72
+75	3507506	Botucatu	541	Matrículas no EJA no EM: 541
+76	3507605	Bragança Paulista	652	Matrículas no EJA no EM: 652
+77	3507704	Braúna	-	Matrículas no EJA no EM: -
+78	3507803	Brodowski	41	Matrículas no EJA no EM: 41
+79	3507902	Brotas	13	Matrículas no EJA no EM: 13
+80	3508009	Buri	-	Matrículas no EJA no EM: -
+81	3508108	Buritama	-	Matrículas no EJA no EM: -
+82	3508207	Buritizal	18	Matrículas no EJA no EM: 18
+83	3508306	Cabrália Paulista	-	Matrículas no EJA no EM: -
+84	3508405	Cabreúva	145	Matrículas no EJA no EM: 145
+85	3508504	Caçapava	235	Matrículas no EJA no EM: 235
+86	3508603	Cachoeira Paulista	317	Matrículas no EJA no EM: 317
+87	3508702	Caconde	26	Matrículas no EJA no EM: 26
+88	3508801	Cafelândia	-	Matrículas no EJA no EM: -
+89	3508900	Caiabu	-	Matrículas no EJA no EM: -
+90	3509007	Caieiras	347	Matrículas no EJA no EM: 347
+91	3509106	Caiuá	-	Matrículas no EJA no EM: -
+92	3509205	Cajamar	511	Matrículas no EJA no EM: 511
+93	3509304	Cajobi	49	Matrículas no EJA no EM: 49
+94	3509403	Cajuru	114	Matrículas no EJA no EM: 114
+95	3509502	Campinas	5563	Matrículas no EJA no EM: 5.563
+96	3509601	Campo Limpo Paulista	298	Matrículas no EJA no EM: 298
+97	3509700	Campos do Jordão	340	Matrículas no EJA no EM: 340
+98	3509809	Campos Novos Paulista	-	Matrículas no EJA no EM: -
+99	3509908	Cananéia	23	Matrículas no EJA no EM: 23
+100	3510005	Cândido Mota	120	Matrículas no EJA no EM: 120
+101	3510104	Cândido Rodrigues	21	Matrículas no EJA no EM: 21
+102	3510203	Capão Bonito	205	Matrículas no EJA no EM: 205
+103	3510302	Capela do Alto	32	Matrículas no EJA no EM: 32
+104	3510401	Capivari	163	Matrículas no EJA no EM: 163
+105	3510500	Caraguatatuba	657	Matrículas no EJA no EM: 657
+106	3510609	Carapicuíba	2347	Matrículas no EJA no EM: 2.347
+107	3510708	Cardoso	33	Matrículas no EJA no EM: 33
+108	3510807	Casa Branca	133	Matrículas no EJA no EM: 133
+109	3510906	Cássia dos Coqueiros	-	Matrículas no EJA no EM: -
+110	3511003	Castilho	50	Matrículas no EJA no EM: 50
+111	3511102	Catanduva	374	Matrículas no EJA no EM: 374
+112	3511201	Catiguá	105	Matrículas no EJA no EM: 105
+113	3511300	Cedral	-	Matrículas no EJA no EM: -
+114	3511409	Cerqueira César	75	Matrículas no EJA no EM: 75
+115	3511508	Cerquilho	-	Matrículas no EJA no EM: -
+116	3511607	Cesário Lange	78	Matrículas no EJA no EM: 78
+117	3511706	Charqueada	-	Matrículas no EJA no EM: -
+118	3557204	Chavantes	100	Matrículas no EJA no EM: 100
+119	3511904	Clementina	32	Matrículas no EJA no EM: 32
+120	3512001	Colina	-	Matrículas no EJA no EM: -
+121	3512100	Colômbia	91	Matrículas no EJA no EM: 91
+122	3512209	Conchal	80	Matrículas no EJA no EM: 80
+123	3512308	Conchas	85	Matrículas no EJA no EM: 85
+124	3512407	Cordeirópolis	63	Matrículas no EJA no EM: 63
+125	3512506	Coroados	-	Matrículas no EJA no EM: -
+126	3512605	Coronel Macedo	21	Matrículas no EJA no EM: 21
+127	3512704	Corumbataí	-	Matrículas no EJA no EM: -
+128	3512803	Cosmópolis	216	Matrículas no EJA no EM: 216
+129	3512902	Cosmorama	-	Matrículas no EJA no EM: -
+130	3513009	Cotia	1489	Matrículas no EJA no EM: 1.489
+131	3513108	Cravinhos	184	Matrículas no EJA no EM: 184
+132	3513207	Cristais Paulista	-	Matrículas no EJA no EM: -
+133	3513306	Cruzália	-	Matrículas no EJA no EM: -
+134	3513405	Cruzeiro	587	Matrículas no EJA no EM: 587
+135	3513504	Cubatão	940	Matrículas no EJA no EM: 940
+136	3513603	Cunha	130	Matrículas no EJA no EM: 130
+137	3513702	Descalvado	58	Matrículas no EJA no EM: 58
+138	3513801	Diadema	3413	Matrículas no EJA no EM: 3.413
+139	3513900	Divinolândia	-	Matrículas no EJA no EM: -
+140	3514007	Dobrada	99	Matrículas no EJA no EM: 99
+141	3514106	Dois Córregos	127	Matrículas no EJA no EM: 127
+142	3514205	Dolcinópolis	-	Matrículas no EJA no EM: -
+143	3514304	Dourado	65	Matrículas no EJA no EM: 65
+144	3514403	Dracena	135	Matrículas no EJA no EM: 135
+145	3514502	Duartina	-	Matrículas no EJA no EM: -
+146	3514601	Dumont	-	Matrículas no EJA no EM: -
+147	3514700	Echaporã	-	Matrículas no EJA no EM: -
+148	3514809	Eldorado	115	Matrículas no EJA no EM: 115
+149	3514908	Elias Fausto	124	Matrículas no EJA no EM: 124
+150	3515004	Embu das Artes	1940	Matrículas no EJA no EM: 1.940
+151	3515103	Embu-Guaçu	593	Matrículas no EJA no EM: 593
+152	3515202	Estrela d'Oeste	-	Matrículas no EJA no EM: -
+153	3515301	Estrela do Norte	-	Matrículas no EJA no EM: -
+154	3515400	Fartura	-	Matrículas no EJA no EM: -
+155	3515509	Fernandópolis	115	Matrículas no EJA no EM: 115
+156	3515608	Fernando Prestes	12	Matrículas no EJA no EM: 12
+157	3515707	Ferraz de Vasconcelos	1042	Matrículas no EJA no EM: 1.042
+158	3515806	Flora Rica	19	Matrículas no EJA no EM: 19
+159	3515905	Floreal	-	Matrículas no EJA no EM: -
+160	3516002	Flórida Paulista	36	Matrículas no EJA no EM: 36
+161	3516101	Florínia	16	Matrículas no EJA no EM: 16
+162	3516200	Franca	1354	Matrículas no EJA no EM: 1.354
+163	3516309	Francisco Morato	1053	Matrículas no EJA no EM: 1.053
+164	3516408	Franco da Rocha	479	Matrículas no EJA no EM: 479
+165	3516507	Gabriel Monteiro	-	Matrículas no EJA no EM: -
+166	3516606	Gália	-	Matrículas no EJA no EM: -
+167	3516705	Garça	-	Matrículas no EJA no EM: -
+168	3516804	Gastão Vidigal	-	Matrículas no EJA no EM: -
+169	3516903	General Salgado	-	Matrículas no EJA no EM: -
+170	3517000	Getulina	-	Matrículas no EJA no EM: -
+171	3517109	Glicério	-	Matrículas no EJA no EM: -
+172	3517208	Guaiçara	-	Matrículas no EJA no EM: -
+173	3517307	Guaimbê	-	Matrículas no EJA no EM: -
+174	3517406	Guaíra	133	Matrículas no EJA no EM: 133
+175	3517505	Guapiaçu	-	Matrículas no EJA no EM: -
+176	3517604	Guapiara	83	Matrículas no EJA no EM: 83
+177	3517703	Guará	133	Matrículas no EJA no EM: 133
+178	3517802	Guaraçaí	-	Matrículas no EJA no EM: -
+179	3517901	Guaraci	162	Matrículas no EJA no EM: 162
+180	3518008	Guarani d'Oeste	-	Matrículas no EJA no EM: -
+181	3518107	Guarantã	-	Matrículas no EJA no EM: -
+182	3518206	Guararapes	101	Matrículas no EJA no EM: 101
+183	3518305	Guararema	165	Matrículas no EJA no EM: 165
+184	3518404	Guaratinguetá	662	Matrículas no EJA no EM: 662
+185	3518503	Guareí	-	Matrículas no EJA no EM: -
+186	3518602	Guariba	371	Matrículas no EJA no EM: 371
+187	3518701	Guarujá	2270	Matrículas no EJA no EM: 2.270
+188	3518800	Guarulhos	8040	Matrículas no EJA no EM: 8.040
+189	3518909	Guzolândia	-	Matrículas no EJA no EM: -
+190	3519006	Herculândia	-	Matrículas no EJA no EM: -
+191	3519105	Iacanga	-	Matrículas no EJA no EM: -
+192	3519204	Iacri	-	Matrículas no EJA no EM: -
+193	3519303	Ibaté	258	Matrículas no EJA no EM: 258
+194	3519402	Ibirá	54	Matrículas no EJA no EM: 54
+195	3519501	Ibirarema	-	Matrículas no EJA no EM: -
+196	3519600	Ibitinga	195	Matrículas no EJA no EM: 195
+197	3519709	Ibiúna	182	Matrículas no EJA no EM: 182
+198	3519808	Icém	-	Matrículas no EJA no EM: -
+199	3519907	Iepê	-	Matrículas no EJA no EM: -
+200	3520004	Igaraçu do Tietê	92	Matrículas no EJA no EM: 92
+201	3520103	Igarapava	115	Matrículas no EJA no EM: 115
+202	3520202	Igaratá	53	Matrículas no EJA no EM: 53
+203	3520301	Iguape	117	Matrículas no EJA no EM: 117
+204	3520400	Ilhabela	252	Matrículas no EJA no EM: 252
+205	3520509	Indaiatuba	759	Matrículas no EJA no EM: 759
+206	3520608	Indiana	-	Matrículas no EJA no EM: -
+207	3520707	Indiaporã	20	Matrículas no EJA no EM: 20
+208	3520806	Inúbia Paulista	16	Matrículas no EJA no EM: 16
+209	3520905	Ipaussu	79	Matrículas no EJA no EM: 79
+210	3521002	Iperó	202	Matrículas no EJA no EM: 202
+211	3521101	Ipeúna	-	Matrículas no EJA no EM: -
+212	3521200	Iporanga	-	Matrículas no EJA no EM: -
+213	3521309	Ipuã	72	Matrículas no EJA no EM: 72
+214	3521408	Iracemápolis	54	Matrículas no EJA no EM: 54
+215	3521507	Irapuã	-	Matrículas no EJA no EM: -
+216	3521606	Irapuru	-	Matrículas no EJA no EM: -
+217	3521705	Itaberá	73	Matrículas no EJA no EM: 73
+218	3521804	Itaí	146	Matrículas no EJA no EM: 146
+219	3521903	Itajobi	30	Matrículas no EJA no EM: 30
+220	3522000	Itaju	-	Matrículas no EJA no EM: -
+221	3522109	Itanhaém	537	Matrículas no EJA no EM: 537
+222	3522208	Itapecerica da Serra	1172	Matrículas no EJA no EM: 1.172
+223	3522307	Itapetininga	651	Matrículas no EJA no EM: 651
+224	3522406	Itapeva	329	Matrículas no EJA no EM: 329
+225	3522505	Itapevi	1153	Matrículas no EJA no EM: 1.153
+226	3522604	Itapira	271	Matrículas no EJA no EM: 271
+227	3522703	Itápolis	121	Matrículas no EJA no EM: 121
+228	3522802	Itaporanga	-	Matrículas no EJA no EM: -
+229	3522901	Itapuí	-	Matrículas no EJA no EM: -
+230	3523008	Itapura	-	Matrículas no EJA no EM: -
+231	3523107	Itaquaquecetuba	2077	Matrículas no EJA no EM: 2.077
+232	3523206	Itararé	82	Matrículas no EJA no EM: 82
+233	3523305	Itariri	41	Matrículas no EJA no EM: 41
+234	3523404	Itatiba	329	Matrículas no EJA no EM: 329
+235	3523503	Itatinga	82	Matrículas no EJA no EM: 82
+236	3523602	Itirapina	75	Matrículas no EJA no EM: 75
+237	3523701	Itirapuã	-	Matrículas no EJA no EM: -
+238	3523800	Itobi	61	Matrículas no EJA no EM: 61
+239	3523909	Itu	1227	Matrículas no EJA no EM: 1.227
+240	3524006	Itupeva	27	Matrículas no EJA no EM: 27
+241	3524105	Ituverava	91	Matrículas no EJA no EM: 91
+242	3524204	Jaborandi	-	Matrículas no EJA no EM: -
+243	3524303	Jaboticabal	357	Matrículas no EJA no EM: 357
+244	3524402	Jacareí	952	Matrículas no EJA no EM: 952
+245	3524501	Jaci	-	Matrículas no EJA no EM: -
+246	3524600	Jacupiranga	-	Matrículas no EJA no EM: -
+247	3524709	Jaguariúna	182	Matrículas no EJA no EM: 182
+248	3524808	Jales	215	Matrículas no EJA no EM: 215
+249	3524907	Jambeiro	34	Matrículas no EJA no EM: 34
+250	3525003	Jandira	619	Matrículas no EJA no EM: 619
+251	3525102	Jardinópolis	96	Matrículas no EJA no EM: 96
+252	3525201	Jarinu	74	Matrículas no EJA no EM: 74
+253	3525300	Jaú	362	Matrículas no EJA no EM: 362
+254	3525409	Jeriquara	-	Matrículas no EJA no EM: -
+255	3525508	Joanópolis	46	Matrículas no EJA no EM: 46
+256	3525607	João Ramalho	27	Matrículas no EJA no EM: 27
+257	3525706	José Bonifácio	42	Matrículas no EJA no EM: 42
+258	3525805	Júlio Mesquita	-	Matrículas no EJA no EM: -
+259	3525904	Jundiaí	3279	Matrículas no EJA no EM: 3.279
+260	3526001	Junqueirópolis	125	Matrículas no EJA no EM: 125
+261	3526100	Juquiá	105	Matrículas no EJA no EM: 105
+262	3526209	Juquitiba	41	Matrículas no EJA no EM: 41
+263	3526308	Lagoinha	42	Matrículas no EJA no EM: 42
+264	3526407	Laranjal Paulista	185	Matrículas no EJA no EM: 185
+265	3526506	Lavínia	-	Matrículas no EJA no EM: -
+266	3526605	Lavrinhas	40	Matrículas no EJA no EM: 40
+267	3526704	Leme	103	Matrículas no EJA no EM: 103
+268	3526803	Lençóis Paulista	114	Matrículas no EJA no EM: 114
+269	3526902	Limeira	879	Matrículas no EJA no EM: 879
+270	3527009	Lindóia	89	Matrículas no EJA no EM: 89
+271	3527108	Lins	202	Matrículas no EJA no EM: 202
+272	3527207	Lorena	607	Matrículas no EJA no EM: 607
+273	3527306	Louveira	110	Matrículas no EJA no EM: 110
+274	3527405	Lucélia	153	Matrículas no EJA no EM: 153
+275	3527504	Lucianópolis	-	Matrículas no EJA no EM: -
+276	3527603	Luís Antônio	52	Matrículas no EJA no EM: 52
+277	3527702	Luiziânia	-	Matrículas no EJA no EM: -
+278	3527801	Lupércio	-	Matrículas no EJA no EM: -
+279	3527900	Lutécia	-	Matrículas no EJA no EM: -
+280	3528007	Macatuba	43	Matrículas no EJA no EM: 43
+281	3528106	Macaubal	-	Matrículas no EJA no EM: -
+282	3528205	Macedônia	-	Matrículas no EJA no EM: -
+283	3528304	Magda	-	Matrículas no EJA no EM: -
+284	3528403	Mairinque	244	Matrículas no EJA no EM: 244
+285	3528502	Mairiporã	432	Matrículas no EJA no EM: 432
+286	3528601	Manduri	22	Matrículas no EJA no EM: 22
+287	3528700	Marabá Paulista	27	Matrículas no EJA no EM: 27
+288	3528809	Maracaí	-	Matrículas no EJA no EM: -
+289	3528908	Mariápolis	25	Matrículas no EJA no EM: 25
+290	3529005	Marília	1023	Matrículas no EJA no EM: 1.023
+291	3529104	Marinópolis	-	Matrículas no EJA no EM: -
+292	3529203	Martinópolis	34	Matrículas no EJA no EM: 34
+293	3529302	Matão	306	Matrículas no EJA no EM: 306
+294	3529401	Mauá	3071	Matrículas no EJA no EM: 3.071
+295	3529500	Mendonça	-	Matrículas no EJA no EM: -
+296	3529609	Meridiano	-	Matrículas no EJA no EM: -
+297	3529708	Miguelópolis	88	Matrículas no EJA no EM: 88
+298	3529807	Mineiros do Tietê	28	Matrículas no EJA no EM: 28
+299	3529906	Miracatu	131	Matrículas no EJA no EM: 131
+300	3530003	Mira Estrela	-	Matrículas no EJA no EM: -
+301	3530102	Mirandópolis	-	Matrículas no EJA no EM: -
+302	3530201	Mirante do Paranapanema	114	Matrículas no EJA no EM: 114
+303	3530300	Mirassol	237	Matrículas no EJA no EM: 237
+304	3530409	Mirassolândia	-	Matrículas no EJA no EM: -
+305	3530508	Mococa	222	Matrículas no EJA no EM: 222
+306	3530607	Mogi das Cruzes	2024	Matrículas no EJA no EM: 2.024
+307	3530706	Mogi Guaçu	700	Matrículas no EJA no EM: 700
+308	3530805	Moji Mirim	340	Matrículas no EJA no EM: 340
+309	3530904	Mombuca	-	Matrículas no EJA no EM: -
+310	3531001	Monções	-	Matrículas no EJA no EM: -
+311	3531100	Mongaguá	317	Matrículas no EJA no EM: 317
+312	3531209	Monte Alegre do Sul	26	Matrículas no EJA no EM: 26
+313	3531308	Monte Alto	45	Matrículas no EJA no EM: 45
+314	3531407	Monte Aprazível	151	Matrículas no EJA no EM: 151
+315	3531506	Monte Azul Paulista	43	Matrículas no EJA no EM: 43
+316	3531605	Monte Castelo	-	Matrículas no EJA no EM: -
+317	3531704	Monteiro Lobato	-	Matrículas no EJA no EM: -
+318	3531803	Monte Mor	249	Matrículas no EJA no EM: 249
+319	3531902	Morro Agudo	112	Matrículas no EJA no EM: 112
+320	3532009	Morungaba	76	Matrículas no EJA no EM: 76
+321	3532108	Murutinga do Sul	-	Matrículas no EJA no EM: -
+322	3532207	Narandiba	20	Matrículas no EJA no EM: 20
+323	3532306	Natividade da Serra	-	Matrículas no EJA no EM: -
+324	3532405	Nazaré Paulista	70	Matrículas no EJA no EM: 70
+325	3532504	Neves Paulista	-	Matrículas no EJA no EM: -
+326	3532603	Nhandeara	-	Matrículas no EJA no EM: -
+327	3532702	Nipoã	-	Matrículas no EJA no EM: -
+328	3532801	Nova Aliança	24	Matrículas no EJA no EM: 24
+329	3532900	Nova Europa	63	Matrículas no EJA no EM: 63
+330	3533007	Nova Granada	-	Matrículas no EJA no EM: -
+331	3533106	Nova Guataporanga	-	Matrículas no EJA no EM: -
+332	3533205	Nova Independência	-	Matrículas no EJA no EM: -
+333	3533304	Nova Luzitânia	-	Matrículas no EJA no EM: -
+334	3533403	Nova Odessa	105	Matrículas no EJA no EM: 105
+335	3533502	Novo Horizonte	147	Matrículas no EJA no EM: 147
+336	3533601	Nuporanga	11	Matrículas no EJA no EM: 11
+337	3533700	Ocauçu	-	Matrículas no EJA no EM: -
+338	3533809	Óleo	-	Matrículas no EJA no EM: -
+339	3533908	Olímpia	200	Matrículas no EJA no EM: 200
+340	3534005	Onda Verde	-	Matrículas no EJA no EM: -
+341	3534104	Oriente	-	Matrículas no EJA no EM: -
+342	3534203	Orindiúva	-	Matrículas no EJA no EM: -
+343	3534302	Orlândia	247	Matrículas no EJA no EM: 247
+344	3534401	Osasco	2725	Matrículas no EJA no EM: 2.725
+345	3534500	Oscar Bressane	-	Matrículas no EJA no EM: -
+346	3534609	Osvaldo Cruz	139	Matrículas no EJA no EM: 139
+347	3534708	Ourinhos	412	Matrículas no EJA no EM: 412
+348	3534807	Ouro Verde	63	Matrículas no EJA no EM: 63
+349	3534906	Pacaembu	42	Matrículas no EJA no EM: 42
+350	3535002	Palestina	-	Matrículas no EJA no EM: -
+351	3535101	Palmares Paulista	92	Matrículas no EJA no EM: 92
+352	3535200	Palmeira d'Oeste	44	Matrículas no EJA no EM: 44
+353	3535309	Palmital	89	Matrículas no EJA no EM: 89
+354	3535408	Panorama	-	Matrículas no EJA no EM: -
+355	3535507	Paraguaçu Paulista	169	Matrículas no EJA no EM: 169
+356	3535606	Paraibuna	91	Matrículas no EJA no EM: 91
+357	3535705	Paraíso	27	Matrículas no EJA no EM: 27
+358	3535804	Paranapanema	59	Matrículas no EJA no EM: 59
+359	3535903	Paranapuã	17	Matrículas no EJA no EM: 17
+360	3536000	Parapuã	-	Matrículas no EJA no EM: -
+361	3536109	Pardinho	-	Matrículas no EJA no EM: -
+362	3536208	Pariquera-Açu	-	Matrículas no EJA no EM: -
+363	3536307	Patrocínio Paulista	-	Matrículas no EJA no EM: -
+364	3536406	Paulicéia	-	Matrículas no EJA no EM: -
+365	3536505	Paulínia	415	Matrículas no EJA no EM: 415
+366	3536604	Paulo de Faria	-	Matrículas no EJA no EM: -
+367	3536703	Pederneiras	142	Matrículas no EJA no EM: 142
+368	3536802	Pedra Bela	-	Matrículas no EJA no EM: -
+369	3536901	Pedranópolis	-	Matrículas no EJA no EM: -
+370	3537008	Pedregulho	26	Matrículas no EJA no EM: 26
+371	3537107	Pedreira	105	Matrículas no EJA no EM: 105
+372	3537206	Pedro de Toledo	49	Matrículas no EJA no EM: 49
+373	3537305	Penápolis	227	Matrículas no EJA no EM: 227
+374	3537404	Pereira Barreto	106	Matrículas no EJA no EM: 106
+375	3537503	Pereiras	-	Matrículas no EJA no EM: -
+376	3537602	Peruíbe	507	Matrículas no EJA no EM: 507
+377	3537701	Piacatu	-	Matrículas no EJA no EM: -
+378	3537800	Piedade	70	Matrículas no EJA no EM: 70
+379	3537909	Pilar do Sul	25	Matrículas no EJA no EM: 25
+380	3538006	Pindamonhangaba	761	Matrículas no EJA no EM: 761
+381	3538105	Pindorama	83	Matrículas no EJA no EM: 83
+382	3515186	Espírito Santo do Pinhal	125	Matrículas no EJA no EM: 125
+383	3538204	Pinhalzinho	46	Matrículas no EJA no EM: 46
+384	3538303	Piquerobi	-	Matrículas no EJA no EM: -
+385	3538501	Piquete	67	Matrículas no EJA no EM: 67
+386	3538600	Piracaia	120	Matrículas no EJA no EM: 120
+387	3538709	Piracicaba	1911	Matrículas no EJA no EM: 1.911
+388	3538808	Piraju	-	Matrículas no EJA no EM: -
+389	3538907	Pirajuí	107	Matrículas no EJA no EM: 107
+390	3539004	Pirangi	30	Matrículas no EJA no EM: 30
+391	3539103	Pirapora do Bom Jesus	56	Matrículas no EJA no EM: 56
+392	3539202	Pirapozinho	88	Matrículas no EJA no EM: 88
+393	3539301	Pirassununga	250	Matrículas no EJA no EM: 250
+394	3539400	Piratininga	-	Matrículas no EJA no EM: -
+395	3539509	Pitangueiras	231	Matrículas no EJA no EM: 231
+396	3539608	Planalto	-	Matrículas no EJA no EM: -
+397	3539707	Platina	-	Matrículas no EJA no EM: -
+398	3539806	Poá	794	Matrículas no EJA no EM: 794
+399	3539905	Poloni	-	Matrículas no EJA no EM: -
+400	3540002	Pompéia	77	Matrículas no EJA no EM: 77
+401	3540101	Pongaí	-	Matrículas no EJA no EM: -
+402	3540200	Pontal	166	Matrículas no EJA no EM: 166
+403	3540309	Pontes Gestal	-	Matrículas no EJA no EM: -
+404	3540408	Populina	-	Matrículas no EJA no EM: -
+405	3540507	Porangaba	-	Matrículas no EJA no EM: -
+406	3540606	Porto Feliz	270	Matrículas no EJA no EM: 270
+407	3540705	Porto Ferreira	240	Matrículas no EJA no EM: 240
+408	3540804	Potirendaba	-	Matrículas no EJA no EM: -
+409	3540903	Pradópolis	139	Matrículas no EJA no EM: 139
+410	3541000	Praia Grande	3016	Matrículas no EJA no EM: 3.016
+411	3541109	Presidente Alves	12	Matrículas no EJA no EM: 12
+412	3541208	Presidente Bernardes	64	Matrículas no EJA no EM: 64
+413	3541307	Presidente Epitácio	139	Matrículas no EJA no EM: 139
+414	3541406	Presidente Prudente	1341	Matrículas no EJA no EM: 1.341
+415	3541505	Presidente Venceslau	222	Matrículas no EJA no EM: 222
+416	3541604	Promissão	-	Matrículas no EJA no EM: -
+417	3541703	Quatá	-	Matrículas no EJA no EM: -
+418	3541802	Queiroz	-	Matrículas no EJA no EM: -
+419	3541901	Queluz	131	Matrículas no EJA no EM: 131
+420	3542008	Quintana	-	Matrículas no EJA no EM: -
+421	3542107	Rafard	19	Matrículas no EJA no EM: 19
+422	3542206	Rancharia	73	Matrículas no EJA no EM: 73
+423	3542305	Redenção da Serra	-	Matrículas no EJA no EM: -
+424	3542404	Regente Feijó	-	Matrículas no EJA no EM: -
+425	3542503	Reginópolis	-	Matrículas no EJA no EM: -
+426	3542602	Registro	791	Matrículas no EJA no EM: 791
+427	3542701	Restinga	-	Matrículas no EJA no EM: -
+428	3542800	Ribeira	-	Matrículas no EJA no EM: -
+429	3542909	Ribeirão Bonito	88	Matrículas no EJA no EM: 88
+430	3543006	Ribeirão Branco	38	Matrículas no EJA no EM: 38
+431	3543105	Ribeirão Corrente	-	Matrículas no EJA no EM: -
+432	3543204	Ribeirão do Sul	-	Matrículas no EJA no EM: -
+433	3543303	Ribeirão Pires	1378	Matrículas no EJA no EM: 1.378
+434	3543402	Ribeirão Preto	4342	Matrículas no EJA no EM: 4.342
+435	3543501	Riversul	-	Matrículas no EJA no EM: -
+436	3543600	Rifaina	-	Matrículas no EJA no EM: -
+437	3543709	Rincão	-	Matrículas no EJA no EM: -
+438	3543808	Rinópolis	44	Matrículas no EJA no EM: 44
+439	3543907	Rio Claro	878	Matrículas no EJA no EM: 878
+440	3544004	Rio das Pedras	101	Matrículas no EJA no EM: 101
+441	3544103	Rio Grande da Serra	280	Matrículas no EJA no EM: 280
+442	3544202	Riolândia	-	Matrículas no EJA no EM: -
+443	3544301	Roseira	72	Matrículas no EJA no EM: 72
+444	3544400	Rubiácea	-	Matrículas no EJA no EM: -
+445	3544509	Rubinéia	-	Matrículas no EJA no EM: -
+446	3544608	Sabino	-	Matrículas no EJA no EM: -
+447	3544707	Sagres	10	Matrículas no EJA no EM: 10
+448	3544806	Sales	-	Matrículas no EJA no EM: -
+449	3544905	Sales Oliveira	-	Matrículas no EJA no EM: -
+450	3545001	Salesópolis	37	Matrículas no EJA no EM: 37
+451	3545100	Salmourão	-	Matrículas no EJA no EM: -
+452	3545209	Salto	386	Matrículas no EJA no EM: 386
+453	3545308	Salto de Pirapora	104	Matrículas no EJA no EM: 104
+454	3545407	Salto Grande	-	Matrículas no EJA no EM: -
+455	3545506	Sandovalina	-	Matrículas no EJA no EM: -
+456	3545605	Santa Adélia	47	Matrículas no EJA no EM: 47
+457	3545704	Santa Albertina	-	Matrículas no EJA no EM: -
+458	3545803	Santa Bárbara d'Oeste	346	Matrículas no EJA no EM: 346
+459	3500550	Águas de Santa Bárbara	26	Matrículas no EJA no EM: 26
+460	3546009	Santa Branca	89	Matrículas no EJA no EM: 89
+461	3546108	Santa Clara d'Oeste	-	Matrículas no EJA no EM: -
+462	3546207	Santa Cruz da Conceição	-	Matrículas no EJA no EM: -
+463	3546306	Santa Cruz das Palmeiras	151	Matrículas no EJA no EM: 151
+464	3546405	Santa Cruz do Rio Pardo	186	Matrículas no EJA no EM: 186
+465	3546504	Santa Ernestina	23	Matrículas no EJA no EM: 23
+466	3546603	Santa Fé do Sul	57	Matrículas no EJA no EM: 57
+467	3546702	Santa Gertrudes	71	Matrículas no EJA no EM: 71
+468	3546801	Santa Isabel	280	Matrículas no EJA no EM: 280
+469	3546900	Santa Lucia	66	Matrículas no EJA no EM: 66
+470	3547007	Santa Maria da Serra	-	Matrículas no EJA no EM: -
+471	3547106	Santa Mercedes	-	Matrículas no EJA no EM: -
+472	3547403	Santa Rita d'Oeste	-	Matrículas no EJA no EM: -
+473	3547502	Santa Rita do Passa Quatro	-	Matrículas no EJA no EM: -
+474	3547601	Santa Rosa do Viterbo	77	Matrículas no EJA no EM: 77
+475	3547205	Santana da Ponte Pensa	-	Matrículas no EJA no EM: -
+476	3547304	Santana de Parnaíba	517	Matrículas no EJA no EM: 517
+477	3547700	Santo Anastácio	36	Matrículas no EJA no EM: 36
+478	3547809	Santo André	3282	Matrículas no EJA no EM: 3.282
+479	3547908	Santo Antonio da Alegria	-	Matrículas no EJA no EM: -
+480	3548104	Santo Antonio do Jardim	-	Matrículas no EJA no EM: -
+481	3548203	Santo Antonio do Pinhal	-	Matrículas no EJA no EM: -
+482	3548005	Santo Antonio de Posse	104	Matrículas no EJA no EM: 104
+483	3548302	Santo Expedito	-	Matrículas no EJA no EM: -
+484	3548401	Santópolis do Aguapeí	-	Matrículas no EJA no EM: -
+485	3548500	Santos	5302	Matrículas no EJA no EM: 5.302
+486	3548609	São Bento do Sapucaí	-	Matrículas no EJA no EM: -
+487	3548708	São Bernardo do Campo	3668	Matrículas no EJA no EM: 3.668
+488	3548807	São Caetano do Sul	819	Matrículas no EJA no EM: 819
+489	3548906	São Carlos	901	Matrículas no EJA no EM: 901
+490	3549003	São Francisco	-	Matrículas no EJA no EM: -
+491	3549102	São João da Boa Vista	193	Matrículas no EJA no EM: 193
+492	3549201	São João das Duas Pontes	-	Matrículas no EJA no EM: -
+493	3549300	São João do Pau d'Alho	-	Matrículas no EJA no EM: -
+494	3549409	São Joaquim da Barra	310	Matrículas no EJA no EM: 310
+495	3549607	São José do Barreiro	-	Matrículas no EJA no EM: -
+496	3549508	São José da Bela Vista	-	Matrículas no EJA no EM: -
+497	3549706	São José do Rio Pardo	187	Matrículas no EJA no EM: 187
+498	3549805	São José do Rio Preto	857	Matrículas no EJA no EM: 857
+499	3549904	São José dos Campos	6319	Matrículas no EJA no EM: 6.319
+500	3550001	São Luís do Paraitinga	28	Matrículas no EJA no EM: 28
+501	3550100	São Manuel	156	Matrículas no EJA no EM: 156
+502	3550209	São Miguel Arcanjo	111	Matrículas no EJA no EM: 111
+503	3550308	São Paulo	72721	Matrículas no EJA no EM: 72.721
+504	3550407	São Pedro	125	Matrículas no EJA no EM: 125
+505	3550506	São Pedro do Turvo	-	Matrículas no EJA no EM: -
+506	3550605	São Roque	282	Matrículas no EJA no EM: 282
+507	3550704	São Sebastião	649	Matrículas no EJA no EM: 649
+508	3550803	São Sebastião da Grama	31	Matrículas no EJA no EM: 31
+509	3550902	São Simão	84	Matrículas no EJA no EM: 84
+510	3551009	São Vicente	3943	Matrículas no EJA no EM: 3.943
+511	3551108	Sarapuí	-	Matrículas no EJA no EM: -
+512	3551207	Sarutaiá	-	Matrículas no EJA no EM: -
+513	3551306	Sebastianópolis do Sul	-	Matrículas no EJA no EM: -
+514	3551405	Serra Azul	44	Matrículas no EJA no EM: 44
+515	3551603	Serra Negra	-	Matrículas no EJA no EM: -
+516	3551504	Serrana	181	Matrículas no EJA no EM: 181
+517	3551702	Sertãozinho	418	Matrículas no EJA no EM: 418
+518	3551801	Sete Barras	54	Matrículas no EJA no EM: 54
+519	3551900	Severínia	81	Matrículas no EJA no EM: 81
+520	3552007	Silveiras	-	Matrículas no EJA no EM: -
+521	3552106	Socorro	93	Matrículas no EJA no EM: 93
+522	3552205	Sorocaba	7854	Matrículas no EJA no EM: 7.854
+523	3552304	Sud Mennucci	-	Matrículas no EJA no EM: -
+524	3552403	Sumaré	908	Matrículas no EJA no EM: 908
+525	3552502	Suzano	1425	Matrículas no EJA no EM: 1.425
+526	3552601	Tabapuã	26	Matrículas no EJA no EM: 26
+527	3552700	Tabatinga	-	Matrículas no EJA no EM: -
+528	3552809	Taboão da Serra	2059	Matrículas no EJA no EM: 2.059
+529	3552908	Taciba	-	Matrículas no EJA no EM: -
+530	3553005	Taguaí	44	Matrículas no EJA no EM: 44
+531	3553104	Taiaçu	29	Matrículas no EJA no EM: 29
+532	3553203	Taiúva	13	Matrículas no EJA no EM: 13
+533	3553302	Tambaú	52	Matrículas no EJA no EM: 52
+534	3553401	Tanabi	86	Matrículas no EJA no EM: 86
+535	3553500	Tapiraí	-	Matrículas no EJA no EM: -
+536	3553609	Tapiratiba	-	Matrículas no EJA no EM: -
+537	3553708	Taquaritinga	190	Matrículas no EJA no EM: 190
+538	3553807	Taquarituba	125	Matrículas no EJA no EM: 125
+539	3553906	Tarabaí	-	Matrículas no EJA no EM: -
+540	3554003	Tatuí	489	Matrículas no EJA no EM: 489
+541	3554102	Taubaté	3535	Matrículas no EJA no EM: 3.535
+542	3554201	Tejupá	-	Matrículas no EJA no EM: -
+543	3554300	Teodoro Sampaio	137	Matrículas no EJA no EM: 137
+544	3554409	Terra Roxa	51	Matrículas no EJA no EM: 51
+545	3554508	Tietê	123	Matrículas no EJA no EM: 123
+546	3554607	Timburi	-	Matrículas no EJA no EM: -
+547	3554706	Torrinha	60	Matrículas no EJA no EM: 60
+548	3554805	Tremembé	97	Matrículas no EJA no EM: 97
+549	3554904	Três Fronteiras	19	Matrículas no EJA no EM: 19
+550	3555000	Tupã	219	Matrículas no EJA no EM: 219
+551	3555109	Tupi Paulista	28	Matrículas no EJA no EM: 28
+552	3555208	Turiúba	-	Matrículas no EJA no EM: -
+553	3555307	Turmalina	-	Matrículas no EJA no EM: -
+554	3555406	Ubatuba	450	Matrículas no EJA no EM: 450
+555	3555505	Ubirajara	-	Matrículas no EJA no EM: -
+556	3555604	Uchôa	-	Matrículas no EJA no EM: -
+557	3555703	União Paulista	-	Matrículas no EJA no EM: -
+558	3555802	Urânia	-	Matrículas no EJA no EM: -
+559	3555901	Uru	-	Matrículas no EJA no EM: -
+560	3556008	Urupês	38	Matrículas no EJA no EM: 38
+561	3556107	Valentim Gentil	-	Matrículas no EJA no EM: -
+562	3556206	Valinhos	261	Matrículas no EJA no EM: 261
+563	3556305	Valparaíso	91	Matrículas no EJA no EM: 91
+564	3556404	Vargem Grande do Sul	100	Matrículas no EJA no EM: 100
+565	3556503	Várzea Paulista	80	Matrículas no EJA no EM: 80
+566	3556602	Vera Cruz	-	Matrículas no EJA no EM: -
+567	3556701	Vinhedo	257	Matrículas no EJA no EM: 257
+568	3556800	Viradouro	-	Matrículas no EJA no EM: -
+569	3556909	Vista Alegre do Alto	46	Matrículas no EJA no EM: 46
+570	3557006	Votorantim	1516	Matrículas no EJA no EM: 1.516
+571	3557105	Votuporanga	95	Matrículas no EJA no EM: 95
+572	3556453	Vargem Grande Paulista	135	Matrículas no EJA no EM: 135
+573	3500758	Alambari	-	Matrículas no EJA no EM: -
+574	3501152	Alumínio	122	Matrículas no EJA no EM: 122
+575	3502754	Araçariguama	137	Matrículas no EJA no EM: 137
+576	3503158	Arapeí	-	Matrículas no EJA no EM: -
+577	3503950	Aspásia	-	Matrículas no EJA no EM: -
+578	3505351	Barra do Chapéu	-	Matrículas no EJA no EM: -
+579	3506359	Bertioga	378	Matrículas no EJA no EM: 378
+580	3507159	Bom Sucesso de Itararé	-	Matrículas no EJA no EM: -
+581	3507456	Borebi	-	Matrículas no EJA no EM: -
+582	3509254	Cajati	53	Matrículas no EJA no EM: 53
+583	3509452	Campina do Monte Alegre	36	Matrículas no EJA no EM: 36
+584	3510153	Canitar	18	Matrículas no EJA no EM: 18
+585	3513850	Dirce Reis	-	Matrículas no EJA no EM: -
+586	3514924	Elisiário	-	Matrículas no EJA no EM: -
+587	3514957	Embaúba	-	Matrículas no EJA no EM: -
+588	3515129	Emilianópolis	-	Matrículas no EJA no EM: -
+589	3515152	Engenheiro Coelho	100	Matrículas no EJA no EM: 100
+590	3515194	Espírito Santo do Turvo	-	Matrículas no EJA no EM: -
+591	3557303	Estiva Gerbi	86	Matrículas no EJA no EM: 86
+592	3515350	Euclides da Cunha Paulista	67	Matrículas no EJA no EM: 67
+593	3518859	Guatapará	50	Matrículas no EJA no EM: 50
+594	3519055	Holambra	59	Matrículas no EJA no EM: 59
+595	3519071	Hortolândia	794	Matrículas no EJA no EM: 794
+596	3519253	Iaras	-	Matrículas no EJA no EM: -
+597	3520426	Ilha Comprida	88	Matrículas no EJA no EM: 88
+598	3520442	Ilha Solteira	210	Matrículas no EJA no EM: 210
+599	3522158	Itaóca	-	Matrículas no EJA no EM: -
+600	3522653	Itapirapuã Paulista	-	Matrículas no EJA no EM: -
+601	3527256	Lourdes	-	Matrículas no EJA no EM: -
+602	3528858	Marapoama	-	Matrículas no EJA no EM: -
+603	3529658	Mesópolis	-	Matrículas no EJA no EM: -
+604	3532058	Motuca	-	Matrículas no EJA no EM: -
+605	3532827	Nova Campina	72	Matrículas no EJA no EM: 72
+606	3532843	Nova Canaã Paulista	-	Matrículas no EJA no EM: -
+607	3533254	Novais	-	Matrículas no EJA no EM: -
+608	3536257	Parisi	-	Matrículas no EJA no EM: -
+609	3537156	Pedrinhas Paulista	-	Matrículas no EJA no EM: -
+610	3540259	Pontalinda	-	Matrículas no EJA no EM: -
+611	3540754	Potim	84	Matrículas no EJA no EM: 84
+612	3543253	Ribeirão Grande	-	Matrículas no EJA no EM: -
+613	3544251	Rosana	168	Matrículas no EJA no EM: 168
+614	3545159	Saltinho	-	Matrículas no EJA no EM: -
+615	3549250	São João de Iracema	-	Matrículas no EJA no EM: -
+616	3549953	São Lourenço da Serra	134	Matrículas no EJA no EM: 134
+617	3548054	Santo Antonio do Aracanguá	-	Matrículas no EJA no EM: -
+618	3552551	Suzanápolis	-	Matrículas no EJA no EM: -
+619	3553856	Taquarivaí	-	Matrículas no EJA no EM: -
+620	3553955	Tarumã	-	Matrículas no EJA no EM: -
+621	3554656	Torre de Pedra	-	Matrículas no EJA no EM: -
+622	3554953	Tuiuti	43	Matrículas no EJA no EM: 43
+623	3555356	Ubarana	-	Matrículas no EJA no EM: -
+624	3556354	Vargem	-	Matrículas no EJA no EM: -
+625	3557154	Zacarias	-	Matrículas no EJA no EM: -
+626	3503356	Arco Íris	-	Matrículas no EJA no EM: -
+627	3507753	Brejo Alegre	-	Matrículas no EJA no EM: -
+628	3509957	Canas	22	Matrículas no EJA no EM: 22
+629	3540853	Pracinha	-	Matrículas no EJA no EM: -
+630	3541059	Pratânia	-	Matrículas no EJA no EM: -
+631	3541653	Quadra	-	Matrículas no EJA no EM: -
+632	3546256	Santa Cruz da Esperança	-	Matrículas no EJA no EM: -
+633	3547650	Santa Salete	-	Matrículas no EJA no EM: -
+634	3556958	Vitória Brasil	15	Matrículas no EJA no EM: 15
+635	3521150	Ipiguá	-	Matrículas no EJA no EM: -
+636	3553658	Taquaral	-	Matrículas no EJA no EM: -
+637	3515657	Fernão	-	Matrículas no EJA no EM: -
+638	3516853	Gavião Peixoto	-	Matrículas no EJA no EM: -
+639	3525854	Jumirim	8	Matrículas no EJA no EM: 8
+640	3532157	Nantes	33	Matrículas no EJA no EM: 33
+641	3532868	Nova Castilho	-	Matrículas no EJA no EM: -
+642	3534757	Ouroeste	-	Matrículas no EJA no EM: -
+643	3536570	Paulistânia	-	Matrículas no EJA no EM: -
+644	3543238	Ribeirão dos Índios	-	Matrículas no EJA no EM: -
+645	3554755	Trabiju	-	Matrículas no EJA no EM: -
