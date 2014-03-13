@@ -28,8 +28,7 @@
               "nome": "\u00cdndice Paulista de Responsabilidade Social - IPRS (grupos)", 
               "id": "7", 
               "anos": [
-                2008, 
-                201
+                2008201
               ]
             }, 
             {
@@ -54,8 +53,7 @@
               "nome": "% da popula\u00e7\u00e3o em vulnerabilidade social (grupos 5,  6 e 7) do IPVS", 
               "id": "2017", 
               "anos": [
-                2000, 
-                201
+                2000201
               ]
             }
           ], 
@@ -535,39 +533,1332 @@
     }, 
     {
       "collapsed": true, 
-      "itens": [], 
+      "itens": [
+        {
+          "collapsed": true, 
+          "itens": [
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edcula Inicial no Ensino M\u00e9dio \u2013 Total", 
+              "id": "166", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Distor\u00e7\u00e3o Idade-S\u00e9rie - Ensino M\u00e9dio - Total", 
+              "id": "1873", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de escolariza\u00e7\u00e3o l\u00edquida  (15 a 17 anos) (Total das redes)", 
+              "id": "2149", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% de alunos adequados ou avan\u00e7ados em l\u00edngua portuguesa", 
+              "id": "2152", 
+              "anos": [
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% de alunos adequados ou avan\u00e7ados em matem\u00e1tica", 
+              "id": "2153", 
+              "anos": [
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }
+          ], 
+          "id": "dim-2-6", 
+          "nome": "Ensino M\u00e9dio"
+        }, 
+        {
+          "collapsed": true, 
+          "itens": [
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de Abandono 1\u00aa a 4\u00aa S\u00e9ries \u2013 Rede Estadual", 
+              "id": "239", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de Abandono 1\u00aa a 4\u00aa S\u00e9ries \u2013 Rede Municipal", 
+              "id": "240", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de Abandono 1\u00aa a 4\u00aa S\u00e9ries \u2013 Rede Particular", 
+              "id": "241", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de Abandono 5\u00aa a 8\u00aa S\u00e9ries \u2013 Rede Estadual", 
+              "id": "254", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de Abandono 5\u00aa a 8\u00aa S\u00e9ries \u2013 Rede Municipal", 
+              "id": "255", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de Abandono 5\u00aa a 8\u00aa S\u00e9ries \u2013 Rede Particular", 
+              "id": "256", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2013
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matr\u00edculas no EF na rede estadual (AI)", 
+              "id": "2073", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matr\u00edculas no EF na rede estadual (AF)", 
+              "id": "2074", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matr\u00edculas no EF na rede municipal (AI)", 
+              "id": "2076", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matr\u00edculas no EF na rede municipal (AF)", 
+              "id": "2077", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no EF na rede privada  (AI / % no total das matriculas)", 
+              "id": "2079", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no EF na rede privada  (AF / % no total das matriculas)", 
+              "id": "2080", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "IDEB - Ensino Fundamental Regular - Rede P\u00fablica - Anos Iniciais", 
+              "id": "2106", 
+              "anos": [
+                2007, 
+                2009, 
+                2011
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "IDEB - Ensino Fundamental Regular - Rede Municipal - Anos Iniciais", 
+              "id": "2107", 
+              "anos": [
+                2007, 
+                2009, 
+                2011
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "IDEB - Ensino Fundamental Regular - Rede P\u00fablica - Anos Finais", 
+              "id": "2109", 
+              "anos": [
+                2007, 
+                2009, 
+                2011
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "IDEB - Ensino Fundamental Regular - Rede Estadual - Anos Finais", 
+              "id": "2111", 
+              "anos": [
+                2007, 
+                2009, 
+                2011
+              ]
+            }
+          ], 
+          "id": "dim-2-6", 
+          "nome": "Fundamental"
+        }, 
+        {
+          "collapsed": true, 
+          "itens": [
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matriculas em creche na rede privada  exceto conveniadas", 
+              "id": "2046", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matriculas em creche \u2013 p\u00fablica e conveniada", 
+              "id": "2050", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de atendimento a creche", 
+              "id": "2051", 
+              "anos": [
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Demanda potencial de vagas em creche", 
+              "id": "2053", 
+              "anos": [
+                2016, 
+                2017, 
+                2018, 
+                2019, 
+                2020
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matriculas em creche na rede municipal", 
+              "id": "", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matriculas em creche na rede conveniada", 
+              "id": "", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matriculas em creche na rede estadual + federal", 
+              "id": "", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }
+          ], 
+          "id": "dim-2-6", 
+          "nome": "Educa\u00e7\u00e3o Infantil - Creche"
+        }, 
+        {
+          "collapsed": true, 
+          "itens": [
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matriculas na pr\u00e9-escola na rede privada  exceto conveniada", 
+              "id": "2062", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "% Matricula na pr\u00e9-escola - p\u00fablica e conveniada", 
+              "id": "2065", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Taxa de atendimento na pr\u00e9-escola", 
+              "id": "2066", 
+              "anos": [
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Demanda potencial de vagas em pr\u00e9-escola", 
+              "id": "2068", 
+              "anos": [
+                2016, 
+                2017, 
+                2018, 
+                2019, 
+                2020
+              ]
+            }
+          ], 
+          "id": "dim-2-6", 
+          "nome": "Educa\u00e7\u00e3o Infantil - Pr\u00e9-escola"
+        }, 
+        {
+          "collapsed": true, 
+          "itens": [
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no  ET integrado", 
+              "id": "2164", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no  ET profissionalizante", 
+              "id": "2173", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no  ET profissionalizante concomitante", 
+              "id": "2182", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no  ET profissionalizante subsequente", 
+              "id": "2191", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }
+          ], 
+          "id": "dim-2-6", 
+          "nome": "Ensino T\u00e9cnico"
+        }, 
+        {
+          "collapsed": true, 
+          "itens": [
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no EJA no Ensino Fundamental", 
+              "id": "2200", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no EJA no Ensino Fundamental integradas ao ensino profissionalizante", 
+              "id": "2207", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no EJA no EM", 
+              "id": "2214", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }, 
+            {
+              "range": [
+                "#AAAAFF", 
+                "#8C8CEA", 
+                "#6F6FD5", 
+                "#5151BF", 
+                "#3333AA"
+              ], 
+              "scale": "quantile", 
+              "itens": [], 
+              "features": [
+                "mun", 
+                "ra", 
+                "rm"
+              ], 
+              "domain": {
+                "field": "data.valor", 
+                "data": "source"
+              }, 
+              "nome": "Matr\u00edculas no EJA integradas ao ensino profissionalizante no EM", 
+              "id": "2221", 
+              "anos": [
+                2002, 
+                2003, 
+                2004, 
+                2005, 
+                2006, 
+                2007, 
+                2008, 
+                2009, 
+                2010, 
+                2011, 
+                2012
+              ]
+            }
+          ], 
+          "id": "dim-2-6", 
+          "nome": "Educa\u00e7\u00e3o de Jovens e Adultos"
+        }
+      ], 
       "id": "eixo-2", 
-      "nome": "Educa\u00e7\u00e3o Infantil - Creche"
-    }, 
-    {
-      "collapsed": true, 
-      "itens": [], 
-      "id": "eixo-3", 
-      "nome": "Educa\u00e7\u00e3o Infantil - Pr\u00e9-escola"
-    }, 
-    {
-      "collapsed": true, 
-      "itens": [], 
-      "id": "eixo-4", 
-      "nome": "Fundamental"
-    }, 
-    {
-      "collapsed": true, 
-      "itens": [], 
-      "id": "eixo-5", 
-      "nome": "Ensino M\u00e9dio"
-    }, 
-    {
-      "collapsed": true, 
-      "itens": [], 
-      "id": "eixo-6", 
-      "nome": "Ensino T\u00e9cnico"
-    }, 
-    {
-      "collapsed": true, 
-      "itens": [], 
-      "id": "eixo-7", 
-      "nome": "Educa\u00e7\u00e3o de Jovens e Adultos"
+      "nome": "Educa\u00e7\u00e3o B\u00e1sica"
     }
   ]
 }
