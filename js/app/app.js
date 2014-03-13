@@ -5,7 +5,8 @@ angular.module('graficos', [
         //'angular-flash.flash-alert-directive',
         'angularTreeview',
         'graficos.controllers',
-        'graficos.directives'
+        'graficos.directives',
+        'googlechart'
     ])
     .run([
         '$rootScope',

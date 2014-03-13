@@ -40,3 +40,23 @@
       width: 180px;
       display: block;
       float: right; }
+
+.dashboard h2 {
+  text-align: center; }
+.dashboard .menu-esquerda {
+  border-top: none;
+  min-height: 600px; }
+.dashboard .col-lg-1, .dashboard .col-lg-2, .dashboard .col-lg-3, .dashboard .col-lg-4, .dashboard .col-lg-5, .dashboard .col-lg-6, .dashboard .col-lg-7, .dashboard .col-lg-8, .dashboard .col-lg-9, .dashboard .col-lg-10, .dashboard .col-lg-11, .dashboard .col-lg-12 {
+  padding: 3px; }
+.dashboard .panel {
+  margin-bottom: 3px; }
+.dashboard .variaveis, .dashboard .localidades {
+  padding: 15px; }
+.dashboard .localidades a.local {
+  display: block;
+  text-decoration: none;
+  padding: 4px 8px;
+  border-bottom: 1px solid #dddddd; }
+  .dashboard .localidades a.local:hover {
+    text-decoration: none;
+    background-color: #e1edf7; }
