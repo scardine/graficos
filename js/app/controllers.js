@@ -25,6 +25,12 @@ angular.module('graficos.controllers', [])
             $scope.$watch('item.currentNode', function(curr, prev) {
                 if(!curr) return;
                 console.log(curr);
+                $http({method: 'GET', url: 'data/charts/'+curr.id+'-'+$scope.localidade.loc_cod+'.json'})
+                    .success(function (data, status, headers, config) {
+                        $scope.charts.push(data);
+                        $scope.$apply();
+                        console.log(data);
+                    });
             });
 
             $scope.setLocal = function(local) {
