@@ -1,65 +1,13 @@
 <!doctype html>
-<html lang="pt-br" ng-app="graficos">
+<html lang="pt">
 <head>
     <meta charset="UTF-8">
-    <title>Gráficos</title>
-    <link rel="stylesheet" href="css/bootstrap.css">
-    <link rel="stylesheet" href="css/font-awesome.css">
-    <link rel="stylesheet" href="css/graficos.css">
-    <link rel="stylesheet" href="css/angular-treeview.css">
+    <title>Seade<title>
 </head>
 <body>
-    <div class="container dashboard">
-        <div class="row" ng-controller="menuControllerMapas">
-            <div class="col-lg-3">
-                <div class="panel panel-default altura">
-                    <div class="panel-heading">
-                        Seleção de Variáveis
-                    </div>
-                    <div class="panel-body">
-                        <div angular-treeview="true" tree-id="item" tree-model="data" tree-data="data"
-                             node-id="id" node-label="nome" node-children="itens">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-9">
-                <div class="panel panel-default vega-map" ng-hide="mapas.length">
-                    <div class="panel-heading">
-                        <h3>Use o menu da esquerda para abrir um ou mais mapas</h3>
-                    </div>
-                    <div class="panel-body">
-                        <div scope-ref="vis">
-                            <img src="img/map-placeholder.png">
-                        </div>
-                    </div>
-                </div>
-                <vega-map ng-repeat="mapa in mapas" url="data/{{ mapa.feature }}/{{ mapa.id }}/{{ mapa.current }}.tsv" width="845" height="550" info="mapa.info"
-                        feature="mapa.feature" features="mapa.features" geometry="data/{{ mapa.feature }}.topo.json" parse="mapa.parse"
-                        data-title="{{ mapa.title }}" current="mapa.current" alternatives="mapa.alternatives" feature-labels="mapa.featureLabels"
-                        scale="{{ mapa.scale }}" domain="mapa.domain" range="mapa.range" on-close="remove($index)">
-                    <div ng-show="mapa.info">
-                        <h3>{{ mapa.info.localidade }}</h3>
-                        <p>{{ mapa.info.label }}</p>
-                    </div>
-                </vega-map>
-            </div>
-        </div>
-    </div>
-    <script src="js/jquery-2.1.0.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="js/angular.js"></script>
-    <script src="js/angular-ui-router.js"></script>
-    <script src="js/angular-resource.js"></script>
-    <script src="js/angular-treeview.js"></script>
-    <script src="js/app/app.js"></script>
-    <script src="js/app/directives.js"></script>
-    <script src="js/app/controllers.js"></script>
-    <script src="http://trifacta.github.io/vega/lib/d3.v3.min.js"></script>
-    <script src="http://trifacta.github.io/vega/lib/d3.geo.projection.min.js"></script>
-    <script src="http://trifacta.github.io/vega/lib/topojson.js"></script>
-    <!-- script src="http://trifacta.github.io/vega/vega.js"></script -->
-    <script src="js/vega.js"></script>
-    <script src="js/ng-google-chart.js"></script>
+<ul>
+    <li><a href="dashboards.html">Dashboards</a></li>
+    <li><a href="mapas.html">Mapas</a></li>
+</ul>
 </body>
 </html>

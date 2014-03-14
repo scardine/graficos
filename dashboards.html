@@ -57,7 +57,7 @@
                 </div>
             </div>
             <div class="col-lg-9">
-                <div class="col-lg-6" ng-repeat="chart in charts">
+                <div ng-class="{'col-lg-6': item.currentNode.id.indexOf('eixo-')==0}" ng-repeat="chart in charts">
                     <div class="panel panel-default">
                         <div google-chart chart="chart" style="{{chart.cssStyle}}"></div>
                     </div>

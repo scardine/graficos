@@ -53,7 +53,7 @@
                 };
 
                 settings = angular.extend({}, apiConfig.optionalSettings, settings);
-
+                console.log(settings);
                 window.google.load('visualization', apiConfig.version, settings);
             };
             var head = document.getElementsByTagName('head')[0];

@@ -16,6 +16,12 @@ angular.module('graficos', [
             $rootScope.$stateParams = $stateParams;
             $rootScope.user = {};
         }
+    ])
+    .config(['googleChartApiConfig' ,
+        function (googleChartApiConfig) {
+            googleChartApiConfig.version = 1.1;
+            googleChartApiConfig.optionalSettings.language = 'pt_BR';
+        }
     ]);
     //.config(function(flashProvider) {
     //    flashProvider.errorClassnames.push('alert-danger');
