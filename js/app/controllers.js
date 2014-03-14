@@ -2,19 +2,12 @@ angular.module('graficos.controllers', [])
     .controller('menuControllerDashboards', [
         '$scope',
         '$http',
-        function ($scope, $http) {
+        '$timeout',
+        function ($scope, $http, $timeout) {
             $scope.data = [];
             $scope.lista = [];
             $scope.charts = [];
-            $scope.localidade = {
-                "loc_cod_ibge": 1000,
-                "loc_cod": 1000,
-                "nome": "Total do Estado de Sao Paulo",
-                "loc_nome": "Total do Estado de São Paulo",
-                "loc_pai": 0,
-                "loc_ordem": "1000.000.000.000",
-                "loc_nivel": 0
-            };
+            $scope.localidade = {};
             $scope.localidades = [];
             $scope.menu_var = true;
             $scope.filtro = {
@@ -22,16 +15,21 @@ angular.module('graficos.controllers', [])
                 loc_nivel: 70
             };
 
-            $scope.$watch('item.currentNode', function(curr, prev) {
+            var updateCharts = function(curr, prev) {
                 if(!curr) return;
-                console.log(curr);
-                $http({method: 'GET', url: 'data/charts/'+curr.id+'-'+$scope.localidade.loc_cod+'.json'})
+                var node = $scope.item.currentNode,
+                    local = $scope.localidade.loc_cod;
+                if(!node || !local) {
+                    console.log(node, local);
+                    return;
+                }
+                $http({method: 'GET', url: 'data/charts/'+node.id+'-'+local+'.json'})
                     .success(function (data, status, headers, config) {
-                        $scope.charts.push(data);
-                        $scope.$apply();
-                        console.log(data);
+                        $scope.charts = data;
                     });
-            });
+            };
+            $scope.$watch('item.currentnode', updateCharts);
+            $scope.$watch('localidade', updateCharts);
 
             $scope.setLocal = function(local) {
                 $scope.localidade = local;
@@ -53,7 +51,12 @@ angular.module('graficos.controllers', [])
             $http({method: 'GET', url: 'data/localidades.json'})
                 .success(function (data, status, headers, config) {
                     $scope.localidades = data.lista;
-                    console.log($scope.localidades);
+                    $scope.localidades.forEach(function(el, i) {
+                        if(el.loc_cod == '1000') {
+                            $scope.localidade = el;
+                            console.log(el);
+                        }
+                    });
                 })
                 .error(function (data, status, headers, config) {
                     alert("Erro carregando dados de localidades.");
