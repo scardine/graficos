@@ -1,6 +1,11 @@
 #coding: utf-8
 import json
 import csv
+import sqlsoup
+from ast import literal_eval
+from scipy.stats.mstats import mquantiles
+
+db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@172.16.16.135/simeducacao')
 
 datum = []
 with open("variaveis.csv") as i:
@@ -11,8 +16,53 @@ with open("variaveis.csv") as i:
 
 r = []
 
-eixos = u"""Contexto Socioeconômico
-Educação Básica""".split("\n")
+eixos = u"""Educação Básica
+Contexto Socioeconômico""".split("\n")
+
+
+def get_domain(var_cod, ano):
+    levels = {
+        10: 'ra',
+        70: 'mun',
+        30: 'rm',
+    }
+    r = {}
+    for level in levels:
+        places = [l.loc_cod for l in db.tb_localidade.filter_by(loc_nivel=level)]
+        domain = []
+        for dado in db.tb_dados.filter_by(var_cod=var_cod).filter(db.tb_dados.loc_cod.in_(places)):
+            val = getattr(dado, 'd_{}'.format(ano))
+            if val.startswith('Grupo'):
+                r[levels[level]] = [0,6]
+                continue
+            if val.strip() in ['', '-', 'N/A', 'N/D', 'NA', 'ND', '*', '?']:
+                continue
+            try:
+                val = literal_eval(val.replace('.', '').replace(',', '.'))
+            except (SyntaxError, ValueError):
+                continue
+            domain.append(val)
+        r[levels[level]] = domain
+
+    return r
+
+
+def get_legend(domain):
+    r = {}
+    for k, v in domain.items():
+        if v == [0, 6]:
+            r[k] = ["Grupo {}".format(n) for n in range(1, 6)]
+            continue
+
+        quantiles = list(mquantiles(v, [0.2, 0.4, 0.6, 0.8]))
+        legenda = ["até {}".format(quantiles[0])]
+        for i in range(3):
+            legenda.append('mais de {} até {}'.format(quantiles[i], quantiles[i+1]))
+        legenda.append('mais de {}'.format(quantiles[-1]))
+        r[k] = legenda
+
+    return r
+
 
 print u"{} eixos".format(len(eixos))
 for i, nome in enumerate(eixos):
@@ -54,21 +104,27 @@ for i, nome in enumerate(eixos):
         eixo["itens"].append(dimensao)
 
         for line in datum:
+            var = db.tb_variavel.get(line['var_cod'])
+            if not var:
+                continue
             if line['eixo'] != eixo["nome"]:
                 continue
             if line['dimensao'] != dimensao["nome"]:
                 continue
-            variavel = {
+            variable = {
                 "nome": line['var_nome'],
-                "id": line['var_cod'],
+                "id": var.var_cod,
                 "anos": [int(ano) for ano in line['var_periodo'].split(",")],
                 "itens": [],
                 "range": line['range'].split(","),
-                "domain": json.loads(line['domain']),
+                #"domain": json.loads(line['domain']),
                 "scale": line['scale'],
-                "features": line['features'].split(",")
+                "features": line['features'].split(","),
+                "fonte": line.get('fonte', '').split('|'),
             }
-            dimensao["itens"].append(variavel)
+            variable['domain'] = get_domain(var.var_cod, variable['anos'][-1])
+            variable["legenda"] = get_legend(variable['domain'])
+            dimensao["itens"].append(variable)
 
         print u"\t\t\t{} variavel(eis) para {}->{}".format(
             len(dimensao["itens"]),
