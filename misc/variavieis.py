@@ -20,7 +20,7 @@ eixos = u"""Educação Básica
 Contexto Socioeconômico""".split("\n")
 
 
-def get_domain(var_cod, ano):
+def get_domain(var_cod, ano, d=None):
     levels = {
         10: 'ra',
         70: 'mun',
@@ -28,6 +28,10 @@ def get_domain(var_cod, ano):
     }
     r = {}
     for level in levels:
+        if d == [0, 6]:
+            r[levels[level]] = d
+            continue
+
         places = [l.loc_cod for l in db.tb_localidade.filter_by(loc_nivel=level)]
         domain = []
         for dado in db.tb_dados.filter_by(var_cod=var_cod).filter(db.tb_dados.loc_cod.in_(places)):
@@ -35,7 +39,7 @@ def get_domain(var_cod, ano):
             if val.startswith('Grupo'):
                 r[levels[level]] = [0,6]
                 continue
-            if val.strip() in ['', '-', 'N/A', 'N/D', 'NA', 'ND', '*', '?']:
+            if val.strip() in ['', '-', 'N/A', 'N/D', 'NA', 'ND', '*', '?', '...']:
                 continue
             try:
                 val = literal_eval(val.replace('.', '').replace(',', '.'))
@@ -50,7 +54,7 @@ def get_domain(var_cod, ano):
 def get_legend(domain):
     r = {}
     for k, v in domain.items():
-        if v == [0, 6]:
+        if v == [0, 6] or v == [0, 5] or not v:
             r[k] = ["Grupo {}".format(n) for n in range(1, 6)]
             continue
 
@@ -122,7 +126,7 @@ for i, nome in enumerate(eixos):
                 "features": line['features'].split(","),
                 "fonte": line.get('fonte', '').split('|'),
             }
-            variable['domain'] = get_domain(var.var_cod, variable['anos'][-1])
+            variable['domain'] = get_domain(var.var_cod, variable['anos'][-1], line['domain'])
             variable["legenda"] = get_legend(variable['domain'])
             dimensao["itens"].append(variable)
 
