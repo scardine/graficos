@@ -1,1 +1,646 @@
 id	ibge	localidade	valor	label
+41	3504107	Atibaia	4.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,70
+42	3504206	Auriflama	4.20	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,20
+43	3504305	Avaí	69.23	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 69,23
+44	3504404	Avanhandava	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+54	3505401	Barra do Turvo	3.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,70
+55	3505500	Barretos	3.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,55
+56	3505609	Barrinha	6.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,17
+57	3505708	Barueri	2.44	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,44
+58	3505807	Bastos	5.05	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,05
+59	3505906	Batatais	5.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,28
+60	3506003	Bauru	7.74	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,74
+61	3506102	Bebedouro	4.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,80
+62	3506201	Bento de Abreu	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+63	3506300	Bernardino de Campos	3.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,33
+64	3506409	Bilac	9.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,09
+65	3506508	Birigui	9.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,51
+66	3506607	Biritiba Mirim	3.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,04
+67	3506706	Boa Esperança do Sul	7.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,14
+68	3506805	Bocaina	7.23	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,23
+69	3506904	Bofete	5.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,26
+70	3507001	Boituva	4.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,24
+71	3507100	Bom Jesus dos Perdões	6.02	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,02
+1	3500105	Adamantina	5.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,80
+2	3500204	Adolfo	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+3	3500303	Aguaí	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+4	3500402	Águas da Prata	6.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,00
+5	3500501	Águas de Lindóia	6.19	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,19
+6	3500600	Águas de São Pedro	9.43	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,43
+7	3500709	Agudos	4.81	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,81
+8	3500808	Alfredo Marcondes	13.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,51
+9	3500907	Altair	2.27	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,27
+10	3501004	Altinópolis	14.49	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,49
+11	3501103	Alto Alegre	2.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,70
+12	3501202	Álvares Florence	5.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,71
+13	3501301	Álvares Machado	3.66	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,66
+14	3501400	Álvaro de Carvalho	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+15	3501509	Alvinlândia	2.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,94
+16	3501608	Americana	4.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,28
+17	3501707	Américo Brasiliense	3.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,51
+18	3501806	Américo de Campos	9.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,76
+19	3501905	Amparo	2.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,48
+20	3502002	Analândia	20.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 20,00
+21	3502101	Andradina	4.30	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,30
+22	3502200	Angatuba	7.83	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,83
+23	3502309	Anhembi	4.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,17
+24	3502408	Anhumas	6.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,00
+25	3502507	Aparecida	9.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,28
+26	3502606	Aparecida d'Oeste	18.60	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 18,60
+27	3502705	Apiaí	3.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,00
+28	3502804	Araçatuba	4.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,38
+29	3502903	Araçoiaba da Serra	3.32	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,32
+30	3503000	Aramina	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+31	3503109	Arandu	1.75	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,75
+32	3503208	Araraquara	4.95	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,95
+33	3503307	Araras	8.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,09
+34	3503406	Arealva	10.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,26
+35	3503505	Areias	11.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,63
+36	3503604	Areiópolis	5.05	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,05
+37	3503703	Ariranha	16.46	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 16,46
+38	3503802	Artur Nogueira	3.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,68
+39	3503901	Arujá	2.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,68
+40	3504008	Assis	3.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,69
+72	3507209	Borá	9.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,09
+73	3507308	Boracéia	8.57	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,57
+74	3507407	Borborema	3.96	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,96
+75	3507506	Botucatu	2.79	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,79
+76	3507605	Bragança Paulista	6.52	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,52
+77	3507704	Braúna	5.88	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,88
+78	3507803	Brodowski	6.30	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,30
+79	3507902	Brotas	6.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,90
+80	3508009	Buri	4.32	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,32
+81	3508108	Buritama	3.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,17
+82	3508207	Buritizal	19.05	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 19,05
+83	3508306	Cabrália Paulista	17.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 17,14
+84	3508405	Cabreúva	4.43	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,43
+85	3508504	Caçapava	1.98	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,98
+86	3508603	Cachoeira Paulista	5.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,14
+87	3508702	Caconde	5.61	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,61
+88	3508801	Cafelândia	2.61	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,61
+89	3508900	Caiabu	2.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,33
+90	3509007	Caieiras	3.60	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,60
+91	3509106	Caiuá	2.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,04
+92	3509205	Cajamar	1.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,56
+93	3509304	Cajobi	11.46	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,46
+94	3509403	Cajuru	16.10	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 16,10
+95	3509502	Campinas	4.99	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,99
+96	3509601	Campo Limpo Paulista	3.98	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,98
+97	3509700	Campos do Jordão	4.75	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,75
+98	3509809	Campos Novos Paulista	5.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,41
+99	3509908	Cananéia	6.49	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,49
+100	3510005	Cândido Mota	2.74	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,74
+101	3510104	Cândido Rodrigues	3.57	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,57
+102	3510203	Capão Bonito	4.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,07
+103	3510302	Capela do Alto	4.97	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,97
+104	3510401	Capivari	5.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,68
+105	3510500	Caraguatatuba	4.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,41
+106	3510609	Carapicuíba	2.40	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,40
+107	3510708	Cardoso	4.46	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,46
+108	3510807	Casa Branca	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+109	3510906	Cássia dos Coqueiros	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+110	3511003	Castilho	5.34	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,34
+111	3511102	Catanduva	3.02	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,02
+112	3511201	Catiguá	4.23	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,23
+113	3511300	Cedral	12.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,24
+114	3511409	Cerqueira César	13.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,25
+115	3511508	Cerquilho	4.53	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,53
+116	3511607	Cesário Lange	3.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,76
+117	3511706	Charqueada	6.72	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,72
+118	3557204	Chavantes	1.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,16
+119	3511904	Clementina	5.62	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,62
+120	3512001	Colina	3.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,82
+121	3512100	Colômbia	6.85	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,85
+122	3512209	Conchal	4.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,90
+123	3512308	Conchas	8.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,33
+124	3512407	Cordeirópolis	5.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,24
+125	3512506	Coroados	3.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,92
+126	3512605	Coronel Macedo	6.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,82
+127	3512704	Corumbataí	4.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,48
+128	3512803	Cosmópolis	5.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,51
+129	3512902	Cosmorama	1.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,56
+130	3513009	Cotia	4.30	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,30
+131	3513108	Cravinhos	6.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,76
+132	3513207	Cristais Paulista	4.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,55
+133	3513306	Cruzália	9.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,68
+134	3513405	Cruzeiro	1.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,55
+135	3513504	Cubatão	3.40	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,40
+136	3513603	Cunha	5.83	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,83
+137	3513702	Descalvado	4.86	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,86
+138	3513801	Diadema	2.08	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,08
+139	3513900	Divinolândia	18.03	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 18,03
+140	3514007	Dobrada	50.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 50,63
+141	3514106	Dois Córregos	5.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,41
+142	3514205	Dolcinópolis	4.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,00
+143	3514304	Dourado	7.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,94
+144	3514403	Dracena	9.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,70
+145	3514502	Duartina	5.84	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,84
+146	3514601	Dumont	2.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,38
+147	3514700	Echaporã	7.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,14
+148	3514809	Eldorado	5.47	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,47
+149	3514908	Elias Fausto	5.93	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,93
+150	3515004	Embu das Artes	3.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,16
+151	3515103	Embu-Guaçu	2.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,80
+152	3515202	Estrela d'Oeste	7.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,94
+153	3515301	Estrela do Norte	5.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,00
+154	3515400	Fartura	12.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,33
+155	3515509	Fernandópolis	12.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,25
+156	3515608	Fernando Prestes	15.52	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 15,52
+157	3515707	Ferraz de Vasconcelos	1.22	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,22
+158	3515806	Flora Rica	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+159	3515905	Floreal	6.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,25
+160	3516002	Flórida Paulista	6.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,67
+161	3516101	Florínia	2.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,38
+162	3516200	Franca	5.34	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,34
+163	3516309	Francisco Morato	1.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,71
+164	3516408	Franco da Rocha	1.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,63
+165	3516507	Gabriel Monteiro	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+166	3516606	Gália	5.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,71
+167	3516705	Garça	4.15	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,15
+168	3516804	Gastão Vidigal	2.86	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,86
+169	3516903	General Salgado	20.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 20,37
+170	3517000	Getulina	1.18	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,18
+171	3517109	Glicério	8.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,33
+172	3517208	Guaiçara	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+173	3517307	Guaimbê	3.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,64
+174	3517406	Guaíra	5.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,17
+175	3517505	Guapiaçu	4.42	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,42
+176	3517604	Guapiara	2.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,94
+177	3517703	Guará	3.05	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,05
+178	3517802	Guaraçaí	6.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,78
+179	3517901	Guaraci	16.52	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 16,52
+180	3518008	Guarani d'Oeste	12.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,00
+181	3518107	Guarantã	2.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,50
+182	3518206	Guararapes	5.06	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,06
+183	3518305	Guararema	4.75	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,75
+184	3518404	Guaratinguetá	4.20	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,20
+185	3518503	Guareí	4.35	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,35
+186	3518602	Guariba	4.39	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,39
+187	3518701	Guarujá	2.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,48
+188	3518800	Guarulhos	3.31	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,31
+189	3518909	Guzolândia	12.20	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,20
+190	3519006	Herculândia	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+191	3519105	Iacanga	8.77	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,77
+192	3519204	Iacri	8.96	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,96
+193	3519303	Ibaté	8.03	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,03
+194	3519402	Ibirá	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+195	3519501	Ibirarema	9.62	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,62
+196	3519600	Ibitinga	10.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,71
+197	3519709	Ibiúna	7.02	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,02
+198	3519808	Icém	6.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,82
+199	3519907	Iepê	1.85	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,85
+200	3520004	Igaraçu do Tietê	3.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,24
+201	3520103	Igarapava	2.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,70
+202	3520202	Igaratá	3.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,16
+203	3520301	Iguape	4.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,37
+204	3520400	Ilhabela	2.87	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,87
+205	3520509	Indaiatuba	6.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,76
+206	3520608	Indiana	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+207	3520707	Indiaporã	2.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,94
+208	3520806	Inúbia Paulista	2.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,33
+209	3520905	Ipaussu	14.75	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,75
+210	3521002	Iperó	5.58	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,58
+211	3521101	Ipeúna	4.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,11
+212	3521200	Iporanga	5.88	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,88
+213	3521309	Ipuã	8.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,41
+214	3521408	Iracemápolis	5.77	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,77
+215	3521507	Irapuã	6.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,78
+216	3521606	Irapuru	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+217	3521705	Itaberá	3.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,28
+218	3521804	Itaí	8.54	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,54
+219	3521903	Itajobi	1.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,09
+220	3522000	Itaju	12.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,50
+221	3522109	Itanhaém	3.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,24
+222	3522208	Itapecerica da Serra	2.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,14
+223	3522307	Itapetininga	4.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,51
+224	3522406	Itapeva	6.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,63
+225	3522505	Itapevi	1.88	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,88
+226	3522604	Itapira	3.10	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,10
+227	3522703	Itápolis	12.31	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,31
+228	3522802	Itaporanga	12.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,69
+229	3522901	Itapuí	2.30	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,30
+230	3523008	Itapura	6.06	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,06
+231	3523107	Itaquaquecetuba	2.31	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,31
+232	3523206	Itararé	3.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,67
+233	3523305	Itariri	7.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,14
+234	3523404	Itatiba	12.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,92
+235	3523503	Itatinga	1.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,41
+236	3523602	Itirapina	3.81	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,81
+237	3523701	Itirapuã	4.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,17
+238	3523800	Itobi	13.21	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,21
+239	3523909	Itu	4.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,64
+240	3524006	Itupeva	5.46	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,46
+241	3524105	Ituverava	8.06	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,06
+242	3524204	Jaborandi	1.59	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,59
+243	3524303	Jaboticabal	5.75	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,75
+244	3524402	Jacareí	3.72	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,72
+245	3524501	Jaci	4.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,55
+246	3524600	Jacupiranga	4.93	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,93
+247	3524709	Jaguariúna	9.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,68
+248	3524808	Jales	12.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,82
+249	3524907	Jambeiro	11.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,76
+250	3525003	Jandira	1.95	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,95
+251	3525102	Jardinópolis	3.35	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,35
+252	3525201	Jarinu	4.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,55
+253	3525300	Jaú	5.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,80
+254	3525409	Jeriquara	2.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,56
+255	3525508	Joanópolis	22.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 22,68
+256	3525607	João Ramalho	11.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,90
+257	3525706	José Bonifácio	7.20	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,20
+258	3525805	Júlio Mesquita	8.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,70
+259	3525904	Jundiaí	5.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,92
+260	3526001	Junqueirópolis	13.01	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,01
+261	3526100	Juquiá	5.35	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,35
+262	3526209	Juquitiba	3.97	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,97
+263	3526308	Lagoinha	5.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,48
+264	3526407	Laranjal Paulista	1.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,94
+265	3526506	Lavínia	12.20	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,20
+266	3526605	Lavrinhas	4.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,69
+267	3526704	Leme	2.01	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,01
+268	3526803	Lençóis Paulista	5.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,69
+269	3526902	Limeira	6.05	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,05
+270	3527009	Lindóia	12.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,50
+271	3527108	Lins	5.43	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,43
+272	3527207	Lorena	4.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,71
+273	3527306	Louveira	3.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,50
+274	3527405	Lucélia	6.30	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,30
+275	3527504	Lucianópolis	3.03	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,03
+276	3527603	Luís Antônio	5.15	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,15
+277	3527702	Luiziânia	4.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,76
+278	3527801	Lupércio	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+279	3527900	Lutécia	7.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,14
+280	3528007	Macatuba	8.72	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,72
+281	3528106	Macaubal	1.59	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,59
+282	3528205	Macedônia	10.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,64
+283	3528304	Magda	7.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,41
+284	3528403	Mairinque	8.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,56
+285	3528502	Mairiporã	2.91	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,91
+286	3528601	Manduri	7.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,37
+287	3528700	Marabá Paulista	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+288	3528809	Maracaí	4.23	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,23
+289	3528908	Mariápolis	6.06	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,06
+290	3529005	Marília	3.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,90
+291	3529104	Marinópolis	12.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,50
+292	3529203	Martinópolis	6.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,28
+293	3529302	Matão	6.21	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,21
+294	3529401	Mauá	3.39	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,39
+295	3529500	Mendonça	4.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,26
+296	3529609	Meridiano	5.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,41
+297	3529708	Miguelópolis	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+298	3529807	Mineiros do Tietê	8.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,04
+299	3529906	Miracatu	4.22	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,22
+300	3530003	Mira Estrela	5.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,13
+301	3530102	Mirandópolis	3.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,92
+302	3530201	Mirante do Paranapanema	3.61	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,61
+303	3530300	Mirassol	11.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,71
+304	3530409	Mirassolândia	2.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,50
+305	3530508	Mococa	6.87	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,87
+306	3530607	Mogi das Cruzes	3.88	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,88
+307	3530706	Mogi Guaçu	5.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,80
+308	3530805	Moji Mirim	4.08	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,08
+309	3530904	Mombuca	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+310	3531001	Monções	3.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,13
+311	3531100	Mongaguá	1.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,24
+312	3531209	Monte Alegre do Sul	9.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,41
+313	3531308	Monte Alto	4.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,41
+314	3531407	Monte Aprazível	4.96	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,96
+315	3531506	Monte Azul Paulista	4.85	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,85
+316	3531605	Monte Castelo	2.27	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,27
+317	3531704	Monteiro Lobato	5.36	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,36
+318	3531803	Monte Mor	2.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,78
+319	3531902	Morro Agudo	1.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,55
+320	3532009	Morungaba	5.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,00
+321	3532108	Murutinga do Sul	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+322	3532207	Narandiba	6.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,82
+323	3532306	Natividade da Serra	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+324	3532405	Nazaré Paulista	5.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,67
+325	3532504	Neves Paulista	10.47	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,47
+326	3532603	Nhandeara	8.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,11
+327	3532702	Nipoã	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+328	3532801	Nova Aliança	8.93	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,93
+329	3532900	Nova Europa	1.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,09
+330	3533007	Nova Granada	6.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,63
+331	3533106	Nova Guataporanga	4.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,17
+332	3533205	Nova Independência	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+333	3533304	Nova Luzitânia	34.21	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 34,21
+334	3533403	Nova Odessa	4.91	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,91
+335	3533502	Novo Horizonte	4.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,80
+336	3533601	Nuporanga	4.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,00
+337	3533700	Ocauçu	3.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,13
+338	3533809	Óleo	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+339	3533908	Olímpia	10.87	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,87
+340	3534005	Onda Verde	2.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,33
+341	3534104	Oriente	1.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,67
+342	3534203	Orindiúva	5.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,48
+343	3534302	Orlândia	4.52	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,52
+344	3534401	Osasco	3.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,04
+345	3534500	Oscar Bressane	7.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,41
+346	3534609	Osvaldo Cruz	3.54	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,54
+347	3534708	Ourinhos	6.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,16
+348	3534807	Ouro Verde	4.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,55
+349	3534906	Pacaembu	9.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,64
+350	3535002	Palestina	5.43	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,43
+351	3535101	Palmares Paulista	3.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,37
+352	3535200	Palmeira d'Oeste	15.91	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 15,91
+353	3535309	Palmital	1.27	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,27
+354	3535408	Panorama	7.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,14
+355	3535507	Paraguaçu Paulista	5.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,90
+356	3535606	Paraibuna	8.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,00
+357	3535705	Paraíso	12.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,00
+358	3535804	Paranapanema	3.73	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,73
+359	3535903	Paranapuã	18.75	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 18,75
+360	3536000	Parapuã	7.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,07
+361	3536109	Pardinho	4.08	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,08
+362	3536208	Pariquera-Açu	6.03	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,03
+363	3536307	Patrocínio Paulista	6.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,78
+364	3536406	Paulicéia	4.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,29
+365	3536505	Paulínia	3.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,68
+366	3536604	Paulo de Faria	1.20	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,20
+367	3536703	Pederneiras	5.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,37
+368	3536802	Pedra Bela	8.89	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,89
+369	3536901	Pedranópolis	20.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 20,00
+370	3537008	Pedregulho	5.59	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,59
+371	3537107	Pedreira	5.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,90
+372	3537206	Pedro de Toledo	2.86	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,86
+373	3537305	Penápolis	5.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,63
+374	3537404	Pereira Barreto	5.49	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,49
+375	3537503	Pereiras	4.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,48
+376	3537602	Peruíbe	4.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,11
+377	3537701	Piacatu	6.85	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,85
+378	3537800	Piedade	4.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,69
+379	3537909	Pilar do Sul	11.84	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,84
+380	3538006	Pindamonhangaba	7.01	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,01
+381	3538105	Pindorama	9.86	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,86
+382	3515186	Espírito Santo do Pinhal	10.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,68
+383	3538204	Pinhalzinho	9.52	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,52
+384	3538303	Piquerobi	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+385	3538501	Piquete	2.42	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,42
+386	3538600	Piracaia	16.10	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 16,10
+387	3538709	Piracicaba	6.02	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,02
+388	3538808	Piraju	7.87	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,87
+389	3538907	Pirajuí	11.62	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,62
+390	3539004	Pirangi	3.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,41
+391	3539103	Pirapora do Bom Jesus	2.44	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,44
+392	3539202	Pirapozinho	7.18	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,18
+393	3539301	Pirassununga	6.47	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,47
+394	3539400	Piratininga	3.03	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,03
+395	3539509	Pitangueiras	6.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,82
+396	3539608	Planalto	4.65	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,65
+397	3539707	Platina	2.86	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,86
+398	3539806	Poá	3.18	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,18
+399	3539905	Poloni	10.42	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,42
+400	3540002	Pompéia	3.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,82
+401	3540101	Pongaí	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+402	3540200	Pontal	2.79	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,79
+403	3540309	Pontes Gestal	8.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,33
+404	3540408	Populina	12.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,00
+405	3540507	Porangaba	4.41	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,41
+406	3540606	Porto Feliz	4.55	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,55
+407	3540705	Porto Ferreira	3.35	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,35
+408	3540804	Potirendaba	14.93	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,93
+409	3540903	Pradópolis	3.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,51
+410	3541000	Praia Grande	2.19	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,19
+411	3541109	Presidente Alves	45.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 45,71
+412	3541208	Presidente Bernardes	9.59	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,59
+413	3541307	Presidente Epitácio	7.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,29
+414	3541406	Presidente Prudente	5.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,80
+415	3541505	Presidente Venceslau	9.06	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,06
+416	3541604	Promissão	3.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,67
+417	3541703	Quatá	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+418	3541802	Queiroz	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+419	3541901	Queluz	1.27	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,27
+420	3542008	Quintana	2.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,78
+421	3542107	Rafard	7.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,29
+422	3542206	Rancharia	4.84	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,84
+423	3542305	Redenção da Serra	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+424	3542404	Regente Feijó	9.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,68
+425	3542503	Reginópolis	4.65	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,65
+426	3542602	Registro	7.06	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,06
+427	3542701	Restinga	4.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,69
+428	3542800	Ribeira	6.12	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,12
+429	3542909	Ribeirão Bonito	5.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,56
+430	3543006	Ribeirão Branco	4.59	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,59
+431	3543105	Ribeirão Corrente	6.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,25
+432	3543204	Ribeirão do Sul	8.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,00
+433	3543303	Ribeirão Pires	3.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,90
+434	3543402	Ribeirão Preto	6.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,07
+435	3543501	Riversul	16.44	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 16,44
+436	3543600	Rifaina	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+437	3543709	Rincão	5.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,50
+438	3543808	Rinópolis	17.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 17,78
+439	3543907	Rio Claro	4.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,29
+440	3544004	Rio das Pedras	4.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,26
+441	3544103	Rio Grande da Serra	3.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,90
+442	3544202	Riolândia	3.66	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,66
+443	3544301	Roseira	5.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,26
+444	3544400	Rubiácea	2.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,78
+445	3544509	Rubinéia	6.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,90
+446	3544608	Sabino	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+447	3544707	Sagres	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+448	3544806	Sales	7.14	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,14
+449	3544905	Sales Oliveira	0.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 0,94
+450	3545001	Salesópolis	4.40	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,40
+451	3545100	Salmourão	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+452	3545209	Salto	6.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,16
+453	3545308	Salto de Pirapora	6.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,38
+454	3545407	Salto Grande	4.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,29
+455	3545506	Sandovalina	2.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,13
+456	3545605	Santa Adélia	19.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 19,67
+457	3545704	Santa Albertina	1.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,92
+458	3545803	Santa Bárbara d'Oeste	4.36	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,36
+459	3500550	Águas de Santa Bárbara	9.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,26
+460	3546009	Santa Branca	2.73	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,73
+461	3546108	Santa Clara d'Oeste	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+462	3546207	Santa Cruz da Conceição	2.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,17
+463	3546306	Santa Cruz das Palmeiras	14.93	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,93
+464	3546405	Santa Cruz do Rio Pardo	10.34	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,34
+465	3546504	Santa Ernestina	24.24	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 24,24
+466	3546603	Santa Fé do Sul	7.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,64
+467	3546702	Santa Gertrudes	13.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,37
+468	3546801	Santa Isabel	3.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,07
+469	3546900	Santa Lucia	4.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,00
+470	3547007	Santa Maria da Serra	5.77	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,77
+471	3547106	Santa Mercedes	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+472	3547403	Santa Rita d'Oeste	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+473	3547502	Santa Rita do Passa Quatro	6.62	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,62
+474	3547601	Santa Rosa do Viterbo	6.87	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,87
+475	3547205	Santana da Ponte Pensa	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+477	3547700	Santo Anastácio	3.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,07
+478	3547809	Santo André	5.32	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,32
+479	3547908	Santo Antonio da Alegria	16.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 16,07
+480	3548104	Santo Antonio do Jardim	11.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,90
+481	3548203	Santo Antonio do Pinhal	11.59	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,59
+482	3548005	Santo Antonio de Posse	5.84	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,84
+483	3548302	Santo Expedito	2.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,94
+484	3548401	Santópolis do Aguapeí	2.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,38
+485	3548500	Santos	3.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,78
+486	3548609	São Bento do Sapucaí	6.72	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,72
+487	3548708	São Bernardo do Campo	4.95	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,95
+488	3548807	São Caetano do Sul	7.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,68
+489	3548906	São Carlos	7.58	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,58
+490	3549003	São Francisco	11.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,76
+491	3549102	São João da Boa Vista	4.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,56
+492	3549201	São João das Duas Pontes	11.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,11
+493	3549300	São João do Pau d'Alho	11.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,76
+494	3549409	São Joaquim da Barra	1.42	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,42
+495	3549607	São José do Barreiro	3.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,70
+496	3549508	São José da Bela Vista	3.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,13
+497	3549706	São José do Rio Pardo	6.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,56
+498	3549805	São José do Rio Preto	6.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,63
+499	3549904	São José dos Campos	6.23	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,23
+500	3550001	São Luís do Paraitinga	7.07	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,07
+501	3550100	São Manuel	1.84	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,84
+502	3550209	São Miguel Arcanjo	6.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,33
+503	3550308	São Paulo	3.40	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,40
+504	3550407	São Pedro	11.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,04
+505	3550506	São Pedro do Turvo	7.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,69
+506	3550605	São Roque	7.86	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,86
+507	3550704	São Sebastião	2.46	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,46
+508	3550803	São Sebastião da Grama	8.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,00
+509	3550902	São Simão	2.68	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,68
+510	3551009	São Vicente	1.99	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,99
+511	3551108	Sarapuí	5.83	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,83
+512	3551207	Sarutaiá	2.63	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,63
+513	3551306	Sebastianópolis do Sul	18.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 18,92
+514	3551405	Serra Azul	4.30	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,30
+515	3551603	Serra Negra	1.22	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,22
+516	3551504	Serrana	3.46	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,46
+517	3551702	Sertãozinho	6.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,51
+518	3551801	Sete Barras	5.15	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,15
+519	3551900	Severínia	9.80	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,80
+520	3552007	Silveiras	2.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,38
+521	3552106	Socorro	8.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,90
+522	3552205	Sorocaba	4.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,37
+523	3552304	Sud Mennucci	8.43	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,43
+524	3552403	Sumaré	3.35	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,35
+525	3552502	Suzano	3.02	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,02
+526	3552601	Tabapuã	21.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 21,78
+527	3552700	Tabatinga	13.45	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,45
+528	3552809	Taboão da Serra	4.78	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,78
+529	3552908	Taciba	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+530	3553005	Taguaí	7.48	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,48
+531	3553104	Taiaçu	2.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,82
+532	3553203	Taiúva	12.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,50
+533	3553302	Tambaú	9.47	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,47
+534	3553401	Tanabi	3.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,82
+535	3553500	Tapiraí	8.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,33
+536	3553609	Tapiratiba	6.83	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,83
+537	3553708	Taquaritinga	15.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 15,04
+538	3553807	Taquarituba	4.73	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,73
+539	3553906	Tarabaí	3.92	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,92
+540	3554003	Tatuí	3.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,28
+541	3554102	Taubaté	5.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,00
+542	3554201	Tejupá	6.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,38
+543	3554300	Teodoro Sampaio	5.85	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,85
+544	3554409	Terra Roxa	4.40	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,40
+545	3554508	Tietê	9.28	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,28
+546	3554607	Timburi	6.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,38
+547	3554706	Torrinha	8.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,64
+548	3554805	Tremembé	6.15	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,15
+549	3554904	Três Fronteiras	1.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,69
+550	3555000	Tupã	3.99	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,99
+551	3555109	Tupi Paulista	12.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,69
+552	3555208	Turiúba	10.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,71
+553	3555307	Turmalina	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+554	3555406	Ubatuba	2.44	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,44
+555	3555505	Ubirajara	65.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 65,00
+556	3555604	Uchôa	21.43	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 21,43
+557	3555703	União Paulista	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+558	3555802	Urânia	8.22	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,22
+559	3555901	Uru	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+560	3556008	Urupês	10.99	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,99
+561	3556107	Valentim Gentil	3.08	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,08
+562	3556206	Valinhos	7.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,70
+563	3556305	Valparaíso	1.45	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,45
+564	3556404	Vargem Grande do Sul	1.98	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,98
+565	3556503	Várzea Paulista	4.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,11
+566	3556602	Vera Cruz	7.64	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,64
+567	3556701	Vinhedo	7.23	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,23
+568	3556800	Viradouro	0.81	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 0,81
+569	3556909	Vista Alegre do Alto	6.85	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,85
+570	3557006	Votorantim	3.45	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,45
+571	3557105	Votuporanga	7.83	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,83
+572	3556453	Vargem Grande Paulista	3.83	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,83
+573	3500758	Alambari	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+574	3501152	Alumínio	3.81	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,81
+575	3502754	Araçariguama	3.19	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,19
+576	3503158	Arapeí	5.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,00
+577	3503950	Aspásia	13.89	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,89
+578	3505351	Barra do Chapéu	9.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,09
+579	3506359	Bertioga	0.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 0,25
+580	3507159	Bom Sucesso de Itararé	4.35	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,35
+581	3507456	Borebi	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+582	3509254	Cajati	4.87	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,87
+583	3509452	Campina do Monte Alegre	2.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,04
+584	3510153	Canitar	14.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,29
+585	3513850	Dirce Reis	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+586	3514924	Elisiário	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+587	3514957	Embaúba	6.67	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,67
+588	3515129	Emilianópolis	14.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,29
+589	3515152	Engenheiro Coelho	3.77	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,77
+590	3515194	Espírito Santo do Turvo	2.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,13
+591	3557303	Estiva Gerbi	4.12	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,12
+592	3515350	Euclides da Cunha Paulista	7.21	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,21
+593	3518859	Guatapará	1.27	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,27
+594	3519055	Holambra	4.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,90
+595	3519071	Hortolândia	3.52	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,52
+596	3519253	Iaras	15.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 15,09
+597	3520426	Ilha Comprida	4.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,17
+598	3520442	Ilha Solteira	10.89	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,89
+599	3522158	Itaóca	4.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,17
+600	3522653	Itapirapuã Paulista	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+601	3527256	Lourdes	13.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,16
+602	3528858	Marapoama	9.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,09
+603	3529658	Mesópolis	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+604	3532058	Motuca	2.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,04
+605	3532827	Nova Campina	2.94	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,94
+606	3532843	Nova Canaã Paulista	10.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,71
+607	3533254	Novais	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+608	3536257	Parisi	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+609	3537156	Pedrinhas Paulista	3.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,13
+610	3540259	Pontalinda	7.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,50
+611	3540754	Potim	10.00	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,00
+612	3543253	Ribeirão Grande	8.79	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,79
+613	3544251	Rosana	2.45	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,45
+614	3545159	Saltinho	18.99	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 18,99
+615	3549250	São João de Iracema	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+616	3549953	São Lourenço da Serra	9.29	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,29
+617	3548054	Santo Antonio do Aracanguá	2.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,25
+618	3552551	Suzanápolis	6.25	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,25
+619	3553856	Taquarivaí	2.13	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,13
+620	3553955	Tarumã	1.37	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 1,37
+621	3554656	Torre de Pedra	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+622	3554953	Tuiuti	11.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,11
+623	3555356	Ubarana	2.38	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,38
+624	3556354	Vargem	2.04	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 2,04
+625	3557154	Zacarias	4.17	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 4,17
+626	3503356	Arco Íris	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+627	3507753	Brejo Alegre	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+628	3509957	Canas	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+629	3540853	Pracinha	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+630	3541059	Pratânia	6.90	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 6,90
+631	3541653	Quadra	12.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 12,50
+632	3546256	Santa Cruz da Esperança	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+633	3547650	Santa Salete	5.88	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,88
+634	3556958	Vitória Brasil	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+635	3521150	Ipiguá	13.51	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 13,51
+636	3553658	Taquaral	3.70	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,70
+637	3515657	Fernão	11.11	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,11
+638	3516853	Gavião Peixoto	9.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,76
+639	3525854	Jumirim	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+640	3532157	Nantes	8.82	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,82
+641	3532868	Nova Castilho	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+642	3534757	Ouroeste	11.76	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,76
+643	3536570	Paulistânia	5.56	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,56
+644	3543238	Ribeirão dos Índios	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+645	3554755	Trabiju	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+476	3547304	Santana de Parnaíba	-	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): -
+45	3504503	Avaré	5.50	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 5,50
+46	3504602	Bady Bassitt	10.16	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,16
+47	3504701	Balbinos	9.09	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 9,09
+48	3504800	Bálsamo	8.33	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 8,33
+49	3504909	Bananal	10.89	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 10,89
+50	3505005	Barão de Antonina	7.69	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 7,69
+51	3505104	Barbosa	14.71	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 14,71
+52	3505203	Bariri	11.57	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 11,57
+53	3505302	Barra Bonita	3.26	Alunos que Atingiram o Nível Adequado ou Avançado no Sistema de Avaliação de Rendimento Escolar do Estado de São Paulo (Saresp) em Matemática – Ensino Médio (Em %): 3,26

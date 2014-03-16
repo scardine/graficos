@@ -1,646 +1,646 @@
 id	ibge	localidade	valor	label
-1	3500105	Adamantina	87.07	Taxa de atendimento na pré-escola: 87,07
-2	3500204	Adolfo	94.05	Taxa de atendimento na pré-escola: 94,05
-3	3500303	Aguaí	89.35	Taxa de atendimento na pré-escola: 89,35
-4	3500402	Águas da Prata	92.17	Taxa de atendimento na pré-escola: 92,17
-5	3500501	Águas de Lindóia	95.99	Taxa de atendimento na pré-escola: 95,99
-6	3500600	Águas de São Pedro	208.89	Taxa de atendimento na pré-escola: 208,89
-7	3500709	Agudos	98.68	Taxa de atendimento na pré-escola: 98,68
-8	3500808	Alfredo Marcondes	102.41	Taxa de atendimento na pré-escola: 102,41
-9	3500907	Altair	88.99	Taxa de atendimento na pré-escola: 88,99
-10	3501004	Altinópolis	107.97	Taxa de atendimento na pré-escola: 107,97
-11	3501103	Alto Alegre	101.19	Taxa de atendimento na pré-escola: 101,19
-12	3501202	Álvares Florence	95.31	Taxa de atendimento na pré-escola: 95,31
-13	3501301	Álvares Machado	86.25	Taxa de atendimento na pré-escola: 86,25
-14	3501400	Álvaro de Carvalho	111.58	Taxa de atendimento na pré-escola: 111,58
-15	3501509	Alvinlândia	120.00	Taxa de atendimento na pré-escola: 120,00
-16	3501608	Americana	108.33	Taxa de atendimento na pré-escola: 108,33
-17	3501707	Américo Brasiliense	99.39	Taxa de atendimento na pré-escola: 99,39
-18	3501806	Américo de Campos	85.71	Taxa de atendimento na pré-escola: 85,71
-19	3501905	Amparo	106.44	Taxa de atendimento na pré-escola: 106,44
-20	3502002	Analândia	90.00	Taxa de atendimento na pré-escola: 90,00
-21	3502101	Andradina	89.24	Taxa de atendimento na pré-escola: 89,24
-22	3502200	Angatuba	86.55	Taxa de atendimento na pré-escola: 86,55
-23	3502309	Anhembi	112.21	Taxa de atendimento na pré-escola: 112,21
-24	3502408	Anhumas	97.85	Taxa de atendimento na pré-escola: 97,85
-25	3502507	Aparecida	90.10	Taxa de atendimento na pré-escola: 90,10
-26	3502606	Aparecida d'Oeste	87.64	Taxa de atendimento na pré-escola: 87,64
-27	3502705	Apiaí	92.10	Taxa de atendimento na pré-escola: 92,10
-28	3502804	Araçatuba	99.22	Taxa de atendimento na pré-escola: 99,22
-29	3502903	Araçoiaba da Serra	111.36	Taxa de atendimento na pré-escola: 111,36
-30	3503000	Aramina	100.00	Taxa de atendimento na pré-escola: 100,00
-31	3503109	Arandu	104.52	Taxa de atendimento na pré-escola: 104,52
-32	3503208	Araraquara	105.34	Taxa de atendimento na pré-escola: 105,34
-33	3503307	Araras	102.61	Taxa de atendimento na pré-escola: 102,61
-34	3503406	Arealva	88.40	Taxa de atendimento na pré-escola: 88,40
-35	3503505	Areias	105.41	Taxa de atendimento na pré-escola: 105,41
-36	3503604	Areiópolis	94.24	Taxa de atendimento na pré-escola: 94,24
-37	3503703	Ariranha	110.19	Taxa de atendimento na pré-escola: 110,19
-38	3503802	Artur Nogueira	98.22	Taxa de atendimento na pré-escola: 98,22
-39	3503901	Arujá	93.62	Taxa de atendimento na pré-escola: 93,62
-40	3504008	Assis	97.60	Taxa de atendimento na pré-escola: 97,60
-41	3504107	Atibaia	97.69	Taxa de atendimento na pré-escola: 97,69
-42	3504206	Auriflama	76.73	Taxa de atendimento na pré-escola: 76,73
-43	3504305	Avaí	92.42	Taxa de atendimento na pré-escola: 92,42
-44	3504404	Avanhandava	106.48	Taxa de atendimento na pré-escola: 106,48
-45	3504503	Avaré	93.49	Taxa de atendimento na pré-escola: 93,49
-46	3504602	Bady Bassitt	98.25	Taxa de atendimento na pré-escola: 98,25
-47	3504701	Balbinos	94.44	Taxa de atendimento na pré-escola: 94,44
-48	3504800	Bálsamo	122.98	Taxa de atendimento na pré-escola: 122,98
-49	3504909	Bananal	89.59	Taxa de atendimento na pré-escola: 89,59
-50	3505005	Barão de Antonina	83.15	Taxa de atendimento na pré-escola: 83,15
-51	3505104	Barbosa	103.93	Taxa de atendimento na pré-escola: 103,93
-52	3505203	Bariri	100.51	Taxa de atendimento na pré-escola: 100,51
-53	3505302	Barra Bonita	100.40	Taxa de atendimento na pré-escola: 100,40
-54	3505401	Barra do Turvo	86.96	Taxa de atendimento na pré-escola: 86,96
-55	3505500	Barretos	73.79	Taxa de atendimento na pré-escola: 73,79
-56	3505609	Barrinha	98.24	Taxa de atendimento na pré-escola: 98,24
-57	3505708	Barueri	130.08	Taxa de atendimento na pré-escola: 130,08
-58	3505807	Bastos	90.42	Taxa de atendimento na pré-escola: 90,42
-59	3505906	Batatais	82.58	Taxa de atendimento na pré-escola: 82,58
-60	3506003	Bauru	92.03	Taxa de atendimento na pré-escola: 92,03
-61	3506102	Bebedouro	98.98	Taxa de atendimento na pré-escola: 98,98
-62	3506201	Bento de Abreu	79.10	Taxa de atendimento na pré-escola: 79,10
-63	3506300	Bernardino de Campos	96.11	Taxa de atendimento na pré-escola: 96,11
-64	3506409	Bilac	85.29	Taxa de atendimento na pré-escola: 85,29
-65	3506508	Birigui	96.48	Taxa de atendimento na pré-escola: 96,48
-618	3552551	Suzanápolis	90.22	Taxa de atendimento na pré-escola: 90,22
-619	3553856	Taquarivaí	80.68	Taxa de atendimento na pré-escola: 80,68
-620	3553955	Tarumã	101.81	Taxa de atendimento na pré-escola: 101,81
-621	3554656	Torre de Pedra	103.85	Taxa de atendimento na pré-escola: 103,85
-622	3554953	Tuiuti	106.15	Taxa de atendimento na pré-escola: 106,15
-623	3555356	Ubarana	93.94	Taxa de atendimento na pré-escola: 93,94
-624	3556354	Vargem	101.87	Taxa de atendimento na pré-escola: 101,87
-625	3557154	Zacarias	112.73	Taxa de atendimento na pré-escola: 112,73
-626	3503356	Arco Íris	119.05	Taxa de atendimento na pré-escola: 119,05
-627	3507753	Brejo Alegre	129.69	Taxa de atendimento na pré-escola: 129,69
-628	3509957	Canas	85.03	Taxa de atendimento na pré-escola: 85,03
-629	3540853	Pracinha	84.78	Taxa de atendimento na pré-escola: 84,78
-630	3541059	Pratânia	105.15	Taxa de atendimento na pré-escola: 105,15
-631	3541653	Quadra	82.61	Taxa de atendimento na pré-escola: 82,61
-632	3546256	Santa Cruz da Esperança	100.00	Taxa de atendimento na pré-escola: 100,00
-633	3547650	Santa Salete	136.00	Taxa de atendimento na pré-escola: 136,00
-634	3556958	Vitória Brasil	95.12	Taxa de atendimento na pré-escola: 95,12
-635	3521150	Ipiguá	102.86	Taxa de atendimento na pré-escola: 102,86
-636	3553658	Taquaral	84.93	Taxa de atendimento na pré-escola: 84,93
-637	3515657	Fernão	125.00	Taxa de atendimento na pré-escola: 125,00
-638	3516853	Gavião Peixoto	94.53	Taxa de atendimento na pré-escola: 94,53
-639	3525854	Jumirim	85.90	Taxa de atendimento na pré-escola: 85,90
-640	3532157	Nantes	70.24	Taxa de atendimento na pré-escola: 70,24
-641	3532868	Nova Castilho	124.00	Taxa de atendimento na pré-escola: 124,00
-642	3534757	Ouroeste	98.52	Taxa de atendimento na pré-escola: 98,52
-643	3536570	Paulistânia	111.36	Taxa de atendimento na pré-escola: 111,36
-644	3543238	Ribeirão dos Índios	121.43	Taxa de atendimento na pré-escola: 121,43
-645	3554755	Trabiju	100.00	Taxa de atendimento na pré-escola: 100,00
-66	3506607	Biritiba Mirim	80.46	Taxa de atendimento na pré-escola: 80,46
-67	3506706	Boa Esperança do Sul	81.30	Taxa de atendimento na pré-escola: 81,30
-68	3506805	Bocaina	97.88	Taxa de atendimento na pré-escola: 97,88
-69	3506904	Bofete	92.31	Taxa de atendimento na pré-escola: 92,31
-70	3507001	Boituva	90.66	Taxa de atendimento na pré-escola: 90,66
-71	3507100	Bom Jesus dos Perdões	93.48	Taxa de atendimento na pré-escola: 93,48
-72	3507209	Borá	131.58	Taxa de atendimento na pré-escola: 131,58
-73	3507308	Boracéia	111.21	Taxa de atendimento na pré-escola: 111,21
-74	3507407	Borborema	73.26	Taxa de atendimento na pré-escola: 73,26
-75	3507506	Botucatu	99.75	Taxa de atendimento na pré-escola: 99,75
-76	3507605	Bragança Paulista	110.64	Taxa de atendimento na pré-escola: 110,64
-77	3507704	Braúna	112.61	Taxa de atendimento na pré-escola: 112,61
-78	3507803	Brodowski	100.00	Taxa de atendimento na pré-escola: 100,00
-79	3507902	Brotas	99.30	Taxa de atendimento na pré-escola: 99,30
-80	3508009	Buri	72.02	Taxa de atendimento na pré-escola: 72,02
-81	3508108	Buritama	101.92	Taxa de atendimento na pré-escola: 101,92
-82	3508207	Buritizal	107.22	Taxa de atendimento na pré-escola: 107,22
-83	3508306	Cabrália Paulista	102.42	Taxa de atendimento na pré-escola: 102,42
-84	3508405	Cabreúva	102.94	Taxa de atendimento na pré-escola: 102,94
-85	3508504	Caçapava	95.17	Taxa de atendimento na pré-escola: 95,17
-86	3508603	Cachoeira Paulista	92.88	Taxa de atendimento na pré-escola: 92,88
-87	3508702	Caconde	79.12	Taxa de atendimento na pré-escola: 79,12
-88	3508801	Cafelândia	102.56	Taxa de atendimento na pré-escola: 102,56
-89	3508900	Caiabu	68.42	Taxa de atendimento na pré-escola: 68,42
-90	3509007	Caieiras	97.16	Taxa de atendimento na pré-escola: 97,16
-91	3509106	Caiuá	83.33	Taxa de atendimento na pré-escola: 83,33
-92	3509205	Cajamar	99.75	Taxa de atendimento na pré-escola: 99,75
-93	3509304	Cajobi	82.28	Taxa de atendimento na pré-escola: 82,28
-94	3509403	Cajuru	88.23	Taxa de atendimento na pré-escola: 88,23
-95	3509502	Campinas	91.21	Taxa de atendimento na pré-escola: 91,21
-96	3509601	Campo Limpo Paulista	105.96	Taxa de atendimento na pré-escola: 105,96
-97	3509700	Campos do Jordão	105.19	Taxa de atendimento na pré-escola: 105,19
-98	3509809	Campos Novos Paulista	105.97	Taxa de atendimento na pré-escola: 105,97
-99	3509908	Cananéia	87.81	Taxa de atendimento na pré-escola: 87,81
-100	3510005	Cândido Mota	100.00	Taxa de atendimento na pré-escola: 100,00
-101	3510104	Cândido Rodrigues	64.41	Taxa de atendimento na pré-escola: 64,41
-102	3510203	Capão Bonito	92.92	Taxa de atendimento na pré-escola: 92,92
-103	3510302	Capela do Alto	95.61	Taxa de atendimento na pré-escola: 95,61
-104	3510401	Capivari	103.99	Taxa de atendimento na pré-escola: 103,99
-105	3510500	Caraguatatuba	97.28	Taxa de atendimento na pré-escola: 97,28
-106	3510609	Carapicuíba	70.72	Taxa de atendimento na pré-escola: 70,72
-107	3510708	Cardoso	86.43	Taxa de atendimento na pré-escola: 86,43
-108	3510807	Casa Branca	89.44	Taxa de atendimento na pré-escola: 89,44
-109	3510906	Cássia dos Coqueiros	108.96	Taxa de atendimento na pré-escola: 108,96
-110	3511003	Castilho	93.18	Taxa de atendimento na pré-escola: 93,18
-111	3511102	Catanduva	99.46	Taxa de atendimento na pré-escola: 99,46
-112	3511201	Catiguá	68.48	Taxa de atendimento na pré-escola: 68,48
-113	3511300	Cedral	88.00	Taxa de atendimento na pré-escola: 88,00
-114	3511409	Cerqueira César	88.02	Taxa de atendimento na pré-escola: 88,02
-115	3511508	Cerquilho	109.54	Taxa de atendimento na pré-escola: 109,54
-116	3511607	Cesário Lange	105.43	Taxa de atendimento na pré-escola: 105,43
-117	3511706	Charqueada	96.82	Taxa de atendimento na pré-escola: 96,82
-118	3557204	Chavantes	102.52	Taxa de atendimento na pré-escola: 102,52
-119	3511904	Clementina	93.58	Taxa de atendimento na pré-escola: 93,58
-120	3512001	Colina	81.37	Taxa de atendimento na pré-escola: 81,37
-121	3512100	Colômbia	98.08	Taxa de atendimento na pré-escola: 98,08
-122	3512209	Conchal	105.10	Taxa de atendimento na pré-escola: 105,10
-123	3512308	Conchas	82.08	Taxa de atendimento na pré-escola: 82,08
-124	3512407	Cordeirópolis	95.04	Taxa de atendimento na pré-escola: 95,04
-125	3512506	Coroados	110.24	Taxa de atendimento na pré-escola: 110,24
-126	3512605	Coronel Macedo	84.62	Taxa de atendimento na pré-escola: 84,62
-127	3512704	Corumbataí	102.06	Taxa de atendimento na pré-escola: 102,06
-128	3512803	Cosmópolis	92.82	Taxa de atendimento na pré-escola: 92,82
-129	3512902	Cosmorama	106.25	Taxa de atendimento na pré-escola: 106,25
-130	3513009	Cotia	97.24	Taxa de atendimento na pré-escola: 97,24
-131	3513108	Cravinhos	106.87	Taxa de atendimento na pré-escola: 106,87
-132	3513207	Cristais Paulista	89.00	Taxa de atendimento na pré-escola: 89,00
-133	3513306	Cruzália	109.09	Taxa de atendimento na pré-escola: 109,09
-134	3513405	Cruzeiro	95.48	Taxa de atendimento na pré-escola: 95,48
-135	3513504	Cubatão	96.38	Taxa de atendimento na pré-escola: 96,38
-136	3513603	Cunha	47.08	Taxa de atendimento na pré-escola: 47,08
-137	3513702	Descalvado	100.00	Taxa de atendimento na pré-escola: 100,00
-138	3513801	Diadema	98.25	Taxa de atendimento na pré-escola: 98,25
-139	3513900	Divinolândia	93.78	Taxa de atendimento na pré-escola: 93,78
-140	3514007	Dobrada	93.17	Taxa de atendimento na pré-escola: 93,17
-141	3514106	Dois Córregos	91.38	Taxa de atendimento na pré-escola: 91,38
-142	3514205	Dolcinópolis	112.50	Taxa de atendimento na pré-escola: 112,50
-143	3514304	Dourado	88.44	Taxa de atendimento na pré-escola: 88,44
-144	3514403	Dracena	92.91	Taxa de atendimento na pré-escola: 92,91
-145	3514502	Duartina	91.00	Taxa de atendimento na pré-escola: 91,00
-146	3514601	Dumont	104.57	Taxa de atendimento na pré-escola: 104,57
-147	3514700	Echaporã	105.23	Taxa de atendimento na pré-escola: 105,23
-148	3514809	Eldorado	95.76	Taxa de atendimento na pré-escola: 95,76
-149	3514908	Elias Fausto	88.68	Taxa de atendimento na pré-escola: 88,68
-150	3515004	Embu das Artes	87.80	Taxa de atendimento na pré-escola: 87,80
-151	3515103	Embu-Guaçu	85.06	Taxa de atendimento na pré-escola: 85,06
-152	3515202	Estrela d'Oeste	79.23	Taxa de atendimento na pré-escola: 79,23
-153	3515301	Estrela do Norte	101.41	Taxa de atendimento na pré-escola: 101,41
-154	3515400	Fartura	108.92	Taxa de atendimento na pré-escola: 108,92
-155	3515509	Fernandópolis	88.11	Taxa de atendimento na pré-escola: 88,11
-156	3515608	Fernando Prestes	82.35	Taxa de atendimento na pré-escola: 82,35
-157	3515707	Ferraz de Vasconcelos	73.62	Taxa de atendimento na pré-escola: 73,62
-158	3515806	Flora Rica	123.33	Taxa de atendimento na pré-escola: 123,33
-159	3515905	Floreal	84.62	Taxa de atendimento na pré-escola: 84,62
-160	3516002	Flórida Paulista	92.10	Taxa de atendimento na pré-escola: 92,10
-161	3516101	Florínia	83.33	Taxa de atendimento na pré-escola: 83,33
-162	3516200	Franca	95.48	Taxa de atendimento na pré-escola: 95,48
-163	3516309	Francisco Morato	88.37	Taxa de atendimento na pré-escola: 88,37
-164	3516408	Franco da Rocha	100.31	Taxa de atendimento na pré-escola: 100,31
-165	3516507	Gabriel Monteiro	105.45	Taxa de atendimento na pré-escola: 105,45
-166	3516606	Gália	96.77	Taxa de atendimento na pré-escola: 96,77
-167	3516705	Garça	102.21	Taxa de atendimento na pré-escola: 102,21
-168	3516804	Gastão Vidigal	98.17	Taxa de atendimento na pré-escola: 98,17
-169	3516903	General Salgado	56.22	Taxa de atendimento na pré-escola: 56,22
-170	3517000	Getulina	92.46	Taxa de atendimento na pré-escola: 92,46
-171	3517109	Glicério	99.15	Taxa de atendimento na pré-escola: 99,15
-172	3517208	Guaiçara	88.28	Taxa de atendimento na pré-escola: 88,28
-173	3517307	Guaimbê	113.91	Taxa de atendimento na pré-escola: 113,91
-174	3517406	Guaíra	88.26	Taxa de atendimento na pré-escola: 88,26
-175	3517505	Guapiaçu	103.61	Taxa de atendimento na pré-escola: 103,61
-176	3517604	Guapiara	88.49	Taxa de atendimento na pré-escola: 88,49
-177	3517703	Guará	72.77	Taxa de atendimento na pré-escola: 72,77
-178	3517802	Guaraçaí	93.44	Taxa de atendimento na pré-escola: 93,44
-179	3517901	Guaraci	101.08	Taxa de atendimento na pré-escola: 101,08
-180	3518008	Guarani d'Oeste	131.91	Taxa de atendimento na pré-escola: 131,91
-181	3518107	Guarantã	91.94	Taxa de atendimento na pré-escola: 91,94
-182	3518206	Guararapes	93.05	Taxa de atendimento na pré-escola: 93,05
-183	3518305	Guararema	88.67	Taxa de atendimento na pré-escola: 88,67
-184	3518404	Guaratinguetá	93.49	Taxa de atendimento na pré-escola: 93,49
-185	3518503	Guareí	88.57	Taxa de atendimento na pré-escola: 88,57
-186	3518602	Guariba	104.23	Taxa de atendimento na pré-escola: 104,23
-187	3518701	Guarujá	90.96	Taxa de atendimento na pré-escola: 90,96
-188	3518800	Guarulhos	95.17	Taxa de atendimento na pré-escola: 95,17
-189	3518909	Guzolândia	78.29	Taxa de atendimento na pré-escola: 78,29
-190	3519006	Herculândia	97.56	Taxa de atendimento na pré-escola: 97,56
-191	3519105	Iacanga	103.64	Taxa de atendimento na pré-escola: 103,64
-192	3519204	Iacri	83.85	Taxa de atendimento na pré-escola: 83,85
-193	3519303	Ibaté	85.38	Taxa de atendimento na pré-escola: 85,38
-194	3519402	Ibirá	98.05	Taxa de atendimento na pré-escola: 98,05
-195	3519501	Ibirarema	94.51	Taxa de atendimento na pré-escola: 94,51
-196	3519600	Ibitinga	94.56	Taxa de atendimento na pré-escola: 94,56
-197	3519709	Ibiúna	74.25	Taxa de atendimento na pré-escola: 74,25
-198	3519808	Icém	101.94	Taxa de atendimento na pré-escola: 101,94
-199	3519907	Iepê	102.14	Taxa de atendimento na pré-escola: 102,14
-200	3520004	Igaraçu do Tietê	81.76	Taxa de atendimento na pré-escola: 81,76
-201	3520103	Igarapava	98.38	Taxa de atendimento na pré-escola: 98,38
-202	3520202	Igaratá	70.16	Taxa de atendimento na pré-escola: 70,16
-203	3520301	Iguape	74.30	Taxa de atendimento na pré-escola: 74,30
-204	3520400	Ilhabela	87.83	Taxa de atendimento na pré-escola: 87,83
-205	3520509	Indaiatuba	101.89	Taxa de atendimento na pré-escola: 101,89
-206	3520608	Indiana	80.77	Taxa de atendimento na pré-escola: 80,77
-207	3520707	Indiaporã	81.48	Taxa de atendimento na pré-escola: 81,48
-208	3520806	Inúbia Paulista	114.63	Taxa de atendimento na pré-escola: 114,63
-209	3520905	Ipaussu	96.86	Taxa de atendimento na pré-escola: 96,86
-210	3521002	Iperó	95.20	Taxa de atendimento na pré-escola: 95,20
-211	3521101	Ipeúna	111.35	Taxa de atendimento na pré-escola: 111,35
-212	3521200	Iporanga	72.09	Taxa de atendimento na pré-escola: 72,09
-213	3521309	Ipuã	96.55	Taxa de atendimento na pré-escola: 96,55
-214	3521408	Iracemápolis	102.66	Taxa de atendimento na pré-escola: 102,66
-215	3521507	Irapuã	104.95	Taxa de atendimento na pré-escola: 104,95
-216	3521606	Irapuru	100.00	Taxa de atendimento na pré-escola: 100,00
-217	3521705	Itaberá	96.58	Taxa de atendimento na pré-escola: 96,58
-218	3521804	Itaí	97.92	Taxa de atendimento na pré-escola: 97,92
-219	3521903	Itajobi	93.92	Taxa de atendimento na pré-escola: 93,92
-220	3522000	Itaju	107.14	Taxa de atendimento na pré-escola: 107,14
-221	3522109	Itanhaém	101.51	Taxa de atendimento na pré-escola: 101,51
-222	3522208	Itapecerica da Serra	67.89	Taxa de atendimento na pré-escola: 67,89
-223	3522307	Itapetininga	89.26	Taxa de atendimento na pré-escola: 89,26
-224	3522406	Itapeva	97.27	Taxa de atendimento na pré-escola: 97,27
-225	3522505	Itapevi	88.85	Taxa de atendimento na pré-escola: 88,85
-226	3522604	Itapira	97.99	Taxa de atendimento na pré-escola: 97,99
-227	3522703	Itápolis	89.49	Taxa de atendimento na pré-escola: 89,49
-228	3522802	Itaporanga	93.62	Taxa de atendimento na pré-escola: 93,62
-229	3522901	Itapuí	99.14	Taxa de atendimento na pré-escola: 99,14
-230	3523008	Itapura	105.93	Taxa de atendimento na pré-escola: 105,93
-231	3523107	Itaquaquecetuba	57.33	Taxa de atendimento na pré-escola: 57,33
-232	3523206	Itararé	80.65	Taxa de atendimento na pré-escola: 80,65
-233	3523305	Itariri	67.82	Taxa de atendimento na pré-escola: 67,82
-234	3523404	Itatiba	99.45	Taxa de atendimento na pré-escola: 99,45
-235	3523503	Itatinga	98.47	Taxa de atendimento na pré-escola: 98,47
-236	3523602	Itirapina	96.80	Taxa de atendimento na pré-escola: 96,80
-237	3523701	Itirapuã	71.11	Taxa de atendimento na pré-escola: 71,11
-238	3523800	Itobi	103.13	Taxa de atendimento na pré-escola: 103,13
-239	3523909	Itu	100.82	Taxa de atendimento na pré-escola: 100,82
-240	3524006	Itupeva	101.53	Taxa de atendimento na pré-escola: 101,53
-241	3524105	Ituverava	102.72	Taxa de atendimento na pré-escola: 102,72
-242	3524204	Jaborandi	93.64	Taxa de atendimento na pré-escola: 93,64
-243	3524303	Jaboticabal	93.21	Taxa de atendimento na pré-escola: 93,21
-244	3524402	Jacareí	98.25	Taxa de atendimento na pré-escola: 98,25
-245	3524501	Jaci	103.57	Taxa de atendimento na pré-escola: 103,57
-246	3524600	Jacupiranga	74.95	Taxa de atendimento na pré-escola: 74,95
-247	3524709	Jaguariúna	105.23	Taxa de atendimento na pré-escola: 105,23
-248	3524808	Jales	92.21	Taxa de atendimento na pré-escola: 92,21
-249	3524907	Jambeiro	80.00	Taxa de atendimento na pré-escola: 80,00
-250	3525003	Jandira	87.26	Taxa de atendimento na pré-escola: 87,26
-251	3525102	Jardinópolis	96.57	Taxa de atendimento na pré-escola: 96,57
-252	3525201	Jarinu	101.88	Taxa de atendimento na pré-escola: 101,88
-253	3525300	Jaú	89.74	Taxa de atendimento na pré-escola: 89,74
-254	3525409	Jeriquara	103.13	Taxa de atendimento na pré-escola: 103,13
-255	3525508	Joanópolis	75.91	Taxa de atendimento na pré-escola: 75,91
-256	3525607	João Ramalho	57.26	Taxa de atendimento na pré-escola: 57,26
-257	3525706	José Bonifácio	99.88	Taxa de atendimento na pré-escola: 99,88
-258	3525805	Júlio Mesquita	62.90	Taxa de atendimento na pré-escola: 62,90
-259	3525904	Jundiaí	103.23	Taxa de atendimento na pré-escola: 103,23
-260	3526001	Junqueirópolis	97.79	Taxa de atendimento na pré-escola: 97,79
-261	3526100	Juquiá	76.67	Taxa de atendimento na pré-escola: 76,67
-262	3526209	Juquitiba	98.86	Taxa de atendimento na pré-escola: 98,86
-263	3526308	Lagoinha	92.86	Taxa de atendimento na pré-escola: 92,86
-264	3526407	Laranjal Paulista	96.69	Taxa de atendimento na pré-escola: 96,69
-265	3526506	Lavínia	100.00	Taxa de atendimento na pré-escola: 100,00
-266	3526605	Lavrinhas	104.57	Taxa de atendimento na pré-escola: 104,57
-267	3526704	Leme	98.92	Taxa de atendimento na pré-escola: 98,92
-268	3526803	Lençóis Paulista	98.77	Taxa de atendimento na pré-escola: 98,77
-269	3526902	Limeira	91.44	Taxa de atendimento na pré-escola: 91,44
-270	3527009	Lindóia	102.41	Taxa de atendimento na pré-escola: 102,41
-271	3527108	Lins	87.93	Taxa de atendimento na pré-escola: 87,93
-272	3527207	Lorena	93.10	Taxa de atendimento na pré-escola: 93,10
-273	3527306	Louveira	97.47	Taxa de atendimento na pré-escola: 97,47
-274	3527405	Lucélia	79.04	Taxa de atendimento na pré-escola: 79,04
-275	3527504	Lucianópolis	62.50	Taxa de atendimento na pré-escola: 62,50
-276	3527603	Luís Antônio	98.53	Taxa de atendimento na pré-escola: 98,53
-277	3527702	Luiziânia	121.60	Taxa de atendimento na pré-escola: 121,60
-278	3527801	Lupércio	129.20	Taxa de atendimento na pré-escola: 129,20
-279	3527900	Lutécia	87.84	Taxa de atendimento na pré-escola: 87,84
-280	3528007	Macatuba	98.88	Taxa de atendimento na pré-escola: 98,88
-281	3528106	Macaubal	86.62	Taxa de atendimento na pré-escola: 86,62
-282	3528205	Macedônia	71.25	Taxa de atendimento na pré-escola: 71,25
-283	3528304	Magda	108.62	Taxa de atendimento na pré-escola: 108,62
-284	3528403	Mairinque	114.67	Taxa de atendimento na pré-escola: 114,67
-285	3528502	Mairiporã	96.41	Taxa de atendimento na pré-escola: 96,41
-286	3528601	Manduri	94.04	Taxa de atendimento na pré-escola: 94,04
-287	3528700	Marabá Paulista	80.81	Taxa de atendimento na pré-escola: 80,81
-288	3528809	Maracaí	107.62	Taxa de atendimento na pré-escola: 107,62
-289	3528908	Mariápolis	91.01	Taxa de atendimento na pré-escola: 91,01
-290	3529005	Marília	105.90	Taxa de atendimento na pré-escola: 105,90
-291	3529104	Marinópolis	91.67	Taxa de atendimento na pré-escola: 91,67
-292	3529203	Martinópolis	99.31	Taxa de atendimento na pré-escola: 99,31
-293	3529302	Matão	105.29	Taxa de atendimento na pré-escola: 105,29
-294	3529401	Mauá	77.96	Taxa de atendimento na pré-escola: 77,96
-295	3529500	Mendonça	128.57	Taxa de atendimento na pré-escola: 128,57
-296	3529609	Meridiano	108.64	Taxa de atendimento na pré-escola: 108,64
-297	3529708	Miguelópolis	80.39	Taxa de atendimento na pré-escola: 80,39
-298	3529807	Mineiros do Tietê	90.28	Taxa de atendimento na pré-escola: 90,28
-299	3529906	Miracatu	87.87	Taxa de atendimento na pré-escola: 87,87
-300	3530003	Mira Estrela	101.56	Taxa de atendimento na pré-escola: 101,56
-301	3530102	Mirandópolis	72.48	Taxa de atendimento na pré-escola: 72,48
-302	3530201	Mirante do Paranapanema	80.67	Taxa de atendimento na pré-escola: 80,67
-303	3530300	Mirassol	103.15	Taxa de atendimento na pré-escola: 103,15
-304	3530409	Mirassolândia	86.67	Taxa de atendimento na pré-escola: 86,67
-305	3530508	Mococa	98.57	Taxa de atendimento na pré-escola: 98,57
-306	3530607	Mogi das Cruzes	95.45	Taxa de atendimento na pré-escola: 95,45
-307	3530706	Mogi Guaçu	98.50	Taxa de atendimento na pré-escola: 98,50
-308	3530805	Moji Mirim	87.06	Taxa de atendimento na pré-escola: 87,06
-309	3530904	Mombuca	103.33	Taxa de atendimento na pré-escola: 103,33
-310	3531001	Monções	88.37	Taxa de atendimento na pré-escola: 88,37
-311	3531100	Mongaguá	103.09	Taxa de atendimento na pré-escola: 103,09
-312	3531209	Monte Alegre do Sul	81.13	Taxa de atendimento na pré-escola: 81,13
-313	3531308	Monte Alto	95.03	Taxa de atendimento na pré-escola: 95,03
-314	3531407	Monte Aprazível	82.91	Taxa de atendimento na pré-escola: 82,91
-315	3531506	Monte Azul Paulista	100.47	Taxa de atendimento na pré-escola: 100,47
-316	3531605	Monte Castelo	102.38	Taxa de atendimento na pré-escola: 102,38
-317	3531704	Monteiro Lobato	90.00	Taxa de atendimento na pré-escola: 90,00
-318	3531803	Monte Mor	110.34	Taxa de atendimento na pré-escola: 110,34
-319	3531902	Morro Agudo	93.97	Taxa de atendimento na pré-escola: 93,97
-320	3532009	Morungaba	111.36	Taxa de atendimento na pré-escola: 111,36
-321	3532108	Murutinga do Sul	81.93	Taxa de atendimento na pré-escola: 81,93
-322	3532207	Narandiba	79.69	Taxa de atendimento na pré-escola: 79,69
-323	3532306	Natividade da Serra	39.74	Taxa de atendimento na pré-escola: 39,74
-324	3532405	Nazaré Paulista	91.00	Taxa de atendimento na pré-escola: 91,00
-325	3532504	Neves Paulista	98.10	Taxa de atendimento na pré-escola: 98,10
-326	3532603	Nhandeara	98.51	Taxa de atendimento na pré-escola: 98,51
-327	3532702	Nipoã	111.82	Taxa de atendimento na pré-escola: 111,82
-328	3532801	Nova Aliança	96.15	Taxa de atendimento na pré-escola: 96,15
-329	3532900	Nova Europa	92.03	Taxa de atendimento na pré-escola: 92,03
-330	3533007	Nova Granada	98.23	Taxa de atendimento na pré-escola: 98,23
-331	3533106	Nova Guataporanga	102.22	Taxa de atendimento na pré-escola: 102,22
-332	3533205	Nova Independência	106.38	Taxa de atendimento na pré-escola: 106,38
-333	3533304	Nova Luzitânia	98.94	Taxa de atendimento na pré-escola: 98,94
-334	3533403	Nova Odessa	106.27	Taxa de atendimento na pré-escola: 106,27
-335	3533502	Novo Horizonte	96.00	Taxa de atendimento na pré-escola: 96,00
-336	3533601	Nuporanga	104.27	Taxa de atendimento na pré-escola: 104,27
-337	3533700	Ocauçu	97.32	Taxa de atendimento na pré-escola: 97,32
-338	3533809	Óleo	88.24	Taxa de atendimento na pré-escola: 88,24
-339	3533908	Olímpia	94.48	Taxa de atendimento na pré-escola: 94,48
-340	3534005	Onda Verde	101.90	Taxa de atendimento na pré-escola: 101,90
-341	3534104	Oriente	102.16	Taxa de atendimento na pré-escola: 102,16
-342	3534203	Orindiúva	105.95	Taxa de atendimento na pré-escola: 105,95
-343	3534302	Orlândia	101.79	Taxa de atendimento na pré-escola: 101,79
-344	3534401	Osasco	98.08	Taxa de atendimento na pré-escola: 98,08
-345	3534500	Oscar Bressane	90.74	Taxa de atendimento na pré-escola: 90,74
-346	3534609	Osvaldo Cruz	96.39	Taxa de atendimento na pré-escola: 96,39
-347	3534708	Ourinhos	95.72	Taxa de atendimento na pré-escola: 95,72
-348	3534807	Ouro Verde	86.94	Taxa de atendimento na pré-escola: 86,94
-349	3534906	Pacaembu	103.35	Taxa de atendimento na pré-escola: 103,35
-350	3535002	Palestina	100.41	Taxa de atendimento na pré-escola: 100,41
-351	3535101	Palmares Paulista	102.52	Taxa de atendimento na pré-escola: 102,52
-352	3535200	Palmeira d'Oeste	84.42	Taxa de atendimento na pré-escola: 84,42
-353	3535309	Palmital	106.72	Taxa de atendimento na pré-escola: 106,72
-354	3535408	Panorama	80.60	Taxa de atendimento na pré-escola: 80,60
-355	3535507	Paraguaçu Paulista	102.42	Taxa de atendimento na pré-escola: 102,42
-356	3535606	Paraibuna	94.54	Taxa de atendimento na pré-escola: 94,54
-357	3535705	Paraíso	122.06	Taxa de atendimento na pré-escola: 122,06
-358	3535804	Paranapanema	88.95	Taxa de atendimento na pré-escola: 88,95
-359	3535903	Paranapuã	98.89	Taxa de atendimento na pré-escola: 98,89
-360	3536000	Parapuã	93.90	Taxa de atendimento na pré-escola: 93,90
-361	3536109	Pardinho	80.47	Taxa de atendimento na pré-escola: 80,47
-362	3536208	Pariquera-Açu	94.90	Taxa de atendimento na pré-escola: 94,90
-363	3536307	Patrocínio Paulista	100.00	Taxa de atendimento na pré-escola: 100,00
-364	3536406	Paulicéia	101.64	Taxa de atendimento na pré-escola: 101,64
-365	3536505	Paulínia	117.44	Taxa de atendimento na pré-escola: 117,44
-366	3536604	Paulo de Faria	91.52	Taxa de atendimento na pré-escola: 91,52
-367	3536703	Pederneiras	90.70	Taxa de atendimento na pré-escola: 90,70
-368	3536802	Pedra Bela	122.14	Taxa de atendimento na pré-escola: 122,14
-369	3536901	Pedranópolis	96.55	Taxa de atendimento na pré-escola: 96,55
-370	3537008	Pedregulho	73.47	Taxa de atendimento na pré-escola: 73,47
-371	3537107	Pedreira	90.33	Taxa de atendimento na pré-escola: 90,33
-372	3537206	Pedro de Toledo	91.08	Taxa de atendimento na pré-escola: 91,08
-373	3537305	Penápolis	92.98	Taxa de atendimento na pré-escola: 92,98
-374	3537404	Pereira Barreto	101.64	Taxa de atendimento na pré-escola: 101,64
-375	3537503	Pereiras	87.25	Taxa de atendimento na pré-escola: 87,25
-376	3537602	Peruíbe	99.14	Taxa de atendimento na pré-escola: 99,14
-377	3537701	Piacatu	119.84	Taxa de atendimento na pré-escola: 119,84
-378	3537800	Piedade	90.70	Taxa de atendimento na pré-escola: 90,70
-379	3537909	Pilar do Sul	100.91	Taxa de atendimento na pré-escola: 100,91
-380	3538006	Pindamonhangaba	65.36	Taxa de atendimento na pré-escola: 65,36
-381	3538105	Pindorama	89.77	Taxa de atendimento na pré-escola: 89,77
-382	3515186	Espírito Santo do Pinhal	91.67	Taxa de atendimento na pré-escola: 91,67
-383	3538204	Pinhalzinho	96.56	Taxa de atendimento na pré-escola: 96,56
-384	3538303	Piquerobi	74.42	Taxa de atendimento na pré-escola: 74,42
-385	3538501	Piquete	70.34	Taxa de atendimento na pré-escola: 70,34
-386	3538600	Piracaia	97.29	Taxa de atendimento na pré-escola: 97,29
-387	3538709	Piracicaba	91.73	Taxa de atendimento na pré-escola: 91,73
-388	3538808	Piraju	84.59	Taxa de atendimento na pré-escola: 84,59
-389	3538907	Pirajuí	92.81	Taxa de atendimento na pré-escola: 92,81
-390	3539004	Pirangi	100.00	Taxa de atendimento na pré-escola: 100,00
-391	3539103	Pirapora do Bom Jesus	118.34	Taxa de atendimento na pré-escola: 118,34
-392	3539202	Pirapozinho	90.35	Taxa de atendimento na pré-escola: 90,35
-393	3539301	Pirassununga	94.28	Taxa de atendimento na pré-escola: 94,28
-394	3539400	Piratininga	77.54	Taxa de atendimento na pré-escola: 77,54
-395	3539509	Pitangueiras	102.76	Taxa de atendimento na pré-escola: 102,76
-396	3539608	Planalto	99.28	Taxa de atendimento na pré-escola: 99,28
-397	3539707	Platina	102.17	Taxa de atendimento na pré-escola: 102,17
-398	3539806	Poá	100.84	Taxa de atendimento na pré-escola: 100,84
-399	3539905	Poloni	82.68	Taxa de atendimento na pré-escola: 82,68
-400	3540002	Pompéia	98.70	Taxa de atendimento na pré-escola: 98,70
-401	3540101	Pongaí	123.08	Taxa de atendimento na pré-escola: 123,08
-402	3540200	Pontal	83.76	Taxa de atendimento na pré-escola: 83,76
-403	3540309	Pontes Gestal	91.38	Taxa de atendimento na pré-escola: 91,38
-404	3540408	Populina	102.25	Taxa de atendimento na pré-escola: 102,25
-405	3540507	Porangaba	45.50	Taxa de atendimento na pré-escola: 45,50
-406	3540606	Porto Feliz	81.68	Taxa de atendimento na pré-escola: 81,68
-407	3540705	Porto Ferreira	103.13	Taxa de atendimento na pré-escola: 103,13
-408	3540804	Potirendaba	86.03	Taxa de atendimento na pré-escola: 86,03
-409	3540903	Pradópolis	99.19	Taxa de atendimento na pré-escola: 99,19
-410	3541000	Praia Grande	83.23	Taxa de atendimento na pré-escola: 83,23
-411	3541109	Presidente Alves	102.15	Taxa de atendimento na pré-escola: 102,15
-412	3541208	Presidente Bernardes	87.00	Taxa de atendimento na pré-escola: 87,00
-413	3541307	Presidente Epitácio	85.30	Taxa de atendimento na pré-escola: 85,30
-414	3541406	Presidente Prudente	86.22	Taxa de atendimento na pré-escola: 86,22
-415	3541505	Presidente Venceslau	99.24	Taxa de atendimento na pré-escola: 99,24
-416	3541604	Promissão	111.10	Taxa de atendimento na pré-escola: 111,10
-417	3541703	Quatá	91.24	Taxa de atendimento na pré-escola: 91,24
-418	3541802	Queiroz	95.51	Taxa de atendimento na pré-escola: 95,51
-419	3541901	Queluz	72.00	Taxa de atendimento na pré-escola: 72,00
-420	3542008	Quintana	105.00	Taxa de atendimento na pré-escola: 105,00
-421	3542107	Rafard	95.30	Taxa de atendimento na pré-escola: 95,30
-422	3542206	Rancharia	77.84	Taxa de atendimento na pré-escola: 77,84
-423	3542305	Redenção da Serra	82.18	Taxa de atendimento na pré-escola: 82,18
-424	3542404	Regente Feijó	105.01	Taxa de atendimento na pré-escola: 105,01
-425	3542503	Reginópolis	66.89	Taxa de atendimento na pré-escola: 66,89
-426	3542602	Registro	92.06	Taxa de atendimento na pré-escola: 92,06
-427	3542701	Restinga	106.51	Taxa de atendimento na pré-escola: 106,51
-428	3542800	Ribeira	102.91	Taxa de atendimento na pré-escola: 102,91
-429	3542909	Ribeirão Bonito	103.06	Taxa de atendimento na pré-escola: 103,06
-430	3543006	Ribeirão Branco	79.80	Taxa de atendimento na pré-escola: 79,80
-431	3543105	Ribeirão Corrente	81.45	Taxa de atendimento na pré-escola: 81,45
-432	3543204	Ribeirão do Sul	110.42	Taxa de atendimento na pré-escola: 110,42
-433	3543303	Ribeirão Pires	82.61	Taxa de atendimento na pré-escola: 82,61
-434	3543402	Ribeirão Preto	92.09	Taxa de atendimento na pré-escola: 92,09
-435	3543501	Riversul	89.22	Taxa de atendimento na pré-escola: 89,22
-436	3543600	Rifaina	56.32	Taxa de atendimento na pré-escola: 56,32
-437	3543709	Rincão	93.27	Taxa de atendimento na pré-escola: 93,27
-438	3543808	Rinópolis	104.62	Taxa de atendimento na pré-escola: 104,62
-439	3543907	Rio Claro	104.88	Taxa de atendimento na pré-escola: 104,88
-440	3544004	Rio das Pedras	85.31	Taxa de atendimento na pré-escola: 85,31
-441	3544103	Rio Grande da Serra	74.45	Taxa de atendimento na pré-escola: 74,45
-442	3544202	Riolândia	87.72	Taxa de atendimento na pré-escola: 87,72
-443	3544301	Roseira	87.18	Taxa de atendimento na pré-escola: 87,18
-444	3544400	Rubiácea	85.90	Taxa de atendimento na pré-escola: 85,90
-445	3544509	Rubinéia	98.21	Taxa de atendimento na pré-escola: 98,21
-446	3544608	Sabino	119.20	Taxa de atendimento na pré-escola: 119,20
-447	3544707	Sagres	87.50	Taxa de atendimento na pré-escola: 87,50
-448	3544806	Sales	84.25	Taxa de atendimento na pré-escola: 84,25
-449	3544905	Sales Oliveira	104.76	Taxa de atendimento na pré-escola: 104,76
-450	3545001	Salesópolis	80.74	Taxa de atendimento na pré-escola: 80,74
-451	3545100	Salmourão	103.15	Taxa de atendimento na pré-escola: 103,15
-452	3545209	Salto	100.04	Taxa de atendimento na pré-escola: 100,04
-453	3545308	Salto de Pirapora	88.27	Taxa de atendimento na pré-escola: 88,27
-454	3545407	Salto Grande	89.54	Taxa de atendimento na pré-escola: 89,54
-455	3545506	Sandovalina	81.48	Taxa de atendimento na pré-escola: 81,48
-456	3545605	Santa Adélia	87.96	Taxa de atendimento na pré-escola: 87,96
-457	3545704	Santa Albertina	101.71	Taxa de atendimento na pré-escola: 101,71
-458	3545803	Santa Bárbara d'Oeste	98.73	Taxa de atendimento na pré-escola: 98,73
-459	3500550	Águas de Santa Bárbara	123.70	Taxa de atendimento na pré-escola: 123,70
-460	3546009	Santa Branca	104.48	Taxa de atendimento na pré-escola: 104,48
-461	3546108	Santa Clara d'Oeste	86.67	Taxa de atendimento na pré-escola: 86,67
-462	3546207	Santa Cruz da Conceição	111.24	Taxa de atendimento na pré-escola: 111,24
-463	3546306	Santa Cruz das Palmeiras	113.98	Taxa de atendimento na pré-escola: 113,98
-464	3546405	Santa Cruz do Rio Pardo	94.59	Taxa de atendimento na pré-escola: 94,59
-465	3546504	Santa Ernestina	110.53	Taxa de atendimento na pré-escola: 110,53
-466	3546603	Santa Fé do Sul	90.77	Taxa de atendimento na pré-escola: 90,77
-467	3546702	Santa Gertrudes	101.10	Taxa de atendimento na pré-escola: 101,10
-468	3546801	Santa Isabel	95.31	Taxa de atendimento na pré-escola: 95,31
-469	3546900	Santa Lucia	123.36	Taxa de atendimento na pré-escola: 123,36
-470	3547007	Santa Maria da Serra	110.59	Taxa de atendimento na pré-escola: 110,59
-471	3547106	Santa Mercedes	107.32	Taxa de atendimento na pré-escola: 107,32
-472	3547403	Santa Rita d'Oeste	80.43	Taxa de atendimento na pré-escola: 80,43
-473	3547502	Santa Rita do Passa Quatro	107.73	Taxa de atendimento na pré-escola: 107,73
-474	3547601	Santa Rosa do Viterbo	97.30	Taxa de atendimento na pré-escola: 97,30
-475	3547205	Santana da Ponte Pensa	111.11	Taxa de atendimento na pré-escola: 111,11
-476	3547304	Santana de Parnaíba	77.91	Taxa de atendimento na pré-escola: 77,91
-477	3547700	Santo Anastácio	97.39	Taxa de atendimento na pré-escola: 97,39
-478	3547809	Santo André	94.95	Taxa de atendimento na pré-escola: 94,95
-479	3547908	Santo Antonio da Alegria	88.44	Taxa de atendimento na pré-escola: 88,44
-480	3548104	Santo Antonio do Jardim	104.83	Taxa de atendimento na pré-escola: 104,83
-481	3548203	Santo Antonio do Pinhal	102.33	Taxa de atendimento na pré-escola: 102,33
-482	3548005	Santo Antonio de Posse	100.71	Taxa de atendimento na pré-escola: 100,71
-483	3548302	Santo Expedito	110.45	Taxa de atendimento na pré-escola: 110,45
-484	3548401	Santópolis do Aguapeí	110.17	Taxa de atendimento na pré-escola: 110,17
-485	3548500	Santos	96.55	Taxa de atendimento na pré-escola: 96,55
-486	3548609	São Bento do Sapucaí	78.09	Taxa de atendimento na pré-escola: 78,09
-487	3548708	São Bernardo do Campo	101.00	Taxa de atendimento na pré-escola: 101,00
-488	3548807	São Caetano do Sul	110.80	Taxa de atendimento na pré-escola: 110,80
-489	3548906	São Carlos	95.47	Taxa de atendimento na pré-escola: 95,47
-490	3549003	São Francisco	75.00	Taxa de atendimento na pré-escola: 75,00
-491	3549102	São João da Boa Vista	97.65	Taxa de atendimento na pré-escola: 97,65
-492	3549201	São João das Duas Pontes	133.33	Taxa de atendimento na pré-escola: 133,33
-493	3549300	São João do Pau d'Alho	75.00	Taxa de atendimento na pré-escola: 75,00
-494	3549409	São Joaquim da Barra	95.21	Taxa de atendimento na pré-escola: 95,21
-495	3549607	São José do Barreiro	94.17	Taxa de atendimento na pré-escola: 94,17
-496	3549508	São José da Bela Vista	83.27	Taxa de atendimento na pré-escola: 83,27
-497	3549706	São José do Rio Pardo	91.73	Taxa de atendimento na pré-escola: 91,73
-498	3549805	São José do Rio Preto	98.38	Taxa de atendimento na pré-escola: 98,38
-499	3549904	São José dos Campos	94.25	Taxa de atendimento na pré-escola: 94,25
-500	3550001	São Luís do Paraitinga	65.96	Taxa de atendimento na pré-escola: 65,96
-501	3550100	São Manuel	85.35	Taxa de atendimento na pré-escola: 85,35
-502	3550209	São Miguel Arcanjo	81.40	Taxa de atendimento na pré-escola: 81,40
-503	3550308	São Paulo	89.35	Taxa de atendimento na pré-escola: 89,35
-504	3550407	São Pedro	93.12	Taxa de atendimento na pré-escola: 93,12
-505	3550506	São Pedro do Turvo	106.00	Taxa de atendimento na pré-escola: 106,00
-506	3550605	São Roque	100.73	Taxa de atendimento na pré-escola: 100,73
-507	3550704	São Sebastião	111.63	Taxa de atendimento na pré-escola: 111,63
-508	3550803	São Sebastião da Grama	79.54	Taxa de atendimento na pré-escola: 79,54
-509	3550902	São Simão	81.00	Taxa de atendimento na pré-escola: 81,00
-510	3551009	São Vicente	90.22	Taxa de atendimento na pré-escola: 90,22
-511	3551108	Sarapuí	90.94	Taxa de atendimento na pré-escola: 90,94
-512	3551207	Sarutaiá	89.81	Taxa de atendimento na pré-escola: 89,81
-513	3551306	Sebastianópolis do Sul	95.16	Taxa de atendimento na pré-escola: 95,16
-514	3551405	Serra Azul	99.64	Taxa de atendimento na pré-escola: 99,64
-515	3551603	Serra Negra	101.36	Taxa de atendimento na pré-escola: 101,36
-516	3551504	Serrana	101.70	Taxa de atendimento na pré-escola: 101,70
-517	3551702	Sertãozinho	92.82	Taxa de atendimento na pré-escola: 92,82
-518	3551801	Sete Barras	81.32	Taxa de atendimento na pré-escola: 81,32
-519	3551900	Severínia	106.81	Taxa de atendimento na pré-escola: 106,81
-520	3552007	Silveiras	96.91	Taxa de atendimento na pré-escola: 96,91
-521	3552106	Socorro	92.53	Taxa de atendimento na pré-escola: 92,53
-522	3552205	Sorocaba	100.83	Taxa de atendimento na pré-escola: 100,83
-523	3552304	Sud Mennucci	79.06	Taxa de atendimento na pré-escola: 79,06
-524	3552403	Sumaré	95.10	Taxa de atendimento na pré-escola: 95,10
-525	3552502	Suzano	98.34	Taxa de atendimento na pré-escola: 98,34
-526	3552601	Tabapuã	92.58	Taxa de atendimento na pré-escola: 92,58
-527	3552700	Tabatinga	99.75	Taxa de atendimento na pré-escola: 99,75
-528	3552809	Taboão da Serra	89.23	Taxa de atendimento na pré-escola: 89,23
-529	3552908	Taciba	72.85	Taxa de atendimento na pré-escola: 72,85
-530	3553005	Taguaí	88.57	Taxa de atendimento na pré-escola: 88,57
-531	3553104	Taiaçu	92.91	Taxa de atendimento na pré-escola: 92,91
-532	3553203	Taiúva	101.71	Taxa de atendimento na pré-escola: 101,71
-533	3553302	Tambaú	98.65	Taxa de atendimento na pré-escola: 98,65
-534	3553401	Tanabi	92.13	Taxa de atendimento na pré-escola: 92,13
-535	3553500	Tapiraí	83.33	Taxa de atendimento na pré-escola: 83,33
-536	3553609	Tapiratiba	88.24	Taxa de atendimento na pré-escola: 88,24
-537	3553708	Taquaritinga	91.59	Taxa de atendimento na pré-escola: 91,59
-538	3553807	Taquarituba	104.43	Taxa de atendimento na pré-escola: 104,43
-539	3553906	Tarabaí	76.26	Taxa de atendimento na pré-escola: 76,26
-540	3554003	Tatuí	102.23	Taxa de atendimento na pré-escola: 102,23
-541	3554102	Taubaté	103.23	Taxa de atendimento na pré-escola: 103,23
-542	3554201	Tejupá	101.99	Taxa de atendimento na pré-escola: 101,99
-543	3554300	Teodoro Sampaio	83.97	Taxa de atendimento na pré-escola: 83,97
-544	3554409	Terra Roxa	104.33	Taxa de atendimento na pré-escola: 104,33
-545	3554508	Tietê	98.70	Taxa de atendimento na pré-escola: 98,70
-546	3554607	Timburi	100.00	Taxa de atendimento na pré-escola: 100,00
-547	3554706	Torrinha	101.48	Taxa de atendimento na pré-escola: 101,48
-548	3554805	Tremembé	69.41	Taxa de atendimento na pré-escola: 69,41
-549	3554904	Três Fronteiras	83.33	Taxa de atendimento na pré-escola: 83,33
-550	3555000	Tupã	92.16	Taxa de atendimento na pré-escola: 92,16
-551	3555109	Tupi Paulista	94.67	Taxa de atendimento na pré-escola: 94,67
-552	3555208	Turiúba	133.33	Taxa de atendimento na pré-escola: 133,33
-553	3555307	Turmalina	68.97	Taxa de atendimento na pré-escola: 68,97
-554	3555406	Ubatuba	105.54	Taxa de atendimento na pré-escola: 105,54
-555	3555505	Ubirajara	98.33	Taxa de atendimento na pré-escola: 98,33
-556	3555604	Uchôa	99.53	Taxa de atendimento na pré-escola: 99,53
-557	3555703	União Paulista	135.00	Taxa de atendimento na pré-escola: 135,00
-558	3555802	Urânia	77.89	Taxa de atendimento na pré-escola: 77,89
-559	3555901	Uru	65.38	Taxa de atendimento na pré-escola: 65,38
-560	3556008	Urupês	100.75	Taxa de atendimento na pré-escola: 100,75
-561	3556107	Valentim Gentil	103.36	Taxa de atendimento na pré-escola: 103,36
-562	3556206	Valinhos	104.44	Taxa de atendimento na pré-escola: 104,44
-563	3556305	Valparaíso	88.61	Taxa de atendimento na pré-escola: 88,61
-564	3556404	Vargem Grande do Sul	100.58	Taxa de atendimento na pré-escola: 100,58
-565	3556503	Várzea Paulista	78.17	Taxa de atendimento na pré-escola: 78,17
-566	3556602	Vera Cruz	74.81	Taxa de atendimento na pré-escola: 74,81
-567	3556701	Vinhedo	99.74	Taxa de atendimento na pré-escola: 99,74
-568	3556800	Viradouro	97.50	Taxa de atendimento na pré-escola: 97,50
-569	3556909	Vista Alegre do Alto	91.23	Taxa de atendimento na pré-escola: 91,23
-570	3557006	Votorantim	94.94	Taxa de atendimento na pré-escola: 94,94
-571	3557105	Votuporanga	82.51	Taxa de atendimento na pré-escola: 82,51
-572	3556453	Vargem Grande Paulista	108.72	Taxa de atendimento na pré-escola: 108,72
-573	3500758	Alambari	28.17	Taxa de atendimento na pré-escola: 28,17
-574	3501152	Alumínio	95.99	Taxa de atendimento na pré-escola: 95,99
-575	3502754	Araçariguama	105.60	Taxa de atendimento na pré-escola: 105,60
-576	3503158	Arapeí	107.46	Taxa de atendimento na pré-escola: 107,46
-577	3503950	Aspásia	107.89	Taxa de atendimento na pré-escola: 107,89
-578	3505351	Barra do Chapéu	92.31	Taxa de atendimento na pré-escola: 92,31
-579	3506359	Bertioga	95.56	Taxa de atendimento na pré-escola: 95,56
-580	3507159	Bom Sucesso de Itararé	100.00	Taxa de atendimento na pré-escola: 100,00
-581	3507456	Borebi	129.85	Taxa de atendimento na pré-escola: 129,85
-582	3509254	Cajati	93.25	Taxa de atendimento na pré-escola: 93,25
-583	3509452	Campina do Monte Alegre	103.66	Taxa de atendimento na pré-escola: 103,66
-584	3510153	Canitar	98.16	Taxa de atendimento na pré-escola: 98,16
-585	3513850	Dirce Reis	86.84	Taxa de atendimento na pré-escola: 86,84
-586	3514924	Elisiário	123.44	Taxa de atendimento na pré-escola: 123,44
-587	3514957	Embaúba	64.41	Taxa de atendimento na pré-escola: 64,41
-588	3515129	Emilianópolis	90.00	Taxa de atendimento na pré-escola: 90,00
-589	3515152	Engenheiro Coelho	90.73	Taxa de atendimento na pré-escola: 90,73
-590	3515194	Espírito Santo do Turvo	95.65	Taxa de atendimento na pré-escola: 95,65
-591	3557303	Estiva Gerbi	107.78	Taxa de atendimento na pré-escola: 107,78
-592	3515350	Euclides da Cunha Paulista	88.53	Taxa de atendimento na pré-escola: 88,53
-593	3518859	Guatapará	106.22	Taxa de atendimento na pré-escola: 106,22
-594	3519055	Holambra	103.82	Taxa de atendimento na pré-escola: 103,82
-595	3519071	Hortolândia	90.59	Taxa de atendimento na pré-escola: 90,59
-596	3519253	Iaras	103.70	Taxa de atendimento na pré-escola: 103,70
-597	3520426	Ilha Comprida	43.70	Taxa de atendimento na pré-escola: 43,70
-598	3520442	Ilha Solteira	89.77	Taxa de atendimento na pré-escola: 89,77
-599	3522158	Itaóca	129.33	Taxa de atendimento na pré-escola: 129,33
-600	3522653	Itapirapuã Paulista	62.59	Taxa de atendimento na pré-escola: 62,59
-601	3527256	Lourdes	110.64	Taxa de atendimento na pré-escola: 110,64
-602	3528858	Marapoama	105.45	Taxa de atendimento na pré-escola: 105,45
-603	3529658	Mesópolis	82.05	Taxa de atendimento na pré-escola: 82,05
-604	3532058	Motuca	82.64	Taxa de atendimento na pré-escola: 82,64
-605	3532827	Nova Campina	104.64	Taxa de atendimento na pré-escola: 104,64
-606	3532843	Nova Canaã Paulista	111.11	Taxa de atendimento na pré-escola: 111,11
-607	3533254	Novais	78.15	Taxa de atendimento na pré-escola: 78,15
-608	3536257	Parisi	88.64	Taxa de atendimento na pré-escola: 88,64
-609	3537156	Pedrinhas Paulista	112.12	Taxa de atendimento na pré-escola: 112,12
-610	3540259	Pontalinda	98.25	Taxa de atendimento na pré-escola: 98,25
-611	3540754	Potim	78.23	Taxa de atendimento na pré-escola: 78,23
-612	3543253	Ribeirão Grande	125.98	Taxa de atendimento na pré-escola: 125,98
-613	3544251	Rosana	94.99	Taxa de atendimento na pré-escola: 94,99
-614	3545159	Saltinho	82.17	Taxa de atendimento na pré-escola: 82,17
-615	3549250	São João de Iracema	102.50	Taxa de atendimento na pré-escola: 102,50
-616	3549953	São Lourenço da Serra	96.53	Taxa de atendimento na pré-escola: 96,53
-617	3548054	Santo Antonio do Aracanguá	80.33	Taxa de atendimento na pré-escola: 80,33
+1	3500105	Adamantina	87.07	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,07
+2	3500204	Adolfo	94.05	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,05
+3	3500303	Aguaí	89.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,35
+4	3500402	Águas da Prata	92.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,17
+5	3500501	Águas de Lindóia	95.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,99
+6	3500600	Águas de São Pedro	208.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 208,89
+7	3500709	Agudos	98.68	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,68
+8	3500808	Alfredo Marcondes	102.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,41
+9	3500907	Altair	88.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,99
+10	3501004	Altinópolis	107.97	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,97
+11	3501103	Alto Alegre	101.19	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,19
+12	3501202	Álvares Florence	95.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,31
+13	3501301	Álvares Machado	86.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,25
+14	3501400	Álvaro de Carvalho	111.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,58
+15	3501509	Alvinlândia	120.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 120,00
+16	3501608	Americana	108.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 108,33
+17	3501707	Américo Brasiliense	99.39	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,39
+18	3501806	Américo de Campos	85.71	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,71
+19	3501905	Amparo	106.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,44
+20	3502002	Analândia	90.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,00
+21	3502101	Andradina	89.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,24
+22	3502200	Angatuba	86.55	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,55
+23	3502309	Anhembi	112.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 112,21
+24	3502408	Anhumas	97.85	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,85
+25	3502507	Aparecida	90.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,10
+26	3502606	Aparecida d'Oeste	87.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,64
+27	3502705	Apiaí	92.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,10
+28	3502804	Araçatuba	99.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,22
+29	3502903	Araçoiaba da Serra	111.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,36
+30	3503000	Aramina	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+31	3503109	Arandu	104.52	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,52
+32	3503208	Araraquara	105.34	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,34
+33	3503307	Araras	102.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,61
+34	3503406	Arealva	88.40	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,40
+35	3503505	Areias	105.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,41
+36	3503604	Areiópolis	94.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,24
+37	3503703	Ariranha	110.19	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,19
+38	3503802	Artur Nogueira	98.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,22
+39	3503901	Arujá	93.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,62
+40	3504008	Assis	97.60	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,60
+41	3504107	Atibaia	97.69	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,69
+42	3504206	Auriflama	76.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 76,73
+43	3504305	Avaí	92.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,42
+44	3504404	Avanhandava	106.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,48
+45	3504503	Avaré	93.49	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,49
+46	3504602	Bady Bassitt	98.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,25
+47	3504701	Balbinos	94.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,44
+48	3504800	Bálsamo	122.98	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 122,98
+49	3504909	Bananal	89.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,59
+50	3505005	Barão de Antonina	83.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,15
+51	3505104	Barbosa	103.93	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,93
+52	3505203	Bariri	100.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,51
+53	3505302	Barra Bonita	100.40	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,40
+54	3505401	Barra do Turvo	86.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,96
+55	3505500	Barretos	73.79	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 73,79
+56	3505609	Barrinha	98.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,24
+57	3505708	Barueri	130.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 130,08
+58	3505807	Bastos	90.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,42
+59	3505906	Batatais	82.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,58
+60	3506003	Bauru	92.03	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,03
+61	3506102	Bebedouro	98.98	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,98
+62	3506201	Bento de Abreu	79.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,10
+63	3506300	Bernardino de Campos	96.11	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,11
+64	3506409	Bilac	85.29	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,29
+65	3506508	Birigui	96.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,48
+618	3552551	Suzanápolis	90.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,22
+619	3553856	Taquarivaí	80.68	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,68
+620	3553955	Tarumã	101.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,81
+621	3554656	Torre de Pedra	103.85	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,85
+622	3554953	Tuiuti	106.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,15
+623	3555356	Ubarana	93.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,94
+624	3556354	Vargem	101.87	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,87
+625	3557154	Zacarias	112.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 112,73
+626	3503356	Arco Íris	119.05	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 119,05
+627	3507753	Brejo Alegre	129.69	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 129,69
+628	3509957	Canas	85.03	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,03
+629	3540853	Pracinha	84.78	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,78
+630	3541059	Pratânia	105.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,15
+631	3541653	Quadra	82.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,61
+632	3546256	Santa Cruz da Esperança	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+633	3547650	Santa Salete	136.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 136,00
+634	3556958	Vitória Brasil	95.12	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,12
+635	3521150	Ipiguá	102.86	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,86
+636	3553658	Taquaral	84.93	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,93
+637	3515657	Fernão	125.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 125,00
+638	3516853	Gavião Peixoto	94.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,53
+639	3525854	Jumirim	85.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,90
+640	3532157	Nantes	70.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 70,24
+641	3532868	Nova Castilho	124.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 124,00
+642	3534757	Ouroeste	98.52	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,52
+643	3536570	Paulistânia	111.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,36
+644	3543238	Ribeirão dos Índios	121.43	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 121,43
+645	3554755	Trabiju	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+66	3506607	Biritiba Mirim	80.46	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,46
+67	3506706	Boa Esperança do Sul	81.30	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,30
+68	3506805	Bocaina	97.88	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,88
+69	3506904	Bofete	92.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,31
+70	3507001	Boituva	90.66	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,66
+71	3507100	Bom Jesus dos Perdões	93.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,48
+72	3507209	Borá	131.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 131,58
+73	3507308	Boracéia	111.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,21
+74	3507407	Borborema	73.26	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 73,26
+75	3507506	Botucatu	99.75	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,75
+76	3507605	Bragança Paulista	110.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,64
+77	3507704	Braúna	112.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 112,61
+78	3507803	Brodowski	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+79	3507902	Brotas	99.30	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,30
+80	3508009	Buri	72.02	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 72,02
+81	3508108	Buritama	101.92	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,92
+82	3508207	Buritizal	107.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,22
+83	3508306	Cabrália Paulista	102.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,42
+84	3508405	Cabreúva	102.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,94
+85	3508504	Caçapava	95.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,17
+86	3508603	Cachoeira Paulista	92.88	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,88
+87	3508702	Caconde	79.12	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,12
+88	3508801	Cafelândia	102.56	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,56
+89	3508900	Caiabu	68.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 68,42
+90	3509007	Caieiras	97.16	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,16
+91	3509106	Caiuá	83.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,33
+92	3509205	Cajamar	99.75	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,75
+93	3509304	Cajobi	82.28	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,28
+94	3509403	Cajuru	88.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,23
+95	3509502	Campinas	91.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,21
+96	3509601	Campo Limpo Paulista	105.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,96
+97	3509700	Campos do Jordão	105.19	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,19
+98	3509809	Campos Novos Paulista	105.97	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,97
+99	3509908	Cananéia	87.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,81
+100	3510005	Cândido Mota	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+101	3510104	Cândido Rodrigues	64.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 64,41
+102	3510203	Capão Bonito	92.92	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,92
+103	3510302	Capela do Alto	95.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,61
+104	3510401	Capivari	103.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,99
+105	3510500	Caraguatatuba	97.28	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,28
+106	3510609	Carapicuíba	70.72	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 70,72
+107	3510708	Cardoso	86.43	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,43
+108	3510807	Casa Branca	89.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,44
+109	3510906	Cássia dos Coqueiros	108.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 108,96
+110	3511003	Castilho	93.18	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,18
+111	3511102	Catanduva	99.46	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,46
+112	3511201	Catiguá	68.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 68,48
+113	3511300	Cedral	88.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,00
+114	3511409	Cerqueira César	88.02	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,02
+115	3511508	Cerquilho	109.54	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 109,54
+116	3511607	Cesário Lange	105.43	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,43
+117	3511706	Charqueada	96.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,82
+118	3557204	Chavantes	102.52	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,52
+119	3511904	Clementina	93.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,58
+120	3512001	Colina	81.37	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,37
+121	3512100	Colômbia	98.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,08
+122	3512209	Conchal	105.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,10
+123	3512308	Conchas	82.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,08
+124	3512407	Cordeirópolis	95.04	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,04
+125	3512506	Coroados	110.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,24
+126	3512605	Coronel Macedo	84.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,62
+127	3512704	Corumbataí	102.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,06
+128	3512803	Cosmópolis	92.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,82
+129	3512902	Cosmorama	106.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,25
+130	3513009	Cotia	97.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,24
+131	3513108	Cravinhos	106.87	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,87
+132	3513207	Cristais Paulista	89.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,00
+133	3513306	Cruzália	109.09	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 109,09
+134	3513405	Cruzeiro	95.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,48
+135	3513504	Cubatão	96.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,38
+136	3513603	Cunha	47.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 47,08
+137	3513702	Descalvado	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+138	3513801	Diadema	98.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,25
+139	3513900	Divinolândia	93.78	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,78
+140	3514007	Dobrada	93.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,17
+141	3514106	Dois Córregos	91.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,38
+142	3514205	Dolcinópolis	112.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 112,50
+143	3514304	Dourado	88.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,44
+144	3514403	Dracena	92.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,91
+145	3514502	Duartina	91.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,00
+146	3514601	Dumont	104.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,57
+147	3514700	Echaporã	105.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,23
+148	3514809	Eldorado	95.76	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,76
+149	3514908	Elias Fausto	88.68	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,68
+150	3515004	Embu das Artes	87.80	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,80
+151	3515103	Embu-Guaçu	85.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,06
+152	3515202	Estrela d'Oeste	79.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,23
+153	3515301	Estrela do Norte	101.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,41
+154	3515400	Fartura	108.92	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 108,92
+155	3515509	Fernandópolis	88.11	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,11
+156	3515608	Fernando Prestes	82.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,35
+157	3515707	Ferraz de Vasconcelos	73.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 73,62
+158	3515806	Flora Rica	123.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 123,33
+159	3515905	Floreal	84.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,62
+160	3516002	Flórida Paulista	92.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,10
+161	3516101	Florínia	83.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,33
+162	3516200	Franca	95.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,48
+163	3516309	Francisco Morato	88.37	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,37
+164	3516408	Franco da Rocha	100.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,31
+165	3516507	Gabriel Monteiro	105.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,45
+166	3516606	Gália	96.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,77
+167	3516705	Garça	102.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,21
+168	3516804	Gastão Vidigal	98.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,17
+169	3516903	General Salgado	56.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 56,22
+170	3517000	Getulina	92.46	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,46
+171	3517109	Glicério	99.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,15
+172	3517208	Guaiçara	88.28	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,28
+173	3517307	Guaimbê	113.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 113,91
+174	3517406	Guaíra	88.26	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,26
+175	3517505	Guapiaçu	103.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,61
+176	3517604	Guapiara	88.49	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,49
+177	3517703	Guará	72.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 72,77
+178	3517802	Guaraçaí	93.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,44
+179	3517901	Guaraci	101.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,08
+180	3518008	Guarani d'Oeste	131.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 131,91
+181	3518107	Guarantã	91.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,94
+182	3518206	Guararapes	93.05	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,05
+183	3518305	Guararema	88.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,67
+184	3518404	Guaratinguetá	93.49	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,49
+185	3518503	Guareí	88.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,57
+186	3518602	Guariba	104.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,23
+187	3518701	Guarujá	90.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,96
+188	3518800	Guarulhos	95.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,17
+189	3518909	Guzolândia	78.29	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 78,29
+190	3519006	Herculândia	97.56	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,56
+191	3519105	Iacanga	103.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,64
+192	3519204	Iacri	83.85	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,85
+193	3519303	Ibaté	85.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,38
+194	3519402	Ibirá	98.05	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,05
+195	3519501	Ibirarema	94.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,51
+196	3519600	Ibitinga	94.56	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,56
+197	3519709	Ibiúna	74.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 74,25
+198	3519808	Icém	101.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,94
+199	3519907	Iepê	102.14	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,14
+200	3520004	Igaraçu do Tietê	81.76	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,76
+201	3520103	Igarapava	98.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,38
+202	3520202	Igaratá	70.16	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 70,16
+203	3520301	Iguape	74.30	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 74,30
+204	3520400	Ilhabela	87.83	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,83
+205	3520509	Indaiatuba	101.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,89
+206	3520608	Indiana	80.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,77
+207	3520707	Indiaporã	81.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,48
+208	3520806	Inúbia Paulista	114.63	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 114,63
+209	3520905	Ipaussu	96.86	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,86
+210	3521002	Iperó	95.20	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,20
+211	3521101	Ipeúna	111.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,35
+212	3521200	Iporanga	72.09	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 72,09
+213	3521309	Ipuã	96.55	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,55
+214	3521408	Iracemápolis	102.66	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,66
+215	3521507	Irapuã	104.95	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,95
+216	3521606	Irapuru	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+217	3521705	Itaberá	96.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,58
+218	3521804	Itaí	97.92	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,92
+219	3521903	Itajobi	93.92	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,92
+220	3522000	Itaju	107.14	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,14
+221	3522109	Itanhaém	101.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,51
+222	3522208	Itapecerica da Serra	67.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 67,89
+223	3522307	Itapetininga	89.26	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,26
+224	3522406	Itapeva	97.27	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,27
+225	3522505	Itapevi	88.85	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,85
+226	3522604	Itapira	97.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,99
+227	3522703	Itápolis	89.49	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,49
+228	3522802	Itaporanga	93.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,62
+229	3522901	Itapuí	99.14	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,14
+230	3523008	Itapura	105.93	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,93
+231	3523107	Itaquaquecetuba	57.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 57,33
+232	3523206	Itararé	80.65	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,65
+233	3523305	Itariri	67.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 67,82
+234	3523404	Itatiba	99.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,45
+235	3523503	Itatinga	98.47	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,47
+236	3523602	Itirapina	96.80	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,80
+237	3523701	Itirapuã	71.11	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 71,11
+238	3523800	Itobi	103.13	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,13
+239	3523909	Itu	100.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,82
+240	3524006	Itupeva	101.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,53
+241	3524105	Ituverava	102.72	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,72
+242	3524204	Jaborandi	93.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,64
+243	3524303	Jaboticabal	93.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,21
+244	3524402	Jacareí	98.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,25
+245	3524501	Jaci	103.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,57
+246	3524600	Jacupiranga	74.95	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 74,95
+247	3524709	Jaguariúna	105.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,23
+248	3524808	Jales	92.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,21
+249	3524907	Jambeiro	80.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,00
+250	3525003	Jandira	87.26	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,26
+251	3525102	Jardinópolis	96.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,57
+252	3525201	Jarinu	101.88	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,88
+253	3525300	Jaú	89.74	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,74
+254	3525409	Jeriquara	103.13	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,13
+255	3525508	Joanópolis	75.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 75,91
+256	3525607	João Ramalho	57.26	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 57,26
+257	3525706	José Bonifácio	99.88	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,88
+258	3525805	Júlio Mesquita	62.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 62,90
+259	3525904	Jundiaí	103.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,23
+260	3526001	Junqueirópolis	97.79	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,79
+261	3526100	Juquiá	76.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 76,67
+262	3526209	Juquitiba	98.86	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,86
+263	3526308	Lagoinha	92.86	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,86
+264	3526407	Laranjal Paulista	96.69	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,69
+265	3526506	Lavínia	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+266	3526605	Lavrinhas	104.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,57
+267	3526704	Leme	98.92	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,92
+268	3526803	Lençóis Paulista	98.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,77
+269	3526902	Limeira	91.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,44
+270	3527009	Lindóia	102.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,41
+271	3527108	Lins	87.93	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,93
+272	3527207	Lorena	93.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,10
+273	3527306	Louveira	97.47	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,47
+274	3527405	Lucélia	79.04	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,04
+275	3527504	Lucianópolis	62.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 62,50
+276	3527603	Luís Antônio	98.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,53
+277	3527702	Luiziânia	121.60	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 121,60
+278	3527801	Lupércio	129.20	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 129,20
+279	3527900	Lutécia	87.84	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,84
+280	3528007	Macatuba	98.88	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,88
+281	3528106	Macaubal	86.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,62
+282	3528205	Macedônia	71.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 71,25
+283	3528304	Magda	108.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 108,62
+284	3528403	Mairinque	114.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 114,67
+285	3528502	Mairiporã	96.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,41
+286	3528601	Manduri	94.04	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,04
+287	3528700	Marabá Paulista	80.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,81
+288	3528809	Maracaí	107.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,62
+289	3528908	Mariápolis	91.01	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,01
+290	3529005	Marília	105.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,90
+291	3529104	Marinópolis	91.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,67
+292	3529203	Martinópolis	99.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,31
+293	3529302	Matão	105.29	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,29
+294	3529401	Mauá	77.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 77,96
+295	3529500	Mendonça	128.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 128,57
+296	3529609	Meridiano	108.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 108,64
+297	3529708	Miguelópolis	80.39	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,39
+298	3529807	Mineiros do Tietê	90.28	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,28
+299	3529906	Miracatu	87.87	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,87
+300	3530003	Mira Estrela	101.56	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,56
+301	3530102	Mirandópolis	72.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 72,48
+302	3530201	Mirante do Paranapanema	80.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,67
+303	3530300	Mirassol	103.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,15
+304	3530409	Mirassolândia	86.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,67
+305	3530508	Mococa	98.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,57
+306	3530607	Mogi das Cruzes	95.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,45
+307	3530706	Mogi Guaçu	98.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,50
+308	3530805	Moji Mirim	87.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,06
+309	3530904	Mombuca	103.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,33
+310	3531001	Monções	88.37	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,37
+311	3531100	Mongaguá	103.09	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,09
+312	3531209	Monte Alegre do Sul	81.13	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,13
+313	3531308	Monte Alto	95.03	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,03
+314	3531407	Monte Aprazível	82.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,91
+315	3531506	Monte Azul Paulista	100.47	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,47
+316	3531605	Monte Castelo	102.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,38
+317	3531704	Monteiro Lobato	90.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,00
+318	3531803	Monte Mor	110.34	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,34
+319	3531902	Morro Agudo	93.97	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,97
+320	3532009	Morungaba	111.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,36
+321	3532108	Murutinga do Sul	81.93	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,93
+322	3532207	Narandiba	79.69	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,69
+323	3532306	Natividade da Serra	39.74	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 39,74
+324	3532405	Nazaré Paulista	91.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,00
+325	3532504	Neves Paulista	98.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,10
+326	3532603	Nhandeara	98.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,51
+327	3532702	Nipoã	111.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,82
+328	3532801	Nova Aliança	96.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,15
+329	3532900	Nova Europa	92.03	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,03
+330	3533007	Nova Granada	98.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,23
+331	3533106	Nova Guataporanga	102.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,22
+332	3533205	Nova Independência	106.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,38
+333	3533304	Nova Luzitânia	98.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,94
+334	3533403	Nova Odessa	106.27	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,27
+335	3533502	Novo Horizonte	96.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,00
+336	3533601	Nuporanga	104.27	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,27
+337	3533700	Ocauçu	97.32	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,32
+338	3533809	Óleo	88.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,24
+339	3533908	Olímpia	94.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,48
+340	3534005	Onda Verde	101.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,90
+341	3534104	Oriente	102.16	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,16
+342	3534203	Orindiúva	105.95	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,95
+343	3534302	Orlândia	101.79	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,79
+344	3534401	Osasco	98.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,08
+345	3534500	Oscar Bressane	90.74	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,74
+346	3534609	Osvaldo Cruz	96.39	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,39
+347	3534708	Ourinhos	95.72	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,72
+348	3534807	Ouro Verde	86.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,94
+349	3534906	Pacaembu	103.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,35
+350	3535002	Palestina	100.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,41
+351	3535101	Palmares Paulista	102.52	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,52
+352	3535200	Palmeira d'Oeste	84.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,42
+353	3535309	Palmital	106.72	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,72
+354	3535408	Panorama	80.60	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,60
+355	3535507	Paraguaçu Paulista	102.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,42
+356	3535606	Paraibuna	94.54	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,54
+357	3535705	Paraíso	122.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 122,06
+358	3535804	Paranapanema	88.95	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,95
+359	3535903	Paranapuã	98.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,89
+360	3536000	Parapuã	93.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,90
+361	3536109	Pardinho	80.47	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,47
+362	3536208	Pariquera-Açu	94.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,90
+363	3536307	Patrocínio Paulista	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+364	3536406	Paulicéia	101.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,64
+365	3536505	Paulínia	117.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 117,44
+366	3536604	Paulo de Faria	91.52	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,52
+367	3536703	Pederneiras	90.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,70
+368	3536802	Pedra Bela	122.14	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 122,14
+369	3536901	Pedranópolis	96.55	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,55
+370	3537008	Pedregulho	73.47	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 73,47
+371	3537107	Pedreira	90.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,33
+372	3537206	Pedro de Toledo	91.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,08
+373	3537305	Penápolis	92.98	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,98
+374	3537404	Pereira Barreto	101.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,64
+375	3537503	Pereiras	87.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,25
+376	3537602	Peruíbe	99.14	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,14
+377	3537701	Piacatu	119.84	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 119,84
+378	3537800	Piedade	90.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,70
+379	3537909	Pilar do Sul	100.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,91
+380	3538006	Pindamonhangaba	65.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 65,36
+381	3538105	Pindorama	89.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,77
+382	3515186	Espírito Santo do Pinhal	91.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,67
+383	3538204	Pinhalzinho	96.56	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,56
+384	3538303	Piquerobi	74.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 74,42
+385	3538501	Piquete	70.34	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 70,34
+386	3538600	Piracaia	97.29	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,29
+387	3538709	Piracicaba	91.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,73
+388	3538808	Piraju	84.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,59
+389	3538907	Pirajuí	92.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,81
+390	3539004	Pirangi	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+391	3539103	Pirapora do Bom Jesus	118.34	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 118,34
+392	3539202	Pirapozinho	90.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,35
+393	3539301	Pirassununga	94.28	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,28
+394	3539400	Piratininga	77.54	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 77,54
+395	3539509	Pitangueiras	102.76	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,76
+396	3539608	Planalto	99.28	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,28
+397	3539707	Platina	102.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,17
+398	3539806	Poá	100.84	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,84
+399	3539905	Poloni	82.68	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,68
+400	3540002	Pompéia	98.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,70
+401	3540101	Pongaí	123.08	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 123,08
+402	3540200	Pontal	83.76	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,76
+403	3540309	Pontes Gestal	91.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,38
+404	3540408	Populina	102.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,25
+405	3540507	Porangaba	45.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 45,50
+406	3540606	Porto Feliz	81.68	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,68
+407	3540705	Porto Ferreira	103.13	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,13
+408	3540804	Potirendaba	86.03	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,03
+409	3540903	Pradópolis	99.19	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,19
+410	3541000	Praia Grande	83.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,23
+411	3541109	Presidente Alves	102.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,15
+412	3541208	Presidente Bernardes	87.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,00
+413	3541307	Presidente Epitácio	85.30	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,30
+414	3541406	Presidente Prudente	86.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,22
+415	3541505	Presidente Venceslau	99.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,24
+416	3541604	Promissão	111.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,10
+417	3541703	Quatá	91.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,24
+418	3541802	Queiroz	95.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,51
+419	3541901	Queluz	72.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 72,00
+420	3542008	Quintana	105.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,00
+421	3542107	Rafard	95.30	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,30
+422	3542206	Rancharia	77.84	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 77,84
+423	3542305	Redenção da Serra	82.18	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,18
+424	3542404	Regente Feijó	105.01	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,01
+425	3542503	Reginópolis	66.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 66,89
+426	3542602	Registro	92.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,06
+427	3542701	Restinga	106.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,51
+428	3542800	Ribeira	102.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,91
+429	3542909	Ribeirão Bonito	103.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,06
+430	3543006	Ribeirão Branco	79.80	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,80
+431	3543105	Ribeirão Corrente	81.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,45
+432	3543204	Ribeirão do Sul	110.42	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,42
+433	3543303	Ribeirão Pires	82.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,61
+434	3543402	Ribeirão Preto	92.09	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,09
+435	3543501	Riversul	89.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,22
+436	3543600	Rifaina	56.32	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 56,32
+437	3543709	Rincão	93.27	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,27
+438	3543808	Rinópolis	104.62	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,62
+439	3543907	Rio Claro	104.88	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,88
+440	3544004	Rio das Pedras	85.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,31
+441	3544103	Rio Grande da Serra	74.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 74,45
+442	3544202	Riolândia	87.72	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,72
+443	3544301	Roseira	87.18	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,18
+444	3544400	Rubiácea	85.90	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,90
+445	3544509	Rubinéia	98.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,21
+446	3544608	Sabino	119.20	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 119,20
+447	3544707	Sagres	87.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,50
+448	3544806	Sales	84.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 84,25
+449	3544905	Sales Oliveira	104.76	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,76
+450	3545001	Salesópolis	80.74	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,74
+451	3545100	Salmourão	103.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,15
+452	3545209	Salto	100.04	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,04
+453	3545308	Salto de Pirapora	88.27	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,27
+454	3545407	Salto Grande	89.54	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,54
+455	3545506	Sandovalina	81.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,48
+456	3545605	Santa Adélia	87.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 87,96
+457	3545704	Santa Albertina	101.71	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,71
+458	3545803	Santa Bárbara d'Oeste	98.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,73
+459	3500550	Águas de Santa Bárbara	123.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 123,70
+460	3546009	Santa Branca	104.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,48
+461	3546108	Santa Clara d'Oeste	86.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,67
+462	3546207	Santa Cruz da Conceição	111.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,24
+463	3546306	Santa Cruz das Palmeiras	113.98	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 113,98
+464	3546405	Santa Cruz do Rio Pardo	94.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,59
+465	3546504	Santa Ernestina	110.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,53
+466	3546603	Santa Fé do Sul	90.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,77
+467	3546702	Santa Gertrudes	101.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,10
+468	3546801	Santa Isabel	95.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,31
+469	3546900	Santa Lucia	123.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 123,36
+470	3547007	Santa Maria da Serra	110.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,59
+471	3547106	Santa Mercedes	107.32	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,32
+472	3547403	Santa Rita d'Oeste	80.43	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,43
+473	3547502	Santa Rita do Passa Quatro	107.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,73
+474	3547601	Santa Rosa do Viterbo	97.30	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,30
+475	3547205	Santana da Ponte Pensa	111.11	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,11
+476	3547304	Santana de Parnaíba	77.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 77,91
+477	3547700	Santo Anastácio	97.39	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,39
+478	3547809	Santo André	94.95	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,95
+479	3547908	Santo Antonio da Alegria	88.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,44
+480	3548104	Santo Antonio do Jardim	104.83	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,83
+481	3548203	Santo Antonio do Pinhal	102.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,33
+482	3548005	Santo Antonio de Posse	100.71	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,71
+483	3548302	Santo Expedito	110.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,45
+484	3548401	Santópolis do Aguapeí	110.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,17
+485	3548500	Santos	96.55	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,55
+486	3548609	São Bento do Sapucaí	78.09	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 78,09
+487	3548708	São Bernardo do Campo	101.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,00
+488	3548807	São Caetano do Sul	110.80	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,80
+489	3548906	São Carlos	95.47	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,47
+490	3549003	São Francisco	75.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 75,00
+491	3549102	São João da Boa Vista	97.65	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,65
+492	3549201	São João das Duas Pontes	133.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 133,33
+493	3549300	São João do Pau d'Alho	75.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 75,00
+494	3549409	São Joaquim da Barra	95.21	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,21
+495	3549607	São José do Barreiro	94.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,17
+496	3549508	São José da Bela Vista	83.27	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,27
+497	3549706	São José do Rio Pardo	91.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,73
+498	3549805	São José do Rio Preto	98.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,38
+499	3549904	São José dos Campos	94.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,25
+500	3550001	São Luís do Paraitinga	65.96	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 65,96
+501	3550100	São Manuel	85.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 85,35
+502	3550209	São Miguel Arcanjo	81.40	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,40
+503	3550308	São Paulo	89.35	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,35
+504	3550407	São Pedro	93.12	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,12
+505	3550506	São Pedro do Turvo	106.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,00
+506	3550605	São Roque	100.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,73
+507	3550704	São Sebastião	111.63	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,63
+508	3550803	São Sebastião da Grama	79.54	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,54
+509	3550902	São Simão	81.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,00
+510	3551009	São Vicente	90.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,22
+511	3551108	Sarapuí	90.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,94
+512	3551207	Sarutaiá	89.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,81
+513	3551306	Sebastianópolis do Sul	95.16	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,16
+514	3551405	Serra Azul	99.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,64
+515	3551603	Serra Negra	101.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,36
+516	3551504	Serrana	101.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,70
+517	3551702	Sertãozinho	92.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,82
+518	3551801	Sete Barras	81.32	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 81,32
+519	3551900	Severínia	106.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,81
+520	3552007	Silveiras	96.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,91
+521	3552106	Socorro	92.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,53
+522	3552205	Sorocaba	100.83	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,83
+523	3552304	Sud Mennucci	79.06	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 79,06
+524	3552403	Sumaré	95.10	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,10
+525	3552502	Suzano	98.34	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,34
+526	3552601	Tabapuã	92.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,58
+527	3552700	Tabatinga	99.75	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,75
+528	3552809	Taboão da Serra	89.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,23
+529	3552908	Taciba	72.85	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 72,85
+530	3553005	Taguaí	88.57	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,57
+531	3553104	Taiaçu	92.91	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,91
+532	3553203	Taiúva	101.71	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,71
+533	3553302	Tambaú	98.65	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,65
+534	3553401	Tanabi	92.13	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,13
+535	3553500	Tapiraí	83.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,33
+536	3553609	Tapiratiba	88.24	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,24
+537	3553708	Taquaritinga	91.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,59
+538	3553807	Taquarituba	104.43	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,43
+539	3553906	Tarabaí	76.26	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 76,26
+540	3554003	Tatuí	102.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,23
+541	3554102	Taubaté	103.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,23
+542	3554201	Tejupá	101.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,99
+543	3554300	Teodoro Sampaio	83.97	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,97
+544	3554409	Terra Roxa	104.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,33
+545	3554508	Tietê	98.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,70
+546	3554607	Timburi	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+547	3554706	Torrinha	101.48	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 101,48
+548	3554805	Tremembé	69.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 69,41
+549	3554904	Três Fronteiras	83.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 83,33
+550	3555000	Tupã	92.16	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,16
+551	3555109	Tupi Paulista	94.67	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,67
+552	3555208	Turiúba	133.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 133,33
+553	3555307	Turmalina	68.97	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 68,97
+554	3555406	Ubatuba	105.54	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,54
+555	3555505	Ubirajara	98.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,33
+556	3555604	Uchôa	99.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,53
+557	3555703	União Paulista	135.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 135,00
+558	3555802	Urânia	77.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 77,89
+559	3555901	Uru	65.38	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 65,38
+560	3556008	Urupês	100.75	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,75
+561	3556107	Valentim Gentil	103.36	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,36
+562	3556206	Valinhos	104.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,44
+563	3556305	Valparaíso	88.61	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,61
+564	3556404	Vargem Grande do Sul	100.58	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,58
+565	3556503	Várzea Paulista	78.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 78,17
+566	3556602	Vera Cruz	74.81	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 74,81
+567	3556701	Vinhedo	99.74	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 99,74
+568	3556800	Viradouro	97.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 97,50
+569	3556909	Vista Alegre do Alto	91.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 91,23
+570	3557006	Votorantim	94.94	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,94
+571	3557105	Votuporanga	82.51	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,51
+572	3556453	Vargem Grande Paulista	108.72	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 108,72
+573	3500758	Alambari	28.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 28,17
+574	3501152	Alumínio	95.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,99
+575	3502754	Araçariguama	105.60	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,60
+576	3503158	Arapeí	107.46	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,46
+577	3503950	Aspásia	107.89	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,89
+578	3505351	Barra do Chapéu	92.31	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 92,31
+579	3506359	Bertioga	95.56	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,56
+580	3507159	Bom Sucesso de Itararé	100.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 100,00
+581	3507456	Borebi	129.85	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 129,85
+582	3509254	Cajati	93.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 93,25
+583	3509452	Campina do Monte Alegre	103.66	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,66
+584	3510153	Canitar	98.16	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,16
+585	3513850	Dirce Reis	86.84	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 86,84
+586	3514924	Elisiário	123.44	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 123,44
+587	3514957	Embaúba	64.41	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 64,41
+588	3515129	Emilianópolis	90.00	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,00
+589	3515152	Engenheiro Coelho	90.73	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,73
+590	3515194	Espírito Santo do Turvo	95.65	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 95,65
+591	3557303	Estiva Gerbi	107.78	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 107,78
+592	3515350	Euclides da Cunha Paulista	88.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,53
+593	3518859	Guatapará	106.22	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 106,22
+594	3519055	Holambra	103.82	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,82
+595	3519071	Hortolândia	90.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 90,59
+596	3519253	Iaras	103.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 103,70
+597	3520426	Ilha Comprida	43.70	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 43,70
+598	3520442	Ilha Solteira	89.77	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 89,77
+599	3522158	Itaóca	129.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 129,33
+600	3522653	Itapirapuã Paulista	62.59	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 62,59
+601	3527256	Lourdes	110.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 110,64
+602	3528858	Marapoama	105.45	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 105,45
+603	3529658	Mesópolis	82.05	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,05
+604	3532058	Motuca	82.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,64
+605	3532827	Nova Campina	104.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 104,64
+606	3532843	Nova Canaã Paulista	111.11	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 111,11
+607	3533254	Novais	78.15	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 78,15
+608	3536257	Parisi	88.64	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 88,64
+609	3537156	Pedrinhas Paulista	112.12	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 112,12
+610	3540259	Pontalinda	98.25	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 98,25
+611	3540754	Potim	78.23	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 78,23
+612	3543253	Ribeirão Grande	125.98	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 125,98
+613	3544251	Rosana	94.99	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 94,99
+614	3545159	Saltinho	82.17	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 82,17
+615	3549250	São João de Iracema	102.50	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 102,50
+616	3549953	São Lourenço da Serra	96.53	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 96,53
+617	3548054	Santo Antonio do Aracanguá	80.33	Matrículas na Pré-escola em Relação à População de 4 a 5 Ano (Em %): 80,33

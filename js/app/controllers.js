@@ -101,7 +101,8 @@ angular.module('graficos.controllers', [])
                             ra: "Região Administrativa",
                             rm: "Regiões Metropolitanas"
                         },
-                        legenda: curr.legenda
+                        legenda: curr.legenda,
+                        fontes: "fonte: " + curr.fonte.join(" | ")
                     })
                 }
             });

@@ -15,7 +15,7 @@ angular.module('graficos.directives', [])
             }
         }
     })
-    .directive('vegaMap', function() {
+    .directive('vegaMap', function($timeout) {
         return {
             restrict: 'E',
             templateUrl: '/graficos/js/app/html/vega-map.html',
@@ -37,6 +37,7 @@ angular.module('graficos.directives', [])
                 current: '=',
                 alternatives: '=',
                 legend: '=',
+                footer: '=',
                 remove: '&onClose'
             },
             link: function(scope, element, attrs) {
@@ -128,11 +129,31 @@ angular.module('graficos.directives', [])
                     ]*/
                 };
 
+                scope.pinned = {
+                    info: false
+                };
+
                 function parse(spec) {
                     vg.parse.spec(spec, function(chart) {
                         var m = chart({el: scope.vis[0]});
                         m.on("mouseover", function(event, item) {
                             scope.info = scope.data[item.datum.data.properties.CD_GEOCODM];
+                            scope.info.unpin = function() {
+                                $timeout(function() {
+                                    scope.info.pinned = false;
+                                    scope.pinned.info = scope.info = false;
+                                }, 0);
+                            };
+                            scope.$apply();
+                        });
+                        m.on("click", function(event, item) {
+                            if(scope.pinned.info) scope.pinned.info.unpin();
+                            scope.pinned.info = scope.info = scope.data[item.datum.data.properties.CD_GEOCODM];
+                            scope.info.pinned = true;
+                            scope.$apply();
+                        });
+                        m.on("mouseout", function(event, item) {
+                            scope.info = scope.pinned.info;
                             scope.$apply();
                         });
                         m.update();
@@ -143,18 +164,19 @@ angular.module('graficos.directives', [])
                     console.log('next', scope.current);
                     if(scope.current == scope.alternatives.slice(-1)[0]) return;
                     scope.current = scope.alternatives[scope.alternatives.indexOf(scope.current) + 1];
-                    scope.info = {};
+                    if(scope.info) scope.info.unpin();
                     scope.$apply();
                 });
                 scope.prev.bind('click', function(ev) {
                     console.log('prev', scope.current);
                     if(scope.current == scope.alternatives[0]) return;
                     scope.current = scope.alternatives[scope.alternatives.indexOf(scope.current) - 1];
-                    scope.info = {};
+                    if(scope.info) scope.info.unpin();
                     scope.$apply();
                 });
                 scope.setLevel = function(f) {
                     scope.feature = f;
+                    if(scope.info) scope.info.unpin();
                 };
             }
         }

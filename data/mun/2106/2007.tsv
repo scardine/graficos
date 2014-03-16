@@ -1,1 +1,646 @@
 id	ibge	localidade	valor	label
+334	3533403	Nova Odessa	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+335	3533502	Novo Horizonte	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+336	3533601	Nuporanga	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+607	3533254	Novais	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+333	3533304	Nova Luzitânia	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+330	3533007	Nova Granada	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+331	3533106	Nova Guataporanga	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+332	3533205	Nova Independência	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+641	3532868	Nova Castilho	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+329	3532900	Nova Europa	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+605	3532827	Nova Campina	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+606	3532843	Nova Canaã Paulista	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+327	3532702	Nipoã	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+328	3532801	Nova Aliança	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+324	3532405	Nazaré Paulista	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+325	3532504	Neves Paulista	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+326	3532603	Nhandeara	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+322	3532207	Narandiba	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,7
+323	3532306	Natividade da Serra	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+321	3532108	Murutinga do Sul	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+640	3532157	Nantes	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+320	3532009	Morungaba	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+604	3532058	Motuca	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+318	3531803	Monte Mor	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,7
+319	3531902	Morro Agudo	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+316	3531605	Monte Castelo	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+317	3531704	Monteiro Lobato	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+314	3531407	Monte Aprazível	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+315	3531506	Monte Azul Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+312	3531209	Monte Alegre do Sul	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+313	3531308	Monte Alto	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+310	3531001	Monções	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+311	3531100	Mongaguá	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+307	3530706	Mogi Guaçu	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+308	3530805	Moji Mirim	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+309	3530904	Mombuca	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+304	3530409	Mirassolândia	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+305	3530508	Mococa	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+306	3530607	Mogi das Cruzes	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+302	3530201	Mirante do Paranapanema	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+303	3530300	Mirassol	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+299	3529906	Miracatu	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+300	3530003	Mira Estrela	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+301	3530102	Mirandópolis	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+297	3529708	Miguelópolis	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+298	3529807	Mineiros do Tietê	6.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,2
+295	3529500	Mendonça	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+296	3529609	Meridiano	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+603	3529658	Mesópolis	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+293	3529302	Matão	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+294	3529401	Mauá	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+291	3529104	Marinópolis	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+292	3529203	Martinópolis	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+289	3528908	Mariápolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+290	3529005	Marília	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+287	3528700	Marabá Paulista	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+288	3528809	Maracaí	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+602	3528858	Marapoama	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+285	3528502	Mairiporã	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+286	3528601	Manduri	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+282	3528205	Macedônia	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+283	3528304	Magda	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+284	3528403	Mairinque	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+279	3527900	Lutécia	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+280	3528007	Macatuba	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+281	3528106	Macaubal	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+276	3527603	Luís Antônio	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+277	3527702	Luiziânia	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+278	3527801	Lupércio	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+274	3527405	Lucélia	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+275	3527504	Lucianópolis	6.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,7
+601	3527256	Lourdes	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+273	3527306	Louveira	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+270	3527009	Lindóia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+271	3527108	Lins	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+272	3527207	Lorena	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+267	3526704	Leme	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+268	3526803	Lençóis Paulista	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+269	3526902	Limeira	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+265	3526506	Lavínia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+266	3526605	Lavrinhas	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+263	3526308	Lagoinha	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+264	3526407	Laranjal Paulista	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+261	3526100	Juquiá	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+262	3526209	Juquitiba	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+259	3525904	Jundiaí	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+260	3526001	Junqueirópolis	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+257	3525706	José Bonifácio	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+258	3525805	Júlio Mesquita	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+639	3525854	Jumirim	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+254	3525409	Jeriquara	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+255	3525508	Joanópolis	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+256	3525607	João Ramalho	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+251	3525102	Jardinópolis	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+252	3525201	Jarinu	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+253	3525300	Jaú	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+248	3524808	Jales	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+249	3524907	Jambeiro	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+250	3525003	Jandira	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+246	3524600	Jacupiranga	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+247	3524709	Jaguariúna	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+244	3524402	Jacareí	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+245	3524501	Jaci	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+242	3524204	Jaborandi	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+243	3524303	Jaboticabal	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+239	3523909	Itu	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+240	3524006	Itupeva	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+241	3524105	Ituverava	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+237	3523701	Itirapuã	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+238	3523800	Itobi	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+236	3523602	Itirapina	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+234	3523404	Itatiba	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+235	3523503	Itatinga	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+232	3523206	Itararé	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+233	3523305	Itariri	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+230	3523008	Itapura	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+231	3523107	Itaquaquecetuba	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+228	3522802	Itaporanga	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+229	3522901	Itapuí	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+226	3522604	Itapira	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+600	3522653	Itapirapuã Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+227	3522703	Itápolis	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+223	3522307	Itapetininga	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+224	3522406	Itapeva	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+225	3522505	Itapevi	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+599	3522158	Itaóca	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+222	3522208	Itapecerica da Serra	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+219	3521903	Itajobi	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+220	3522000	Itaju	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+221	3522109	Itanhaém	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+216	3521606	Irapuru	-	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: -
+217	3521705	Itaberá	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+218	3521804	Itaí	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+213	3521309	Ipuã	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+214	3521408	Iracemápolis	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+215	3521507	Irapuã	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+635	3521150	Ipiguá	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+212	3521200	Iporanga	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+209	3520905	Ipaussu	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+210	3521002	Iperó	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+211	3521101	Ipeúna	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+206	3520608	Indiana	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+207	3520707	Indiaporã	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+208	3520806	Inúbia Paulista	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+597	3520426	Ilha Comprida	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+598	3520442	Ilha Solteira	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+205	3520509	Indaiatuba	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+203	3520301	Iguape	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+204	3520400	Ilhabela	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+201	3520103	Igarapava	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+202	3520202	Igaratá	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+199	3519907	Iepê	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+200	3520004	Igaraçu do Tietê	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+196	3519600	Ibitinga	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+197	3519709	Ibiúna	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+198	3519808	Icém	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+193	3519303	Ibaté	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+194	3519402	Ibirá	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+195	3519501	Ibirarema	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+192	3519204	Iacri	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+596	3519253	Iaras	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+595	3519071	Hortolândia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+191	3519105	Iacanga	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+190	3519006	Herculândia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+594	3519055	Holambra	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+188	3518800	Guarulhos	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+593	3518859	Guatapará	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+189	3518909	Guzolândia	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+186	3518602	Guariba	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+187	3518701	Guarujá	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+185	3518503	Guareí	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+183	3518305	Guararema	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+184	3518404	Guaratinguetá	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+181	3518107	Guarantã	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+182	3518206	Guararapes	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+178	3517802	Guaraçaí	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+179	3517901	Guaraci	6.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,6
+180	3518008	Guarani d'Oeste	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+175	3517505	Guapiaçu	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+176	3517604	Guapiara	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+177	3517703	Guará	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+173	3517307	Guaimbê	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+174	3517406	Guaíra	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+171	3517109	Glicério	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+172	3517208	Guaiçara	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+169	3516903	General Salgado	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+170	3517000	Getulina	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+168	3516804	Gastão Vidigal	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+638	3516853	Gavião Peixoto	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+166	3516606	Gália	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+167	3516705	Garça	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+164	3516408	Franco da Rocha	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+165	3516507	Gabriel Monteiro	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+162	3516200	Franca	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+163	3516309	Francisco Morato	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+159	3515905	Floreal	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+160	3516002	Flórida Paulista	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+161	3516101	Florínia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+637	3515657	Fernão	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+157	3515707	Ferraz de Vasconcelos	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+158	3515806	Flora Rica	3.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,0
+154	3515400	Fartura	6.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,1
+155	3515509	Fernandópolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+156	3515608	Fernando Prestes	6.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,3
+153	3515301	Estrela do Norte	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+592	3515350	Euclides da Cunha Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+590	3515194	Espírito Santo do Turvo	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+152	3515202	Estrela d'Oeste	6.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,8
+589	3515152	Engenheiro Coelho	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+382	3515186	Espírito Santo do Pinhal	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+150	3515004	Embu das Artes	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+151	3515103	Embu-Guaçu	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+588	3515129	Emilianópolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+586	3514924	Elisiário	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+587	3514957	Embaúba	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+147	3514700	Echaporã	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+148	3514809	Eldorado	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,3
+149	3514908	Elias Fausto	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+145	3514502	Duartina	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+146	3514601	Dumont	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+142	3514205	Dolcinópolis	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+143	3514304	Dourado	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+144	3514403	Dracena	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+139	3513900	Divinolândia	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+140	3514007	Dobrada	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+141	3514106	Dois Córregos	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+137	3513702	Descalvado	6.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,1
+138	3513801	Diadema	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+585	3513850	Dirce Reis	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+134	3513405	Cruzeiro	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+135	3513504	Cubatão	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+136	3513603	Cunha	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+132	3513207	Cristais Paulista	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+133	3513306	Cruzália	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+130	3513009	Cotia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+131	3513108	Cravinhos	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+127	3512704	Corumbataí	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+128	3512803	Cosmópolis	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+129	3512902	Cosmorama	7.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,5
+126	3512605	Coronel Macedo	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+123	3512308	Conchas	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+124	3512407	Cordeirópolis	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+125	3512506	Coroados	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+121	3512100	Colômbia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+122	3512209	Conchal	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+117	3511706	Charqueada	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+119	3511904	Clementina	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+120	3512001	Colina	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+114	3511409	Cerqueira César	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+115	3511508	Cerquilho	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+116	3511607	Cesário Lange	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+111	3511102	Catanduva	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+112	3511201	Catiguá	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+113	3511300	Cedral	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+109	3510906	Cássia dos Coqueiros	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+110	3511003	Castilho	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+106	3510609	Carapicuíba	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+107	3510708	Cardoso	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+108	3510807	Casa Branca	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+104	3510401	Capivari	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+105	3510500	Caraguatatuba	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+102	3510203	Capão Bonito	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+103	3510302	Capela do Alto	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+100	3510005	Cândido Mota	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+101	3510104	Cândido Rodrigues	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+584	3510153	Canitar	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+99	3509908	Cananéia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+628	3509957	Canas	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,9
+97	3509700	Campos do Jordão	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+98	3509809	Campos Novos Paulista	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+95	3509502	Campinas	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+96	3509601	Campo Limpo Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+93	3509304	Cajobi	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+94	3509403	Cajuru	7.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,0
+583	3509452	Campina do Monte Alegre	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+92	3509205	Cajamar	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+582	3509254	Cajati	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+90	3509007	Caieiras	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+91	3509106	Caiuá	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+88	3508801	Cafelândia	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+89	3508900	Caiabu	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+86	3508603	Cachoeira Paulista	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+87	3508702	Caconde	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+84	3508405	Cabreúva	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+85	3508504	Caçapava	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+82	3508207	Buritizal	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+83	3508306	Cabrália Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+79	3507902	Brotas	6.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,1
+80	3508009	Buri	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+81	3508108	Buritama	6.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,4
+627	3507753	Brejo Alegre	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+78	3507803	Brodowski	6.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,4
+76	3507605	Bragança Paulista	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+77	3507704	Braúna	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+581	3507456	Borebi	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+75	3507506	Botucatu	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+73	3507308	Boracéia	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+74	3507407	Borborema	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+580	3507159	Bom Sucesso de Itararé	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+72	3507209	Borá	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+69	3506904	Bofete	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+70	3507001	Boituva	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+71	3507100	Bom Jesus dos Perdões	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+67	3506706	Boa Esperança do Sul	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,5
+68	3506805	Bocaina	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+64	3506409	Bilac	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+65	3506508	Birigui	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+66	3506607	Biritiba Mirim	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+62	3506201	Bento de Abreu	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+63	3506300	Bernardino de Campos	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+579	3506359	Bertioga	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+60	3506003	Bauru	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+61	3506102	Bebedouro	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+58	3505807	Bastos	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+59	3505906	Batatais	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+55	3505500	Barretos	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+56	3505609	Barrinha	6.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,6
+57	3505708	Barueri	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+53	3505302	Barra Bonita	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+578	3505351	Barra do Chapéu	6.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,9
+54	3505401	Barra do Turvo	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,9
+51	3505104	Barbosa	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+52	3505203	Bariri	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+48	3504800	Bálsamo	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+49	3504909	Bananal	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+50	3505005	Barão de Antonina	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+45	3504503	Avaré	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+46	3504602	Bady Bassitt	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+47	3504701	Balbinos	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+43	3504305	Avaí	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+44	3504404	Avanhandava	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+41	3504107	Atibaia	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+42	3504206	Auriflama	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+39	3503901	Arujá	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+577	3503950	Aspásia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+40	3504008	Assis	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+38	3503802	Artur Nogueira	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+36	3503604	Areiópolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+37	3503703	Ariranha	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+626	3503356	Arco Íris	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+34	3503406	Arealva	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+35	3503505	Areias	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+32	3503208	Araraquara	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+33	3503307	Araras	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+31	3503109	Arandu	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+576	3503158	Arapeí	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+29	3502903	Araçoiaba da Serra	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+30	3503000	Aramina	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+575	3502754	Araçariguama	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+28	3502804	Araçatuba	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+26	3502606	Aparecida d'Oeste	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+27	3502705	Apiaí	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+23	3502309	Anhembi	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+24	3502408	Anhumas	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+25	3502507	Aparecida	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+20	3502002	Analândia	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+21	3502101	Andradina	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+22	3502200	Angatuba	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+18	3501806	Américo de Campos	6.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,6
+19	3501905	Amparo	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+16	3501608	Americana	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+17	3501707	Américo Brasiliense	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+14	3501400	Álvaro de Carvalho	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,8
+15	3501509	Alvinlândia	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+574	3501152	Alumínio	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+12	3501202	Álvares Florence	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+13	3501301	Álvares Machado	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+10	3501004	Altinópolis	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+11	3501103	Alto Alegre	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+573	3500758	Alambari	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+8	3500808	Alfredo Marcondes	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+9	3500907	Altair	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+6	3500600	Águas de São Pedro	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+7	3500709	Agudos	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+5	3500501	Águas de Lindóia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+459	3500550	Águas de Santa Bárbara	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+3	3500303	Aguaí	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+4	3500402	Águas da Prata	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+1	3500105	Adamantina	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+2	3500204	Adolfo	7.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,7
+118	3557204	Chavantes	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+591	3557303	Estiva Gerbi	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+570	3557006	Votorantim	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+571	3557105	Votuporanga	6.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,2
+625	3557154	Zacarias	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+568	3556800	Viradouro	6.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,1
+569	3556909	Vista Alegre do Alto	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+634	3556958	Vitória Brasil	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+565	3556503	Várzea Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+566	3556602	Vera Cruz	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+567	3556701	Vinhedo	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+624	3556354	Vargem	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+564	3556404	Vargem Grande do Sul	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+572	3556453	Vargem Grande Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+561	3556107	Valentim Gentil	6.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,9
+562	3556206	Valinhos	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+563	3556305	Valparaíso	6.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,9
+558	3555802	Urânia	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+559	3555901	Uru	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+560	3556008	Urupês	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+555	3555505	Ubirajara	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+556	3555604	Uchôa	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+557	3555703	União Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+553	3555307	Turmalina	7.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,0
+623	3555356	Ubarana	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+554	3555406	Ubatuba	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+550	3555000	Tupã	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+551	3555109	Tupi Paulista	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+552	3555208	Turiúba	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+548	3554805	Tremembé	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,9
+549	3554904	Três Fronteiras	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+622	3554953	Tuiuti	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+621	3554656	Torre de Pedra	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+547	3554706	Torrinha	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+645	3554755	Trabiju	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+544	3554409	Terra Roxa	6.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,9
+545	3554508	Tietê	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+546	3554607	Timburi	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+541	3554102	Taubaté	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+542	3554201	Tejupá	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,9
+543	3554300	Teodoro Sampaio	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+539	3553906	Tarabaí	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+620	3553955	Tarumã	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+540	3554003	Tatuí	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+537	3553708	Taquaritinga	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+538	3553807	Taquarituba	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+619	3553856	Taquarivaí	7.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,2
+536	3553609	Tapiratiba	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+636	3553658	Taquaral	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,1
+534	3553401	Tanabi	6.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,0
+535	3553500	Tapiraí	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+532	3553203	Taiúva	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+533	3553302	Tambaú	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+529	3552908	Taciba	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+530	3553005	Taguaí	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+531	3553104	Taiaçu	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+527	3552700	Tabatinga	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+528	3552809	Taboão da Serra	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+618	3552551	Suzanápolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+526	3552601	Tabapuã	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+523	3552304	Sud Mennucci	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+524	3552403	Sumaré	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+525	3552502	Suzano	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+520	3552007	Silveiras	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+521	3552106	Socorro	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+522	3552205	Sorocaba	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+517	3551702	Sertãozinho	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+518	3551801	Sete Barras	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+519	3551900	Severínia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+514	3551405	Serra Azul	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+516	3551504	Serrana	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+515	3551603	Serra Negra	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+511	3551108	Sarapuí	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+512	3551207	Sarutaiá	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+513	3551306	Sebastianópolis do Sul	6.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,1
+509	3550902	São Simão	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+510	3551009	São Vicente	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+507	3550704	São Sebastião	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+508	3550803	São Sebastião da Grama	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+504	3550407	São Pedro	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+505	3550506	São Pedro do Turvo	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+506	3550605	São Roque	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+501	3550100	São Manuel	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+502	3550209	São Miguel Arcanjo	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+503	3550308	São Paulo	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+499	3549904	São José dos Campos	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+616	3549953	São Lourenço da Serra	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+500	3550001	São Luís do Paraitinga	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+495	3549607	São José do Barreiro	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+497	3549706	São José do Rio Pardo	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+498	3549805	São José do Rio Preto	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+494	3549409	São Joaquim da Barra	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+496	3549508	São José da Bela Vista	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,9
+492	3549201	São João das Duas Pontes	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+615	3549250	São João de Iracema	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+493	3549300	São João do Pau d'Alho	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+489	3548906	São Carlos	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+490	3549003	São Francisco	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+491	3549102	São João da Boa Vista	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+486	3548609	São Bento do Sapucaí	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+487	3548708	São Bernardo do Campo	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+488	3548807	São Caetano do Sul	-	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: -
+483	3548302	Santo Expedito	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+484	3548401	Santópolis do Aguapeí	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+485	3548500	Santos	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+617	3548054	Santo Antonio do Aracanguá	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+480	3548104	Santo Antonio do Jardim	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+481	3548203	Santo Antonio do Pinhal	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+479	3547908	Santo Antonio da Alegria	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+482	3548005	Santo Antonio de Posse	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+477	3547700	Santo Anastácio	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+478	3547809	Santo André	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+474	3547601	Santa Rosa do Viterbo	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+633	3547650	Santa Salete	-	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: -
+472	3547403	Santa Rita d'Oeste	7.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,2
+473	3547502	Santa Rita do Passa Quatro	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+475	3547205	Santana da Ponte Pensa	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+476	3547304	Santana de Parnaíba	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+469	3546900	Santa Lucia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+470	3547007	Santa Maria da Serra	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+471	3547106	Santa Mercedes	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+466	3546603	Santa Fé do Sul	7.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 7,6
+467	3546702	Santa Gertrudes	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+468	3546801	Santa Isabel	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+463	3546306	Santa Cruz das Palmeiras	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+464	3546405	Santa Cruz do Rio Pardo	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+465	3546504	Santa Ernestina	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+462	3546207	Santa Cruz da Conceição	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+632	3546256	Santa Cruz da Esperança	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+458	3545803	Santa Bárbara d'Oeste	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+460	3546009	Santa Branca	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+461	3546108	Santa Clara d'Oeste	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+455	3545506	Sandovalina	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+456	3545605	Santa Adélia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+457	3545704	Santa Albertina	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+452	3545209	Salto	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+453	3545308	Salto de Pirapora	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+454	3545407	Salto Grande	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+450	3545001	Salesópolis	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+451	3545100	Salmourão	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+614	3545159	Saltinho	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+447	3544707	Sagres	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+448	3544806	Sales	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+449	3544905	Sales Oliveira	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+444	3544400	Rubiácea	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+445	3544509	Rubinéia	6.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,5
+446	3544608	Sabino	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+442	3544202	Riolândia	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+613	3544251	Rosana	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+443	3544301	Roseira	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+440	3544004	Rio das Pedras	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+441	3544103	Rio Grande da Serra	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+437	3543709	Rincão	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+438	3543808	Rinópolis	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+439	3543907	Rio Claro	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+434	3543402	Ribeirão Preto	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+435	3543501	Riversul	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+436	3543600	Rifaina	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+644	3543238	Ribeirão dos Índios	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 3,9
+612	3543253	Ribeirão Grande	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+433	3543303	Ribeirão Pires	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+431	3543105	Ribeirão Corrente	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+432	3543204	Ribeirão do Sul	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+428	3542800	Ribeira	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+429	3542909	Ribeirão Bonito	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+430	3543006	Ribeirão Branco	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+426	3542602	Registro	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+427	3542701	Restinga	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+424	3542404	Regente Feijó	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+425	3542503	Reginópolis	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+421	3542107	Rafard	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+422	3542206	Rancharia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+423	3542305	Redenção da Serra	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+418	3541802	Queiroz	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+419	3541901	Queluz	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+420	3542008	Quintana	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+416	3541604	Promissão	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+631	3541653	Quadra	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+417	3541703	Quatá	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+414	3541406	Presidente Prudente	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+415	3541505	Presidente Venceslau	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+412	3541208	Presidente Bernardes	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+413	3541307	Presidente Epitácio	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+410	3541000	Praia Grande	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+630	3541059	Pratânia	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+411	3541109	Presidente Alves	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+629	3540853	Pracinha	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+409	3540903	Pradópolis	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+611	3540754	Potim	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0
+408	3540804	Potirendaba	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+405	3540507	Porangaba	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+406	3540606	Porto Feliz	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+407	3540705	Porto Ferreira	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+403	3540309	Pontes Gestal	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+404	3540408	Populina	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+402	3540200	Pontal	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+610	3540259	Pontalinda	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+400	3540002	Pompéia	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+401	3540101	Pongaí	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+397	3539707	Platina	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+398	3539806	Poá	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+399	3539905	Poloni	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+395	3539509	Pitangueiras	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+396	3539608	Planalto	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+392	3539202	Pirapozinho	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+393	3539301	Pirassununga	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+394	3539400	Piratininga	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+389	3538907	Pirajuí	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+390	3539004	Pirangi	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+391	3539103	Pirapora do Bom Jesus	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+386	3538600	Piracaia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+387	3538709	Piracicaba	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+388	3538808	Piraju	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+384	3538303	Piquerobi	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+385	3538501	Piquete	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+380	3538006	Pindamonhangaba	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+381	3538105	Pindorama	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+383	3538204	Pinhalzinho	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+377	3537701	Piacatu	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+378	3537800	Piedade	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+379	3537909	Pilar do Sul	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,1
+375	3537503	Pereiras	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+376	3537602	Peruíbe	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+372	3537206	Pedro de Toledo	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+373	3537305	Penápolis	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+374	3537404	Pereira Barreto	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+371	3537107	Pedreira	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+609	3537156	Pedrinhas Paulista	6.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,4
+368	3536802	Pedra Bela	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+369	3536901	Pedranópolis	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+370	3537008	Pedregulho	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+366	3536604	Paulo de Faria	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+367	3536703	Pederneiras	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,5
+365	3536505	Paulínia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+643	3536570	Paulistânia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+608	3536257	Parisi	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+363	3536307	Patrocínio Paulista	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+364	3536406	Paulicéia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+361	3536109	Pardinho	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+362	3536208	Pariquera-Açu	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,4
+360	3536000	Parapuã	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+358	3535804	Paranapanema	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,7
+359	3535903	Paranapuã	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+357	3535705	Paraíso	5.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,9
+355	3535507	Paraguaçu Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+356	3535606	Paraibuna	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,3
+353	3535309	Palmital	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+354	3535408	Panorama	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,9
+351	3535101	Palmares Paulista	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+352	3535200	Palmeira d'Oeste	5.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,7
+349	3534906	Pacaembu	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,5
+350	3535002	Palestina	5.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,6
+642	3534757	Ouroeste	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+348	3534807	Ouro Verde	6.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 6,4
+346	3534609	Osvaldo Cruz	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,4
+347	3534708	Ourinhos	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,0
+344	3534401	Osasco	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,6
+345	3534500	Oscar Bressane	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,8
+342	3534203	Orindiúva	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+343	3534302	Orlândia	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,3
+340	3534005	Onda Verde	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+341	3534104	Oriente	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,2
+339	3533908	Olímpia	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 5,2
+337	3533700	Ocauçu	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,8
+338	3533809	Óleo	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Iniciais – Rede Pública: 4,0

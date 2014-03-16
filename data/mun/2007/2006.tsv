@@ -1,646 +1,646 @@
 id	ibge	localidade	valor	label
-1	3500105	Adamantina	2226	População de 6 a 10 anos: 2.226
-2	3500204	Adolfo	273	População de 6 a 10 anos: 273
-3	3500303	Aguaí	2481	População de 6 a 10 anos: 2.481
-4	3500402	Águas da Prata	511	População de 6 a 10 anos: 511
-5	3500501	Águas de Lindóia	1232	População de 6 a 10 anos: 1.232
-6	3500600	Águas de São Pedro	139	População de 6 a 10 anos: 139
-7	3500709	Agudos	2810	População de 6 a 10 anos: 2.810
-8	3500808	Alfredo Marcondes	259	População de 6 a 10 anos: 259
-9	3500907	Altair	305	População de 6 a 10 anos: 305
-10	3501004	Altinópolis	1218	População de 6 a 10 anos: 1.218
-11	3501103	Alto Alegre	271	População de 6 a 10 anos: 271
-12	3501202	Álvares Florence	244	População de 6 a 10 anos: 244
-13	3501301	Álvares Machado	1955	População de 6 a 10 anos: 1.955
-14	3501400	Álvaro de Carvalho	290	População de 6 a 10 anos: 290
-15	3501509	Alvinlândia	245	População de 6 a 10 anos: 245
-16	3501608	Americana	13582	População de 6 a 10 anos: 13.582
-17	3501707	Américo Brasiliense	2718	População de 6 a 10 anos: 2.718
-18	3501806	Américo de Campos	395	População de 6 a 10 anos: 395
-19	3501905	Amparo	4512	População de 6 a 10 anos: 4.512
-20	3502002	Analândia	330	População de 6 a 10 anos: 330
-21	3502101	Andradina	3901	População de 6 a 10 anos: 3.901
-22	3502200	Angatuba	1812	População de 6 a 10 anos: 1.812
-23	3502309	Anhembi	462	População de 6 a 10 anos: 462
-24	3502408	Anhumas	293	População de 6 a 10 anos: 293
-25	3502507	Aparecida	2669	População de 6 a 10 anos: 2.669
-26	3502606	Aparecida d'Oeste	330	População de 6 a 10 anos: 330
-27	3502705	Apiaí	2637	População de 6 a 10 anos: 2.637
-28	3502804	Araçatuba	11933	População de 6 a 10 anos: 11.933
-29	3502903	Araçoiaba da Serra	1961	População de 6 a 10 anos: 1.961
-30	3503000	Aramina	365	População de 6 a 10 anos: 365
-31	3503109	Arandu	548	População de 6 a 10 anos: 548
-32	3503208	Araraquara	13255	População de 6 a 10 anos: 13.255
-33	3503307	Araras	8164	População de 6 a 10 anos: 8.164
-34	3503406	Arealva	547	População de 6 a 10 anos: 547
-35	3503505	Areias	350	População de 6 a 10 anos: 350
-36	3503604	Areiópolis	1007	População de 6 a 10 anos: 1.007
-37	3503703	Ariranha	606	População de 6 a 10 anos: 606
-38	3503802	Artur Nogueira	3316	População de 6 a 10 anos: 3.316
-39	3503901	Arujá	6274	População de 6 a 10 anos: 6.274
-40	3504008	Assis	6344	População de 6 a 10 anos: 6.344
-41	3504107	Atibaia	9633	População de 6 a 10 anos: 9.633
-42	3504206	Auriflama	1007	População de 6 a 10 anos: 1.007
-43	3504305	Avaí	418	População de 6 a 10 anos: 418
-44	3504404	Avanhandava	856	População de 6 a 10 anos: 856
-45	3504503	Avaré	6225	População de 6 a 10 anos: 6.225
-46	3504602	Bady Bassitt	990	População de 6 a 10 anos: 990
-47	3504701	Balbinos	136	População de 6 a 10 anos: 136
-48	3504800	Bálsamo	495	População de 6 a 10 anos: 495
-49	3504909	Bananal	818	População de 6 a 10 anos: 818
-50	3505005	Barão de Antonina	254	População de 6 a 10 anos: 254
-627	3507753	Brejo Alegre	204	População de 6 a 10 anos: 204
-628	3509957	Canas	367	População de 6 a 10 anos: 367
-629	3540853	Pracinha	140	População de 6 a 10 anos: 140
-630	3541059	Pratânia	404	População de 6 a 10 anos: 404
-631	3541653	Quadra	235	População de 6 a 10 anos: 235
-632	3546256	Santa Cruz da Esperança	170	População de 6 a 10 anos: 170
-633	3547650	Santa Salete	83	População de 6 a 10 anos: 83
-634	3556958	Vitória Brasil	116	População de 6 a 10 anos: 116
-635	3521150	Ipiguá	303	População de 6 a 10 anos: 303
-636	3553658	Taquaral	227	População de 6 a 10 anos: 227
-637	3515657	Fernão	127	População de 6 a 10 anos: 127
-638	3516853	Gavião Peixoto	376	População de 6 a 10 anos: 376
-639	3525854	Jumirim	222	População de 6 a 10 anos: 222
-640	3532157	Nantes	247	População de 6 a 10 anos: 247
-641	3532868	Nova Castilho	75	População de 6 a 10 anos: 75
-642	3534757	Ouroeste	551	População de 6 a 10 anos: 551
-643	3536570	Paulistânia	162	População de 6 a 10 anos: 162
-644	3543238	Ribeirão dos Índios	154	População de 6 a 10 anos: 154
-645	3554755	Trabiju	135	População de 6 a 10 anos: 135
-51	3505104	Barbosa	559	População de 6 a 10 anos: 559
-52	3505203	Bariri	2270	População de 6 a 10 anos: 2.270
-53	3505302	Barra Bonita	2413	População de 6 a 10 anos: 2.413
-54	3505401	Barra do Turvo	854	População de 6 a 10 anos: 854
-55	3505500	Barretos	7901	População de 6 a 10 anos: 7.901
-56	3505609	Barrinha	2424	População de 6 a 10 anos: 2.424
-57	3505708	Barueri	19998	População de 6 a 10 anos: 19.998
-58	3505807	Bastos	1674	População de 6 a 10 anos: 1.674
-59	3505906	Batatais	4093	População de 6 a 10 anos: 4.093
-60	3506003	Bauru	24438	População de 6 a 10 anos: 24.438
-61	3506102	Bebedouro	5694	População de 6 a 10 anos: 5.694
-62	3506201	Bento de Abreu	200	População de 6 a 10 anos: 200
-63	3506300	Bernardino de Campos	810	População de 6 a 10 anos: 810
-64	3506409	Bilac	439	População de 6 a 10 anos: 439
-65	3506508	Birigui	7188	População de 6 a 10 anos: 7.188
-66	3506607	Biritiba Mirim	2508	População de 6 a 10 anos: 2.508
-67	3506706	Boa Esperança do Sul	1160	População de 6 a 10 anos: 1.160
-68	3506805	Bocaina	794	População de 6 a 10 anos: 794
-69	3506904	Bofete	788	População de 6 a 10 anos: 788
-70	3507001	Boituva	3458	População de 6 a 10 anos: 3.458
-71	3507100	Bom Jesus dos Perdões	1510	População de 6 a 10 anos: 1.510
-72	3507209	Borá	60	População de 6 a 10 anos: 60
-73	3507308	Boracéia	328	População de 6 a 10 anos: 328
-74	3507407	Borborema	1015	População de 6 a 10 anos: 1.015
-75	3507506	Botucatu	9019	População de 6 a 10 anos: 9.019
-76	3507605	Bragança Paulista	10487	População de 6 a 10 anos: 10.487
-77	3507704	Braúna	324	População de 6 a 10 anos: 324
-78	3507803	Brodowski	1610	População de 6 a 10 anos: 1.610
-79	3507902	Brotas	1636	População de 6 a 10 anos: 1.636
-80	3508009	Buri	1845	População de 6 a 10 anos: 1.845
-81	3508108	Buritama	1047	População de 6 a 10 anos: 1.047
-82	3508207	Buritizal	280	População de 6 a 10 anos: 280
-83	3508306	Cabrália Paulista	413	População de 6 a 10 anos: 413
-84	3508405	Cabreúva	3536	População de 6 a 10 anos: 3.536
-85	3508504	Caçapava	6440	População de 6 a 10 anos: 6.440
-86	3508603	Cachoeira Paulista	2285	População de 6 a 10 anos: 2.285
-87	3508702	Caconde	1654	População de 6 a 10 anos: 1.654
-88	3508801	Cafelândia	1208	População de 6 a 10 anos: 1.208
-89	3508900	Caiabu	317	População de 6 a 10 anos: 317
-90	3509007	Caieiras	6989	População de 6 a 10 anos: 6.989
-91	3509106	Caiuá	382	População de 6 a 10 anos: 382
-92	3509205	Cajamar	5276	População de 6 a 10 anos: 5.276
-93	3509304	Cajobi	743	População de 6 a 10 anos: 743
-94	3509403	Cajuru	1891	População de 6 a 10 anos: 1.891
-95	3509502	Campinas	71688	População de 6 a 10 anos: 71.688
-96	3509601	Campo Limpo Paulista	5866	População de 6 a 10 anos: 5.866
-97	3509700	Campos do Jordão	4142	População de 6 a 10 anos: 4.142
-98	3509809	Campos Novos Paulista	381	População de 6 a 10 anos: 381
-99	3509908	Cananéia	1186	População de 6 a 10 anos: 1.186
-100	3510005	Cândido Mota	2250	População de 6 a 10 anos: 2.250
-101	3510104	Cândido Rodrigues	172	População de 6 a 10 anos: 172
-102	3510203	Capão Bonito	4476	População de 6 a 10 anos: 4.476
-103	3510302	Capela do Alto	1523	População de 6 a 10 anos: 1.523
-104	3510401	Capivari	3791	População de 6 a 10 anos: 3.791
-105	3510500	Caraguatatuba	7891	População de 6 a 10 anos: 7.891
-106	3510609	Carapicuíba	31097	População de 6 a 10 anos: 31.097
-107	3510708	Cardoso	865	População de 6 a 10 anos: 865
-108	3510807	Casa Branca	2035	População de 6 a 10 anos: 2.035
-109	3510906	Cássia dos Coqueiros	238	População de 6 a 10 anos: 238
-110	3511003	Castilho	1347	População de 6 a 10 anos: 1.347
-111	3511102	Catanduva	7292	População de 6 a 10 anos: 7.292
-112	3511201	Catiguá	512	População de 6 a 10 anos: 512
-113	3511300	Cedral	501	População de 6 a 10 anos: 501
-114	3511409	Cerqueira César	1409	População de 6 a 10 anos: 1.409
-115	3511508	Cerquilho	2609	População de 6 a 10 anos: 2.609
-116	3511607	Cesário Lange	1112	População de 6 a 10 anos: 1.112
-117	3511706	Charqueada	1175	População de 6 a 10 anos: 1.175
-118	3557204	Chavantes	977	População de 6 a 10 anos: 977
-119	3511904	Clementina	503	População de 6 a 10 anos: 503
-120	3512001	Colina	1331	População de 6 a 10 anos: 1.331
-121	3512100	Colômbia	518	População de 6 a 10 anos: 518
-122	3512209	Conchal	2163	População de 6 a 10 anos: 2.163
-123	3512308	Conchas	1247	População de 6 a 10 anos: 1.247
-124	3512407	Cordeirópolis	1561	População de 6 a 10 anos: 1.561
-125	3512506	Coroados	369	População de 6 a 10 anos: 369
-126	3512605	Coronel Macedo	474	População de 6 a 10 anos: 474
-127	3512704	Corumbataí	326	População de 6 a 10 anos: 326
-128	3512803	Cosmópolis	4396	População de 6 a 10 anos: 4.396
-129	3512902	Cosmorama	486	População de 6 a 10 anos: 486
-130	3513009	Cotia	15833	População de 6 a 10 anos: 15.833
-131	3513108	Cravinhos	2488	População de 6 a 10 anos: 2.488
-132	3513207	Cristais Paulista	615	População de 6 a 10 anos: 615
-133	3513306	Cruzália	161	População de 6 a 10 anos: 161
-134	3513405	Cruzeiro	5937	População de 6 a 10 anos: 5.937
-135	3513504	Cubatão	9952	População de 6 a 10 anos: 9.952
-136	3513603	Cunha	2030	População de 6 a 10 anos: 2.030
-137	3513702	Descalvado	2183	População de 6 a 10 anos: 2.183
-138	3513801	Diadema	31481	População de 6 a 10 anos: 31.481
-139	3513900	Divinolândia	819	População de 6 a 10 anos: 819
-140	3514007	Dobrada	667	População de 6 a 10 anos: 667
-141	3514106	Dois Córregos	1843	População de 6 a 10 anos: 1.843
-142	3514205	Dolcinópolis	158	População de 6 a 10 anos: 158
-143	3514304	Dourado	617	População de 6 a 10 anos: 617
-144	3514403	Dracena	2740	População de 6 a 10 anos: 2.740
-145	3514502	Duartina	905	População de 6 a 10 anos: 905
-146	3514601	Dumont	599	População de 6 a 10 anos: 599
-147	3514700	Echaporã	514	População de 6 a 10 anos: 514
-148	3514809	Eldorado	1584	População de 6 a 10 anos: 1.584
-149	3514908	Elias Fausto	1310	População de 6 a 10 anos: 1.310
-150	3515004	Embu das Artes	20665	População de 6 a 10 anos: 20.665
-151	3515103	Embu-Guaçu	5577	População de 6 a 10 anos: 5.577
-152	3515202	Estrela d'Oeste	570	População de 6 a 10 anos: 570
-153	3515301	Estrela do Norte	214	População de 6 a 10 anos: 214
-154	3515400	Fartura	1195	População de 6 a 10 anos: 1.195
-155	3515509	Fernandópolis	4307	População de 6 a 10 anos: 4.307
-156	3515608	Fernando Prestes	353	População de 6 a 10 anos: 353
-157	3515707	Ferraz de Vasconcelos	14905	População de 6 a 10 anos: 14.905
-158	3515806	Flora Rica	142	População de 6 a 10 anos: 142
-159	3515905	Floreal	198	População de 6 a 10 anos: 198
-160	3516002	Flórida Paulista	890	População de 6 a 10 anos: 890
-161	3516101	Florínia	241	População de 6 a 10 anos: 241
-162	3516200	Franca	25030	População de 6 a 10 anos: 25.030
-163	3516309	Francisco Morato	14819	População de 6 a 10 anos: 14.819
-164	3516408	Franco da Rocha	10518	População de 6 a 10 anos: 10.518
-165	3516507	Gabriel Monteiro	171	População de 6 a 10 anos: 171
-166	3516606	Gália	547	População de 6 a 10 anos: 547
-167	3516705	Garça	3235	População de 6 a 10 anos: 3.235
-168	3516804	Gastão Vidigal	264	População de 6 a 10 anos: 264
-169	3516903	General Salgado	737	População de 6 a 10 anos: 737
-170	3517000	Getulina	793	População de 6 a 10 anos: 793
-171	3517109	Glicério	351	População de 6 a 10 anos: 351
-172	3517208	Guaiçara	835	População de 6 a 10 anos: 835
-173	3517307	Guaimbê	452	População de 6 a 10 anos: 452
-174	3517406	Guaíra	2778	População de 6 a 10 anos: 2.778
-175	3517505	Guapiaçu	1156	População de 6 a 10 anos: 1.156
-176	3517604	Guapiara	1903	População de 6 a 10 anos: 1.903
-177	3517703	Guará	1745	População de 6 a 10 anos: 1.745
-178	3517802	Guaraçaí	609	População de 6 a 10 anos: 609
-179	3517901	Guaraci	765	População de 6 a 10 anos: 765
-180	3518008	Guarani d'Oeste	147	População de 6 a 10 anos: 147
-181	3518107	Guarantã	575	População de 6 a 10 anos: 575
-182	3518206	Guararapes	2160	População de 6 a 10 anos: 2.160
-183	3518305	Guararema	2129	População de 6 a 10 anos: 2.129
-184	3518404	Guaratinguetá	8217	População de 6 a 10 anos: 8.217
-185	3518503	Guareí	985	População de 6 a 10 anos: 985
-186	3518602	Guariba	2890	População de 6 a 10 anos: 2.890
-187	3518701	Guarujá	24495	População de 6 a 10 anos: 24.495
-188	3518800	Guarulhos	101605	População de 6 a 10 anos: 101.605
-189	3518909	Guzolândia	371	População de 6 a 10 anos: 371
-190	3519006	Herculândia	717	População de 6 a 10 anos: 717
-191	3519105	Iacanga	679	População de 6 a 10 anos: 679
-192	3519204	Iacri	492	População de 6 a 10 anos: 492
-193	3519303	Ibaté	2512	População de 6 a 10 anos: 2.512
-194	3519402	Ibirá	696	População de 6 a 10 anos: 696
-195	3519501	Ibirarema	526	População de 6 a 10 anos: 526
-196	3519600	Ibitinga	3614	População de 6 a 10 anos: 3.614
-197	3519709	Ibiúna	6313	População de 6 a 10 anos: 6.313
-198	3519808	Icém	565	População de 6 a 10 anos: 565
-199	3519907	Iepê	575	População de 6 a 10 anos: 575
-200	3520004	Igaraçu do Tietê	1863	População de 6 a 10 anos: 1.863
-201	3520103	Igarapava	2032	População de 6 a 10 anos: 2.032
-202	3520202	Igaratá	765	População de 6 a 10 anos: 765
-203	3520301	Iguape	2632	População de 6 a 10 anos: 2.632
-204	3520400	Ilhabela	2199	População de 6 a 10 anos: 2.199
-205	3520509	Indaiatuba	13858	População de 6 a 10 anos: 13.858
-206	3520608	Indiana	355	População de 6 a 10 anos: 355
-207	3520707	Indiaporã	264	População de 6 a 10 anos: 264
-208	3520806	Inúbia Paulista	257	População de 6 a 10 anos: 257
-209	3520905	Ipaussu	1083	População de 6 a 10 anos: 1.083
-210	3521002	Iperó	2113	População de 6 a 10 anos: 2.113
-211	3521101	Ipeúna	471	População de 6 a 10 anos: 471
-212	3521200	Iporanga	456	População de 6 a 10 anos: 456
-213	3521309	Ipuã	1142	População de 6 a 10 anos: 1.142
-214	3521408	Iracemápolis	1377	População de 6 a 10 anos: 1.377
-215	3521507	Irapuã	504	População de 6 a 10 anos: 504
-216	3521606	Irapuru	472	População de 6 a 10 anos: 472
-217	3521705	Itaberá	1646	População de 6 a 10 anos: 1.646
-218	3521804	Itaí	1938	População de 6 a 10 anos: 1.938
-219	3521903	Itajobi	945	População de 6 a 10 anos: 945
-220	3522000	Itaju	234	População de 6 a 10 anos: 234
-221	3522109	Itanhaém	7123	População de 6 a 10 anos: 7.123
-222	3522208	Itapecerica da Serra	13329	População de 6 a 10 anos: 13.329
-223	3522307	Itapetininga	11732	População de 6 a 10 anos: 11.732
-224	3522406	Itapeva	8190	População de 6 a 10 anos: 8.190
-225	3522505	Itapevi	18338	População de 6 a 10 anos: 18.338
-226	3522604	Itapira	4651	População de 6 a 10 anos: 4.651
-227	3522703	Itápolis	2844	População de 6 a 10 anos: 2.844
-228	3522802	Itaporanga	1257	População de 6 a 10 anos: 1.257
-229	3522901	Itapuí	905	População de 6 a 10 anos: 905
-230	3523008	Itapura	346	População de 6 a 10 anos: 346
-231	3523107	Itaquaquecetuba	30659	População de 6 a 10 anos: 30.659
-232	3523206	Itararé	4450	População de 6 a 10 anos: 4.450
-233	3523305	Itariri	1507	População de 6 a 10 anos: 1.507
-234	3523404	Itatiba	7073	População de 6 a 10 anos: 7.073
-235	3523503	Itatinga	1577	População de 6 a 10 anos: 1.577
-236	3523602	Itirapina	1029	População de 6 a 10 anos: 1.029
-237	3523701	Itirapuã	531	População de 6 a 10 anos: 531
-238	3523800	Itobi	600	População de 6 a 10 anos: 600
-239	3523909	Itu	11714	População de 6 a 10 anos: 11.714
-240	3524006	Itupeva	3154	População de 6 a 10 anos: 3.154
-241	3524105	Ituverava	2811	População de 6 a 10 anos: 2.811
-242	3524204	Jaborandi	501	População de 6 a 10 anos: 501
-243	3524303	Jaboticabal	5217	População de 6 a 10 anos: 5.217
-244	3524402	Jacareí	16309	População de 6 a 10 anos: 16.309
-245	3524501	Jaci	366	População de 6 a 10 anos: 366
-246	3524600	Jacupiranga	1673	População de 6 a 10 anos: 1.673
-247	3524709	Jaguariúna	2902	População de 6 a 10 anos: 2.902
-248	3524808	Jales	3092	População de 6 a 10 anos: 3.092
-249	3524907	Jambeiro	415	População de 6 a 10 anos: 415
-250	3525003	Jandira	9190	População de 6 a 10 anos: 9.190
-251	3525102	Jardinópolis	2964	População de 6 a 10 anos: 2.964
-252	3525201	Jarinu	1835	População de 6 a 10 anos: 1.835
-253	3525300	Jaú	8903	População de 6 a 10 anos: 8.903
-254	3525409	Jeriquara	297	População de 6 a 10 anos: 297
-255	3525508	Joanópolis	858	População de 6 a 10 anos: 858
-256	3525607	João Ramalho	356	População de 6 a 10 anos: 356
-257	3525706	José Bonifácio	2372	População de 6 a 10 anos: 2.372
-258	3525805	Júlio Mesquita	406	População de 6 a 10 anos: 406
-259	3525904	Jundiaí	24147	População de 6 a 10 anos: 24.147
-260	3526001	Junqueirópolis	1202	População de 6 a 10 anos: 1.202
-261	3526100	Juquiá	1969	População de 6 a 10 anos: 1.969
-262	3526209	Juquitiba	2779	População de 6 a 10 anos: 2.779
-263	3526308	Lagoinha	399	População de 6 a 10 anos: 399
-264	3526407	Laranjal Paulista	1848	População de 6 a 10 anos: 1.848
-265	3526506	Lavínia	406	População de 6 a 10 anos: 406
-266	3526605	Lavrinhas	585	População de 6 a 10 anos: 585
-267	3526704	Leme	7168	População de 6 a 10 anos: 7.168
-268	3526803	Lençóis Paulista	4804	População de 6 a 10 anos: 4.804
-269	3526902	Limeira	20007	População de 6 a 10 anos: 20.007
-270	3527009	Lindóia	440	População de 6 a 10 anos: 440
-271	3527108	Lins	4838	População de 6 a 10 anos: 4.838
-272	3527207	Lorena	6526	População de 6 a 10 anos: 6.526
-273	3527306	Louveira	2432	População de 6 a 10 anos: 2.432
-274	3527405	Lucélia	1416	População de 6 a 10 anos: 1.416
-275	3527504	Lucianópolis	191	População de 6 a 10 anos: 191
-276	3527603	Luís Antônio	910	População de 6 a 10 anos: 910
-277	3527702	Luiziânia	349	População de 6 a 10 anos: 349
-278	3527801	Lupércio	362	População de 6 a 10 anos: 362
-279	3527900	Lutécia	233	População de 6 a 10 anos: 233
-280	3528007	Macatuba	1379	População de 6 a 10 anos: 1.379
-281	3528106	Macaubal	460	População de 6 a 10 anos: 460
-282	3528205	Macedônia	261	População de 6 a 10 anos: 261
-283	3528304	Magda	203	População de 6 a 10 anos: 203
-284	3528403	Mairinque	3682	População de 6 a 10 anos: 3.682
-285	3528502	Mairiporã	6337	População de 6 a 10 anos: 6.337
-286	3528601	Manduri	681	População de 6 a 10 anos: 681
-287	3528700	Marabá Paulista	300	População de 6 a 10 anos: 300
-288	3528809	Maracaí	1045	População de 6 a 10 anos: 1.045
-289	3528908	Mariápolis	283	População de 6 a 10 anos: 283
-290	3529005	Marília	15171	População de 6 a 10 anos: 15.171
-291	3529104	Marinópolis	182	População de 6 a 10 anos: 182
-292	3529203	Martinópolis	1767	População de 6 a 10 anos: 1.767
-293	3529302	Matão	5626	População de 6 a 10 anos: 5.626
-294	3529401	Mauá	33369	População de 6 a 10 anos: 33.369
-295	3529500	Mendonça	282	População de 6 a 10 anos: 282
-296	3529609	Meridiano	274	População de 6 a 10 anos: 274
-297	3529708	Miguelópolis	1683	População de 6 a 10 anos: 1.683
-298	3529807	Mineiros do Tietê	983	População de 6 a 10 anos: 983
-299	3529906	Miracatu	2226	População de 6 a 10 anos: 2.226
-300	3530003	Mira Estrela	198	População de 6 a 10 anos: 198
-301	3530102	Mirandópolis	1693	População de 6 a 10 anos: 1.693
-302	3530201	Mirante do Paranapanema	1391	População de 6 a 10 anos: 1.391
-303	3530300	Mirassol	3600	População de 6 a 10 anos: 3.600
-304	3530409	Mirassolândia	306	População de 6 a 10 anos: 306
-305	3530508	Mococa	5002	População de 6 a 10 anos: 5.002
-306	3530607	Mogi das Cruzes	31388	População de 6 a 10 anos: 31.388
-307	3530706	Mogi Guaçu	10138	População de 6 a 10 anos: 10.138
-308	3530805	Moji Mirim	6138	População de 6 a 10 anos: 6.138
-309	3530904	Mombuca	287	População de 6 a 10 anos: 287
-310	3531001	Monções	129	População de 6 a 10 anos: 129
-311	3531100	Mongaguá	3519	População de 6 a 10 anos: 3.519
-312	3531209	Monte Alegre do Sul	466	População de 6 a 10 anos: 466
-313	3531308	Monte Alto	3131	População de 6 a 10 anos: 3.131
-314	3531407	Monte Aprazível	1331	População de 6 a 10 anos: 1.331
-315	3531506	Monte Azul Paulista	1450	População de 6 a 10 anos: 1.450
-316	3531605	Monte Castelo	298	População de 6 a 10 anos: 298
-317	3531704	Monteiro Lobato	345	População de 6 a 10 anos: 345
-318	3531803	Monte Mor	3845	População de 6 a 10 anos: 3.845
-319	3531902	Morro Agudo	2370	População de 6 a 10 anos: 2.370
-320	3532009	Morungaba	872	População de 6 a 10 anos: 872
-321	3532108	Murutinga do Sul	277	População de 6 a 10 anos: 277
-322	3532207	Narandiba	356	População de 6 a 10 anos: 356
-323	3532306	Natividade da Serra	547	População de 6 a 10 anos: 547
-324	3532405	Nazaré Paulista	1319	População de 6 a 10 anos: 1.319
-325	3532504	Neves Paulista	535	População de 6 a 10 anos: 535
-326	3532603	Nhandeara	615	População de 6 a 10 anos: 615
-327	3532702	Nipoã	275	População de 6 a 10 anos: 275
-328	3532801	Nova Aliança	368	População de 6 a 10 anos: 368
-329	3532900	Nova Europa	676	População de 6 a 10 anos: 676
-330	3533007	Nova Granada	1359	População de 6 a 10 anos: 1.359
-331	3533106	Nova Guataporanga	146	População de 6 a 10 anos: 146
-332	3533205	Nova Independência	222	População de 6 a 10 anos: 222
-333	3533304	Nova Luzitânia	239	População de 6 a 10 anos: 239
-334	3533403	Nova Odessa	3611	População de 6 a 10 anos: 3.611
-335	3533502	Novo Horizonte	2578	População de 6 a 10 anos: 2.578
-336	3533601	Nuporanga	511	População de 6 a 10 anos: 511
-337	3533700	Ocauçu	335	População de 6 a 10 anos: 335
-338	3533809	Óleo	234	População de 6 a 10 anos: 234
-339	3533908	Olímpia	3540	População de 6 a 10 anos: 3.540
-340	3534005	Onda Verde	309	População de 6 a 10 anos: 309
-341	3534104	Oriente	450	População de 6 a 10 anos: 450
-342	3534203	Orindiúva	438	População de 6 a 10 anos: 438
-343	3534302	Orlândia	2989	População de 6 a 10 anos: 2.989
-344	3534401	Osasco	52673	População de 6 a 10 anos: 52.673
-345	3534500	Oscar Bressane	164	População de 6 a 10 anos: 164
-346	3534609	Osvaldo Cruz	1969	População de 6 a 10 anos: 1.969
-347	3534708	Ourinhos	7696	População de 6 a 10 anos: 7.696
-348	3534807	Ouro Verde	635	População de 6 a 10 anos: 635
-349	3534906	Pacaembu	749	População de 6 a 10 anos: 749
-350	3535002	Palestina	635	População de 6 a 10 anos: 635
-351	3535101	Palmares Paulista	838	População de 6 a 10 anos: 838
-352	3535200	Palmeira d'Oeste	683	População de 6 a 10 anos: 683
-353	3535309	Palmital	1472	População de 6 a 10 anos: 1.472
-354	3535408	Panorama	1260	População de 6 a 10 anos: 1.260
-355	3535507	Paraguaçu Paulista	3317	População de 6 a 10 anos: 3.317
-356	3535606	Paraibuna	1496	População de 6 a 10 anos: 1.496
-357	3535705	Paraíso	422	População de 6 a 10 anos: 422
-358	3535804	Paranapanema	1559	População de 6 a 10 anos: 1.559
-359	3535903	Paranapuã	284	População de 6 a 10 anos: 284
-360	3536000	Parapuã	801	População de 6 a 10 anos: 801
-361	3536109	Pardinho	472	População de 6 a 10 anos: 472
-362	3536208	Pariquera-Açu	1653	População de 6 a 10 anos: 1.653
-363	3536307	Patrocínio Paulista	1043	População de 6 a 10 anos: 1.043
-364	3536406	Paulicéia	547	População de 6 a 10 anos: 547
-365	3536505	Paulínia	5573	População de 6 a 10 anos: 5.573
-366	3536604	Paulo de Faria	697	População de 6 a 10 anos: 697
-367	3536703	Pederneiras	3291	População de 6 a 10 anos: 3.291
-368	3536802	Pedra Bela	437	População de 6 a 10 anos: 437
-369	3536901	Pedranópolis	185	População de 6 a 10 anos: 185
-370	3537008	Pedregulho	1310	População de 6 a 10 anos: 1.310
-371	3537107	Pedreira	2881	População de 6 a 10 anos: 2.881
-372	3537206	Pedro de Toledo	989	População de 6 a 10 anos: 989
-373	3537305	Penápolis	4126	População de 6 a 10 anos: 4.126
-374	3537404	Pereira Barreto	1875	População de 6 a 10 anos: 1.875
-375	3537503	Pereiras	552	População de 6 a 10 anos: 552
-376	3537602	Peruíbe	4996	População de 6 a 10 anos: 4.996
-377	3537701	Piacatu	362	População de 6 a 10 anos: 362
-378	3537800	Piedade	4277	População de 6 a 10 anos: 4.277
-379	3537909	Pilar do Sul	2326	População de 6 a 10 anos: 2.326
-380	3538006	Pindamonhangaba	11722	População de 6 a 10 anos: 11.722
-381	3538105	Pindorama	956	População de 6 a 10 anos: 956
-382	3515186	Espírito Santo do Pinhal	2983	População de 6 a 10 anos: 2.983
-383	3538204	Pinhalzinho	952	População de 6 a 10 anos: 952
-384	3538303	Piquerobi	268	População de 6 a 10 anos: 268
-385	3538501	Piquete	1129	População de 6 a 10 anos: 1.129
-386	3538600	Piracaia	1930	População de 6 a 10 anos: 1.930
-387	3538709	Piracicaba	26040	População de 6 a 10 anos: 26.040
-388	3538808	Piraju	2242	População de 6 a 10 anos: 2.242
-389	3538907	Pirajuí	1404	População de 6 a 10 anos: 1.404
-390	3539004	Pirangi	700	População de 6 a 10 anos: 700
-391	3539103	Pirapora do Bom Jesus	1485	População de 6 a 10 anos: 1.485
-392	3539202	Pirapozinho	1872	População de 6 a 10 anos: 1.872
-393	3539301	Pirassununga	4922	População de 6 a 10 anos: 4.922
-394	3539400	Piratininga	871	População de 6 a 10 anos: 871
-395	3539509	Pitangueiras	3049	População de 6 a 10 anos: 3.049
-396	3539608	Planalto	339	População de 6 a 10 anos: 339
-397	3539707	Platina	262	População de 6 a 10 anos: 262
-398	3539806	Poá	8871	População de 6 a 10 anos: 8.871
-399	3539905	Poloni	311	População de 6 a 10 anos: 311
-400	3540002	Pompéia	1399	População de 6 a 10 anos: 1.399
-401	3540101	Pongaí	229	População de 6 a 10 anos: 229
-402	3540200	Pontal	3148	População de 6 a 10 anos: 3.148
-403	3540309	Pontes Gestal	185	População de 6 a 10 anos: 185
-404	3540408	Populina	302	População de 6 a 10 anos: 302
-405	3540507	Porangaba	600	População de 6 a 10 anos: 600
-406	3540606	Porto Feliz	3783	População de 6 a 10 anos: 3.783
-407	3540705	Porto Ferreira	3811	População de 6 a 10 anos: 3.811
-408	3540804	Potirendaba	953	População de 6 a 10 anos: 953
-409	3540903	Pradópolis	1222	População de 6 a 10 anos: 1.222
-410	3541000	Praia Grande	19715	População de 6 a 10 anos: 19.715
-411	3541109	Presidente Alves	300	População de 6 a 10 anos: 300
-412	3541208	Presidente Bernardes	970	População de 6 a 10 anos: 970
-413	3541307	Presidente Epitácio	3357	População de 6 a 10 anos: 3.357
-414	3541406	Presidente Prudente	14495	População de 6 a 10 anos: 14.495
-415	3541505	Presidente Venceslau	2551	População de 6 a 10 anos: 2.551
-416	3541604	Promissão	2708	População de 6 a 10 anos: 2.708
-417	3541703	Quatá	1011	População de 6 a 10 anos: 1.011
-418	3541802	Queiroz	236	População de 6 a 10 anos: 236
-419	3541901	Queluz	952	População de 6 a 10 anos: 952
-420	3542008	Quintana	435	População de 6 a 10 anos: 435
-421	3542107	Rafard	694	População de 6 a 10 anos: 694
-422	3542206	Rancharia	2297	População de 6 a 10 anos: 2.297
-423	3542305	Redenção da Serra	327	População de 6 a 10 anos: 327
-424	3542404	Regente Feijó	1325	População de 6 a 10 anos: 1.325
-425	3542503	Reginópolis	389	População de 6 a 10 anos: 389
-426	3542602	Registro	5017	População de 6 a 10 anos: 5.017
-427	3542701	Restinga	577	População de 6 a 10 anos: 577
-428	3542800	Ribeira	337	População de 6 a 10 anos: 337
-429	3542909	Ribeirão Bonito	986	População de 6 a 10 anos: 986
-430	3543006	Ribeirão Branco	2236	População de 6 a 10 anos: 2.236
-431	3543105	Ribeirão Corrente	362	População de 6 a 10 anos: 362
-432	3543204	Ribeirão do Sul	329	População de 6 a 10 anos: 329
-433	3543303	Ribeirão Pires	8337	População de 6 a 10 anos: 8.337
-434	3543402	Ribeirão Preto	40403	População de 6 a 10 anos: 40.403
-435	3543501	Riversul	577	População de 6 a 10 anos: 577
-436	3543600	Rifaina	265	População de 6 a 10 anos: 265
-437	3543709	Rincão	903	População de 6 a 10 anos: 903
-438	3543808	Rinópolis	700	População de 6 a 10 anos: 700
-439	3543907	Rio Claro	12731	População de 6 a 10 anos: 12.731
-440	3544004	Rio das Pedras	2252	População de 6 a 10 anos: 2.252
-441	3544103	Rio Grande da Serra	3769	População de 6 a 10 anos: 3.769
-442	3544202	Riolândia	718	População de 6 a 10 anos: 718
-443	3544301	Roseira	774	População de 6 a 10 anos: 774
-444	3544400	Rubiácea	210	População de 6 a 10 anos: 210
-445	3544509	Rubinéia	194	População de 6 a 10 anos: 194
-446	3544608	Sabino	378	População de 6 a 10 anos: 378
-447	3544707	Sagres	200	População de 6 a 10 anos: 200
-448	3544806	Sales	393	População de 6 a 10 anos: 393
-449	3544905	Sales Oliveira	759	População de 6 a 10 anos: 759
-450	3545001	Salesópolis	1345	População de 6 a 10 anos: 1.345
-451	3545100	Salmourão	375	População de 6 a 10 anos: 375
-452	3545209	Salto	8020	População de 6 a 10 anos: 8.020
-453	3545308	Salto de Pirapora	3273	População de 6 a 10 anos: 3.273
-454	3545407	Salto Grande	716	População de 6 a 10 anos: 716
-455	3545506	Sandovalina	314	População de 6 a 10 anos: 314
-456	3545605	Santa Adélia	1066	População de 6 a 10 anos: 1.066
-457	3545704	Santa Albertina	367	População de 6 a 10 anos: 367
-458	3545803	Santa Bárbara d'Oeste	13083	População de 6 a 10 anos: 13.083
-459	3500550	Águas de Santa Bárbara	447	População de 6 a 10 anos: 447
-460	3546009	Santa Branca	1088	População de 6 a 10 anos: 1.088
-461	3546108	Santa Clara d'Oeste	155	População de 6 a 10 anos: 155
-462	3546207	Santa Cruz da Conceição	283	População de 6 a 10 anos: 283
-463	3546306	Santa Cruz das Palmeiras	2300	População de 6 a 10 anos: 2.300
-464	3546405	Santa Cruz do Rio Pardo	3334	População de 6 a 10 anos: 3.334
-465	3546504	Santa Ernestina	471	População de 6 a 10 anos: 471
-466	3546603	Santa Fé do Sul	1853	População de 6 a 10 anos: 1.853
-467	3546702	Santa Gertrudes	1587	População de 6 a 10 anos: 1.587
-468	3546801	Santa Isabel	4129	População de 6 a 10 anos: 4.129
-469	3546900	Santa Lucia	663	População de 6 a 10 anos: 663
-470	3547007	Santa Maria da Serra	448	População de 6 a 10 anos: 448
-471	3547106	Santa Mercedes	246	População de 6 a 10 anos: 246
-472	3547403	Santa Rita d'Oeste	169	População de 6 a 10 anos: 169
-473	3547502	Santa Rita do Passa Quatro	1692	População de 6 a 10 anos: 1.692
-474	3547601	Santa Rosa do Viterbo	1724	População de 6 a 10 anos: 1.724
-475	3547205	Santana da Ponte Pensa	99	População de 6 a 10 anos: 99
-476	3547304	Santana de Parnaíba	8660	População de 6 a 10 anos: 8.660
-477	3547700	Santo Anastácio	1535	População de 6 a 10 anos: 1.535
-478	3547809	Santo André	45737	População de 6 a 10 anos: 45.737
-479	3547908	Santo Antonio da Alegria	451	População de 6 a 10 anos: 451
-480	3548104	Santo Antonio do Jardim	465	População de 6 a 10 anos: 465
-481	3548203	Santo Antonio do Pinhal	575	População de 6 a 10 anos: 575
-482	3548005	Santo Antonio de Posse	1613	População de 6 a 10 anos: 1.613
-483	3548302	Santo Expedito	203	População de 6 a 10 anos: 203
-484	3548401	Santópolis do Aguapeí	334	População de 6 a 10 anos: 334
-485	3548500	Santos	24724	População de 6 a 10 anos: 24.724
-486	3548609	São Bento do Sapucaí	816	População de 6 a 10 anos: 816
-487	3548708	São Bernardo do Campo	55603	População de 6 a 10 anos: 55.603
-488	3548807	São Caetano do Sul	7861	População de 6 a 10 anos: 7.861
-489	3548906	São Carlos	14827	População de 6 a 10 anos: 14.827
-490	3549003	São Francisco	213	População de 6 a 10 anos: 213
-491	3549102	São João da Boa Vista	5632	População de 6 a 10 anos: 5.632
-492	3549201	São João das Duas Pontes	186	População de 6 a 10 anos: 186
-493	3549300	São João do Pau d'Alho	135	População de 6 a 10 anos: 135
-494	3549409	São Joaquim da Barra	3373	População de 6 a 10 anos: 3.373
-495	3549607	São José do Barreiro	378	População de 6 a 10 anos: 378
-496	3549508	São José da Bela Vista	781	População de 6 a 10 anos: 781
-497	3549706	São José do Rio Pardo	3857	População de 6 a 10 anos: 3.857
-498	3549805	São José do Rio Preto	25617	População de 6 a 10 anos: 25.617
-499	3549904	São José dos Campos	47092	População de 6 a 10 anos: 47.092
-500	3550001	São Luís do Paraitinga	831	População de 6 a 10 anos: 831
-501	3550100	São Manuel	3010	População de 6 a 10 anos: 3.010
-502	3550209	São Miguel Arcanjo	2945	População de 6 a 10 anos: 2.945
-503	3550308	São Paulo	807601	População de 6 a 10 anos: 807.601
-504	3550407	São Pedro	2326	População de 6 a 10 anos: 2.326
-505	3550506	São Pedro do Turvo	610	População de 6 a 10 anos: 610
-506	3550605	São Roque	5777	População de 6 a 10 anos: 5.777
-507	3550704	São Sebastião	5909	População de 6 a 10 anos: 5.909
-508	3550803	São Sebastião da Grama	966	População de 6 a 10 anos: 966
-509	3550902	São Simão	1136	População de 6 a 10 anos: 1.136
-510	3551009	São Vicente	25982	População de 6 a 10 anos: 25.982
-511	3551108	Sarapuí	799	População de 6 a 10 anos: 799
-512	3551207	Sarutaiá	323	População de 6 a 10 anos: 323
-513	3551306	Sebastianópolis do Sul	173	População de 6 a 10 anos: 173
-514	3551405	Serra Azul	810	População de 6 a 10 anos: 810
-515	3551603	Serra Negra	1761	População de 6 a 10 anos: 1.761
-516	3551504	Serrana	3218	População de 6 a 10 anos: 3.218
-517	3551702	Sertãozinho	8121	População de 6 a 10 anos: 8.121
-518	3551801	Sete Barras	1300	População de 6 a 10 anos: 1.300
-519	3551900	Severínia	1234	População de 6 a 10 anos: 1.234
-520	3552007	Silveiras	508	População de 6 a 10 anos: 508
-521	3552106	Socorro	2416	População de 6 a 10 anos: 2.416
-522	3552205	Sorocaba	42503	População de 6 a 10 anos: 42.503
-523	3552304	Sud Mennucci	595	População de 6 a 10 anos: 595
-524	3552403	Sumaré	18586	População de 6 a 10 anos: 18.586
-525	3552502	Suzano	22629	População de 6 a 10 anos: 22.629
-526	3552601	Tabapuã	739	População de 6 a 10 anos: 739
-527	3552700	Tabatinga	1137	População de 6 a 10 anos: 1.137
-528	3552809	Taboão da Serra	19149	População de 6 a 10 anos: 19.149
-529	3552908	Taciba	466	População de 6 a 10 anos: 466
-530	3553005	Taguaí	753	População de 6 a 10 anos: 753
-531	3553104	Taiaçu	476	População de 6 a 10 anos: 476
-532	3553203	Taiúva	386	População de 6 a 10 anos: 386
-533	3553302	Tambaú	1799	População de 6 a 10 anos: 1.799
-534	3553401	Tanabi	1536	População de 6 a 10 anos: 1.536
-535	3553500	Tapiraí	858	População de 6 a 10 anos: 858
-536	3553609	Tapiratiba	1042	População de 6 a 10 anos: 1.042
-537	3553708	Taquaritinga	4078	População de 6 a 10 anos: 4.078
-538	3553807	Taquarituba	1837	População de 6 a 10 anos: 1.837
-539	3553906	Tarabaí	568	População de 6 a 10 anos: 568
-540	3554003	Tatuí	8518	População de 6 a 10 anos: 8.518
-541	3554102	Taubaté	20325	População de 6 a 10 anos: 20.325
-542	3554201	Tejupá	495	População de 6 a 10 anos: 495
-543	3554300	Teodoro Sampaio	1882	População de 6 a 10 anos: 1.882
-544	3554409	Terra Roxa	667	População de 6 a 10 anos: 667
-545	3554508	Tietê	2576	População de 6 a 10 anos: 2.576
-546	3554607	Timburi	210	População de 6 a 10 anos: 210
-547	3554706	Torrinha	645	População de 6 a 10 anos: 645
-548	3554805	Tremembé	2974	População de 6 a 10 anos: 2.974
-549	3554904	Três Fronteiras	352	População de 6 a 10 anos: 352
-550	3555000	Tupã	4244	População de 6 a 10 anos: 4.244
-551	3555109	Tupi Paulista	795	População de 6 a 10 anos: 795
-552	3555208	Turiúba	116	População de 6 a 10 anos: 116
-553	3555307	Turmalina	134	População de 6 a 10 anos: 134
-554	3555406	Ubatuba	6737	População de 6 a 10 anos: 6.737
-555	3555505	Ubirajara	357	População de 6 a 10 anos: 357
-556	3555604	Uchôa	637	População de 6 a 10 anos: 637
-557	3555703	União Paulista	121	População de 6 a 10 anos: 121
-558	3555802	Urânia	604	População de 6 a 10 anos: 604
-559	3555901	Uru	92	População de 6 a 10 anos: 92
-560	3556008	Urupês	822	População de 6 a 10 anos: 822
-561	3556107	Valentim Gentil	706	População de 6 a 10 anos: 706
-562	3556206	Valinhos	6637	População de 6 a 10 anos: 6.637
-563	3556305	Valparaíso	1539	População de 6 a 10 anos: 1.539
-564	3556404	Vargem Grande do Sul	2964	População de 6 a 10 anos: 2.964
-565	3556503	Várzea Paulista	8630	População de 6 a 10 anos: 8.630
-566	3556602	Vera Cruz	841	População de 6 a 10 anos: 841
-567	3556701	Vinhedo	4081	População de 6 a 10 anos: 4.081
-568	3556800	Viradouro	1348	População de 6 a 10 anos: 1.348
-569	3556909	Vista Alegre do Alto	433	População de 6 a 10 anos: 433
-570	3557006	Votorantim	8805	População de 6 a 10 anos: 8.805
-571	3557105	Votuporanga	5362	População de 6 a 10 anos: 5.362
-572	3556453	Vargem Grande Paulista	3444	População de 6 a 10 anos: 3.444
-573	3500758	Alambari	398	População de 6 a 10 anos: 398
-574	3501152	Alumínio	1504	População de 6 a 10 anos: 1.504
-575	3502754	Araçariguama	1425	População de 6 a 10 anos: 1.425
-576	3503158	Arapeí	219	População de 6 a 10 anos: 219
-577	3503950	Aspásia	125	População de 6 a 10 anos: 125
-578	3505351	Barra do Chapéu	524	População de 6 a 10 anos: 524
-579	3506359	Bertioga	3771	População de 6 a 10 anos: 3.771
-580	3507159	Bom Sucesso de Itararé	376	População de 6 a 10 anos: 376
-581	3507456	Borebi	196	População de 6 a 10 anos: 196
-582	3509254	Cajati	2970	População de 6 a 10 anos: 2.970
-583	3509452	Campina do Monte Alegre	496	População de 6 a 10 anos: 496
-584	3510153	Canitar	429	População de 6 a 10 anos: 429
-585	3513850	Dirce Reis	116	População de 6 a 10 anos: 116
-586	3514924	Elisiário	189	População de 6 a 10 anos: 189
-587	3514957	Embaúba	175	População de 6 a 10 anos: 175
-588	3515129	Emilianópolis	218	População de 6 a 10 anos: 218
-589	3515152	Engenheiro Coelho	1168	População de 6 a 10 anos: 1.168
-590	3515194	Espírito Santo do Turvo	387	População de 6 a 10 anos: 387
-591	3557303	Estiva Gerbi	781	População de 6 a 10 anos: 781
-592	3515350	Euclides da Cunha Paulista	953	População de 6 a 10 anos: 953
-593	3518859	Guatapará	610	População de 6 a 10 anos: 610
-594	3519055	Holambra	771	População de 6 a 10 anos: 771
-595	3519071	Hortolândia	15439	População de 6 a 10 anos: 15.439
-596	3519253	Iaras	393	População de 6 a 10 anos: 393
-597	3520426	Ilha Comprida	699	População de 6 a 10 anos: 699
-598	3520442	Ilha Solteira	1679	População de 6 a 10 anos: 1.679
-599	3522158	Itaóca	312	População de 6 a 10 anos: 312
-600	3522653	Itapirapuã Paulista	424	População de 6 a 10 anos: 424
-601	3527256	Lourdes	153	População de 6 a 10 anos: 153
-602	3528858	Marapoama	179	População de 6 a 10 anos: 179
-603	3529658	Mesópolis	130	População de 6 a 10 anos: 130
-604	3532058	Motuca	347	População de 6 a 10 anos: 347
-605	3532827	Nova Campina	898	População de 6 a 10 anos: 898
-606	3532843	Nova Canaã Paulista	142	População de 6 a 10 anos: 142
-607	3533254	Novais	346	População de 6 a 10 anos: 346
-608	3536257	Parisi	131	População de 6 a 10 anos: 131
-609	3537156	Pedrinhas Paulista	233	População de 6 a 10 anos: 233
-610	3540259	Pontalinda	313	População de 6 a 10 anos: 313
-611	3540754	Potim	1459	População de 6 a 10 anos: 1.459
-612	3543253	Ribeirão Grande	668	População de 6 a 10 anos: 668
-613	3544251	Rosana	2001	População de 6 a 10 anos: 2.001
-614	3545159	Saltinho	439	População de 6 a 10 anos: 439
-615	3549250	São João de Iracema	119	População de 6 a 10 anos: 119
-616	3549953	São Lourenço da Serra	1182	População de 6 a 10 anos: 1.182
-617	3548054	Santo Antonio do Aracanguá	589	População de 6 a 10 anos: 589
-618	3552551	Suzanápolis	247	População de 6 a 10 anos: 247
-619	3553856	Taquarivaí	525	População de 6 a 10 anos: 525
-620	3553955	Tarumã	1029	População de 6 a 10 anos: 1.029
-621	3554656	Torre de Pedra	182	População de 6 a 10 anos: 182
-622	3554953	Tuiuti	394	População de 6 a 10 anos: 394
-623	3555356	Ubarana	462	População de 6 a 10 anos: 462
-624	3556354	Vargem	610	População de 6 a 10 anos: 610
-625	3557154	Zacarias	153	População de 6 a 10 anos: 153
-626	3503356	Arco Íris	141	População de 6 a 10 anos: 141
+1	3500105	Adamantina	2226	População de 6 a 10 Ano: 2.226
+2	3500204	Adolfo	273	População de 6 a 10 Ano: 273
+3	3500303	Aguaí	2481	População de 6 a 10 Ano: 2.481
+4	3500402	Águas da Prata	511	População de 6 a 10 Ano: 511
+5	3500501	Águas de Lindóia	1232	População de 6 a 10 Ano: 1.232
+6	3500600	Águas de São Pedro	139	População de 6 a 10 Ano: 139
+7	3500709	Agudos	2810	População de 6 a 10 Ano: 2.810
+8	3500808	Alfredo Marcondes	259	População de 6 a 10 Ano: 259
+9	3500907	Altair	305	População de 6 a 10 Ano: 305
+10	3501004	Altinópolis	1218	População de 6 a 10 Ano: 1.218
+11	3501103	Alto Alegre	271	População de 6 a 10 Ano: 271
+12	3501202	Álvares Florence	244	População de 6 a 10 Ano: 244
+13	3501301	Álvares Machado	1955	População de 6 a 10 Ano: 1.955
+14	3501400	Álvaro de Carvalho	290	População de 6 a 10 Ano: 290
+15	3501509	Alvinlândia	245	População de 6 a 10 Ano: 245
+16	3501608	Americana	13582	População de 6 a 10 Ano: 13.582
+17	3501707	Américo Brasiliense	2718	População de 6 a 10 Ano: 2.718
+18	3501806	Américo de Campos	395	População de 6 a 10 Ano: 395
+19	3501905	Amparo	4512	População de 6 a 10 Ano: 4.512
+20	3502002	Analândia	330	População de 6 a 10 Ano: 330
+21	3502101	Andradina	3901	População de 6 a 10 Ano: 3.901
+22	3502200	Angatuba	1812	População de 6 a 10 Ano: 1.812
+23	3502309	Anhembi	462	População de 6 a 10 Ano: 462
+24	3502408	Anhumas	293	População de 6 a 10 Ano: 293
+25	3502507	Aparecida	2669	População de 6 a 10 Ano: 2.669
+26	3502606	Aparecida d'Oeste	330	População de 6 a 10 Ano: 330
+27	3502705	Apiaí	2637	População de 6 a 10 Ano: 2.637
+28	3502804	Araçatuba	11933	População de 6 a 10 Ano: 11.933
+29	3502903	Araçoiaba da Serra	1961	População de 6 a 10 Ano: 1.961
+30	3503000	Aramina	365	População de 6 a 10 Ano: 365
+31	3503109	Arandu	548	População de 6 a 10 Ano: 548
+32	3503208	Araraquara	13255	População de 6 a 10 Ano: 13.255
+33	3503307	Araras	8164	População de 6 a 10 Ano: 8.164
+34	3503406	Arealva	547	População de 6 a 10 Ano: 547
+35	3503505	Areias	350	População de 6 a 10 Ano: 350
+36	3503604	Areiópolis	1007	População de 6 a 10 Ano: 1.007
+37	3503703	Ariranha	606	População de 6 a 10 Ano: 606
+38	3503802	Artur Nogueira	3316	População de 6 a 10 Ano: 3.316
+39	3503901	Arujá	6274	População de 6 a 10 Ano: 6.274
+40	3504008	Assis	6344	População de 6 a 10 Ano: 6.344
+41	3504107	Atibaia	9633	População de 6 a 10 Ano: 9.633
+42	3504206	Auriflama	1007	População de 6 a 10 Ano: 1.007
+43	3504305	Avaí	418	População de 6 a 10 Ano: 418
+44	3504404	Avanhandava	856	População de 6 a 10 Ano: 856
+45	3504503	Avaré	6225	População de 6 a 10 Ano: 6.225
+46	3504602	Bady Bassitt	990	População de 6 a 10 Ano: 990
+47	3504701	Balbinos	136	População de 6 a 10 Ano: 136
+48	3504800	Bálsamo	495	População de 6 a 10 Ano: 495
+49	3504909	Bananal	818	População de 6 a 10 Ano: 818
+50	3505005	Barão de Antonina	254	População de 6 a 10 Ano: 254
+627	3507753	Brejo Alegre	204	População de 6 a 10 Ano: 204
+628	3509957	Canas	367	População de 6 a 10 Ano: 367
+629	3540853	Pracinha	140	População de 6 a 10 Ano: 140
+630	3541059	Pratânia	404	População de 6 a 10 Ano: 404
+631	3541653	Quadra	235	População de 6 a 10 Ano: 235
+632	3546256	Santa Cruz da Esperança	170	População de 6 a 10 Ano: 170
+633	3547650	Santa Salete	83	População de 6 a 10 Ano: 83
+634	3556958	Vitória Brasil	116	População de 6 a 10 Ano: 116
+635	3521150	Ipiguá	303	População de 6 a 10 Ano: 303
+636	3553658	Taquaral	227	População de 6 a 10 Ano: 227
+637	3515657	Fernão	127	População de 6 a 10 Ano: 127
+638	3516853	Gavião Peixoto	376	População de 6 a 10 Ano: 376
+639	3525854	Jumirim	222	População de 6 a 10 Ano: 222
+640	3532157	Nantes	247	População de 6 a 10 Ano: 247
+641	3532868	Nova Castilho	75	População de 6 a 10 Ano: 75
+642	3534757	Ouroeste	551	População de 6 a 10 Ano: 551
+643	3536570	Paulistânia	162	População de 6 a 10 Ano: 162
+644	3543238	Ribeirão dos Índios	154	População de 6 a 10 Ano: 154
+645	3554755	Trabiju	135	População de 6 a 10 Ano: 135
+51	3505104	Barbosa	559	População de 6 a 10 Ano: 559
+52	3505203	Bariri	2270	População de 6 a 10 Ano: 2.270
+53	3505302	Barra Bonita	2413	População de 6 a 10 Ano: 2.413
+54	3505401	Barra do Turvo	854	População de 6 a 10 Ano: 854
+55	3505500	Barretos	7901	População de 6 a 10 Ano: 7.901
+56	3505609	Barrinha	2424	População de 6 a 10 Ano: 2.424
+57	3505708	Barueri	19998	População de 6 a 10 Ano: 19.998
+58	3505807	Bastos	1674	População de 6 a 10 Ano: 1.674
+59	3505906	Batatais	4093	População de 6 a 10 Ano: 4.093
+60	3506003	Bauru	24438	População de 6 a 10 Ano: 24.438
+61	3506102	Bebedouro	5694	População de 6 a 10 Ano: 5.694
+62	3506201	Bento de Abreu	200	População de 6 a 10 Ano: 200
+63	3506300	Bernardino de Campos	810	População de 6 a 10 Ano: 810
+64	3506409	Bilac	439	População de 6 a 10 Ano: 439
+65	3506508	Birigui	7188	População de 6 a 10 Ano: 7.188
+66	3506607	Biritiba Mirim	2508	População de 6 a 10 Ano: 2.508
+67	3506706	Boa Esperança do Sul	1160	População de 6 a 10 Ano: 1.160
+68	3506805	Bocaina	794	População de 6 a 10 Ano: 794
+69	3506904	Bofete	788	População de 6 a 10 Ano: 788
+70	3507001	Boituva	3458	População de 6 a 10 Ano: 3.458
+71	3507100	Bom Jesus dos Perdões	1510	População de 6 a 10 Ano: 1.510
+72	3507209	Borá	60	População de 6 a 10 Ano: 60
+73	3507308	Boracéia	328	População de 6 a 10 Ano: 328
+74	3507407	Borborema	1015	População de 6 a 10 Ano: 1.015
+75	3507506	Botucatu	9019	População de 6 a 10 Ano: 9.019
+76	3507605	Bragança Paulista	10487	População de 6 a 10 Ano: 10.487
+77	3507704	Braúna	324	População de 6 a 10 Ano: 324
+78	3507803	Brodowski	1610	População de 6 a 10 Ano: 1.610
+79	3507902	Brotas	1636	População de 6 a 10 Ano: 1.636
+80	3508009	Buri	1845	População de 6 a 10 Ano: 1.845
+81	3508108	Buritama	1047	População de 6 a 10 Ano: 1.047
+82	3508207	Buritizal	280	População de 6 a 10 Ano: 280
+83	3508306	Cabrália Paulista	413	População de 6 a 10 Ano: 413
+84	3508405	Cabreúva	3536	População de 6 a 10 Ano: 3.536
+85	3508504	Caçapava	6440	População de 6 a 10 Ano: 6.440
+86	3508603	Cachoeira Paulista	2285	População de 6 a 10 Ano: 2.285
+87	3508702	Caconde	1654	População de 6 a 10 Ano: 1.654
+88	3508801	Cafelândia	1208	População de 6 a 10 Ano: 1.208
+89	3508900	Caiabu	317	População de 6 a 10 Ano: 317
+90	3509007	Caieiras	6989	População de 6 a 10 Ano: 6.989
+91	3509106	Caiuá	382	População de 6 a 10 Ano: 382
+92	3509205	Cajamar	5276	População de 6 a 10 Ano: 5.276
+93	3509304	Cajobi	743	População de 6 a 10 Ano: 743
+94	3509403	Cajuru	1891	População de 6 a 10 Ano: 1.891
+95	3509502	Campinas	71688	População de 6 a 10 Ano: 71.688
+96	3509601	Campo Limpo Paulista	5866	População de 6 a 10 Ano: 5.866
+97	3509700	Campos do Jordão	4142	População de 6 a 10 Ano: 4.142
+98	3509809	Campos Novos Paulista	381	População de 6 a 10 Ano: 381
+99	3509908	Cananéia	1186	População de 6 a 10 Ano: 1.186
+100	3510005	Cândido Mota	2250	População de 6 a 10 Ano: 2.250
+101	3510104	Cândido Rodrigues	172	População de 6 a 10 Ano: 172
+102	3510203	Capão Bonito	4476	População de 6 a 10 Ano: 4.476
+103	3510302	Capela do Alto	1523	População de 6 a 10 Ano: 1.523
+104	3510401	Capivari	3791	População de 6 a 10 Ano: 3.791
+105	3510500	Caraguatatuba	7891	População de 6 a 10 Ano: 7.891
+106	3510609	Carapicuíba	31097	População de 6 a 10 Ano: 31.097
+107	3510708	Cardoso	865	População de 6 a 10 Ano: 865
+108	3510807	Casa Branca	2035	População de 6 a 10 Ano: 2.035
+109	3510906	Cássia dos Coqueiros	238	População de 6 a 10 Ano: 238
+110	3511003	Castilho	1347	População de 6 a 10 Ano: 1.347
+111	3511102	Catanduva	7292	População de 6 a 10 Ano: 7.292
+112	3511201	Catiguá	512	População de 6 a 10 Ano: 512
+113	3511300	Cedral	501	População de 6 a 10 Ano: 501
+114	3511409	Cerqueira César	1409	População de 6 a 10 Ano: 1.409
+115	3511508	Cerquilho	2609	População de 6 a 10 Ano: 2.609
+116	3511607	Cesário Lange	1112	População de 6 a 10 Ano: 1.112
+117	3511706	Charqueada	1175	População de 6 a 10 Ano: 1.175
+118	3557204	Chavantes	977	População de 6 a 10 Ano: 977
+119	3511904	Clementina	503	População de 6 a 10 Ano: 503
+120	3512001	Colina	1331	População de 6 a 10 Ano: 1.331
+121	3512100	Colômbia	518	População de 6 a 10 Ano: 518
+122	3512209	Conchal	2163	População de 6 a 10 Ano: 2.163
+123	3512308	Conchas	1247	População de 6 a 10 Ano: 1.247
+124	3512407	Cordeirópolis	1561	População de 6 a 10 Ano: 1.561
+125	3512506	Coroados	369	População de 6 a 10 Ano: 369
+126	3512605	Coronel Macedo	474	População de 6 a 10 Ano: 474
+127	3512704	Corumbataí	326	População de 6 a 10 Ano: 326
+128	3512803	Cosmópolis	4396	População de 6 a 10 Ano: 4.396
+129	3512902	Cosmorama	486	População de 6 a 10 Ano: 486
+130	3513009	Cotia	15833	População de 6 a 10 Ano: 15.833
+131	3513108	Cravinhos	2488	População de 6 a 10 Ano: 2.488
+132	3513207	Cristais Paulista	615	População de 6 a 10 Ano: 615
+133	3513306	Cruzália	161	População de 6 a 10 Ano: 161
+134	3513405	Cruzeiro	5937	População de 6 a 10 Ano: 5.937
+135	3513504	Cubatão	9952	População de 6 a 10 Ano: 9.952
+136	3513603	Cunha	2030	População de 6 a 10 Ano: 2.030
+137	3513702	Descalvado	2183	População de 6 a 10 Ano: 2.183
+138	3513801	Diadema	31481	População de 6 a 10 Ano: 31.481
+139	3513900	Divinolândia	819	População de 6 a 10 Ano: 819
+140	3514007	Dobrada	667	População de 6 a 10 Ano: 667
+141	3514106	Dois Córregos	1843	População de 6 a 10 Ano: 1.843
+142	3514205	Dolcinópolis	158	População de 6 a 10 Ano: 158
+143	3514304	Dourado	617	População de 6 a 10 Ano: 617
+144	3514403	Dracena	2740	População de 6 a 10 Ano: 2.740
+145	3514502	Duartina	905	População de 6 a 10 Ano: 905
+146	3514601	Dumont	599	População de 6 a 10 Ano: 599
+147	3514700	Echaporã	514	População de 6 a 10 Ano: 514
+148	3514809	Eldorado	1584	População de 6 a 10 Ano: 1.584
+149	3514908	Elias Fausto	1310	População de 6 a 10 Ano: 1.310
+150	3515004	Embu das Artes	20665	População de 6 a 10 Ano: 20.665
+151	3515103	Embu-Guaçu	5577	População de 6 a 10 Ano: 5.577
+152	3515202	Estrela d'Oeste	570	População de 6 a 10 Ano: 570
+153	3515301	Estrela do Norte	214	População de 6 a 10 Ano: 214
+154	3515400	Fartura	1195	População de 6 a 10 Ano: 1.195
+155	3515509	Fernandópolis	4307	População de 6 a 10 Ano: 4.307
+156	3515608	Fernando Prestes	353	População de 6 a 10 Ano: 353
+157	3515707	Ferraz de Vasconcelos	14905	População de 6 a 10 Ano: 14.905
+158	3515806	Flora Rica	142	População de 6 a 10 Ano: 142
+159	3515905	Floreal	198	População de 6 a 10 Ano: 198
+160	3516002	Flórida Paulista	890	População de 6 a 10 Ano: 890
+161	3516101	Florínia	241	População de 6 a 10 Ano: 241
+162	3516200	Franca	25030	População de 6 a 10 Ano: 25.030
+163	3516309	Francisco Morato	14819	População de 6 a 10 Ano: 14.819
+164	3516408	Franco da Rocha	10518	População de 6 a 10 Ano: 10.518
+165	3516507	Gabriel Monteiro	171	População de 6 a 10 Ano: 171
+166	3516606	Gália	547	População de 6 a 10 Ano: 547
+167	3516705	Garça	3235	População de 6 a 10 Ano: 3.235
+168	3516804	Gastão Vidigal	264	População de 6 a 10 Ano: 264
+169	3516903	General Salgado	737	População de 6 a 10 Ano: 737
+170	3517000	Getulina	793	População de 6 a 10 Ano: 793
+171	3517109	Glicério	351	População de 6 a 10 Ano: 351
+172	3517208	Guaiçara	835	População de 6 a 10 Ano: 835
+173	3517307	Guaimbê	452	População de 6 a 10 Ano: 452
+174	3517406	Guaíra	2778	População de 6 a 10 Ano: 2.778
+175	3517505	Guapiaçu	1156	População de 6 a 10 Ano: 1.156
+176	3517604	Guapiara	1903	População de 6 a 10 Ano: 1.903
+177	3517703	Guará	1745	População de 6 a 10 Ano: 1.745
+178	3517802	Guaraçaí	609	População de 6 a 10 Ano: 609
+179	3517901	Guaraci	765	População de 6 a 10 Ano: 765
+180	3518008	Guarani d'Oeste	147	População de 6 a 10 Ano: 147
+181	3518107	Guarantã	575	População de 6 a 10 Ano: 575
+182	3518206	Guararapes	2160	População de 6 a 10 Ano: 2.160
+183	3518305	Guararema	2129	População de 6 a 10 Ano: 2.129
+184	3518404	Guaratinguetá	8217	População de 6 a 10 Ano: 8.217
+185	3518503	Guareí	985	População de 6 a 10 Ano: 985
+186	3518602	Guariba	2890	População de 6 a 10 Ano: 2.890
+187	3518701	Guarujá	24495	População de 6 a 10 Ano: 24.495
+188	3518800	Guarulhos	101605	População de 6 a 10 Ano: 101.605
+189	3518909	Guzolândia	371	População de 6 a 10 Ano: 371
+190	3519006	Herculândia	717	População de 6 a 10 Ano: 717
+191	3519105	Iacanga	679	População de 6 a 10 Ano: 679
+192	3519204	Iacri	492	População de 6 a 10 Ano: 492
+193	3519303	Ibaté	2512	População de 6 a 10 Ano: 2.512
+194	3519402	Ibirá	696	População de 6 a 10 Ano: 696
+195	3519501	Ibirarema	526	População de 6 a 10 Ano: 526
+196	3519600	Ibitinga	3614	População de 6 a 10 Ano: 3.614
+197	3519709	Ibiúna	6313	População de 6 a 10 Ano: 6.313
+198	3519808	Icém	565	População de 6 a 10 Ano: 565
+199	3519907	Iepê	575	População de 6 a 10 Ano: 575
+200	3520004	Igaraçu do Tietê	1863	População de 6 a 10 Ano: 1.863
+201	3520103	Igarapava	2032	População de 6 a 10 Ano: 2.032
+202	3520202	Igaratá	765	População de 6 a 10 Ano: 765
+203	3520301	Iguape	2632	População de 6 a 10 Ano: 2.632
+204	3520400	Ilhabela	2199	População de 6 a 10 Ano: 2.199
+205	3520509	Indaiatuba	13858	População de 6 a 10 Ano: 13.858
+206	3520608	Indiana	355	População de 6 a 10 Ano: 355
+207	3520707	Indiaporã	264	População de 6 a 10 Ano: 264
+208	3520806	Inúbia Paulista	257	População de 6 a 10 Ano: 257
+209	3520905	Ipaussu	1083	População de 6 a 10 Ano: 1.083
+210	3521002	Iperó	2113	População de 6 a 10 Ano: 2.113
+211	3521101	Ipeúna	471	População de 6 a 10 Ano: 471
+212	3521200	Iporanga	456	População de 6 a 10 Ano: 456
+213	3521309	Ipuã	1142	População de 6 a 10 Ano: 1.142
+214	3521408	Iracemápolis	1377	População de 6 a 10 Ano: 1.377
+215	3521507	Irapuã	504	População de 6 a 10 Ano: 504
+216	3521606	Irapuru	472	População de 6 a 10 Ano: 472
+217	3521705	Itaberá	1646	População de 6 a 10 Ano: 1.646
+218	3521804	Itaí	1938	População de 6 a 10 Ano: 1.938
+219	3521903	Itajobi	945	População de 6 a 10 Ano: 945
+220	3522000	Itaju	234	População de 6 a 10 Ano: 234
+221	3522109	Itanhaém	7123	População de 6 a 10 Ano: 7.123
+222	3522208	Itapecerica da Serra	13329	População de 6 a 10 Ano: 13.329
+223	3522307	Itapetininga	11732	População de 6 a 10 Ano: 11.732
+224	3522406	Itapeva	8190	População de 6 a 10 Ano: 8.190
+225	3522505	Itapevi	18338	População de 6 a 10 Ano: 18.338
+226	3522604	Itapira	4651	População de 6 a 10 Ano: 4.651
+227	3522703	Itápolis	2844	População de 6 a 10 Ano: 2.844
+228	3522802	Itaporanga	1257	População de 6 a 10 Ano: 1.257
+229	3522901	Itapuí	905	População de 6 a 10 Ano: 905
+230	3523008	Itapura	346	População de 6 a 10 Ano: 346
+231	3523107	Itaquaquecetuba	30659	População de 6 a 10 Ano: 30.659
+232	3523206	Itararé	4450	População de 6 a 10 Ano: 4.450
+233	3523305	Itariri	1507	População de 6 a 10 Ano: 1.507
+234	3523404	Itatiba	7073	População de 6 a 10 Ano: 7.073
+235	3523503	Itatinga	1577	População de 6 a 10 Ano: 1.577
+236	3523602	Itirapina	1029	População de 6 a 10 Ano: 1.029
+237	3523701	Itirapuã	531	População de 6 a 10 Ano: 531
+238	3523800	Itobi	600	População de 6 a 10 Ano: 600
+239	3523909	Itu	11714	População de 6 a 10 Ano: 11.714
+240	3524006	Itupeva	3154	População de 6 a 10 Ano: 3.154
+241	3524105	Ituverava	2811	População de 6 a 10 Ano: 2.811
+242	3524204	Jaborandi	501	População de 6 a 10 Ano: 501
+243	3524303	Jaboticabal	5217	População de 6 a 10 Ano: 5.217
+244	3524402	Jacareí	16309	População de 6 a 10 Ano: 16.309
+245	3524501	Jaci	366	População de 6 a 10 Ano: 366
+246	3524600	Jacupiranga	1673	População de 6 a 10 Ano: 1.673
+247	3524709	Jaguariúna	2902	População de 6 a 10 Ano: 2.902
+248	3524808	Jales	3092	População de 6 a 10 Ano: 3.092
+249	3524907	Jambeiro	415	População de 6 a 10 Ano: 415
+250	3525003	Jandira	9190	População de 6 a 10 Ano: 9.190
+251	3525102	Jardinópolis	2964	População de 6 a 10 Ano: 2.964
+252	3525201	Jarinu	1835	População de 6 a 10 Ano: 1.835
+253	3525300	Jaú	8903	População de 6 a 10 Ano: 8.903
+254	3525409	Jeriquara	297	População de 6 a 10 Ano: 297
+255	3525508	Joanópolis	858	População de 6 a 10 Ano: 858
+256	3525607	João Ramalho	356	População de 6 a 10 Ano: 356
+257	3525706	José Bonifácio	2372	População de 6 a 10 Ano: 2.372
+258	3525805	Júlio Mesquita	406	População de 6 a 10 Ano: 406
+259	3525904	Jundiaí	24147	População de 6 a 10 Ano: 24.147
+260	3526001	Junqueirópolis	1202	População de 6 a 10 Ano: 1.202
+261	3526100	Juquiá	1969	População de 6 a 10 Ano: 1.969
+262	3526209	Juquitiba	2779	População de 6 a 10 Ano: 2.779
+263	3526308	Lagoinha	399	População de 6 a 10 Ano: 399
+264	3526407	Laranjal Paulista	1848	População de 6 a 10 Ano: 1.848
+265	3526506	Lavínia	406	População de 6 a 10 Ano: 406
+266	3526605	Lavrinhas	585	População de 6 a 10 Ano: 585
+267	3526704	Leme	7168	População de 6 a 10 Ano: 7.168
+268	3526803	Lençóis Paulista	4804	População de 6 a 10 Ano: 4.804
+269	3526902	Limeira	20007	População de 6 a 10 Ano: 20.007
+270	3527009	Lindóia	440	População de 6 a 10 Ano: 440
+271	3527108	Lins	4838	População de 6 a 10 Ano: 4.838
+272	3527207	Lorena	6526	População de 6 a 10 Ano: 6.526
+273	3527306	Louveira	2432	População de 6 a 10 Ano: 2.432
+274	3527405	Lucélia	1416	População de 6 a 10 Ano: 1.416
+275	3527504	Lucianópolis	191	População de 6 a 10 Ano: 191
+276	3527603	Luís Antônio	910	População de 6 a 10 Ano: 910
+277	3527702	Luiziânia	349	População de 6 a 10 Ano: 349
+278	3527801	Lupércio	362	População de 6 a 10 Ano: 362
+279	3527900	Lutécia	233	População de 6 a 10 Ano: 233
+280	3528007	Macatuba	1379	População de 6 a 10 Ano: 1.379
+281	3528106	Macaubal	460	População de 6 a 10 Ano: 460
+282	3528205	Macedônia	261	População de 6 a 10 Ano: 261
+283	3528304	Magda	203	População de 6 a 10 Ano: 203
+284	3528403	Mairinque	3682	População de 6 a 10 Ano: 3.682
+285	3528502	Mairiporã	6337	População de 6 a 10 Ano: 6.337
+286	3528601	Manduri	681	População de 6 a 10 Ano: 681
+287	3528700	Marabá Paulista	300	População de 6 a 10 Ano: 300
+288	3528809	Maracaí	1045	População de 6 a 10 Ano: 1.045
+289	3528908	Mariápolis	283	População de 6 a 10 Ano: 283
+290	3529005	Marília	15171	População de 6 a 10 Ano: 15.171
+291	3529104	Marinópolis	182	População de 6 a 10 Ano: 182
+292	3529203	Martinópolis	1767	População de 6 a 10 Ano: 1.767
+293	3529302	Matão	5626	População de 6 a 10 Ano: 5.626
+294	3529401	Mauá	33369	População de 6 a 10 Ano: 33.369
+295	3529500	Mendonça	282	População de 6 a 10 Ano: 282
+296	3529609	Meridiano	274	População de 6 a 10 Ano: 274
+297	3529708	Miguelópolis	1683	População de 6 a 10 Ano: 1.683
+298	3529807	Mineiros do Tietê	983	População de 6 a 10 Ano: 983
+299	3529906	Miracatu	2226	População de 6 a 10 Ano: 2.226
+300	3530003	Mira Estrela	198	População de 6 a 10 Ano: 198
+301	3530102	Mirandópolis	1693	População de 6 a 10 Ano: 1.693
+302	3530201	Mirante do Paranapanema	1391	População de 6 a 10 Ano: 1.391
+303	3530300	Mirassol	3600	População de 6 a 10 Ano: 3.600
+304	3530409	Mirassolândia	306	População de 6 a 10 Ano: 306
+305	3530508	Mococa	5002	População de 6 a 10 Ano: 5.002
+306	3530607	Mogi das Cruzes	31388	População de 6 a 10 Ano: 31.388
+307	3530706	Mogi Guaçu	10138	População de 6 a 10 Ano: 10.138
+308	3530805	Moji Mirim	6138	População de 6 a 10 Ano: 6.138
+309	3530904	Mombuca	287	População de 6 a 10 Ano: 287
+310	3531001	Monções	129	População de 6 a 10 Ano: 129
+311	3531100	Mongaguá	3519	População de 6 a 10 Ano: 3.519
+312	3531209	Monte Alegre do Sul	466	População de 6 a 10 Ano: 466
+313	3531308	Monte Alto	3131	População de 6 a 10 Ano: 3.131
+314	3531407	Monte Aprazível	1331	População de 6 a 10 Ano: 1.331
+315	3531506	Monte Azul Paulista	1450	População de 6 a 10 Ano: 1.450
+316	3531605	Monte Castelo	298	População de 6 a 10 Ano: 298
+317	3531704	Monteiro Lobato	345	População de 6 a 10 Ano: 345
+318	3531803	Monte Mor	3845	População de 6 a 10 Ano: 3.845
+319	3531902	Morro Agudo	2370	População de 6 a 10 Ano: 2.370
+320	3532009	Morungaba	872	População de 6 a 10 Ano: 872
+321	3532108	Murutinga do Sul	277	População de 6 a 10 Ano: 277
+322	3532207	Narandiba	356	População de 6 a 10 Ano: 356
+323	3532306	Natividade da Serra	547	População de 6 a 10 Ano: 547
+324	3532405	Nazaré Paulista	1319	População de 6 a 10 Ano: 1.319
+325	3532504	Neves Paulista	535	População de 6 a 10 Ano: 535
+326	3532603	Nhandeara	615	População de 6 a 10 Ano: 615
+327	3532702	Nipoã	275	População de 6 a 10 Ano: 275
+328	3532801	Nova Aliança	368	População de 6 a 10 Ano: 368
+329	3532900	Nova Europa	676	População de 6 a 10 Ano: 676
+330	3533007	Nova Granada	1359	População de 6 a 10 Ano: 1.359
+331	3533106	Nova Guataporanga	146	População de 6 a 10 Ano: 146
+332	3533205	Nova Independência	222	População de 6 a 10 Ano: 222
+333	3533304	Nova Luzitânia	239	População de 6 a 10 Ano: 239
+334	3533403	Nova Odessa	3611	População de 6 a 10 Ano: 3.611
+335	3533502	Novo Horizonte	2578	População de 6 a 10 Ano: 2.578
+336	3533601	Nuporanga	511	População de 6 a 10 Ano: 511
+337	3533700	Ocauçu	335	População de 6 a 10 Ano: 335
+338	3533809	Óleo	234	População de 6 a 10 Ano: 234
+339	3533908	Olímpia	3540	População de 6 a 10 Ano: 3.540
+340	3534005	Onda Verde	309	População de 6 a 10 Ano: 309
+341	3534104	Oriente	450	População de 6 a 10 Ano: 450
+342	3534203	Orindiúva	438	População de 6 a 10 Ano: 438
+343	3534302	Orlândia	2989	População de 6 a 10 Ano: 2.989
+344	3534401	Osasco	52673	População de 6 a 10 Ano: 52.673
+345	3534500	Oscar Bressane	164	População de 6 a 10 Ano: 164
+346	3534609	Osvaldo Cruz	1969	População de 6 a 10 Ano: 1.969
+347	3534708	Ourinhos	7696	População de 6 a 10 Ano: 7.696
+348	3534807	Ouro Verde	635	População de 6 a 10 Ano: 635
+349	3534906	Pacaembu	749	População de 6 a 10 Ano: 749
+350	3535002	Palestina	635	População de 6 a 10 Ano: 635
+351	3535101	Palmares Paulista	838	População de 6 a 10 Ano: 838
+352	3535200	Palmeira d'Oeste	683	População de 6 a 10 Ano: 683
+353	3535309	Palmital	1472	População de 6 a 10 Ano: 1.472
+354	3535408	Panorama	1260	População de 6 a 10 Ano: 1.260
+355	3535507	Paraguaçu Paulista	3317	População de 6 a 10 Ano: 3.317
+356	3535606	Paraibuna	1496	População de 6 a 10 Ano: 1.496
+357	3535705	Paraíso	422	População de 6 a 10 Ano: 422
+358	3535804	Paranapanema	1559	População de 6 a 10 Ano: 1.559
+359	3535903	Paranapuã	284	População de 6 a 10 Ano: 284
+360	3536000	Parapuã	801	População de 6 a 10 Ano: 801
+361	3536109	Pardinho	472	População de 6 a 10 Ano: 472
+362	3536208	Pariquera-Açu	1653	População de 6 a 10 Ano: 1.653
+363	3536307	Patrocínio Paulista	1043	População de 6 a 10 Ano: 1.043
+364	3536406	Paulicéia	547	População de 6 a 10 Ano: 547
+365	3536505	Paulínia	5573	População de 6 a 10 Ano: 5.573
+366	3536604	Paulo de Faria	697	População de 6 a 10 Ano: 697
+367	3536703	Pederneiras	3291	População de 6 a 10 Ano: 3.291
+368	3536802	Pedra Bela	437	População de 6 a 10 Ano: 437
+369	3536901	Pedranópolis	185	População de 6 a 10 Ano: 185
+370	3537008	Pedregulho	1310	População de 6 a 10 Ano: 1.310
+371	3537107	Pedreira	2881	População de 6 a 10 Ano: 2.881
+372	3537206	Pedro de Toledo	989	População de 6 a 10 Ano: 989
+373	3537305	Penápolis	4126	População de 6 a 10 Ano: 4.126
+374	3537404	Pereira Barreto	1875	População de 6 a 10 Ano: 1.875
+375	3537503	Pereiras	552	População de 6 a 10 Ano: 552
+376	3537602	Peruíbe	4996	População de 6 a 10 Ano: 4.996
+377	3537701	Piacatu	362	População de 6 a 10 Ano: 362
+378	3537800	Piedade	4277	População de 6 a 10 Ano: 4.277
+379	3537909	Pilar do Sul	2326	População de 6 a 10 Ano: 2.326
+380	3538006	Pindamonhangaba	11722	População de 6 a 10 Ano: 11.722
+381	3538105	Pindorama	956	População de 6 a 10 Ano: 956
+382	3515186	Espírito Santo do Pinhal	2983	População de 6 a 10 Ano: 2.983
+383	3538204	Pinhalzinho	952	População de 6 a 10 Ano: 952
+384	3538303	Piquerobi	268	População de 6 a 10 Ano: 268
+385	3538501	Piquete	1129	População de 6 a 10 Ano: 1.129
+386	3538600	Piracaia	1930	População de 6 a 10 Ano: 1.930
+387	3538709	Piracicaba	26040	População de 6 a 10 Ano: 26.040
+388	3538808	Piraju	2242	População de 6 a 10 Ano: 2.242
+389	3538907	Pirajuí	1404	População de 6 a 10 Ano: 1.404
+390	3539004	Pirangi	700	População de 6 a 10 Ano: 700
+391	3539103	Pirapora do Bom Jesus	1485	População de 6 a 10 Ano: 1.485
+392	3539202	Pirapozinho	1872	População de 6 a 10 Ano: 1.872
+393	3539301	Pirassununga	4922	População de 6 a 10 Ano: 4.922
+394	3539400	Piratininga	871	População de 6 a 10 Ano: 871
+395	3539509	Pitangueiras	3049	População de 6 a 10 Ano: 3.049
+396	3539608	Planalto	339	População de 6 a 10 Ano: 339
+397	3539707	Platina	262	População de 6 a 10 Ano: 262
+398	3539806	Poá	8871	População de 6 a 10 Ano: 8.871
+399	3539905	Poloni	311	População de 6 a 10 Ano: 311
+400	3540002	Pompéia	1399	População de 6 a 10 Ano: 1.399
+401	3540101	Pongaí	229	População de 6 a 10 Ano: 229
+402	3540200	Pontal	3148	População de 6 a 10 Ano: 3.148
+403	3540309	Pontes Gestal	185	População de 6 a 10 Ano: 185
+404	3540408	Populina	302	População de 6 a 10 Ano: 302
+405	3540507	Porangaba	600	População de 6 a 10 Ano: 600
+406	3540606	Porto Feliz	3783	População de 6 a 10 Ano: 3.783
+407	3540705	Porto Ferreira	3811	População de 6 a 10 Ano: 3.811
+408	3540804	Potirendaba	953	População de 6 a 10 Ano: 953
+409	3540903	Pradópolis	1222	População de 6 a 10 Ano: 1.222
+410	3541000	Praia Grande	19715	População de 6 a 10 Ano: 19.715
+411	3541109	Presidente Alves	300	População de 6 a 10 Ano: 300
+412	3541208	Presidente Bernardes	970	População de 6 a 10 Ano: 970
+413	3541307	Presidente Epitácio	3357	População de 6 a 10 Ano: 3.357
+414	3541406	Presidente Prudente	14495	População de 6 a 10 Ano: 14.495
+415	3541505	Presidente Venceslau	2551	População de 6 a 10 Ano: 2.551
+416	3541604	Promissão	2708	População de 6 a 10 Ano: 2.708
+417	3541703	Quatá	1011	População de 6 a 10 Ano: 1.011
+418	3541802	Queiroz	236	População de 6 a 10 Ano: 236
+419	3541901	Queluz	952	População de 6 a 10 Ano: 952
+420	3542008	Quintana	435	População de 6 a 10 Ano: 435
+421	3542107	Rafard	694	População de 6 a 10 Ano: 694
+422	3542206	Rancharia	2297	População de 6 a 10 Ano: 2.297
+423	3542305	Redenção da Serra	327	População de 6 a 10 Ano: 327
+424	3542404	Regente Feijó	1325	População de 6 a 10 Ano: 1.325
+425	3542503	Reginópolis	389	População de 6 a 10 Ano: 389
+426	3542602	Registro	5017	População de 6 a 10 Ano: 5.017
+427	3542701	Restinga	577	População de 6 a 10 Ano: 577
+428	3542800	Ribeira	337	População de 6 a 10 Ano: 337
+429	3542909	Ribeirão Bonito	986	População de 6 a 10 Ano: 986
+430	3543006	Ribeirão Branco	2236	População de 6 a 10 Ano: 2.236
+431	3543105	Ribeirão Corrente	362	População de 6 a 10 Ano: 362
+432	3543204	Ribeirão do Sul	329	População de 6 a 10 Ano: 329
+433	3543303	Ribeirão Pires	8337	População de 6 a 10 Ano: 8.337
+434	3543402	Ribeirão Preto	40403	População de 6 a 10 Ano: 40.403
+435	3543501	Riversul	577	População de 6 a 10 Ano: 577
+436	3543600	Rifaina	265	População de 6 a 10 Ano: 265
+437	3543709	Rincão	903	População de 6 a 10 Ano: 903
+438	3543808	Rinópolis	700	População de 6 a 10 Ano: 700
+439	3543907	Rio Claro	12731	População de 6 a 10 Ano: 12.731
+440	3544004	Rio das Pedras	2252	População de 6 a 10 Ano: 2.252
+441	3544103	Rio Grande da Serra	3769	População de 6 a 10 Ano: 3.769
+442	3544202	Riolândia	718	População de 6 a 10 Ano: 718
+443	3544301	Roseira	774	População de 6 a 10 Ano: 774
+444	3544400	Rubiácea	210	População de 6 a 10 Ano: 210
+445	3544509	Rubinéia	194	População de 6 a 10 Ano: 194
+446	3544608	Sabino	378	População de 6 a 10 Ano: 378
+447	3544707	Sagres	200	População de 6 a 10 Ano: 200
+448	3544806	Sales	393	População de 6 a 10 Ano: 393
+449	3544905	Sales Oliveira	759	População de 6 a 10 Ano: 759
+450	3545001	Salesópolis	1345	População de 6 a 10 Ano: 1.345
+451	3545100	Salmourão	375	População de 6 a 10 Ano: 375
+452	3545209	Salto	8020	População de 6 a 10 Ano: 8.020
+453	3545308	Salto de Pirapora	3273	População de 6 a 10 Ano: 3.273
+454	3545407	Salto Grande	716	População de 6 a 10 Ano: 716
+455	3545506	Sandovalina	314	População de 6 a 10 Ano: 314
+456	3545605	Santa Adélia	1066	População de 6 a 10 Ano: 1.066
+457	3545704	Santa Albertina	367	População de 6 a 10 Ano: 367
+458	3545803	Santa Bárbara d'Oeste	13083	População de 6 a 10 Ano: 13.083
+459	3500550	Águas de Santa Bárbara	447	População de 6 a 10 Ano: 447
+460	3546009	Santa Branca	1088	População de 6 a 10 Ano: 1.088
+461	3546108	Santa Clara d'Oeste	155	População de 6 a 10 Ano: 155
+462	3546207	Santa Cruz da Conceição	283	População de 6 a 10 Ano: 283
+463	3546306	Santa Cruz das Palmeiras	2300	População de 6 a 10 Ano: 2.300
+464	3546405	Santa Cruz do Rio Pardo	3334	População de 6 a 10 Ano: 3.334
+465	3546504	Santa Ernestina	471	População de 6 a 10 Ano: 471
+466	3546603	Santa Fé do Sul	1853	População de 6 a 10 Ano: 1.853
+467	3546702	Santa Gertrudes	1587	População de 6 a 10 Ano: 1.587
+468	3546801	Santa Isabel	4129	População de 6 a 10 Ano: 4.129
+469	3546900	Santa Lucia	663	População de 6 a 10 Ano: 663
+470	3547007	Santa Maria da Serra	448	População de 6 a 10 Ano: 448
+471	3547106	Santa Mercedes	246	População de 6 a 10 Ano: 246
+472	3547403	Santa Rita d'Oeste	169	População de 6 a 10 Ano: 169
+473	3547502	Santa Rita do Passa Quatro	1692	População de 6 a 10 Ano: 1.692
+474	3547601	Santa Rosa do Viterbo	1724	População de 6 a 10 Ano: 1.724
+475	3547205	Santana da Ponte Pensa	99	População de 6 a 10 Ano: 99
+476	3547304	Santana de Parnaíba	8660	População de 6 a 10 Ano: 8.660
+477	3547700	Santo Anastácio	1535	População de 6 a 10 Ano: 1.535
+478	3547809	Santo André	45737	População de 6 a 10 Ano: 45.737
+479	3547908	Santo Antonio da Alegria	451	População de 6 a 10 Ano: 451
+480	3548104	Santo Antonio do Jardim	465	População de 6 a 10 Ano: 465
+481	3548203	Santo Antonio do Pinhal	575	População de 6 a 10 Ano: 575
+482	3548005	Santo Antonio de Posse	1613	População de 6 a 10 Ano: 1.613
+483	3548302	Santo Expedito	203	População de 6 a 10 Ano: 203
+484	3548401	Santópolis do Aguapeí	334	População de 6 a 10 Ano: 334
+485	3548500	Santos	24724	População de 6 a 10 Ano: 24.724
+486	3548609	São Bento do Sapucaí	816	População de 6 a 10 Ano: 816
+487	3548708	São Bernardo do Campo	55603	População de 6 a 10 Ano: 55.603
+488	3548807	São Caetano do Sul	7861	População de 6 a 10 Ano: 7.861
+489	3548906	São Carlos	14827	População de 6 a 10 Ano: 14.827
+490	3549003	São Francisco	213	População de 6 a 10 Ano: 213
+491	3549102	São João da Boa Vista	5632	População de 6 a 10 Ano: 5.632
+492	3549201	São João das Duas Pontes	186	População de 6 a 10 Ano: 186
+493	3549300	São João do Pau d'Alho	135	População de 6 a 10 Ano: 135
+494	3549409	São Joaquim da Barra	3373	População de 6 a 10 Ano: 3.373
+495	3549607	São José do Barreiro	378	População de 6 a 10 Ano: 378
+496	3549508	São José da Bela Vista	781	População de 6 a 10 Ano: 781
+497	3549706	São José do Rio Pardo	3857	População de 6 a 10 Ano: 3.857
+498	3549805	São José do Rio Preto	25617	População de 6 a 10 Ano: 25.617
+499	3549904	São José dos Campos	47092	População de 6 a 10 Ano: 47.092
+500	3550001	São Luís do Paraitinga	831	População de 6 a 10 Ano: 831
+501	3550100	São Manuel	3010	População de 6 a 10 Ano: 3.010
+502	3550209	São Miguel Arcanjo	2945	População de 6 a 10 Ano: 2.945
+503	3550308	São Paulo	807601	População de 6 a 10 Ano: 807.601
+504	3550407	São Pedro	2326	População de 6 a 10 Ano: 2.326
+505	3550506	São Pedro do Turvo	610	População de 6 a 10 Ano: 610
+506	3550605	São Roque	5777	População de 6 a 10 Ano: 5.777
+507	3550704	São Sebastião	5909	População de 6 a 10 Ano: 5.909
+508	3550803	São Sebastião da Grama	966	População de 6 a 10 Ano: 966
+509	3550902	São Simão	1136	População de 6 a 10 Ano: 1.136
+510	3551009	São Vicente	25982	População de 6 a 10 Ano: 25.982
+511	3551108	Sarapuí	799	População de 6 a 10 Ano: 799
+512	3551207	Sarutaiá	323	População de 6 a 10 Ano: 323
+513	3551306	Sebastianópolis do Sul	173	População de 6 a 10 Ano: 173
+514	3551405	Serra Azul	810	População de 6 a 10 Ano: 810
+515	3551603	Serra Negra	1761	População de 6 a 10 Ano: 1.761
+516	3551504	Serrana	3218	População de 6 a 10 Ano: 3.218
+517	3551702	Sertãozinho	8121	População de 6 a 10 Ano: 8.121
+518	3551801	Sete Barras	1300	População de 6 a 10 Ano: 1.300
+519	3551900	Severínia	1234	População de 6 a 10 Ano: 1.234
+520	3552007	Silveiras	508	População de 6 a 10 Ano: 508
+521	3552106	Socorro	2416	População de 6 a 10 Ano: 2.416
+522	3552205	Sorocaba	42503	População de 6 a 10 Ano: 42.503
+523	3552304	Sud Mennucci	595	População de 6 a 10 Ano: 595
+524	3552403	Sumaré	18586	População de 6 a 10 Ano: 18.586
+525	3552502	Suzano	22629	População de 6 a 10 Ano: 22.629
+526	3552601	Tabapuã	739	População de 6 a 10 Ano: 739
+527	3552700	Tabatinga	1137	População de 6 a 10 Ano: 1.137
+528	3552809	Taboão da Serra	19149	População de 6 a 10 Ano: 19.149
+529	3552908	Taciba	466	População de 6 a 10 Ano: 466
+530	3553005	Taguaí	753	População de 6 a 10 Ano: 753
+531	3553104	Taiaçu	476	População de 6 a 10 Ano: 476
+532	3553203	Taiúva	386	População de 6 a 10 Ano: 386
+533	3553302	Tambaú	1799	População de 6 a 10 Ano: 1.799
+534	3553401	Tanabi	1536	População de 6 a 10 Ano: 1.536
+535	3553500	Tapiraí	858	População de 6 a 10 Ano: 858
+536	3553609	Tapiratiba	1042	População de 6 a 10 Ano: 1.042
+537	3553708	Taquaritinga	4078	População de 6 a 10 Ano: 4.078
+538	3553807	Taquarituba	1837	População de 6 a 10 Ano: 1.837
+539	3553906	Tarabaí	568	População de 6 a 10 Ano: 568
+540	3554003	Tatuí	8518	População de 6 a 10 Ano: 8.518
+541	3554102	Taubaté	20325	População de 6 a 10 Ano: 20.325
+542	3554201	Tejupá	495	População de 6 a 10 Ano: 495
+543	3554300	Teodoro Sampaio	1882	População de 6 a 10 Ano: 1.882
+544	3554409	Terra Roxa	667	População de 6 a 10 Ano: 667
+545	3554508	Tietê	2576	População de 6 a 10 Ano: 2.576
+546	3554607	Timburi	210	População de 6 a 10 Ano: 210
+547	3554706	Torrinha	645	População de 6 a 10 Ano: 645
+548	3554805	Tremembé	2974	População de 6 a 10 Ano: 2.974
+549	3554904	Três Fronteiras	352	População de 6 a 10 Ano: 352
+550	3555000	Tupã	4244	População de 6 a 10 Ano: 4.244
+551	3555109	Tupi Paulista	795	População de 6 a 10 Ano: 795
+552	3555208	Turiúba	116	População de 6 a 10 Ano: 116
+553	3555307	Turmalina	134	População de 6 a 10 Ano: 134
+554	3555406	Ubatuba	6737	População de 6 a 10 Ano: 6.737
+555	3555505	Ubirajara	357	População de 6 a 10 Ano: 357
+556	3555604	Uchôa	637	População de 6 a 10 Ano: 637
+557	3555703	União Paulista	121	População de 6 a 10 Ano: 121
+558	3555802	Urânia	604	População de 6 a 10 Ano: 604
+559	3555901	Uru	92	População de 6 a 10 Ano: 92
+560	3556008	Urupês	822	População de 6 a 10 Ano: 822
+561	3556107	Valentim Gentil	706	População de 6 a 10 Ano: 706
+562	3556206	Valinhos	6637	População de 6 a 10 Ano: 6.637
+563	3556305	Valparaíso	1539	População de 6 a 10 Ano: 1.539
+564	3556404	Vargem Grande do Sul	2964	População de 6 a 10 Ano: 2.964
+565	3556503	Várzea Paulista	8630	População de 6 a 10 Ano: 8.630
+566	3556602	Vera Cruz	841	População de 6 a 10 Ano: 841
+567	3556701	Vinhedo	4081	População de 6 a 10 Ano: 4.081
+568	3556800	Viradouro	1348	População de 6 a 10 Ano: 1.348
+569	3556909	Vista Alegre do Alto	433	População de 6 a 10 Ano: 433
+570	3557006	Votorantim	8805	População de 6 a 10 Ano: 8.805
+571	3557105	Votuporanga	5362	População de 6 a 10 Ano: 5.362
+572	3556453	Vargem Grande Paulista	3444	População de 6 a 10 Ano: 3.444
+573	3500758	Alambari	398	População de 6 a 10 Ano: 398
+574	3501152	Alumínio	1504	População de 6 a 10 Ano: 1.504
+575	3502754	Araçariguama	1425	População de 6 a 10 Ano: 1.425
+576	3503158	Arapeí	219	População de 6 a 10 Ano: 219
+577	3503950	Aspásia	125	População de 6 a 10 Ano: 125
+578	3505351	Barra do Chapéu	524	População de 6 a 10 Ano: 524
+579	3506359	Bertioga	3771	População de 6 a 10 Ano: 3.771
+580	3507159	Bom Sucesso de Itararé	376	População de 6 a 10 Ano: 376
+581	3507456	Borebi	196	População de 6 a 10 Ano: 196
+582	3509254	Cajati	2970	População de 6 a 10 Ano: 2.970
+583	3509452	Campina do Monte Alegre	496	População de 6 a 10 Ano: 496
+584	3510153	Canitar	429	População de 6 a 10 Ano: 429
+585	3513850	Dirce Reis	116	População de 6 a 10 Ano: 116
+586	3514924	Elisiário	189	População de 6 a 10 Ano: 189
+587	3514957	Embaúba	175	População de 6 a 10 Ano: 175
+588	3515129	Emilianópolis	218	População de 6 a 10 Ano: 218
+589	3515152	Engenheiro Coelho	1168	População de 6 a 10 Ano: 1.168
+590	3515194	Espírito Santo do Turvo	387	População de 6 a 10 Ano: 387
+591	3557303	Estiva Gerbi	781	População de 6 a 10 Ano: 781
+592	3515350	Euclides da Cunha Paulista	953	População de 6 a 10 Ano: 953
+593	3518859	Guatapará	610	População de 6 a 10 Ano: 610
+594	3519055	Holambra	771	População de 6 a 10 Ano: 771
+595	3519071	Hortolândia	15439	População de 6 a 10 Ano: 15.439
+596	3519253	Iaras	393	População de 6 a 10 Ano: 393
+597	3520426	Ilha Comprida	699	População de 6 a 10 Ano: 699
+598	3520442	Ilha Solteira	1679	População de 6 a 10 Ano: 1.679
+599	3522158	Itaóca	312	População de 6 a 10 Ano: 312
+600	3522653	Itapirapuã Paulista	424	População de 6 a 10 Ano: 424
+601	3527256	Lourdes	153	População de 6 a 10 Ano: 153
+602	3528858	Marapoama	179	População de 6 a 10 Ano: 179
+603	3529658	Mesópolis	130	População de 6 a 10 Ano: 130
+604	3532058	Motuca	347	População de 6 a 10 Ano: 347
+605	3532827	Nova Campina	898	População de 6 a 10 Ano: 898
+606	3532843	Nova Canaã Paulista	142	População de 6 a 10 Ano: 142
+607	3533254	Novais	346	População de 6 a 10 Ano: 346
+608	3536257	Parisi	131	População de 6 a 10 Ano: 131
+609	3537156	Pedrinhas Paulista	233	População de 6 a 10 Ano: 233
+610	3540259	Pontalinda	313	População de 6 a 10 Ano: 313
+611	3540754	Potim	1459	População de 6 a 10 Ano: 1.459
+612	3543253	Ribeirão Grande	668	População de 6 a 10 Ano: 668
+613	3544251	Rosana	2001	População de 6 a 10 Ano: 2.001
+614	3545159	Saltinho	439	População de 6 a 10 Ano: 439
+615	3549250	São João de Iracema	119	População de 6 a 10 Ano: 119
+616	3549953	São Lourenço da Serra	1182	População de 6 a 10 Ano: 1.182
+617	3548054	Santo Antonio do Aracanguá	589	População de 6 a 10 Ano: 589
+618	3552551	Suzanápolis	247	População de 6 a 10 Ano: 247
+619	3553856	Taquarivaí	525	População de 6 a 10 Ano: 525
+620	3553955	Tarumã	1029	População de 6 a 10 Ano: 1.029
+621	3554656	Torre de Pedra	182	População de 6 a 10 Ano: 182
+622	3554953	Tuiuti	394	População de 6 a 10 Ano: 394
+623	3555356	Ubarana	462	População de 6 a 10 Ano: 462
+624	3556354	Vargem	610	População de 6 a 10 Ano: 610
+625	3557154	Zacarias	153	População de 6 a 10 Ano: 153
+626	3503356	Arco Íris	141	População de 6 a 10 Ano: 141

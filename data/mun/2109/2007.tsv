@@ -1,1 +1,646 @@
 id	ibge	localidade	valor	label
+309	3530904	Mombuca	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+310	3531001	Monções	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+311	3531100	Mongaguá	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+307	3530706	Mogi Guaçu	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+308	3530805	Moji Mirim	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+304	3530409	Mirassolândia	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+305	3530508	Mococa	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+306	3530607	Mogi das Cruzes	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+302	3530201	Mirante do Paranapanema	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+303	3530300	Mirassol	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+300	3530003	Mira Estrela	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+301	3530102	Mirandópolis	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+298	3529807	Mineiros do Tietê	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+299	3529906	Miracatu	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+296	3529609	Meridiano	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+603	3529658	Mesópolis	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+297	3529708	Miguelópolis	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+294	3529401	Mauá	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+295	3529500	Mendonça	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,1
+292	3529203	Martinópolis	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+293	3529302	Matão	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+290	3529005	Marília	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+291	3529104	Marinópolis	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+602	3528858	Marapoama	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+289	3528908	Mariápolis	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+287	3528700	Marabá Paulista	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+288	3528809	Maracaí	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+284	3528403	Mairinque	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+285	3528502	Mairiporã	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+286	3528601	Manduri	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+282	3528205	Macedônia	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+283	3528304	Magda	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+280	3528007	Macatuba	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+281	3528106	Macaubal	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+277	3527702	Luiziânia	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+278	3527801	Lupércio	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+279	3527900	Lutécia	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+274	3527405	Lucélia	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+275	3527504	Lucianópolis	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+276	3527603	Luís Antônio	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+601	3527256	Lourdes	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+273	3527306	Louveira	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+270	3527009	Lindóia	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+271	3527108	Lins	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+272	3527207	Lorena	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+268	3526803	Lençóis Paulista	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+269	3526902	Limeira	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+265	3526506	Lavínia	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+266	3526605	Lavrinhas	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+267	3526704	Leme	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+262	3526209	Juquitiba	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+263	3526308	Lagoinha	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+264	3526407	Laranjal Paulista	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+260	3526001	Junqueirópolis	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+261	3526100	Juquiá	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+639	3525854	Jumirim	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,5
+259	3525904	Jundiaí	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+256	3525607	João Ramalho	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+257	3525706	José Bonifácio	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+258	3525805	Júlio Mesquita	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+254	3525409	Jeriquara	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+255	3525508	Joanópolis	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+251	3525102	Jardinópolis	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+252	3525201	Jarinu	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+253	3525300	Jaú	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+248	3524808	Jales	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+249	3524907	Jambeiro	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+250	3525003	Jandira	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+245	3524501	Jaci	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+246	3524600	Jacupiranga	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+247	3524709	Jaguariúna	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+243	3524303	Jaboticabal	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+244	3524402	Jacareí	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+241	3524105	Ituverava	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+242	3524204	Jaborandi	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,3
+238	3523800	Itobi	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+239	3523909	Itu	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+240	3524006	Itupeva	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+235	3523503	Itatinga	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+236	3523602	Itirapina	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+237	3523701	Itirapuã	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+233	3523305	Itariri	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+234	3523404	Itatiba	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+231	3523107	Itaquaquecetuba	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+232	3523206	Itararé	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+229	3522901	Itapuí	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+230	3523008	Itapura	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+227	3522703	Itápolis	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+228	3522802	Itaporanga	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+225	3522505	Itapevi	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+226	3522604	Itapira	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+600	3522653	Itapirapuã Paulista	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+222	3522208	Itapecerica da Serra	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+223	3522307	Itapetininga	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+224	3522406	Itapeva	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+220	3522000	Itaju	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+221	3522109	Itanhaém	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+599	3522158	Itaóca	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+217	3521705	Itaberá	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+218	3521804	Itaí	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+219	3521903	Itajobi	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+215	3521507	Irapuã	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+216	3521606	Irapuru	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+213	3521309	Ipuã	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+214	3521408	Iracemápolis	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+635	3521150	Ipiguá	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+212	3521200	Iporanga	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+209	3520905	Ipaussu	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+210	3521002	Iperó	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+211	3521101	Ipeúna	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+207	3520707	Indiaporã	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+208	3520806	Inúbia Paulista	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+205	3520509	Indaiatuba	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+206	3520608	Indiana	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+597	3520426	Ilha Comprida	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+598	3520442	Ilha Solteira	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+203	3520301	Iguape	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+204	3520400	Ilhabela	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+201	3520103	Igarapava	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+202	3520202	Igaratá	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+199	3519907	Iepê	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+200	3520004	Igaraçu do Tietê	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+196	3519600	Ibitinga	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+197	3519709	Ibiúna	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+198	3519808	Icém	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+193	3519303	Ibaté	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+194	3519402	Ibirá	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+195	3519501	Ibirarema	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+192	3519204	Iacri	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+596	3519253	Iaras	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+594	3519055	Holambra	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,3
+595	3519071	Hortolândia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+191	3519105	Iacanga	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+593	3518859	Guatapará	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+189	3518909	Guzolândia	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+190	3519006	Herculândia	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+186	3518602	Guariba	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+187	3518701	Guarujá	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+188	3518800	Guarulhos	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+183	3518305	Guararema	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+184	3518404	Guaratinguetá	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+185	3518503	Guareí	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+180	3518008	Guarani d'Oeste	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+181	3518107	Guarantã	3.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,2
+182	3518206	Guararapes	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+177	3517703	Guará	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+178	3517802	Guaraçaí	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+179	3517901	Guaraci	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+174	3517406	Guaíra	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+175	3517505	Guapiaçu	3.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,1
+176	3517604	Guapiara	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+172	3517208	Guaiçara	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+173	3517307	Guaimbê	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+170	3517000	Getulina	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+171	3517109	Glicério	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+638	3516853	Gavião Peixoto	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+169	3516903	General Salgado	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+166	3516606	Gália	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+167	3516705	Garça	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+168	3516804	Gastão Vidigal	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+163	3516309	Francisco Morato	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+164	3516408	Franco da Rocha	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+165	3516507	Gabriel Monteiro	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+161	3516101	Florínia	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+162	3516200	Franca	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+159	3515905	Floreal	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+160	3516002	Flórida Paulista	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+157	3515707	Ferraz de Vasconcelos	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+158	3515806	Flora Rica	3.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,2
+155	3515509	Fernandópolis	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+156	3515608	Fernando Prestes	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,2
+637	3515657	Fernão	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+153	3515301	Estrela do Norte	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+592	3515350	Euclides da Cunha Paulista	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+154	3515400	Fartura	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+152	3515202	Estrela d'Oeste	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+382	3515186	Espírito Santo do Pinhal	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+590	3515194	Espírito Santo do Turvo	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+588	3515129	Emilianópolis	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+589	3515152	Engenheiro Coelho	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+587	3514957	Embaúba	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+150	3515004	Embu das Artes	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+151	3515103	Embu-Guaçu	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+148	3514809	Eldorado	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+149	3514908	Elias Fausto	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+586	3514924	Elisiário	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+146	3514601	Dumont	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+147	3514700	Echaporã	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+143	3514304	Dourado	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+144	3514403	Dracena	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+145	3514502	Duartina	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+140	3514007	Dobrada	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+141	3514106	Dois Córregos	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+142	3514205	Dolcinópolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+138	3513801	Diadema	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+585	3513850	Dirce Reis	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+139	3513900	Divinolândia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+136	3513603	Cunha	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+137	3513702	Descalvado	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+134	3513405	Cruzeiro	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+135	3513504	Cubatão	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+132	3513207	Cristais Paulista	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+133	3513306	Cruzália	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+129	3512902	Cosmorama	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+130	3513009	Cotia	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+131	3513108	Cravinhos	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+126	3512605	Coronel Macedo	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+127	3512704	Corumbataí	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+128	3512803	Cosmópolis	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+123	3512308	Conchas	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+124	3512407	Cordeirópolis	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+125	3512506	Coroados	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+120	3512001	Colina	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+121	3512100	Colômbia	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+122	3512209	Conchal	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+117	3511706	Charqueada	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+119	3511904	Clementina	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+115	3511508	Cerquilho	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+116	3511607	Cesário Lange	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+112	3511201	Catiguá	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+113	3511300	Cedral	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+114	3511409	Cerqueira César	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+110	3511003	Castilho	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+111	3511102	Catanduva	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+107	3510708	Cardoso	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+108	3510807	Casa Branca	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+109	3510906	Cássia dos Coqueiros	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+105	3510500	Caraguatatuba	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+106	3510609	Carapicuíba	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+102	3510203	Capão Bonito	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+103	3510302	Capela do Alto	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+104	3510401	Capivari	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+100	3510005	Cândido Mota	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+101	3510104	Cândido Rodrigues	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+584	3510153	Canitar	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+98	3509809	Campos Novos Paulista	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+99	3509908	Cananéia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+628	3509957	Canas	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+95	3509502	Campinas	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+96	3509601	Campo Limpo Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+97	3509700	Campos do Jordão	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+94	3509403	Cajuru	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+583	3509452	Campina do Monte Alegre	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+582	3509254	Cajati	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+93	3509304	Cajobi	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+90	3509007	Caieiras	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+91	3509106	Caiuá	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+92	3509205	Cajamar	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+88	3508801	Cafelândia	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+89	3508900	Caiabu	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+85	3508504	Caçapava	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+86	3508603	Cachoeira Paulista	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+87	3508702	Caconde	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+82	3508207	Buritizal	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+83	3508306	Cabrália Paulista	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+84	3508405	Cabreúva	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+79	3507902	Brotas	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+80	3508009	Buri	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+81	3508108	Buritama	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+77	3507704	Braúna	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+627	3507753	Brejo Alegre	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+78	3507803	Brodowski	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+581	3507456	Borebi	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+75	3507506	Botucatu	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+76	3507605	Bragança Paulista	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+73	3507308	Boracéia	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+74	3507407	Borborema	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+70	3507001	Boituva	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+71	3507100	Bom Jesus dos Perdões	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+580	3507159	Bom Sucesso de Itararé	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+68	3506805	Bocaina	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+69	3506904	Bofete	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+65	3506508	Birigui	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+66	3506607	Biritiba Mirim	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+67	3506706	Boa Esperança do Sul	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+63	3506300	Bernardino de Campos	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+579	3506359	Bertioga	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+64	3506409	Bilac	5.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,5
+61	3506102	Bebedouro	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+62	3506201	Bento de Abreu	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+59	3505906	Batatais	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+60	3506003	Bauru	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+56	3505609	Barrinha	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+57	3505708	Barueri	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+58	3505807	Bastos	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+578	3505351	Barra do Chapéu	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+54	3505401	Barra do Turvo	3.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,1
+55	3505500	Barretos	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+52	3505203	Bariri	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+53	3505302	Barra Bonita	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+50	3505005	Barão de Antonina	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+51	3505104	Barbosa	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+48	3504800	Bálsamo	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+49	3504909	Bananal	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+46	3504602	Bady Bassitt	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+47	3504701	Balbinos	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+44	3504404	Avanhandava	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+45	3504503	Avaré	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+42	3504206	Auriflama	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+43	3504305	Avaí	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+577	3503950	Aspásia	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+40	3504008	Assis	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+41	3504107	Atibaia	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+38	3503802	Artur Nogueira	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+39	3503901	Arujá	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+35	3503505	Areias	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+36	3503604	Areiópolis	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+37	3503703	Ariranha	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+626	3503356	Arco Íris	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+34	3503406	Arealva	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+32	3503208	Araraquara	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+33	3503307	Araras	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+31	3503109	Arandu	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+576	3503158	Arapeí	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+28	3502804	Araçatuba	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+29	3502903	Araçoiaba da Serra	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+30	3503000	Aramina	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+27	3502705	Apiaí	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+575	3502754	Araçariguama	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,3
+24	3502408	Anhumas	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+25	3502507	Aparecida	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+26	3502606	Aparecida d'Oeste	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+21	3502101	Andradina	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+22	3502200	Angatuba	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+23	3502309	Anhembi	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+19	3501905	Amparo	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+20	3502002	Analândia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+17	3501707	Américo Brasiliense	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+18	3501806	Américo de Campos	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+14	3501400	Álvaro de Carvalho	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+15	3501509	Alvinlândia	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+16	3501608	Americana	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+574	3501152	Alumínio	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+12	3501202	Álvares Florence	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+13	3501301	Álvares Machado	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+9	3500907	Altair	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+10	3501004	Altinópolis	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+11	3501103	Alto Alegre	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+7	3500709	Agudos	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+573	3500758	Alambari	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+8	3500808	Alfredo Marcondes	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+5	3500501	Águas de Lindóia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+459	3500550	Águas de Santa Bárbara	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+6	3500600	Águas de São Pedro	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,1
+3	3500303	Aguaí	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+4	3500402	Águas da Prata	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+1	3500105	Adamantina	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+2	3500204	Adolfo	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+72	3507209	Borá	-	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: -
+591	3557303	Estiva Gerbi	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+625	3557154	Zacarias	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+118	3557204	Chavantes	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+570	3557006	Votorantim	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+571	3557105	Votuporanga	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+569	3556909	Vista Alegre do Alto	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+634	3556958	Vitória Brasil	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+567	3556701	Vinhedo	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+568	3556800	Viradouro	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+565	3556503	Várzea Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+566	3556602	Vera Cruz	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+564	3556404	Vargem Grande do Sul	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+572	3556453	Vargem Grande Paulista	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+563	3556305	Valparaíso	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+624	3556354	Vargem	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,3
+561	3556107	Valentim Gentil	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+562	3556206	Valinhos	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+558	3555802	Urânia	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+559	3555901	Uru	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+560	3556008	Urupês	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+556	3555604	Uchôa	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+557	3555703	União Paulista	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+554	3555406	Ubatuba	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+555	3555505	Ubirajara	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+552	3555208	Turiúba	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+553	3555307	Turmalina	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,1
+623	3555356	Ubarana	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+622	3554953	Tuiuti	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+550	3555000	Tupã	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+551	3555109	Tupi Paulista	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+548	3554805	Tremembé	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+549	3554904	Três Fronteiras	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+547	3554706	Torrinha	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+645	3554755	Trabiju	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+546	3554607	Timburi	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+621	3554656	Torre de Pedra	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+543	3554300	Teodoro Sampaio	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+544	3554409	Terra Roxa	5.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,8
+545	3554508	Tietê	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+541	3554102	Taubaté	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+542	3554201	Tejupá	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+620	3553955	Tarumã	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+540	3554003	Tatuí	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+538	3553807	Taquarituba	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+619	3553856	Taquarivaí	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+539	3553906	Tarabaí	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+636	3553658	Taquaral	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+537	3553708	Taquaritinga	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+534	3553401	Tanabi	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+535	3553500	Tapiraí	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+536	3553609	Tapiratiba	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+532	3553203	Taiúva	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+533	3553302	Tambaú	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+531	3553104	Taiaçu	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+530	3553005	Taguaí	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+527	3552700	Tabatinga	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+528	3552809	Taboão da Serra	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+529	3552908	Taciba	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+618	3552551	Suzanápolis	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+526	3552601	Tabapuã	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+524	3552403	Sumaré	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+525	3552502	Suzano	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+523	3552304	Sud Mennucci	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+521	3552106	Socorro	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+522	3552205	Sorocaba	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+520	3552007	Silveiras	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+518	3551801	Sete Barras	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+519	3551900	Severínia	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+515	3551603	Serra Negra	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+517	3551702	Sertãozinho	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+513	3551306	Sebastianópolis do Sul	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+514	3551405	Serra Azul	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+516	3551504	Serrana	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+511	3551108	Sarapuí	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+512	3551207	Sarutaiá	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+508	3550803	São Sebastião da Grama	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+509	3550902	São Simão	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+510	3551009	São Vicente	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+505	3550506	São Pedro do Turvo	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+506	3550605	São Roque	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+507	3550704	São Sebastião	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+503	3550308	São Paulo	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+504	3550407	São Pedro	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+500	3550001	São Luís do Paraitinga	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+501	3550100	São Manuel	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+502	3550209	São Miguel Arcanjo	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+499	3549904	São José dos Campos	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+616	3549953	São Lourenço da Serra	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+497	3549706	São José do Rio Pardo	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+498	3549805	São José do Rio Preto	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+494	3549409	São Joaquim da Barra	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+496	3549508	São José da Bela Vista	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+495	3549607	São José do Barreiro	3.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,5
+492	3549201	São João das Duas Pontes	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+615	3549250	São João de Iracema	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+493	3549300	São João do Pau d'Alho	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+489	3548906	São Carlos	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+490	3549003	São Francisco	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+491	3549102	São João da Boa Vista	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+487	3548708	São Bernardo do Campo	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+488	3548807	São Caetano do Sul	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+485	3548500	Santos	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+486	3548609	São Bento do Sapucaí	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+483	3548302	Santo Expedito	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+484	3548401	Santópolis do Aguapeí	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+480	3548104	Santo Antonio do Jardim	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+481	3548203	Santo Antonio do Pinhal	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+617	3548054	Santo Antonio do Aracanguá	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+479	3547908	Santo Antonio da Alegria	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+482	3548005	Santo Antonio de Posse	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+633	3547650	Santa Salete	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+477	3547700	Santo Anastácio	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+478	3547809	Santo André	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+473	3547502	Santa Rita do Passa Quatro	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+474	3547601	Santa Rosa do Viterbo	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+476	3547304	Santana de Parnaíba	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+472	3547403	Santa Rita d'Oeste	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+470	3547007	Santa Maria da Serra	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+471	3547106	Santa Mercedes	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+475	3547205	Santana da Ponte Pensa	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+468	3546801	Santa Isabel	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+469	3546900	Santa Lucia	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+466	3546603	Santa Fé do Sul	5.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,4
+467	3546702	Santa Gertrudes	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+465	3546504	Santa Ernestina	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+463	3546306	Santa Cruz das Palmeiras	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+464	3546405	Santa Cruz do Rio Pardo	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+462	3546207	Santa Cruz da Conceição	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+632	3546256	Santa Cruz da Esperança	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+460	3546009	Santa Branca	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+461	3546108	Santa Clara d'Oeste	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+457	3545704	Santa Albertina	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+458	3545803	Santa Bárbara d'Oeste	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+455	3545506	Sandovalina	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+456	3545605	Santa Adélia	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+453	3545308	Salto de Pirapora	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+454	3545407	Salto Grande	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+614	3545159	Saltinho	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+452	3545209	Salto	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+450	3545001	Salesópolis	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+451	3545100	Salmourão	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+448	3544806	Sales	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+449	3544905	Sales Oliveira	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+445	3544509	Rubinéia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+446	3544608	Sabino	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+447	3544707	Sagres	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+443	3544301	Roseira	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+444	3544400	Rubiácea	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+442	3544202	Riolândia	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+613	3544251	Rosana	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+440	3544004	Rio das Pedras	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+441	3544103	Rio Grande da Serra	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+438	3543808	Rinópolis	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+439	3543907	Rio Claro	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+436	3543600	Rifaina	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+437	3543709	Rincão	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+434	3543402	Ribeirão Preto	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+435	3543501	Riversul	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+433	3543303	Ribeirão Pires	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+644	3543238	Ribeirão dos Índios	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+612	3543253	Ribeirão Grande	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+431	3543105	Ribeirão Corrente	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+432	3543204	Ribeirão do Sul	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+429	3542909	Ribeirão Bonito	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+430	3543006	Ribeirão Branco	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+428	3542800	Ribeira	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+426	3542602	Registro	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+427	3542701	Restinga	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+425	3542503	Reginópolis	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+423	3542305	Redenção da Serra	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+424	3542404	Regente Feijó	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+421	3542107	Rafard	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+422	3542206	Rancharia	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+419	3541901	Queluz	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+420	3542008	Quintana	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+417	3541703	Quatá	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+418	3541802	Queiroz	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+416	3541604	Promissão	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+631	3541653	Quadra	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+414	3541406	Presidente Prudente	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+415	3541505	Presidente Venceslau	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+413	3541307	Presidente Epitácio	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+411	3541109	Presidente Alves	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+412	3541208	Presidente Bernardes	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+410	3541000	Praia Grande	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+630	3541059	Pratânia	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,3
+629	3540853	Pracinha	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+409	3540903	Pradópolis	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+611	3540754	Potim	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+408	3540804	Potirendaba	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+406	3540606	Porto Feliz	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+407	3540705	Porto Ferreira	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+404	3540408	Populina	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+405	3540507	Porangaba	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+610	3540259	Pontalinda	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+403	3540309	Pontes Gestal	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+401	3540101	Pongaí	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+402	3540200	Pontal	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+399	3539905	Poloni	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+400	3540002	Pompéia	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+398	3539806	Poá	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+397	3539707	Platina	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+395	3539509	Pitangueiras	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+396	3539608	Planalto	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+393	3539301	Pirassununga	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+394	3539400	Piratininga	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+392	3539202	Pirapozinho	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+390	3539004	Pirangi	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+391	3539103	Pirapora do Bom Jesus	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+388	3538808	Piraju	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+389	3538907	Pirajuí	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+386	3538600	Piracaia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+387	3538709	Piracicaba	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+385	3538501	Piquete	3.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,4
+384	3538303	Piquerobi	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+381	3538105	Pindorama	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+383	3538204	Pinhalzinho	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+379	3537909	Pilar do Sul	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+380	3538006	Pindamonhangaba	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+378	3537800	Piedade	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+376	3537602	Peruíbe	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+377	3537701	Piacatu	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,1
+374	3537404	Pereira Barreto	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+375	3537503	Pereiras	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+372	3537206	Pedro de Toledo	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+373	3537305	Penápolis	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+609	3537156	Pedrinhas Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+370	3537008	Pedregulho	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+371	3537107	Pedreira	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+368	3536802	Pedra Bela	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+369	3536901	Pedranópolis	5.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,0
+367	3536703	Pederneiras	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+366	3536604	Paulo de Faria	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+364	3536406	Paulicéia	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+365	3536505	Paulínia	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+643	3536570	Paulistânia	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+361	3536109	Pardinho	3.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,6
+362	3536208	Pariquera-Açu	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+608	3536257	Parisi	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+363	3536307	Patrocínio Paulista	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+358	3535804	Paranapanema	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+359	3535903	Paranapuã	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+360	3536000	Parapuã	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+355	3535507	Paraguaçu Paulista	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+356	3535606	Paraibuna	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+357	3535705	Paraíso	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,1
+351	3535101	Palmares Paulista	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+352	3535200	Palmeira d'Oeste	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+353	3535309	Palmital	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+354	3535408	Panorama	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+642	3534757	Ouroeste	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+348	3534807	Ouro Verde	5.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,2
+349	3534906	Pacaembu	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+350	3535002	Palestina	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+344	3534401	Osasco	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+345	3534500	Oscar Bressane	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+346	3534609	Osvaldo Cruz	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+347	3534708	Ourinhos	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+341	3534104	Oriente	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+342	3534203	Orindiúva	5.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,1
+343	3534302	Orlândia	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+338	3533809	Óleo	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+339	3533908	Olímpia	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+340	3534005	Onda Verde	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+335	3533502	Novo Horizonte	3.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,3
+336	3533601	Nuporanga	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+337	3533700	Ocauçu	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+607	3533254	Novais	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+333	3533304	Nova Luzitânia	5.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 5,3
+334	3533403	Nova Odessa	4.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,7
+330	3533007	Nova Granada	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+331	3533106	Nova Guataporanga	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+332	3533205	Nova Independência	3.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,8
+606	3532843	Nova Canaã Paulista	4.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,9
+641	3532868	Nova Castilho	-	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: -
+329	3532900	Nova Europa	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+327	3532702	Nipoã	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+328	3532801	Nova Aliança	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+605	3532827	Nova Campina	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+324	3532405	Nazaré Paulista	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+325	3532504	Neves Paulista	4.5	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,5
+326	3532603	Nhandeara	4.6	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,6
+640	3532157	Nantes	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+322	3532207	Narandiba	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+323	3532306	Natividade da Serra	3.7	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,7
+319	3531902	Morro Agudo	4.0	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,0
+320	3532009	Morungaba	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+604	3532058	Motuca	4.8	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,8
+321	3532108	Murutinga do Sul	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+314	3531407	Monte Aprazível	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+315	3531506	Monte Azul Paulista	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4
+316	3531605	Monte Castelo	4.2	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,2
+317	3531704	Monteiro Lobato	3.9	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 3,9
+318	3531803	Monte Mor	4.1	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,1
+312	3531209	Monte Alegre do Sul	4.3	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,3
+313	3531308	Monte Alto	4.4	Índice de Desenvolvimento da Educação Básica (IDEB) – Anos Finais – Rede Pública: 4,4

@@ -1,1 +1,646 @@
 id	ibge	localidade	valor	label
+1	3500105	Adamantina	590	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 590
+2	3500204	Adolfo	40	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 40
+3	3500303	Aguaí	459	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 459
+4	3500402	Águas da Prata	112	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 112
+5	3500501	Águas de Lindóia	275	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 275
+459	3500550	Águas de Santa Bárbara	82	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 82
+6	3500600	Águas de São Pedro	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+7	3500709	Agudos	665	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 665
+573	3500758	Alambari	54	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 54
+8	3500808	Alfredo Marcondes	44	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 44
+9	3500907	Altair	93	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 93
+10	3501004	Altinópolis	301	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 301
+11	3501103	Alto Alegre	59	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 59
+574	3501152	Alumínio	141	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 141
+12	3501202	Álvares Florence	108	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 108
+13	3501301	Álvares Machado	309	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 309
+14	3501400	Álvaro de Carvalho	29	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 29
+15	3501509	Alvinlândia	54	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 54
+16	3501608	Americana	2215	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.215
+17	3501707	Américo Brasiliense	356	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 356
+18	3501806	Américo de Campos	152	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 152
+19	3501905	Amparo	587	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 587
+20	3502002	Analândia	69	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 69
+21	3502101	Andradina	1261	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.261
+22	3502200	Angatuba	606	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 606
+23	3502309	Anhembi	73	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 73
+24	3502408	Anhumas	58	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 58
+25	3502507	Aparecida	965	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 965
+26	3502606	Aparecida d'Oeste	82	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 82
+27	3502705	Apiaí	749	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 749
+575	3502754	Araçariguama	299	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 299
+28	3502804	Araçatuba	4292	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.292
+29	3502903	Araçoiaba da Serra	352	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 352
+30	3503000	Aramina	45	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 45
+31	3503109	Arandu	91	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 91
+576	3503158	Arapeí	29	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 29
+32	3503208	Araraquara	2805	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.805
+33	3503307	Araras	1625	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.625
+626	3503356	Arco Íris	12	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 12
+34	3503406	Arealva	134	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 134
+35	3503505	Areias	113	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 113
+36	3503604	Areiópolis	107	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 107
+37	3503703	Ariranha	90	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 90
+38	3503802	Artur Nogueira	662	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 662
+39	3503901	Arujá	1109	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.109
+577	3503950	Aspásia	16	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 16
+40	3504008	Assis	1436	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.436
+41	3504107	Atibaia	1893	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.893
+42	3504206	Auriflama	212	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 212
+43	3504305	Avaí	79	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 79
+44	3504404	Avanhandava	156	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 156
+45	3504503	Avaré	1478	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.478
+46	3504602	Bady Bassitt	291	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 291
+47	3504701	Balbinos	9	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 9
+48	3504800	Bálsamo	165	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 165
+49	3504909	Bananal	219	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 219
+50	3505005	Barão de Antonina	41	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 41
+51	3505104	Barbosa	144	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 144
+52	3505203	Bariri	403	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 403
+53	3505302	Barra Bonita	455	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 455
+578	3505351	Barra do Chapéu	28	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 28
+54	3505401	Barra do Turvo	353	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 353
+55	3505500	Barretos	2369	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.369
+56	3505609	Barrinha	634	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 634
+57	3505708	Barueri	3755	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.755
+58	3505807	Bastos	326	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 326
+59	3505906	Batatais	862	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 862
+60	3506003	Bauru	5277	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5.277
+61	3506102	Bebedouro	1441	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.441
+62	3506201	Bento de Abreu	39	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 39
+63	3506300	Bernardino de Campos	224	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 224
+579	3506359	Bertioga	702	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 702
+64	3506409	Bilac	115	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 115
+65	3506508	Birigui	1598	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.598
+66	3506607	Biritiba Mirim	632	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 632
+67	3506706	Boa Esperança do Sul	282	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 282
+68	3506805	Bocaina	153	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 153
+69	3506904	Bofete	177	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 177
+70	3507001	Boituva	595	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 595
+71	3507100	Bom Jesus dos Perdões	246	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 246
+580	3507159	Bom Sucesso de Itararé	30	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 30
+72	3507209	Borá	17	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 17
+73	3507308	Boracéia	49	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 49
+74	3507407	Borborema	186	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 186
+581	3507456	Borebi	21	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 21
+75	3507506	Botucatu	1885	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.885
+76	3507605	Bragança Paulista	2790	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.790
+77	3507704	Braúna	53	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 53
+627	3507753	Brejo Alegre	44	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 44
+78	3507803	Brodowski	330	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 330
+79	3507902	Brotas	355	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 355
+80	3508009	Buri	325	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 325
+81	3508108	Buritama	405	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 405
+82	3508207	Buritizal	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+83	3508306	Cabrália Paulista	73	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 73
+84	3508405	Cabreúva	661	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 661
+85	3508504	Caçapava	1438	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.438
+86	3508603	Cachoeira Paulista	459	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 459
+87	3508702	Caconde	362	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 362
+88	3508801	Cafelândia	257	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 257
+89	3508900	Caiabu	37	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 37
+90	3509007	Caieiras	916	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 916
+91	3509106	Caiuá	22	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 22
+92	3509205	Cajamar	527	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 527
+582	3509254	Cajati	1069	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.069
+93	3509304	Cajobi	91	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 91
+94	3509403	Cajuru	593	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 593
+583	3509452	Campina do Monte Alegre	89	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 89
+95	3509502	Campinas	13402	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 13.402
+96	3509601	Campo Limpo Paulista	1106	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.106
+97	3509700	Campos do Jordão	970	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 970
+98	3509809	Campos Novos Paulista	95	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 95
+99	3509908	Cananéia	318	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 318
+628	3509957	Canas	19	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 19
+100	3510005	Cândido Mota	583	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 583
+101	3510104	Cândido Rodrigues	48	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 48
+584	3510153	Canitar	57	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 57
+102	3510203	Capão Bonito	1480	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.480
+103	3510302	Capela do Alto	269	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 269
+104	3510401	Capivari	723	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 723
+105	3510500	Caraguatatuba	2654	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.654
+106	3510609	Carapicuíba	3945	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.945
+107	3510708	Cardoso	365	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 365
+108	3510807	Casa Branca	796	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 796
+109	3510906	Cássia dos Coqueiros	83	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 83
+110	3511003	Castilho	402	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 402
+111	3511102	Catanduva	1947	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.947
+112	3511201	Catiguá	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+113	3511300	Cedral	153	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 153
+114	3511409	Cerqueira César	320	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 320
+115	3511508	Cerquilho	315	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 315
+116	3511607	Cesário Lange	219	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 219
+117	3511706	Charqueada	161	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 161
+119	3511904	Clementina	69	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 69
+120	3512001	Colina	326	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 326
+121	3512100	Colômbia	128	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 128
+122	3512209	Conchal	470	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 470
+123	3512308	Conchas	265	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 265
+124	3512407	Cordeirópolis	228	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 228
+125	3512506	Coroados	68	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 68
+126	3512605	Coronel Macedo	146	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 146
+127	3512704	Corumbataí	57	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 57
+128	3512803	Cosmópolis	1054	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.054
+129	3512902	Cosmorama	169	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 169
+130	3513009	Cotia	3555	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.555
+131	3513108	Cravinhos	656	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 656
+132	3513207	Cristais Paulista	104	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 104
+133	3513306	Cruzália	34	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 34
+134	3513405	Cruzeiro	955	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 955
+135	3513504	Cubatão	1752	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.752
+136	3513603	Cunha	676	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 676
+137	3513702	Descalvado	361	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 361
+138	3513801	Diadema	8350	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 8.350
+585	3513850	Dirce Reis	13	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 13
+139	3513900	Divinolândia	276	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 276
+140	3514007	Dobrada	69	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 69
+141	3514106	Dois Córregos	384	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 384
+142	3514205	Dolcinópolis	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+143	3514304	Dourado	77	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 77
+144	3514403	Dracena	733	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 733
+145	3514502	Duartina	228	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 228
+146	3514601	Dumont	124	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 124
+147	3514700	Echaporã	139	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 139
+148	3514809	Eldorado	498	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 498
+149	3514908	Elias Fausto	287	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 287
+586	3514924	Elisiário	30	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 30
+587	3514957	Embaúba	31	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 31
+150	3515004	Embu das Artes	3236	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.236
+151	3515103	Embu-Guaçu	1479	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.479
+588	3515129	Emilianópolis	15	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 15
+589	3515152	Engenheiro Coelho	161	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 161
+382	3515186	Espírito Santo do Pinhal	639	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 639
+590	3515194	Espírito Santo do Turvo	64	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 64
+152	3515202	Estrela d'Oeste	125	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 125
+153	3515301	Estrela do Norte	13	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 13
+592	3515350	Euclides da Cunha Paulista	129	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 129
+154	3515400	Fartura	388	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 388
+155	3515509	Fernandópolis	1126	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.126
+156	3515608	Fernando Prestes	75	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 75
+637	3515657	Fernão	11	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 11
+157	3515707	Ferraz de Vasconcelos	2274	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.274
+158	3515806	Flora Rica	27	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 27
+159	3515905	Floreal	69	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 69
+160	3516002	Flórida Paulista	168	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 168
+161	3516101	Florínia	54	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 54
+162	3516200	Franca	5756	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5.756
+163	3516309	Francisco Morato	2204	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.204
+164	3516408	Franco da Rocha	1477	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.477
+165	3516507	Gabriel Monteiro	33	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 33
+166	3516606	Gália	142	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 142
+167	3516705	Garça	689	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 689
+168	3516804	Gastão Vidigal	68	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 68
+638	3516853	Gavião Peixoto	37	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 37
+169	3516903	General Salgado	291	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 291
+170	3517000	Getulina	137	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 137
+171	3517109	Glicério	68	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 68
+172	3517208	Guaiçara	126	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 126
+173	3517307	Guaimbê	92	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 92
+174	3517406	Guaíra	620	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 620
+175	3517505	Guapiaçu	310	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 310
+176	3517604	Guapiara	757	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 757
+177	3517703	Guará	266	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 266
+178	3517802	Guaraçaí	164	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 164
+179	3517901	Guaraci	202	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 202
+180	3518008	Guarani d'Oeste	44	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 44
+181	3518107	Guarantã	107	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 107
+182	3518206	Guararapes	861	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 861
+183	3518305	Guararema	466	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 466
+184	3518404	Guaratinguetá	1637	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.637
+185	3518503	Guareí	227	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 227
+186	3518602	Guariba	744	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 744
+187	3518701	Guarujá	5290	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5.290
+188	3518800	Guarulhos	17469	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 17.469
+593	3518859	Guatapará	106	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 106
+189	3518909	Guzolândia	69	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 69
+190	3519006	Herculândia	183	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 183
+594	3519055	Holambra	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+595	3519071	Hortolândia	2662	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.662
+191	3519105	Iacanga	150	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 150
+192	3519204	Iacri	150	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 150
+596	3519253	Iaras	77	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 77
+193	3519303	Ibaté	388	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 388
+194	3519402	Ibirá	182	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 182
+195	3519501	Ibirarema	122	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 122
+196	3519600	Ibitinga	611	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 611
+197	3519709	Ibiúna	1746	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.746
+198	3519808	Icém	133	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 133
+199	3519907	Iepê	312	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 312
+200	3520004	Igaraçu do Tietê	316	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 316
+201	3520103	Igarapava	294	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 294
+202	3520202	Igaratá	196	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 196
+203	3520301	Iguape	916	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 916
+204	3520400	Ilhabela	488	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 488
+597	3520426	Ilha Comprida	173	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 173
+598	3520442	Ilha Solteira	288	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 288
+205	3520509	Indaiatuba	2696	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.696
+206	3520608	Indiana	93	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 93
+207	3520707	Indiaporã	81	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 81
+208	3520806	Inúbia Paulista	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+209	3520905	Ipaussu	176	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 176
+210	3521002	Iperó	221	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 221
+211	3521101	Ipeúna	107	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 107
+635	3521150	Ipiguá	72	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 72
+212	3521200	Iporanga	132	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 132
+213	3521309	Ipuã	209	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 209
+214	3521408	Iracemápolis	159	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 159
+215	3521507	Irapuã	113	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 113
+216	3521606	Irapuru	127	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 127
+217	3521705	Itaberá	379	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 379
+218	3521804	Itaí	570	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 570
+219	3521903	Itajobi	263	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 263
+220	3522000	Itaju	31	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 31
+221	3522109	Itanhaém	2953	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.953
+599	3522158	Itaóca	35	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 35
+222	3522208	Itapecerica da Serra	6765	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 6.765
+223	3522307	Itapetininga	2803	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.803
+224	3522406	Itapeva	1778	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.778
+225	3522505	Itapevi	2393	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.393
+226	3522604	Itapira	1089	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.089
+600	3522653	Itapirapuã Paulista	61	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 61
+227	3522703	Itápolis	339	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 339
+228	3522802	Itaporanga	325	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 325
+229	3522901	Itapuí	157	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 157
+230	3523008	Itapura	100	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 100
+231	3523107	Itaquaquecetuba	4744	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.744
+232	3523206	Itararé	857	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 857
+233	3523305	Itariri	472	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 472
+234	3523404	Itatiba	1240	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.240
+235	3523503	Itatinga	279	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 279
+236	3523602	Itirapina	225	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 225
+237	3523701	Itirapuã	102	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 102
+238	3523800	Itobi	117	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 117
+239	3523909	Itu	2076	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.076
+240	3524006	Itupeva	418	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 418
+241	3524105	Ituverava	686	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 686
+242	3524204	Jaborandi	104	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 104
+243	3524303	Jaboticabal	1709	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.709
+244	3524402	Jacareí	2748	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.748
+245	3524501	Jaci	182	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 182
+246	3524600	Jacupiranga	541	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 541
+247	3524709	Jaguariúna	436	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 436
+248	3524808	Jales	1268	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.268
+249	3524907	Jambeiro	67	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 67
+250	3525003	Jandira	1159	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.159
+251	3525102	Jardinópolis	719	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 719
+252	3525201	Jarinu	395	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 395
+253	3525300	Jaú	1574	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.574
+254	3525409	Jeriquara	80	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 80
+255	3525508	Joanópolis	167	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 167
+256	3525607	João Ramalho	43	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 43
+257	3525706	José Bonifácio	598	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 598
+258	3525805	Júlio Mesquita	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+639	3525854	Jumirim	17	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 17
+259	3525904	Jundiaí	3654	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.654
+260	3526001	Junqueirópolis	311	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 311
+261	3526100	Juquiá	866	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 866
+262	3526209	Juquitiba	889	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 889
+263	3526308	Lagoinha	189	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 189
+264	3526407	Laranjal Paulista	389	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 389
+265	3526506	Lavínia	97	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 97
+266	3526605	Lavrinhas	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+267	3526704	Leme	1419	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.419
+268	3526803	Lençóis Paulista	858	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 858
+269	3526902	Limeira	3750	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.750
+270	3527009	Lindóia	109	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 109
+271	3527108	Lins	1049	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.049
+272	3527207	Lorena	1004	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.004
+601	3527256	Lourdes	22	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 22
+273	3527306	Louveira	310	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 310
+274	3527405	Lucélia	391	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 391
+275	3527504	Lucianópolis	24	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 24
+276	3527603	Luís Antônio	161	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 161
+277	3527702	Luiziânia	75	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 75
+278	3527801	Lupércio	86	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 86
+279	3527900	Lutécia	22	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 22
+280	3528007	Macatuba	221	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 221
+281	3528106	Macaubal	144	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 144
+282	3528205	Macedônia	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+283	3528304	Magda	90	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 90
+284	3528403	Mairinque	513	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 513
+285	3528502	Mairiporã	1065	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.065
+286	3528601	Manduri	122	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 122
+287	3528700	Marabá Paulista	46	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 46
+288	3528809	Maracaí	171	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 171
+602	3528858	Marapoama	22	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 22
+289	3528908	Mariápolis	47	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 47
+290	3529005	Marília	4698	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.698
+291	3529104	Marinópolis	31	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 31
+292	3529203	Martinópolis	638	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 638
+293	3529302	Matão	1281	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.281
+294	3529401	Mauá	5955	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5.955
+295	3529500	Mendonça	89	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 89
+296	3529609	Meridiano	68	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 68
+603	3529658	Mesópolis	16	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 16
+297	3529708	Miguelópolis	423	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 423
+298	3529807	Mineiros do Tietê	178	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 178
+299	3529906	Miracatu	829	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 829
+300	3530003	Mira Estrela	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+301	3530102	Mirandópolis	564	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 564
+302	3530201	Mirante do Paranapanema	300	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 300
+303	3530300	Mirassol	963	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 963
+304	3530409	Mirassolândia	88	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 88
+305	3530508	Mococa	1063	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.063
+306	3530607	Mogi das Cruzes	5593	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5.593
+307	3530706	Mogi Guaçu	1427	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.427
+308	3530805	Moji Mirim	1167	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.167
+309	3530904	Mombuca	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+310	3531001	Monções	61	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 61
+311	3531100	Mongaguá	1275	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.275
+312	3531209	Monte Alegre do Sul	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+313	3531308	Monte Alto	759	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 759
+314	3531407	Monte Aprazível	488	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 488
+315	3531506	Monte Azul Paulista	344	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 344
+316	3531605	Monte Castelo	97	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 97
+317	3531704	Monteiro Lobato	196	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 196
+318	3531803	Monte Mor	876	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 876
+319	3531902	Morro Agudo	424	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 424
+320	3532009	Morungaba	150	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 150
+604	3532058	Motuca	25	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 25
+321	3532108	Murutinga do Sul	76	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 76
+640	3532157	Nantes	52	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 52
+322	3532207	Narandiba	74	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 74
+323	3532306	Natividade da Serra	168	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 168
+324	3532405	Nazaré Paulista	216	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 216
+325	3532504	Neves Paulista	185	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 185
+326	3532603	Nhandeara	348	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 348
+327	3532702	Nipoã	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+328	3532801	Nova Aliança	85	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 85
+605	3532827	Nova Campina	99	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 99
+606	3532843	Nova Canaã Paulista	9	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 9
+641	3532868	Nova Castilho	1	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1
+329	3532900	Nova Europa	76	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 76
+330	3533007	Nova Granada	347	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 347
+331	3533106	Nova Guataporanga	52	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 52
+332	3533205	Nova Independência	47	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 47
+607	3533254	Novais	45	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 45
+333	3533304	Nova Luzitânia	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+334	3533403	Nova Odessa	479	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 479
+335	3533502	Novo Horizonte	878	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 878
+336	3533601	Nuporanga	112	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 112
+337	3533700	Ocauçu	123	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 123
+338	3533809	Óleo	35	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 35
+339	3533908	Olímpia	870	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 870
+340	3534005	Onda Verde	42	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 42
+341	3534104	Oriente	108	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 108
+342	3534203	Orindiúva	46	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 46
+343	3534302	Orlândia	489	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 489
+344	3534401	Osasco	9599	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 9.599
+345	3534500	Oscar Bressane	52	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 52
+346	3534609	Osvaldo Cruz	596	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 596
+347	3534708	Ourinhos	1942	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.942
+642	3534757	Ouroeste	173	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 173
+348	3534807	Ouro Verde	205	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 205
+349	3534906	Pacaembu	205	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 205
+350	3535002	Palestina	164	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 164
+351	3535101	Palmares Paulista	99	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 99
+352	3535200	Palmeira d'Oeste	201	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 201
+353	3535309	Palmital	386	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 386
+354	3535408	Panorama	321	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 321
+355	3535507	Paraguaçu Paulista	611	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 611
+356	3535606	Paraibuna	566	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 566
+357	3535705	Paraíso	54	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 54
+358	3535804	Paranapanema	343	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 343
+359	3535903	Paranapuã	89	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 89
+360	3536000	Parapuã	234	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 234
+361	3536109	Pardinho	113	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 113
+362	3536208	Pariquera-Açu	478	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 478
+608	3536257	Parisi	41	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 41
+363	3536307	Patrocínio Paulista	234	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 234
+364	3536406	Paulicéia	116	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 116
+365	3536505	Paulínia	599	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 599
+643	3536570	Paulistânia	18	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 18
+366	3536604	Paulo de Faria	235	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 235
+367	3536703	Pederneiras	585	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 585
+368	3536802	Pedra Bela	94	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 94
+369	3536901	Pedranópolis	40	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 40
+370	3537008	Pedregulho	288	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 288
+371	3537107	Pedreira	354	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 354
+609	3537156	Pedrinhas Paulista	40	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 40
+372	3537206	Pedro de Toledo	361	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 361
+373	3537305	Penápolis	1001	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.001
+374	3537404	Pereira Barreto	594	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 594
+375	3537503	Pereiras	109	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 109
+376	3537602	Peruíbe	2117	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.117
+377	3537701	Piacatu	91	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 91
+378	3537800	Piedade	838	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 838
+379	3537909	Pilar do Sul	426	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 426
+380	3538006	Pindamonhangaba	2806	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.806
+381	3538105	Pindorama	236	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 236
+383	3538204	Pinhalzinho	150	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 150
+384	3538303	Piquerobi	54	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 54
+385	3538501	Piquete	155	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 155
+386	3538600	Piracaia	391	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 391
+387	3538709	Piracicaba	4238	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.238
+388	3538808	Piraju	545	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 545
+389	3538907	Pirajuí	546	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 546
+390	3539004	Pirangi	125	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 125
+391	3539103	Pirapora do Bom Jesus	197	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 197
+392	3539202	Pirapozinho	422	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 422
+393	3539301	Pirassununga	793	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 793
+394	3539400	Piratininga	176	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 176
+395	3539509	Pitangueiras	494	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 494
+396	3539608	Planalto	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+397	3539707	Platina	64	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 64
+398	3539806	Poá	1207	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.207
+399	3539905	Poloni	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+400	3540002	Pompéia	374	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 374
+401	3540101	Pongaí	86	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 86
+402	3540200	Pontal	547	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 547
+610	3540259	Pontalinda	31	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 31
+403	3540309	Pontes Gestal	60	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 60
+404	3540408	Populina	90	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 90
+405	3540507	Porangaba	150	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 150
+406	3540606	Porto Feliz	693	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 693
+407	3540705	Porto Ferreira	703	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 703
+611	3540754	Potim	230	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 230
+408	3540804	Potirendaba	250	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 250
+629	3540853	Pracinha	13	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 13
+409	3540903	Pradópolis	332	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 332
+410	3541000	Praia Grande	4741	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.741
+630	3541059	Pratânia	80	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 80
+411	3541109	Presidente Alves	46	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 46
+412	3541208	Presidente Bernardes	125	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 125
+413	3541307	Presidente Epitácio	584	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 584
+414	3541406	Presidente Prudente	2934	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.934
+415	3541505	Presidente Venceslau	595	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 595
+416	3541604	Promissão	499	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 499
+631	3541653	Quadra	17	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 17
+417	3541703	Quatá	162	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 162
+418	3541802	Queiroz	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+419	3541901	Queluz	166	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 166
+420	3542008	Quintana	102	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 102
+421	3542107	Rafard	73	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 73
+422	3542206	Rancharia	618	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 618
+423	3542305	Redenção da Serra	128	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 128
+424	3542404	Regente Feijó	298	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 298
+425	3542503	Reginópolis	81	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 81
+426	3542602	Registro	1574	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.574
+427	3542701	Restinga	89	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 89
+428	3542800	Ribeira	29	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 29
+429	3542909	Ribeirão Bonito	151	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 151
+430	3543006	Ribeirão Branco	397	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 397
+431	3543105	Ribeirão Corrente	108	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 108
+432	3543204	Ribeirão do Sul	171	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 171
+644	3543238	Ribeirão dos Índios	8	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 8
+612	3543253	Ribeirão Grande	84	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 84
+433	3543303	Ribeirão Pires	2028	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.028
+434	3543402	Ribeirão Preto	10510	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 10.510
+435	3543501	Riversul	122	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 122
+436	3543600	Rifaina	86	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 86
+437	3543709	Rincão	245	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 245
+438	3543808	Rinópolis	174	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 174
+439	3543907	Rio Claro	2463	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.463
+440	3544004	Rio das Pedras	285	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 285
+441	3544103	Rio Grande da Serra	563	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 563
+442	3544202	Riolândia	237	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 237
+613	3544251	Rosana	281	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 281
+443	3544301	Roseira	172	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 172
+444	3544400	Rubiácea	45	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 45
+445	3544509	Rubinéia	45	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 45
+446	3544608	Sabino	61	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 61
+447	3544707	Sagres	49	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 49
+448	3544806	Sales	97	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 97
+449	3544905	Sales Oliveira	142	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 142
+450	3545001	Salesópolis	352	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 352
+451	3545100	Salmourão	91	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 91
+614	3545159	Saltinho	46	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 46
+452	3545209	Salto	1374	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.374
+453	3545308	Salto de Pirapora	475	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 475
+454	3545407	Salto Grande	249	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 249
+455	3545506	Sandovalina	37	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 37
+456	3545605	Santa Adélia	148	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 148
+457	3545704	Santa Albertina	118	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 118
+458	3545803	Santa Bárbara d'Oeste	1891	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.891
+460	3546009	Santa Branca	259	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 259
+461	3546108	Santa Clara d'Oeste	66	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 66
+462	3546207	Santa Cruz da Conceição	50	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 50
+632	3546256	Santa Cruz da Esperança	22	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 22
+463	3546306	Santa Cruz das Palmeiras	257	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 257
+464	3546405	Santa Cruz do Rio Pardo	777	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 777
+465	3546504	Santa Ernestina	85	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 85
+466	3546603	Santa Fé do Sul	708	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 708
+467	3546702	Santa Gertrudes	242	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 242
+468	3546801	Santa Isabel	1144	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.144
+469	3546900	Santa Lucia	97	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 97
+470	3547007	Santa Maria da Serra	74	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 74
+471	3547106	Santa Mercedes	40	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 40
+475	3547205	Santana da Ponte Pensa	22	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 22
+476	3547304	Santana de Parnaíba	2015	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.015
+472	3547403	Santa Rita d'Oeste	49	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 49
+473	3547502	Santa Rita do Passa Quatro	352	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 352
+474	3547601	Santa Rosa do Viterbo	428	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 428
+633	3547650	Santa Salete	10	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 10
+477	3547700	Santo Anastácio	309	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 309
+478	3547809	Santo André	7453	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 7.453
+479	3547908	Santo Antonio da Alegria	140	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 140
+482	3548005	Santo Antonio de Posse	380	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 380
+617	3548054	Santo Antonio do Aracanguá	104	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 104
+480	3548104	Santo Antonio do Jardim	128	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 128
+481	3548203	Santo Antonio do Pinhal	149	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 149
+483	3548302	Santo Expedito	34	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 34
+484	3548401	Santópolis do Aguapeí	48	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 48
+485	3548500	Santos	4049	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.049
+486	3548609	São Bento do Sapucaí	316	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 316
+487	3548708	São Bernardo do Campo	9754	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 9.754
+488	3548807	São Caetano do Sul	2280	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.280
+489	3548906	São Carlos	2530	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.530
+490	3549003	São Francisco	54	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 54
+491	3549102	São João da Boa Vista	978	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 978
+492	3549201	São João das Duas Pontes	51	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 51
+615	3549250	São João de Iracema	5	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5
+493	3549300	São João do Pau d'Alho	33	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 33
+494	3549409	São Joaquim da Barra	702	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 702
+496	3549508	São José da Bela Vista	246	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 246
+495	3549607	São José do Barreiro	183	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 183
+497	3549706	São José do Rio Pardo	740	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 740
+498	3549805	São José do Rio Preto	7563	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 7.563
+499	3549904	São José dos Campos	8173	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 8.173
+616	3549953	São Lourenço da Serra	483	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 483
+500	3550001	São Luís do Paraitinga	443	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 443
+501	3550100	São Manuel	583	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 583
+502	3550209	São Miguel Arcanjo	700	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 700
+503	3550308	São Paulo	183648	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 183.648
+504	3550407	São Pedro	579	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 579
+505	3550506	São Pedro do Turvo	143	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 143
+506	3550605	São Roque	1166	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.166
+507	3550704	São Sebastião	1292	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.292
+508	3550803	São Sebastião da Grama	193	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 193
+509	3550902	São Simão	229	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 229
+510	3551009	São Vicente	4309	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.309
+511	3551108	Sarapuí	311	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 311
+512	3551207	Sarutaiá	118	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 118
+513	3551306	Sebastianópolis do Sul	41	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 41
+514	3551405	Serra Azul	188	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 188
+516	3551504	Serrana	690	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 690
+515	3551603	Serra Negra	352	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 352
+517	3551702	Sertãozinho	1940	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.940
+518	3551801	Sete Barras	543	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 543
+519	3551900	Severínia	186	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 186
+520	3552007	Silveiras	92	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 92
+521	3552106	Socorro	519	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 519
+522	3552205	Sorocaba	5331	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 5.331
+523	3552304	Sud Mennucci	102	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 102
+524	3552403	Sumaré	3571	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 3.571
+525	3552502	Suzano	4443	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.443
+618	3552551	Suzanápolis	38	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 38
+526	3552601	Tabapuã	177	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 177
+527	3552700	Tabatinga	157	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 157
+528	3552809	Taboão da Serra	4564	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.564
+529	3552908	Taciba	81	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 81
+530	3553005	Taguaí	143	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 143
+531	3553104	Taiaçu	98	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 98
+532	3553203	Taiúva	93	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 93
+533	3553302	Tambaú	244	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 244
+534	3553401	Tanabi	668	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 668
+535	3553500	Tapiraí	113	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 113
+536	3553609	Tapiratiba	153	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 153
+636	3553658	Taquaral	27	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 27
+537	3553708	Taquaritinga	991	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 991
+538	3553807	Taquarituba	659	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 659
+619	3553856	Taquarivaí	36	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 36
+539	3553906	Tarabaí	90	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 90
+620	3553955	Tarumã	163	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 163
+540	3554003	Tatuí	1253	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.253
+541	3554102	Taubaté	4266	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4.266
+542	3554201	Tejupá	29	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 29
+543	3554300	Teodoro Sampaio	283	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 283
+544	3554409	Terra Roxa	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+545	3554508	Tietê	351	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 351
+546	3554607	Timburi	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+621	3554656	Torre de Pedra	48	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 48
+547	3554706	Torrinha	189	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 189
+645	3554755	Trabiju	4	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 4
+548	3554805	Tremembé	434	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 434
+549	3554904	Três Fronteiras	105	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 105
+622	3554953	Tuiuti	40	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 40
+550	3555000	Tupã	1483	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.483
+551	3555109	Tupi Paulista	246	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 246
+552	3555208	Turiúba	39	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 39
+553	3555307	Turmalina	19	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 19
+623	3555356	Ubarana	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71
+554	3555406	Ubatuba	2022	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 2.022
+555	3555505	Ubirajara	62	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 62
+556	3555604	Uchôa	204	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 204
+557	3555703	União Paulista	23	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 23
+558	3555802	Urânia	261	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 261
+559	3555901	Uru	26	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 26
+560	3556008	Urupês	252	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 252
+561	3556107	Valentim Gentil	158	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 158
+562	3556206	Valinhos	1127	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.127
+563	3556305	Valparaíso	387	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 387
+624	3556354	Vargem	105	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 105
+564	3556404	Vargem Grande do Sul	556	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 556
+572	3556453	Vargem Grande Paulista	736	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 736
+565	3556503	Várzea Paulista	1478	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.478
+566	3556602	Vera Cruz	253	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 253
+567	3556701	Vinhedo	410	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 410
+568	3556800	Viradouro	187	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 187
+569	3556909	Vista Alegre do Alto	63	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 63
+634	3556958	Vitória Brasil	9	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 9
+570	3557006	Votorantim	953	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 953
+571	3557105	Votuporanga	1868	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 1.868
+625	3557154	Zacarias	17	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 17
+118	3557204	Chavantes	189	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 189
+591	3557303	Estiva Gerbi	71	População Atendida pelo Programa Benefício de Prestação Continuada da Assistência Social (BPC): 71

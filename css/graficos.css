@@ -25,7 +25,21 @@
   left: 5px;
   bottom: 5px;
   border: 1px solid #eee;
-  border-radius: 5px; }
+  border-radius: 5px;
+  background-color: white;
+  -webkit-box-shadow: 1px 1px 5px 0px rgba(61, 61, 61, 0.75);
+  -moz-box-shadow: 1px 1px 5px 0px rgba(61, 61, 61, 0.75);
+  box-shadow: 1px 1px 5px 0px rgba(61, 61, 61, 0.75); }
+  .vega-map .info .fa-thumb-tack {
+    font-size: 24px;
+    position: absolute;
+    color: #2b542c;
+    left: 145px;
+    top: -25px;
+    text-shadow: 11px 11px 8px rgba(150, 150, 150, 0.73); }
+    .vega-map .info .fa-thumb-tack.pinned {
+      top: -10px;
+      text-shadow: 3px 0px 3px rgba(150, 150, 150, 0.73); }
 .vega-map .navigate {
   right: 5px;
   top: 5px;
@@ -52,6 +66,12 @@
     width: 10px;
     height: 30px;
     border-radius: 5px; }
+
+.vega-map-footer {
+  font-size: 10px;
+  text-align: center;
+  margin: 0 auto 15px;
+  width: 80%; }
 
 .dashboard h2 {
   text-align: center; }

@@ -38,8 +38,9 @@
                         feature="mapa.feature" features="mapa.features" geometry="data/{{ mapa.feature }}.topo.json" parse="mapa.parse"
                         data-title="{{ mapa.title }}" current="mapa.current" alternatives="mapa.alternatives" feature-labels="mapa.featureLabels"
                         scale="{{ mapa.scale }}" domain="mapa.domain[mapa.feature]" range="mapa.range"
-                        legend="mapa.legenda[mapa.feature]" on-close="remove($index)">
+                        legend="mapa.legenda[mapa.feature]" footer="mapa.fontes" on-close="remove($index)">
                     <div ng-show="mapa.info">
+                        <i class="fa fa-thumb-tack" ng-click="mapa.info.unpin()" ng-class="{pinned: mapa.info.pinned}"></i>
                         <h3>{{ mapa.info.localidade }}</h3>
                         <p>{{ mapa.info.label }}</p>
                     </div>

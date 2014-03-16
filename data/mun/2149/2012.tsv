@@ -1,1 +1,646 @@
 id	ibge	localidade	valor	label
+1	3500105	Adamantina	96.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 96,61
+2	3500204	Adolfo	81.05	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,05
+3	3500303	Aguaí	50.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,60
+4	3500402	Águas da Prata	46.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 46,15
+5	3500501	Águas de Lindóia	52.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 52,41
+6	3500600	Águas de São Pedro	131.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 131,97
+7	3500709	Agudos	66.39	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,39
+8	3500808	Alfredo Marcondes	72.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,56
+9	3500907	Altair	67.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,35
+10	3501004	Altinópolis	70.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,26
+11	3501103	Alto Alegre	71.69	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,69
+12	3501202	Álvares Florence	70.63	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,63
+13	3501301	Álvares Machado	74.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,75
+14	3501400	Álvaro de Carvalho	71.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,61
+15	3501509	Alvinlândia	68.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,48
+16	3501608	Americana	95.39	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 95,39
+17	3501707	Américo Brasiliense	64.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,21
+18	3501806	Américo de Campos	94.88	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 94,88
+19	3501905	Amparo	77.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,09
+20	3502002	Analândia	51.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,40
+21	3502101	Andradina	81.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,50
+22	3502200	Angatuba	55.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,99
+23	3502309	Anhembi	63.04	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,04
+24	3502408	Anhumas	72.64	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,64
+25	3502507	Aparecida	69.64	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,64
+26	3502606	Aparecida d'Oeste	82.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,67
+27	3502705	Apiaí	78.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,50
+28	3502804	Araçatuba	78.66	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,66
+29	3502903	Araçoiaba da Serra	80.14	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,14
+30	3503000	Aramina	49.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 49,60
+31	3503109	Arandu	67.71	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,71
+32	3503208	Araraquara	76.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,23
+33	3503307	Araras	68.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,94
+34	3503406	Arealva	72.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,45
+35	3503505	Areias	55.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,56
+36	3503604	Areiópolis	66.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,32
+37	3503703	Ariranha	74.93	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,93
+38	3503802	Artur Nogueira	56.30	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,30
+39	3503901	Arujá	83.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,10
+40	3504008	Assis	69.82	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,82
+41	3504107	Atibaia	77.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,61
+42	3504206	Auriflama	76.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,75
+43	3504305	Avaí	67.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,12
+44	3504404	Avanhandava	44.71	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 44,71
+45	3504503	Avaré	69.19	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,19
+46	3504602	Bady Bassitt	78.73	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,73
+47	3504701	Balbinos	112.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 112,12
+48	3504800	Bálsamo	76.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,45
+49	3504909	Bananal	64.18	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,18
+50	3505005	Barão de Antonina	88.27	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,27
+51	3505104	Barbosa	52.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 52,33
+52	3505203	Bariri	68.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,58
+53	3505302	Barra Bonita	78.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,40
+54	3505401	Barra do Turvo	67.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,99
+55	3505500	Barretos	77.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,67
+56	3505609	Barrinha	65.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,00
+57	3505708	Barueri	107.83	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 107,83
+58	3505807	Bastos	67.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,43
+59	3505906	Batatais	69.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,41
+60	3506003	Bauru	74.90	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,90
+61	3506102	Bebedouro	77.07	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,07
+62	3506201	Bento de Abreu	58.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,21
+63	3506300	Bernardino de Campos	56.80	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,80
+64	3506409	Bilac	57.59	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,59
+65	3506508	Birigui	73.84	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,84
+66	3506607	Biritiba Mirim	67.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,46
+67	3506706	Boa Esperança do Sul	59.30	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,30
+68	3506805	Bocaina	59.74	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,74
+69	3506904	Bofete	64.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,33
+70	3507001	Boituva	79.66	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,66
+71	3507100	Bom Jesus dos Perdões	50.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,94
+72	3507209	Borá	70.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,45
+73	3507308	Boracéia	62.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,11
+74	3507407	Borborema	72.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,46
+75	3507506	Botucatu	71.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,11
+76	3507605	Bragança Paulista	73.84	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,84
+77	3507704	Braúna	68.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,70
+78	3507803	Brodowski	52.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 52,67
+79	3507902	Brotas	58.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,06
+80	3508009	Buri	51.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,29
+81	3508108	Buritama	76.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,46
+82	3508207	Buritizal	30.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 30,17
+83	3508306	Cabrália Paulista	109.02	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 109,02
+84	3508405	Cabreúva	71.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,45
+85	3508504	Caçapava	76.59	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,59
+86	3508603	Cachoeira Paulista	70.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,33
+87	3508702	Caconde	63.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,70
+88	3508801	Cafelândia	78.30	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,30
+89	3508900	Caiabu	87.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,50
+90	3509007	Caieiras	87.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,17
+91	3509106	Caiuá	61.13	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,13
+92	3509205	Cajamar	80.74	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,74
+93	3509304	Cajobi	70.90	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,90
+94	3509403	Cajuru	63.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,29
+95	3509502	Campinas	71.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,99
+96	3509601	Campo Limpo Paulista	81.52	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,52
+97	3509700	Campos do Jordão	61.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,58
+98	3509809	Campos Novos Paulista	54.04	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,04
+99	3509908	Cananéia	72.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,32
+100	3510005	Cândido Mota	77.13	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,13
+101	3510104	Cândido Rodrigues	63.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,37
+102	3510203	Capão Bonito	71.62	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,62
+103	3510302	Capela do Alto	65.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,43
+104	3510401	Capivari	62.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,06
+105	3510500	Caraguatatuba	82.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,11
+106	3510609	Carapicuíba	76.73	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,73
+107	3510708	Cardoso	72.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,61
+108	3510807	Casa Branca	70.16	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,16
+109	3510906	Cássia dos Coqueiros	66.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,21
+110	3511003	Castilho	65.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,21
+111	3511102	Catanduva	84.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 84,92
+112	3511201	Catiguá	66.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,67
+113	3511300	Cedral	59.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,00
+114	3511409	Cerqueira César	81.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,12
+115	3511508	Cerquilho	70.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,17
+116	3511607	Cesário Lange	57.05	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,05
+117	3511706	Charqueada	59.54	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,54
+118	3557204	Chavantes	51.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,46
+119	3511904	Clementina	63.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,86
+120	3512001	Colina	62.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,41
+121	3512100	Colômbia	88.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,75
+122	3512209	Conchal	68.66	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,66
+123	3512308	Conchas	68.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,25
+124	3512407	Cordeirópolis	58.68	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,68
+125	3512506	Coroados	63.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,46
+126	3512605	Coronel Macedo	73.51	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,51
+127	3512704	Corumbataí	72.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,41
+128	3512803	Cosmópolis	58.73	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,73
+129	3512902	Cosmorama	72.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,26
+130	3513009	Cotia	87.44	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,44
+131	3513108	Cravinhos	57.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,17
+132	3513207	Cristais Paulista	65.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,00
+133	3513306	Cruzália	79.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,61
+134	3513405	Cruzeiro	79.88	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,88
+135	3513504	Cubatão	58.66	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,66
+136	3513603	Cunha	63.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,29
+137	3513702	Descalvado	66.53	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,53
+138	3513801	Diadema	76.88	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,88
+139	3513900	Divinolândia	67.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,42
+140	3514007	Dobrada	66.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,75
+141	3514106	Dois Córregos	61.90	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,90
+142	3514205	Dolcinópolis	93.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 93,48
+143	3514304	Dourado	61.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,40
+144	3514403	Dracena	84.71	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 84,71
+145	3514502	Duartina	81.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,56
+146	3514601	Dumont	62.95	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,95
+147	3514700	Echaporã	58.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,20
+148	3514809	Eldorado	70.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,42
+149	3514908	Elias Fausto	76.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,55
+150	3515004	Embu das Artes	66.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,15
+151	3515103	Embu-Guaçu	91.80	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 91,80
+152	3515202	Estrela d'Oeste	69.03	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,03
+153	3515301	Estrela do Norte	75.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,17
+154	3515400	Fartura	74.54	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,54
+155	3515509	Fernandópolis	89.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 89,37
+156	3515608	Fernando Prestes	75.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,11
+157	3515707	Ferraz de Vasconcelos	77.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,17
+158	3515806	Flora Rica	83.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,70
+159	3515905	Floreal	54.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,55
+160	3516002	Flórida Paulista	72.95	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,95
+161	3516101	Florínia	79.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,43
+162	3516200	Franca	78.69	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,69
+163	3516309	Francisco Morato	81.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,26
+164	3516408	Franco da Rocha	83.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,98
+165	3516507	Gabriel Monteiro	51.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,43
+166	3516606	Gália	72.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,00
+167	3516705	Garça	87.62	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,62
+168	3516804	Gastão Vidigal	74.68	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,68
+169	3516903	General Salgado	81.64	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,64
+170	3517000	Getulina	63.84	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,84
+171	3517109	Glicério	50.83	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,83
+172	3517208	Guaiçara	53.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 53,92
+173	3517307	Guaimbê	71.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,58
+174	3517406	Guaíra	72.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,45
+175	3517505	Guapiaçu	47.07	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 47,07
+176	3517604	Guapiara	81.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,15
+177	3517703	Guará	48.74	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 48,74
+178	3517802	Guaraçaí	63.51	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,51
+179	3517901	Guaraci	71.63	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,63
+180	3518008	Guarani d'Oeste	58.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,33
+181	3518107	Guarantã	49.28	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 49,28
+182	3518206	Guararapes	81.34	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,34
+183	3518305	Guararema	77.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,43
+184	3518404	Guaratinguetá	78.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,81
+185	3518503	Guareí	66.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,46
+186	3518602	Guariba	64.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,58
+187	3518701	Guarujá	57.72	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,72
+188	3518800	Guarulhos	82.78	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,78
+189	3518909	Guzolândia	76.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,99
+190	3519006	Herculândia	65.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,67
+191	3519105	Iacanga	65.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,35
+192	3519204	Iacri	62.59	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,59
+193	3519303	Ibaté	67.63	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,63
+194	3519402	Ibirá	58.65	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,65
+195	3519501	Ibirarema	49.72	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 49,72
+196	3519600	Ibitinga	66.39	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,39
+197	3519709	Ibiúna	75.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,45
+198	3519808	Icém	61.02	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,02
+199	3519907	Iepê	84.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 84,46
+200	3520004	Igaraçu do Tietê	57.57	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,57
+201	3520103	Igarapava	64.52	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,52
+202	3520202	Igaratá	82.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,15
+203	3520301	Iguape	75.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,00
+204	3520400	Ilhabela	76.59	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,59
+205	3520509	Indaiatuba	69.87	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,87
+206	3520608	Indiana	76.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,21
+207	3520707	Indiaporã	77.07	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,07
+208	3520806	Inúbia Paulista	76.02	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,02
+209	3520905	Ipaussu	99.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 99,86
+210	3521002	Iperó	59.49	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,49
+211	3521101	Ipeúna	65.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,48
+212	3521200	Iporanga	71.89	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,89
+213	3521309	Ipuã	65.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,25
+214	3521408	Iracemápolis	61.49	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,49
+215	3521507	Irapuã	71.69	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,69
+216	3521606	Irapuru	67.87	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,87
+217	3521705	Itaberá	68.64	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,64
+218	3521804	Itaí	73.84	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,84
+219	3521903	Itajobi	60.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,40
+220	3522000	Itaju	70.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,37
+221	3522109	Itanhaém	79.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,42
+222	3522208	Itapecerica da Serra	81.07	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,07
+223	3522307	Itapetininga	70.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,11
+224	3522406	Itapeva	83.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,33
+225	3522505	Itapevi	76.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,75
+226	3522604	Itapira	70.95	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,95
+227	3522703	Itápolis	70.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,60
+228	3522802	Itaporanga	69.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,92
+229	3522901	Itapuí	58.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,97
+230	3523008	Itapura	50.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,21
+231	3523107	Itaquaquecetuba	69.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,96
+232	3523206	Itararé	73.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,42
+233	3523305	Itariri	50.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,20
+234	3523404	Itatiba	76.30	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,30
+235	3523503	Itatinga	45.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 45,96
+236	3523602	Itirapina	57.38	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,38
+237	3523701	Itirapuã	56.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,55
+238	3523800	Itobi	46.74	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 46,74
+239	3523909	Itu	67.66	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,66
+240	3524006	Itupeva	71.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,98
+241	3524105	Ituverava	68.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,21
+242	3524204	Jaborandi	49.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 49,50
+243	3524303	Jaboticabal	71.18	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,18
+244	3524402	Jacareí	84.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 84,06
+245	3524501	Jaci	75.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,09
+246	3524600	Jacupiranga	73.13	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,13
+247	3524709	Jaguariúna	68.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,98
+248	3524808	Jales	90.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 90,99
+249	3524907	Jambeiro	51.77	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,77
+250	3525003	Jandira	71.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,98
+251	3525102	Jardinópolis	59.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,48
+252	3525201	Jarinu	82.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,40
+253	3525300	Jaú	74.01	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,01
+254	3525409	Jeriquara	60.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,23
+255	3525508	Joanópolis	52.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 52,76
+256	3525607	João Ramalho	56.05	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,05
+257	3525706	José Bonifácio	74.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,42
+258	3525805	Júlio Mesquita	79.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,61
+259	3525904	Jundiaí	96.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 96,61
+260	3526001	Junqueirópolis	83.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,33
+261	3526100	Juquiá	78.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,37
+262	3526209	Juquitiba	80.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,86
+263	3526308	Lagoinha	79.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,09
+264	3526407	Laranjal Paulista	55.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,23
+265	3526506	Lavínia	79.44	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,44
+266	3526605	Lavrinhas	53.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 53,60
+267	3526704	Leme	68.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,91
+268	3526803	Lençóis Paulista	71.79	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,79
+269	3526902	Limeira	78.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,76
+270	3527009	Lindóia	32.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 32,70
+271	3527108	Lins	78.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,94
+272	3527207	Lorena	64.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,60
+273	3527306	Louveira	54.71	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,71
+274	3527405	Lucélia	57.05	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,05
+275	3527504	Lucianópolis	76.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,11
+276	3527603	Luís Antônio	48.31	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 48,31
+277	3527702	Luiziânia	67.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,92
+278	3527801	Lupércio	72.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,15
+279	3527900	Lutécia	82.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,35
+280	3528007	Macatuba	76.44	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,44
+281	3528106	Macaubal	74.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,20
+282	3528205	Macedônia	73.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,81
+283	3528304	Magda	65.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,41
+284	3528403	Mairinque	65.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,92
+285	3528502	Mairiporã	64.51	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,51
+286	3528601	Manduri	54.82	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,82
+287	3528700	Marabá Paulista	70.73	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,73
+288	3528809	Maracaí	80.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,09
+289	3528908	Mariápolis	62.16	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,16
+290	3529005	Marília	79.14	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,14
+291	3529104	Marinópolis	85.71	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 85,71
+292	3529203	Martinópolis	77.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,21
+293	3529302	Matão	76.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,76
+294	3529401	Mauá	71.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,15
+295	3529500	Mendonça	72.64	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,64
+296	3529609	Meridiano	92.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 92,81
+297	3529708	Miguelópolis	64.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,12
+298	3529807	Mineiros do Tietê	74.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,00
+299	3529906	Miracatu	63.31	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,31
+300	3530003	Mira Estrela	77.78	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,78
+301	3530102	Mirandópolis	83.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,41
+302	3530201	Mirante do Paranapanema	77.54	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,54
+303	3530300	Mirassol	77.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,23
+304	3530409	Mirassolândia	64.22	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,22
+305	3530508	Mococa	71.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,70
+306	3530607	Mogi das Cruzes	81.68	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,68
+307	3530706	Mogi Guaçu	76.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,10
+308	3530805	Moji Mirim	68.51	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,51
+309	3530904	Mombuca	63.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,48
+310	3531001	Monções	110.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 110,67
+311	3531100	Mongaguá	81.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,12
+312	3531209	Monte Alegre do Sul	73.68	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,68
+313	3531308	Monte Alto	67.66	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,66
+314	3531407	Monte Aprazível	76.89	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,89
+315	3531506	Monte Azul Paulista	60.22	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,22
+316	3531605	Monte Castelo	83.24	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,24
+317	3531704	Monteiro Lobato	70.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,98
+318	3531803	Monte Mor	67.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,99
+319	3531902	Morro Agudo	53.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 53,94
+320	3532009	Morungaba	67.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,50
+321	3532108	Murutinga do Sul	68.28	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,28
+322	3532207	Narandiba	68.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,55
+323	3532306	Natividade da Serra	82.49	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,49
+324	3532405	Nazaré Paulista	65.69	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,69
+325	3532504	Neves Paulista	63.03	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,03
+326	3532603	Nhandeara	81.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,91
+327	3532702	Nipoã	60.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,41
+328	3532801	Nova Aliança	63.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,60
+329	3532900	Nova Europa	74.68	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,68
+330	3533007	Nova Granada	87.27	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,27
+331	3533106	Nova Guataporanga	76.04	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,04
+332	3533205	Nova Independência	85.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 85,37
+333	3533304	Nova Luzitânia	68.18	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,18
+334	3533403	Nova Odessa	87.88	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,88
+335	3533502	Novo Horizonte	71.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,70
+336	3533601	Nuporanga	59.13	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,13
+337	3533700	Ocauçu	63.78	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,78
+338	3533809	Óleo	66.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,91
+339	3533908	Olímpia	82.31	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,31
+340	3534005	Onda Verde	64.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,10
+341	3534104	Oriente	68.93	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,93
+342	3534203	Orindiúva	74.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,23
+343	3534302	Orlândia	75.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,29
+344	3534401	Osasco	86.28	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 86,28
+345	3534500	Oscar Bressane	73.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,00
+346	3534609	Osvaldo Cruz	89.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 89,32
+347	3534708	Ourinhos	77.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,70
+348	3534807	Ouro Verde	74.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,42
+349	3534906	Pacaembu	75.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,50
+350	3535002	Palestina	64.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,20
+351	3535101	Palmares Paulista	64.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,40
+352	3535200	Palmeira d'Oeste	82.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,17
+353	3535309	Palmital	82.34	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,34
+354	3535408	Panorama	66.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,06
+355	3535507	Paraguaçu Paulista	80.72	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,72
+356	3535606	Paraibuna	59.16	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,16
+357	3535705	Paraíso	71.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,58
+358	3535804	Paranapanema	64.95	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,95
+359	3535903	Paranapuã	79.38	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,38
+360	3536000	Parapuã	69.63	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,63
+361	3536109	Pardinho	77.99	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,99
+362	3536208	Pariquera-Açu	88.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,26
+363	3536307	Patrocínio Paulista	55.80	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,80
+364	3536406	Paulicéia	66.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,67
+365	3536505	Paulínia	64.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,10
+366	3536604	Paulo de Faria	66.27	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,27
+367	3536703	Pederneiras	74.64	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,64
+368	3536802	Pedra Bela	67.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,91
+369	3536901	Pedranópolis	63.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,81
+370	3537008	Pedregulho	59.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,20
+371	3537107	Pedreira	71.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,96
+372	3537206	Pedro de Toledo	55.24	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,24
+373	3537305	Penápolis	74.47	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,47
+374	3537404	Pereira Barreto	76.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,17
+375	3537503	Pereiras	58.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,98
+376	3537602	Peruíbe	82.62	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,62
+377	3537701	Piacatu	71.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,26
+378	3537800	Piedade	75.53	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,53
+379	3537909	Pilar do Sul	76.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,06
+380	3538006	Pindamonhangaba	74.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,25
+381	3538105	Pindorama	44.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 44,46
+382	3515186	Espírito Santo do Pinhal	70.30	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,30
+383	3538204	Pinhalzinho	61.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,96
+384	3538303	Piquerobi	60.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,23
+385	3538501	Piquete	55.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,26
+386	3538600	Piracaia	60.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,26
+387	3538709	Piracicaba	80.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,81
+388	3538808	Piraju	77.82	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,82
+389	3538907	Pirajuí	85.01	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 85,01
+390	3539004	Pirangi	88.54	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,54
+391	3539103	Pirapora do Bom Jesus	57.61	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,61
+392	3539202	Pirapozinho	79.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,29
+393	3539301	Pirassununga	71.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,40
+394	3539400	Piratininga	67.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,32
+395	3539509	Pitangueiras	70.38	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,38
+396	3539608	Planalto	61.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,40
+397	3539707	Platina	72.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,96
+398	3539806	Poá	103.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 103,76
+399	3539905	Poloni	79.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,25
+400	3540002	Pompéia	72.19	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,19
+401	3540101	Pongaí	70.14	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,14
+402	3540200	Pontal	60.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,48
+403	3540309	Pontes Gestal	60.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,50
+404	3540408	Populina	68.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,42
+405	3540507	Porangaba	61.93	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,93
+406	3540606	Porto Feliz	73.87	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,87
+407	3540705	Porto Ferreira	61.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,97
+408	3540804	Potirendaba	61.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,70
+409	3540903	Pradópolis	56.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,50
+410	3541000	Praia Grande	62.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,76
+411	3541109	Presidente Alves	77.89	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,89
+412	3541208	Presidente Bernardes	62.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,56
+413	3541307	Presidente Epitácio	78.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,20
+414	3541406	Presidente Prudente	82.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,92
+415	3541505	Presidente Venceslau	75.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,92
+416	3541604	Promissão	67.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,58
+417	3541703	Quatá	78.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,76
+418	3541802	Queiroz	81.53	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,53
+419	3541901	Queluz	44.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 44,96
+420	3542008	Quintana	75.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,00
+421	3542107	Rafard	73.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,50
+422	3542206	Rancharia	92.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 92,35
+423	3542305	Redenção da Serra	67.92	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,92
+424	3542404	Regente Feijó	75.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,29
+425	3542503	Reginópolis	48.77	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 48,77
+426	3542602	Registro	83.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,32
+427	3542701	Restinga	67.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,12
+428	3542800	Ribeira	96.34	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 96,34
+429	3542909	Ribeirão Bonito	62.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,50
+430	3543006	Ribeirão Branco	66.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,00
+431	3543105	Ribeirão Corrente	69.79	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,79
+432	3543204	Ribeirão do Sul	76.36	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,36
+433	3543303	Ribeirão Pires	86.27	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 86,27
+434	3543402	Ribeirão Preto	75.52	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,52
+435	3543501	Riversul	75.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,58
+436	3543600	Rifaina	71.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,70
+437	3543709	Rincão	80.19	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,19
+438	3543808	Rinópolis	59.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,76
+439	3543907	Rio Claro	69.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,91
+440	3544004	Rio das Pedras	57.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,91
+441	3544103	Rio Grande da Serra	65.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,67
+442	3544202	Riolândia	73.38	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,38
+443	3544301	Roseira	54.80	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,80
+444	3544400	Rubiácea	80.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,29
+445	3544509	Rubinéia	80.65	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,65
+446	3544608	Sabino	60.77	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,77
+447	3544707	Sagres	69.77	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,77
+448	3544806	Sales	70.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,56
+449	3544905	Sales Oliveira	50.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,10
+450	3545001	Salesópolis	81.47	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,47
+451	3545100	Salmourão	67.69	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,69
+452	3545209	Salto	74.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,97
+453	3545308	Salto de Pirapora	63.46	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,46
+454	3545407	Salto Grande	54.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,55
+455	3545506	Sandovalina	79.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,55
+456	3545605	Santa Adélia	70.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,81
+457	3545704	Santa Albertina	66.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,12
+458	3545803	Santa Bárbara d'Oeste	63.44	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,44
+459	3500550	Águas de Santa Bárbara	67.60	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,60
+460	3546009	Santa Branca	46.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 46,58
+461	3546108	Santa Clara d'Oeste	78.95	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,95
+462	3546207	Santa Cruz da Conceição	54.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,17
+463	3546306	Santa Cruz das Palmeiras	65.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,33
+464	3546405	Santa Cruz do Rio Pardo	69.55	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,55
+465	3546504	Santa Ernestina	69.47	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,47
+466	3546603	Santa Fé do Sul	81.31	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,31
+467	3546702	Santa Gertrudes	60.88	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,88
+468	3546801	Santa Isabel	79.59	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,59
+469	3546900	Santa Lucia	73.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,33
+470	3547007	Santa Maria da Serra	55.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,48
+471	3547106	Santa Mercedes	76.71	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,71
+472	3547403	Santa Rita d'Oeste	88.24	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,24
+473	3547502	Santa Rita do Passa Quatro	57.85	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,85
+474	3547601	Santa Rosa do Viterbo	77.65	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,65
+475	3547205	Santana da Ponte Pensa	98.18	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 98,18
+476	3547304	Santana de Parnaíba	79.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,12
+477	3547700	Santo Anastácio	78.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,33
+478	3547809	Santo André	88.18	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,18
+479	3547908	Santo Antonio da Alegria	57.48	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,48
+480	3548104	Santo Antonio do Jardim	80.52	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,52
+481	3548203	Santo Antonio do Pinhal	80.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,86
+482	3548005	Santo Antonio de Posse	59.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,25
+483	3548302	Santo Expedito	75.89	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,89
+484	3548401	Santópolis do Aguapeí	75.24	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,24
+485	3548500	Santos	76.67	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,67
+486	3548609	São Bento do Sapucaí	75.57	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,57
+487	3548708	São Bernardo do Campo	85.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 85,91
+488	3548807	São Caetano do Sul	122.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 122,81
+489	3548906	São Carlos	73.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,35
+490	3549003	São Francisco	62.02	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,02
+491	3549102	São João da Boa Vista	80.76	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,76
+492	3549201	São João das Duas Pontes	75.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,94
+493	3549300	São João do Pau d'Alho	92.08	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 92,08
+494	3549409	São Joaquim da Barra	80.57	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,57
+495	3549607	São José do Barreiro	70.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,09
+496	3549508	São José da Bela Vista	65.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,15
+497	3549706	São José do Rio Pardo	66.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,86
+498	3549805	São José do Rio Preto	78.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,29
+499	3549904	São José dos Campos	80.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,33
+500	3550001	São Luís do Paraitinga	69.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,43
+501	3550100	São Manuel	76.93	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,93
+502	3550209	São Miguel Arcanjo	66.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,50
+503	3550308	São Paulo	76.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,86
+504	3550407	São Pedro	54.36	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,36
+505	3550506	São Pedro do Turvo	71.50	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,50
+506	3550605	São Roque	66.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,20
+507	3550704	São Sebastião	75.34	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,34
+508	3550803	São Sebastião da Grama	57.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,45
+509	3550902	São Simão	78.78	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,78
+510	3551009	São Vicente	71.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,56
+511	3551108	Sarapuí	77.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,06
+512	3551207	Sarutaiá	60.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,10
+513	3551306	Sebastianópolis do Sul	80.65	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,65
+514	3551405	Serra Azul	68.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,81
+515	3551603	Serra Negra	68.01	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,01
+516	3551504	Serrana	66.08	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,08
+517	3551702	Sertãozinho	62.89	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,89
+518	3551801	Sete Barras	71.18	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,18
+519	3551900	Severínia	62.93	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 62,93
+520	3552007	Silveiras	50.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,17
+521	3552106	Socorro	64.88	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,88
+522	3552205	Sorocaba	80.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,56
+523	3552304	Sud Mennucci	78.02	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,02
+524	3552403	Sumaré	65.53	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,53
+525	3552502	Suzano	90.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 90,37
+526	3552601	Tabapuã	70.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,25
+527	3552700	Tabatinga	77.15	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,15
+528	3552809	Taboão da Serra	68.79	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,79
+529	3552908	Taciba	66.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,33
+530	3553005	Taguaí	59.36	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,36
+531	3553104	Taiaçu	71.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,75
+532	3553203	Taiúva	53.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 53,97
+533	3553302	Tambaú	69.31	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,31
+534	3553401	Tanabi	76.53	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,53
+535	3553500	Tapiraí	75.05	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,05
+536	3553609	Tapiratiba	57.02	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,02
+537	3553708	Taquaritinga	83.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,81
+538	3553807	Taquarituba	79.56	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,56
+539	3553906	Tarabaí	71.82	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,82
+540	3554003	Tatuí	72.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,00
+541	3554102	Taubaté	70.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,33
+542	3554201	Tejupá	69.63	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,63
+543	3554300	Teodoro Sampaio	76.13	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,13
+544	3554409	Terra Roxa	71.84	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,84
+545	3554508	Tietê	74.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,25
+546	3554607	Timburi	72.39	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,39
+547	3554706	Torrinha	54.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,40
+548	3554805	Tremembé	49.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 49,11
+549	3554904	Três Fronteiras	68.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,09
+550	3555000	Tupã	92.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 92,37
+551	3555109	Tupi Paulista	83.58	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,58
+552	3555208	Turiúba	67.95	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,95
+553	3555307	Turmalina	55.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,17
+554	3555406	Ubatuba	73.03	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,03
+555	3555505	Ubirajara	83.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,94
+556	3555604	Uchôa	56.90	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,90
+557	3555703	União Paulista	68.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 68,00
+558	3555802	Urânia	73.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,98
+559	3555901	Uru	106.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 106,12
+560	3556008	Urupês	96.85	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 96,85
+561	3556107	Valentim Gentil	72.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 72,94
+562	3556206	Valinhos	86.87	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 86,87
+563	3556305	Valparaíso	77.19	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,19
+564	3556404	Vargem Grande do Sul	69.26	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,26
+565	3556503	Várzea Paulista	57.80	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,80
+566	3556602	Vera Cruz	82.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,23
+567	3556701	Vinhedo	76.57	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,57
+568	3556800	Viradouro	57.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 57,43
+569	3556909	Vista Alegre do Alto	61.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,75
+570	3557006	Votorantim	60.81	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 60,81
+571	3557105	Votuporanga	83.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 83,97
+572	3556453	Vargem Grande Paulista	75.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,86
+573	3500758	Alambari	87.08	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,08
+574	3501152	Alumínio	63.94	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,94
+575	3502754	Araçariguama	56.72	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 56,72
+576	3503158	Arapeí	63.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,97
+577	3503950	Aspásia	58.54	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,54
+578	3505351	Barra do Chapéu	77.57	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,57
+579	3506359	Bertioga	76.45	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,45
+580	3507159	Bom Sucesso de Itararé	74.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,00
+581	3507456	Borebi	61.07	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,07
+582	3509254	Cajati	74.11	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,11
+583	3509452	Campina do Monte Alegre	75.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,17
+584	3510153	Canitar	58.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,33
+585	3513850	Dirce Reis	63.38	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 63,38
+586	3514924	Elisiário	75.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,35
+587	3514957	Embaúba	78.79	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,79
+588	3515129	Emilianópolis	51.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,09
+589	3515152	Engenheiro Coelho	79.51	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 79,51
+590	3515194	Espírito Santo do Turvo	71.12	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 71,12
+591	3557303	Estiva Gerbi	61.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,97
+592	3515350	Euclides da Cunha Paulista	88.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,35
+593	3518859	Guatapará	75.40	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,40
+594	3519055	Holambra	86.01	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 86,01
+595	3519071	Hortolândia	76.21	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 76,21
+596	3519253	Iaras	45.86	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 45,86
+597	3520426	Ilha Comprida	50.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 50,32
+598	3520442	Ilha Solteira	77.39	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,39
+599	3522158	Itaóca	105.85	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 105,85
+600	3522653	Itapirapuã Paulista	81.75	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,75
+601	3527256	Lourdes	82.47	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 82,47
+602	3528858	Marapoama	64.10	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,10
+603	3529658	Mesópolis	64.65	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,65
+604	3532058	Motuca	59.72	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,72
+605	3532827	Nova Campina	59.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 59,33
+606	3532843	Nova Canaã Paulista	80.23	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,23
+607	3533254	Novais	64.44	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,44
+608	3536257	Parisi	93.90	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 93,90
+609	3537156	Pedrinhas Paulista	69.59	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,59
+610	3540259	Pontalinda	61.34	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 61,34
+611	3540754	Potim	41.19	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 41,19
+612	3543253	Ribeirão Grande	77.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,97
+613	3544251	Rosana	86.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 86,43
+614	3545159	Saltinho	74.37	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,37
+615	3549250	São João de Iracema	74.74	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,74
+616	3549953	São Lourenço da Serra	78.91	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 78,91
+617	3548054	Santo Antonio do Aracanguá	75.79	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,79
+618	3552551	Suzanápolis	74.42	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 74,42
+619	3553856	Taquarivaí	119.20	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 119,20
+620	3553955	Tarumã	58.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 58,97
+621	3554656	Torre de Pedra	77.87	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,87
+622	3554953	Tuiuti	64.62	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,62
+623	3555356	Ubarana	69.96	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 69,96
+624	3556354	Vargem	66.36	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 66,36
+625	3557154	Zacarias	65.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 65,35
+626	3503356	Arco Íris	54.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 54,35
+627	3507753	Brejo Alegre	75.97	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 75,97
+628	3509957	Canas	51.98	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 51,98
+629	3540853	Pracinha	73.17	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,17
+630	3541059	Pratânia	88.06	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 88,06
+631	3541653	Quadra	73.29	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 73,29
+632	3546256	Santa Cruz da Esperança	67.27	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,27
+633	3547650	Santa Salete	77.05	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,05
+634	3556958	Vitória Brasil	49.35	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 49,35
+635	3521150	Ipiguá	64.32	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,32
+636	3553658	Taquaral	67.44	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 67,44
+637	3515657	Fernão	94.52	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 94,52
+638	3516853	Gavião Peixoto	70.09	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 70,09
+639	3525854	Jumirim	55.00	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 55,00
+640	3532157	Nantes	87.33	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 87,33
+641	3532868	Nova Castilho	81.25	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 81,25
+642	3534757	Ouroeste	77.70	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 77,70
+643	3536570	Paulistânia	64.84	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 64,84
+644	3543238	Ribeirão dos Índios	80.41	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,41
+645	3554755	Trabiju	80.43	Taxa de escolarização líquida  (15 a 17 anos) (Total das redes) (Em %): 80,43
