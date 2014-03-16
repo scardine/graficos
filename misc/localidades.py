@@ -49,13 +49,13 @@ def eixo1_chart1(localidade):
     vars = [masc, fem]
     chart = {
         "type": "ColumnChart",
-        "cssStyle": "height:350px; width:425px;",
+        "cssStyle": "height:425px; width:425px;",
         "data": {
             "cols": [
               {
-                "id": "valor",
-                "label": "Valor",
-                "type": "number",
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
               }
             ],
             "rows": [],
@@ -109,7 +109,7 @@ def eixo1_chart2(localidade):
 
     chart = {
         "type": "BarChart",
-        "cssStyle": "height:350px; width:425px;",
+        "cssStyle": "height:425px; width:425px;",
         "data": {
             "cols": [
               {
@@ -166,6 +166,66 @@ def eixo1_chart2(localidade):
 
     return chart
 
+def eixo1_chart4(localidade):
+    # Grafico PIP e PIP per Capta
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1016).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1017).one(),
+    ]
+
+    chart = {
+        "type": "ComboChart",
+        "cssStyle": "height:425px; width:425px;",
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"PIB e PIP per Capta",
+            "vAxes": {
+                0: { "logScale": False },
+                1: { "logScale": False },
+            },
+            "hAxis": {
+                "title": "Ano",
+                "showTextEvery": 4,
+            },
+            "seriesType": "bars",
+            "series":{
+               0:{"targetAxisIndex":0, "type": "bar"},
+               1:{"targetAxisIndex":1, "type": "line"},
+            },
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1'),
+            "type": "number",
+        })
+
+    # Populacao: dados de 2000 a 2013
+    for ano in range(2000, 2012):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
 def eixo1_chart3(localidade):
     # Grafico de populacao em idade escolar
     vars = [
@@ -176,13 +236,13 @@ def eixo1_chart3(localidade):
 
     chart = {
         "type": "ColumnChart",
-        "cssStyle": "height:350px; width:425px;",
+        "cssStyle": "height:425px; width:425px;",
         "data": {
             "cols": [
               {
-                "id": "valor",
-                "label": "Valor",
-                "type": "number",
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
               }
             ],
             "rows": [],
@@ -237,13 +297,13 @@ def eixo1_chart5(localidade):
 
     chart = {
         "type": "LineChart",
-        "cssStyle": "height:350px; width:425px;",
+        "cssStyle": "height:425px; width:425px;",
         "data": {
             "cols": [
               {
-                "id": "valor",
-                "label": "Valor",
-                "type": "number",
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
               }
             ],
             "rows": [],
@@ -298,13 +358,13 @@ def eixo1_chart6(localidade):
 
     chart = {
         "type": "ColumnChart",
-        "cssStyle": "height:350px; width:425px;",
+        "cssStyle": "height:425px; width:425px;",
         "data": {
             "cols": [
               {
-                "id": "valor",
-                "label": "Valor",
-                "type": "number",
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
               }
             ],
             "rows": [],
@@ -359,7 +419,7 @@ def eixo1_chart7(localidade):
 
     chart = {
         "type": "BarChart",
-        "cssStyle": "height:350px; width:425px;",
+        "cssStyle": "height:425px; width:425px;",
         "data": {
             "cols": [
               {
@@ -411,18 +471,61 @@ def eixo1_chart7(localidade):
     return chart
 
 
+def eixo1_chart8(localidade):
+    # Grafico Índice Paulista de Responsabilidade Social
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
+        for c in [1468,1469,1470,1471,1472,1473,1474]
+    ]
+
+    chart = {
+        "type": "PieChart",
+        "cssStyle": "height:425px; width:425px;",
+        "data": {
+            "cols": [
+              {
+                "label": "Variavel",
+                "type": "string",
+              },
+              {
+                "label": "Valor",
+                "type": "number",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Indice Paulista de Responsabilisade Social",
+            "legend": { "position": "bottom", "maxLines": len(vars)}
+        }
+    }
+
+    for var in vars:
+        label = " ".join(var.var.var_nome.split()[2:3])
+        c = [{"v": label}]
+        coluna = "d_2010"
+        f = getattr(var, coluna)
+        v = get_var(f)
+        c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
 for localidade in localidades:
 
-    # Eixo 1
+    # Eixo 2
     charts = []
     charts.append(eixo1_chart1(localidade))
     charts.append(eixo1_chart2(localidade))
     charts.append(eixo1_chart3(localidade))
+    charts.append(eixo1_chart4(localidade))
     charts.append(eixo1_chart5(localidade))
     charts.append(eixo1_chart6(localidade))
     charts.append(eixo1_chart7(localidade))
+    charts.append(eixo1_chart8(localidade))
 
-    with open('../data/charts/eixo-1-{}.json'.format(localidade['loc_cod']), 'wb') as o:
+    with open('../data/charts/eixo-2-{}.json'.format(localidade['loc_cod']), 'wb') as o:
         o.write(json.dumps(charts, indent=2))
 
 

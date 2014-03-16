@@ -54,7 +54,6 @@ angular.module('graficos.controllers', [])
                     $scope.localidades.forEach(function(el, i) {
                         if(el.loc_cod == '1000') {
                             $scope.localidade = el;
-                            console.log(el);
                         }
                     });
                 })

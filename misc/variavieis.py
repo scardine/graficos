@@ -11,8 +11,8 @@ with open("variaveis.csv") as i:
 
 r = []
 
-eixos = u"""Contexto Socioeconômico
-Educação Básica""".split("\n")
+eixos = u"""Educação Básica
+Contexto Socioeconômico""".split("\n")
 
 print u"{} eixos".format(len(eixos))
 for i, nome in enumerate(eixos):
