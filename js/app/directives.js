@@ -36,6 +36,7 @@ angular.module('graficos.directives', [])
                 range: '=',
                 current: '=',
                 alternatives: '=',
+                legend: '=',
                 remove: '&onClose'
             },
             link: function(scope, element, attrs) {
@@ -48,6 +49,7 @@ angular.module('graficos.directives', [])
                                 scope.data[elem.ibge] = elem;
                             });
                             scope.spec.data[0].url = curr;
+                            scope.spec.scales[0].domain = scope.domain;
                             scope.spec.data[1].format.feature = scope.feature;
                             scope.spec.data[1].url = 'data/'+scope.feature+'.topo.json';
                             parse(scope.spec);

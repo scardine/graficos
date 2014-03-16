@@ -40,6 +40,18 @@
       width: 180px;
       display: block;
       float: right; }
+.vega-map .legend {
+  position: absolute;
+  background-color: #fff;
+  bottom: 5px;
+  right: 5px;
+  text-align: right;
+  line-height: 30px; }
+  .vega-map .legend span.sample {
+    display: inline-block;
+    width: 10px;
+    height: 30px;
+    border-radius: 5px; }
 
 .dashboard h2 {
   text-align: center; }

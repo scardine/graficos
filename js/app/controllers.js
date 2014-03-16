@@ -100,7 +100,8 @@ angular.module('graficos.controllers', [])
                             mun: "Municipios",
                             ra: "Região Administrativa",
                             rm: "Regiões Metropolitanas"
-                        }
+                        },
+                        legenda: curr.legenda
                     })
                 }
             });

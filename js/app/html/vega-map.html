@@ -14,5 +14,11 @@
                 <a class="btn btn-default" ng-repeat="f in features" ng-click="setLevel(f)" ng-hide="feature == f">{{ featureLabels[f] }}</a>
             </div>
         </div>
+        <div class="legend">
+            <div ng-repeat="label in legend">
+                {{ label }}
+                <span class="sample" style="background-color: {{ range[$index] }}">&nbsp;</span>
+            </div>
+        </div>
     </div>
 </div>
