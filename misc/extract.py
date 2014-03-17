@@ -7,7 +7,7 @@ import csv
 import os
 from unidecode import unidecode
 
-db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@localhost:3307/simeducacao')
+db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@172.16.16.135:3306/simeducacao')
 db.tb_variavel.relate(
     'dados',
     db.tb_dados,

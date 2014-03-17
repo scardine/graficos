@@ -4,7 +4,7 @@ import json
 from unidecode import unidecode
 import sqlsoup
 
-db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@127.0.0.1:3307/simeducacao')
+db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@172.16.16.135:3306/simeducacao')
 db.tb_dados.relate('var', db.tb_variavel, primaryjoin=db.tb_dados.var_cod==db.tb_variavel.var_cod, foreign_keys=[db.tb_dados.var_cod])
 
 altura = 440
@@ -1319,6 +1319,1433 @@ def eixo1_chart6(localidade):
     return chart
 
 
+######## EIXO 4 - ENSINO FUNDAMENTAL - JASMIL #########
+
+def eixo4_chart1(localidade):
+    # Grafico Taxa de Escolarização Líquida da População de 15 a 17 Anos
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2149).one(),
+    ]
+    if localidade['loc_pai']:
+        pai = db.tb_localidade.filter_by(loc_cod=localidade['loc_pai']).one()
+        vars.append(
+            db.tb_dados.filter_by(loc_cod=pai.loc_cod, var_cod=2149).one(),
+        )
+        if pai.loc_pai:
+            vars.append(
+                db.tb_dados.filter_by(loc_cod=pai.loc_pai, var_cod=2149).one(),
+            )
+
+    chart = {
+        "type": "LineChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Taxa de Escolarização Líquida da População de 15 a 17 Anos",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "top", "maxLines": 1 }
+        }
+    }
+
+    for var in vars:
+        local = db.tb_localidade.filter_by(loc_cod=var.loc_cod).one()
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": u" - ".join([
+                var.var.var_nome.decode('iso-8859-1'),
+                local.loc_nome.decode('iso-8859-1'),
+            ]),
+            "type": "number",
+        })
+
+    # dados de 2002 a 2012
+    for ano in range(2002, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+
+def eixo4_chart2(localidade):
+    # Grafico Distorção Idade-Série no Ensino Médio, por Rede de Atendimento
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1876).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1874).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1875).one(),
+    ]
+
+    chart = {
+        "type": "LineChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Distorção Idade-Série no Ensino Médio, por Rede de Atendimento",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1').split()[2],
+            "type": "number",
+        })
+
+    # Dados de 2002 a 2012
+    for ano in range(2002, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo4_chart3(localidade):
+    # Distribuição das Matrículas no Ensino Médio, por Rede de Atendimento 2012
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
+        for c in [168,264,265]
+    ]
+
+    chart = {
+        "type": "PieChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "label": "Variavel",
+                "type": "string",
+              },
+              {
+                "label": "Valor",
+                "type": "number",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Distribuição das Matrículas no Ensino Médio, por Rede de Atendimento",
+            "legend": { "position": "bottom", "maxLines": len(vars)}
+        }
+    }
+
+    for var in vars:
+        label = var.var.var_nome.decode('iso-8859-1')
+        c = [{"v": label}]
+        coluna = "d_2012"
+        f = getattr(var, coluna)
+        v = get_var(f)
+        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo4_chart4(localidade):
+    # Grafico de Matrículas no Ensino Médio, por Rede de Atendimento
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=168).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=264).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=265).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no Ensino Médio, por Rede de Atendimento",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Populacao: dados de 2002 a 2012
+    for ano in range(2002, 2013):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo4_chart5(localidade):
+    # Grafico de Matrículas no Ensino Médio Diurno e Noturno
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2145).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2147).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no Ensino Médio Diurno e Noturno",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Populacao: dados de 2002 a 2012
+    for ano in range(2002, 2013):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo4_chart6(localidade):
+    # Grafico Taxa de Abandono do Ensino Médio, por Rede de Atendimento
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=181).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=180).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=179).one(),
+    ]
+
+    chart = {
+        "type": "LineChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Taxa de Abandono do Ensino Médio, por Rede de Atendimento",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1').split()[2],
+            "type": "number",
+        })
+
+    # Dados de 2002 a 2012
+    for ano in range(2000, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+
+
+def eixo4_chart7(localidade):
+    # Grafico Porcentagem de Alunos do Ensino Médio Adequados ou Avançados em Língua Portuguesa
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2152).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Porcentagem de Alunos do Ensino Médio Adequados ou Avançados em Língua Portuguesa",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "none" }
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1'),
+            "type": "number",
+        })
+
+    # Dados de 2007 a 2012
+    for ano in range(2007, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+
+
+
+
+def eixo4_chart8(localidade):
+    # Grafico Porcentagem de Alunos do Ensino Médio Adequados ou Avançados em Matemática
+
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2153).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Porcentagem de Alunos do Ensino Médio Adequados ou Avançados em Matemática",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "none" }
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1'),
+            "type": "number",
+        })
+
+    # Dados de 2007 a 2012
+    for ano in range(2007, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+
+########## FIM EIXO 4 - ENSINO FUNDAMENTAL ############
+
+
+########## EIXO 3 - Ensino Técnico - Marcelo ############
+
+# -*- coding: utf-8 -*-
+
+def eixo3_chart1(localidade):
+    # Grafico Participação dos Setores no Total do Valor Adicionado
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2164).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2173).one(),
+    ]
+
+    chart = {
+        "type": "LineChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "rede",
+                "label": "Rede",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no Ensino Técnico Integrado e Profissionalizante",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1').split()[2],
+            "type": "number",
+        })
+
+    for ano in range(2002, 2012):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo3_chart2(localidade):
+    # Grafico Matrículas em Creche por Rede de Atendimento 2009
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
+        for c in [2176,2174,2178,2180]
+    ]
+
+    chart = {
+        "type": "PieChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "label": "Variavel",
+                "type": "string",
+              },
+              {
+                "label": "Valor",
+                "type": "number",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no Ensino Técnico Integrado e Profissionalizante",
+            "legend": { "position": "bottom", "maxLines": len(vars)}
+        }
+    }
+
+    for var in vars:
+        label = var.var.var_nome.decode('iso-8859-1')
+        c = [{"v": label}]
+        coluna = "d_2009"
+        f = getattr(var, coluna)
+        v = get_var(f)
+        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo3_chart3(localidade):
+    # Grafico % de docentes com ensino superior ou magistério completo
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2167).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2165).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2169).one(),
+		db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2171).one()
+    ]
+
+    chart = {
+        "type": "BarChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "var",
+                "label": "Variavel",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no Ensino Técnico Integrado por Rede",
+            "isStacked": False,
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Dimensão",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    anos = [2012]
+    for ano in anos:
+        chart['data']['cols'].append({
+            "id": "p{}".format(ano),
+            "label": str(ano),
+            "type": "number",
+        })
+
+    for var in vars:
+        label = var.var.var_nome.split()[-1]
+        c = [{"v": label}]
+        for ano in anos:
+            coluna = "d_{}".format(ano)
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo3_chart4(localidade):
+    # Grafico % de docentes com ensino superior ou magistério completo
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2176).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2174).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2178).one(),
+		db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2180).one(),
+    ]
+
+    chart = {
+        "type": "BarChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "var",
+                "label": "Variavel",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no Ensino Técnico Profissionalizante por Redes",
+            "isStacked": False,
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Dimensão",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    anos = [2012]
+    for ano in anos:
+        chart['data']['cols'].append({
+            "id": "p{}".format(ano),
+            "label": str(ano),
+            "type": "number",
+        })
+
+    for var in vars:
+        label = var.var.var_nome.split()[-1]
+        c = [{"v": label}]
+        for ano in anos:
+            coluna = "d_{}".format(ano)
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+######## FIM EIXO 3 ENSINO TÉCNICO #############
+
+
+
+
+######## EIXO 5 - ENSINO EJA MARCELO ##########
+
+def eixo5_chart1(localidade):
+    # Grafico de populacao em idade escolar
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2201).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2203).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2205).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no EJA no Ensino Fundamental por Redes",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Populacao: dados de 2000 a 2013
+    for ano in range(2000, 2014):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo5_chart2(localidade):
+    # Grafico de populacao em idade escolar
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2208).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2210).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2212).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no EJA Integradas ao Ensino Profissionalizante",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Populacao: dados de 2000 a 2013
+    for ano in range(2000, 2014):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo5_chart3(localidade):
+    # Grafico de populacao em idade escolar
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2215).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2217).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2219).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no EJA no Ensino Médio por Redes",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+    })
+
+    # Populacao: dados de 2000 a 2013
+    for ano in range(2000, 2014):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo5_chart4(localidade):
+    # Grafico de populacao em idade escolar
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2222).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2224).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2226).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "matriculas",
+                "label": "Matriculas",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas no EJA Integradas ao Ensino Profissionalizante no Ensino Médio por Redes",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Populacao: dados de 2000 a 2013
+    for ano in range(2000, 2014):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+
+
+
+######## FIM EIXO 5 ##############
+
+######## EIXO 2 - ENSINO FUNDAMENTAL - LUIZA #########
+
+def eixo2_chart1(localidade):
+    # Distribuição das Matrículas na 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento 2012
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
+        for c in [268,266,267]
+    ]
+
+    chart = {
+        "type": "PieChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "label": "Variavel",
+                "type": "string",
+              },
+              {
+                "label": "Valor",
+                "type": "number",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Distribuição das Matrículas na 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento",
+            "legend": { "position": "bottom", "maxLines": len(vars)}
+        }
+    }
+
+    for var in vars:
+        label = var.var.var_nome.decode('iso-8859-1')
+        c = [{"v": label}]
+        coluna = "d_2012"
+        f = getattr(var, coluna)
+        v = get_var(f)
+        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo2_chart2(localidade):
+    # Gráfico de Distribuição das Matrículas na 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento 2012
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
+        for c in [273,271,272]
+    ]
+
+    chart = {
+        "type": "PieChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "label": "Variavel",
+                "type": "string",
+              },
+              {
+                "label": "Valor",
+                "type": "number",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Distribuição das Matrículas na 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento",
+            "legend": { "position": "bottom", "maxLines": len(vars)}
+        }
+    }
+
+    for var in vars:
+        label = var.var.var_nome.decode('iso-8859-1')
+        c = [{"v": label}]
+        coluna = "d_2012"
+        f = getattr(var, coluna)
+        v = get_var(f)
+        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo2_chart3(localidade):
+    # Grafico de Matrículas na 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento 1991-2012
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=268).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=266).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=267).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas na 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Matrículas: dados de 2000-2012
+    for ano in range(2000, 2013):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo2_chart4(localidade):
+    # Grafico de Matrículas na 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento 1991-2012
+
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=273).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=271).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=272).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Matrículas na 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento",
+            "isStacked": "true",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Matrículas",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[-4:]),
+            "type": "number",
+        })
+
+    # Matrículas: dados de 2000-2012
+    for ano in range(2000, 2013):
+        c = [{"v": str(ano)}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+
+def eixo2_chart5(localidade):
+    # Grafico de Taxa de Abandono da 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento 1999-2012
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=241).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=239).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=240).one(),
+    ]
+
+    chart = {
+        "type": "LineChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Taxa de Abandono da 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1').split()[2],
+            "type": "number",
+        })
+
+    # Dados de 2000-2012
+    for ano in range(2000, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo2_chart6(localidade):
+    # Grafico de Taxa de Abandono da 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento 1999-2012
+
+    vars = [
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=256).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=254).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=255).one(),
+    ]
+
+    chart = {
+        "type": "LineChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "ano",
+                "label": "Ano",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Taxa de Abandono da 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento",
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    for var in vars:
+        chart['data']['cols'].append({
+            "id": "v{}".format(var.var_cod),
+            "label": var.var.var_nome.decode('iso-8859-1').split()[2],
+            "type": "number",
+        })
+
+    # Dados de 2000-2012
+    for ano in range(2000, 2013):
+        c = [{"v": ano}]
+        coluna = "d_{}".format(ano)
+        for var in vars:
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo2_chart7(localidade):
+    # Grafico Porcentagem de Alunos do 5º Ano que Atingiram o Nível Adequado ou Avançado na Prova Brasil, por Rede de Atendimento 2007-2011
+    vars = [
+		db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2098).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2102).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2100).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2104).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "var",
+                "label": "Variavel",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Porcentagem de Alunos do 5º Ano que Atingiram o Nível Adequado ou Avançado na Prova Brasil, por Rede de Atendimento",
+            "isStacked": False,
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    anos = [2007, 2011]
+    for ano in anos:
+        chart['data']['cols'].append({
+            "id": "p{}".format(ano),
+            "label": str(ano),
+            "type": "number",
+        })
+
+    for var in vars:
+        label = var.var.var_nome.split()[-1]
+        c = [{"v": label}]
+        for ano in anos:
+            coluna = "d_{}".format(ano)
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+def eixo2_chart8(localidade):
+    # Grafico Porcentagem de Alunos do 9º Ano que Atingiram o Nível Adequado ou Avançado na Prova Brasil, por Rede de Atendimento 2007-2011
+
+    vars = [
+		db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2099).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2103).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2101).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2105).one(),
+    ]
+
+    chart = {
+        "type": "ColumnChart",
+        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
+        "data": {
+            "cols": [
+              {
+                "id": "var",
+                "label": "Variavel",
+                "type": "string",
+              }
+            ],
+            "rows": [],
+        },
+        "options": {
+            "title": u"Porcentagem de Alunos do 9º Ano que Atingiram o Nível Adequado ou Avançado na Prova Brasil, por Rede de Atendimento",
+            "isStacked": False,
+            "fill": 20,
+            "displayExactValues": True,
+            "vAxis": {
+                "title": u"Em %",
+                "gridlines": {
+                    "count": 6
+                }
+            },
+            "hAxis": {
+                "title": "Ano"
+            },
+            "formatters": {},
+            "displayed": True,
+            "legend": { "position": "bottom", "maxLines": 2}
+        }
+    }
+
+    anos = [2007, 2011]
+    for ano in anos:
+        chart['data']['cols'].append({
+            "id": "p{}".format(ano),
+            "label": str(ano),
+            "type": "number",
+        })
+
+    for var in vars:
+        label = var.var.var_nome.split()[-1]
+        c = [{"v": label}]
+        for ano in anos:
+            coluna = "d_{}".format(ano)
+            f = getattr(var, coluna)
+            v = get_var(f)
+            c.append({"v": v, "f": f.decode('iso-8859-1')})
+        chart['data']['rows'].append({"c": c})
+
+    return chart
+
+########## FIM EIXO 2 ###############
+
+
+
+
+###### fim dos modelos dos gráficos ###########
+
 for localidade in localidades:
     local = localidade['loc_nome'].decode('iso-8859-1')
     print u"Processando {l[loc_cod]} {n}...".format(l=localidade, n=local)
@@ -1364,3 +2791,54 @@ for localidade in localidades:
 
 
 
+ # Eixo 2
+    charts = []
+    charts.append(eixo2_chart1(localidade))
+    charts.append(eixo2_chart2(localidade))
+    charts.append(eixo2_chart3(localidade))
+    charts.append(eixo2_chart4(localidade))
+    charts.append(eixo2_chart5(localidade))
+    charts.append(eixo2_chart6(localidade))
+    charts.append(eixo2_chart7(localidade))
+    charts.append(eixo2_chart8(localidade))
+
+    with open('../data/charts/2-{}.json'.format(localidade['loc_cod']), 'wb') as o:
+        o.write(json.dumps(charts, indent=2))
+
+
+
+ # Eixo 3
+    charts = []
+    charts.append(eixo3_chart1(localidade))
+    charts.append(eixo3_chart2(localidade))
+    charts.append(eixo3_chart3(localidade))
+    charts.append(eixo3_chart4(localidade))
+
+    with open('../data/charts/3-{}.json'.format(localidade['loc_cod']), 'wb') as o:
+        o.write(json.dumps(charts, indent=2))
+
+
+
+ # Eixo 4
+    charts = []
+    charts.append(eixo4_chart1(localidade))
+    charts.append(eixo4_chart2(localidade))
+    charts.append(eixo4_chart3(localidade))
+    charts.append(eixo4_chart4(localidade))
+    charts.append(eixo4_chart5(localidade))
+    charts.append(eixo4_chart6(localidade))
+    charts.append(eixo4_chart7(localidade))
+    charts.append(eixo4_chart8(localidade))
+
+    with open('../data/charts/4-{}.json'.format(localidade['loc_cod']), 'wb') as o:
+        o.write(json.dumps(charts, indent=2))
+
+ # Eixo 5
+    charts = []
+    charts.append(eixo5_chart1(localidade))
+    charts.append(eixo5_chart2(localidade))
+    charts.append(eixo5_chart3(localidade))
+    charts.append(eixo5_chart4(localidade))
+
+    with open('../data/charts/5-{}.json'.format(localidade['loc_cod']), 'wb') as o:
+        o.write(json.dumps(charts, indent=2))
