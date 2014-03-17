@@ -106,7 +106,10 @@
   .variaveis, .localidades {
     padding: 15px;
   }
-  .localidades {
+  .lista {
+    height: 200px;
+    overflow: scroll;
+    border: 1px solid #dddddd;
     a.local {
       display: block;
       text-decoration: none;
@@ -116,6 +119,16 @@
         text-decoration: none;
         background-color: #e1edf7;
       }
+    }
+    &.municipios a.local {
+      width: 32%;
+      margin-right: 1%;
+      float: left;
+    }
+    &.ra a.local {
+      width: 49%;
+      margin-right: 1%;
+      float: left;
     }
   }
 }

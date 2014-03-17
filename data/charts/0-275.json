@@ -1,0 +1,698 @@
+[
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Privada exceto Conveniada"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Municipal"
+            }, 
+            {
+              "f": "64", 
+              "v": 64.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Conveniada"
+            }, 
+            {
+              "f": "20", 
+              "v": 20.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Redes Estadual e Federal"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "label": "Variavel"
+        }, 
+        {
+          "type": "number", 
+          "label": "Valor"
+        }
+      ]
+    }, 
+    "type": "PieChart", 
+    "options": {
+      "legend": {
+        "position": "bottom", 
+        "maxLines": 4
+      }, 
+      "title": "Matr\u00edculas em Pr\u00e9-escola por Rede de Atendimento"
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Privada exceto Conveniada"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Municipal"
+            }, 
+            {
+              "f": "47", 
+              "v": 47.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Conveniada"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Redes Estadual e Federal"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "label": "Variavel"
+        }, 
+        {
+          "type": "number", 
+          "label": "Valor"
+        }
+      ]
+    }, 
+    "type": "PieChart", 
+    "options": {
+      "legend": {
+        "position": "bottom", 
+        "maxLines": 4
+      }, 
+      "title": "Matr\u00edculas em Pr\u00e9-escola por Rede de Atendimento 2012"
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "84", 
+              "v": "84"
+            }, 
+            {
+              "f": "-", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "52", 
+              "v": "52"
+            }, 
+            {
+              "f": "-", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "35", 
+              "v": "35"
+            }, 
+            {
+              "f": "-", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "47", 
+              "v": "47"
+            }, 
+            {
+              "f": "-", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2016
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "26", 
+              "v": "26"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2017
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "27", 
+              "v": "27"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2018
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "28", 
+              "v": "28"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2019
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "28", 
+              "v": "28"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2020
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "29", 
+              "v": "29"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2064", 
+          "label": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Redes P\u00fablica e Conveniada"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2061", 
+          "label": "Matr\u00edcula Inicial na Pr\u00e9-escola \u0096 Rede Privada exceto Conveniada"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2068", 
+          "label": "Demanda Potencial de Vagas na Pr\u00e9-escola"
+        }
+      ]
+    }, 
+    "type": "ColumnChart", 
+    "options": {
+      "isStacked": "true", 
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "Matriculas em Pr\u00e9-escola por Rede e Demanda Potencial", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "Matr\u00edculas"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "140,00", 
+              "v": "140.00"
+            }, 
+            {
+              "f": "95,92", 
+              "v": "95.92"
+            }, 
+            {
+              "f": "101,38", 
+              "v": "101.38"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "89,66", 
+              "v": "89.66"
+            }, 
+            {
+              "f": "94,04", 
+              "v": "94.04"
+            }, 
+            {
+              "f": "99,50", 
+              "v": "99.50"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "62,50", 
+              "v": "62.50"
+            }, 
+            {
+              "f": "93,82", 
+              "v": "93.82"
+            }, 
+            {
+              "f": "92,76", 
+              "v": "92.76"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "87,04", 
+              "v": "87.04"
+            }, 
+            {
+              "f": "94,12", 
+              "v": "94.12"
+            }, 
+            {
+              "f": "94,58", 
+              "v": "94.58"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2066", 
+          "label": "Matr\u00edculas na Pr\u00e9-escola em Rela\u00e7\u00e3o \u00e0 Popula\u00e7\u00e3o de 4 a 5 Anos - Lucian\u00f3polis"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2066", 
+          "label": "Matr\u00edculas na Pr\u00e9-escola em Rela\u00e7\u00e3o \u00e0 Popula\u00e7\u00e3o de 4 a 5 Anos - Regi\u00e3o Administrativa de Bauru"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2066", 
+          "label": "Matr\u00edculas na Pr\u00e9-escola em Rela\u00e7\u00e3o \u00e0 Popula\u00e7\u00e3o de 4 a 5 Anos - Total do Estado de S\u00e3o Paulo"
+        }
+      ]
+    }, 
+    "type": "LineChart", 
+    "options": {
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "Taxa de Atendimento a Pr\u00e9-escola", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "Taxa de atendimento"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2069", 
+          "label": "Docentes de Pr\u00e9-escola com Ensino Superior ou Magist\u00e9rio Completo"
+        }
+      ]
+    }, 
+    "type": "BarChart", 
+    "options": {
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "% de docentes com ensino superior ou magist\u00e9rio completo", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "% de docentes"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "14,00", 
+              "v": "14.00"
+            }, 
+            {
+              "f": "13,19", 
+              "v": "13.19"
+            }, 
+            {
+              "f": "15,11", 
+              "v": "15.11"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "17,33", 
+              "v": "17.33"
+            }, 
+            {
+              "f": "12,72", 
+              "v": "12.72"
+            }, 
+            {
+              "f": "14,38", 
+              "v": "14.38"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "11,67", 
+              "v": "11.67"
+            }, 
+            {
+              "f": "12,51", 
+              "v": "12.51"
+            }, 
+            {
+              "f": "12,96", 
+              "v": "12.96"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "7,83", 
+              "v": "7.83"
+            }, 
+            {
+              "f": "10,17", 
+              "v": "10.17"
+            }, 
+            {
+              "f": "12,36", 
+              "v": "12.36"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2070", 
+          "label": "N\u00famero M\u00e9dio de Alunos por Docente \u0096 Pr\u00e9-escola - Lucian\u00f3polis"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2070", 
+          "label": "N\u00famero M\u00e9dio de Alunos por Docente \u0096 Pr\u00e9-escola - Regi\u00e3o Administrativa de Bauru"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2070", 
+          "label": "N\u00famero M\u00e9dio de Alunos por Docente \u0096 Pr\u00e9-escola - Total do Estado de S\u00e3o Paulo"
+        }
+      ]
+    }, 
+    "type": "ColumnChart", 
+    "options": {
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "N\u00famero m\u00e9dio de alunos por docente", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "alunos/docente"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }
+]

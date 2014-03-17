@@ -12,34 +12,71 @@ angular.module('graficos.controllers', [])
             $scope.menu_var = true;
             $scope.filtro = {
                 $: '',
-                loc_nivel: 70
+                loc_nivel: 99
             };
+
+            $scope.eixo = 0;
+            $scope.eixos = [
+                "Educação Infantil - Pré-escola",
+                "Educação Infantil - Creche",
+                "Fundamental",
+                "Ensino Técnico",
+                "Ensino Médio",
+                "Educação de Jovens e Adultos",
+                "Condições Socioeconômicas"
+            ];
+
 
             var updateCharts = function(curr, prev) {
                 if(!curr) return;
-                var node = $scope.item.currentNode,
-                    local = $scope.localidade.loc_cod;
-                if(!node || !local) {
-                    console.log(node, local);
+                var old_eixo, old_local;
+                if(typeof curr == 'number') {
+                    old_eixo = prev;
+                    old_local = $scope.localidade.loc_cod;
+                } else {
+                    old_eixo = $scope.eixo;
+                    old_local = prev;
+                }
+                var local = $scope.localidade.loc_cod;
+                if(!local) {
+                    console.log(local);
                     return;
                 }
-                $http({method: 'GET', url: 'data/charts/'+node.id+'-'+local+'.json'})
+                var old_charts = $scope.charts;
+
+                $http({method: 'GET', url: 'data/charts/'+$scope.eixo+'-'+local+'.json'})
                     .success(function (data, status, headers, config) {
                         $scope.charts = data;
+                    })
+                    .error(function (data, status, headers, config) {
+                        alert("Erro carregando dados.");
+                        $scope.charts = [];
+                        $scope.eixo = old_eixo;
                     });
             };
-            $scope.$watch('item.currentnode', updateCharts);
+            $scope.$watch('eixo', updateCharts);
             $scope.$watch('localidade', updateCharts);
 
             $scope.setLocal = function(local) {
                 $scope.localidade = local;
+                if(local.loc_cod == 1000) {
+                    $scope.busca = false;
+                    $scope.filtro.loc_nivel = 99;
+                } else {
+                    $scope.busca = true;
+                }
+            };
+            $scope.setNivel = function(nivel) {
+                $scope.filtro.loc_nivel = nivel;
+                if(nivel != 99) {
+                    $scope.busca = true;
+                }
             };
 
             $http({method: 'GET', url: 'data/variaveis.json'})
                 .success(function (data, status, headers, config) {
                     $scope.data = data.menu;
                     $scope.lista = [data.menu[0]];
-                    $scope.item.currentNode = data.menu[0];
                 })
                 .error(function (data, status, headers, config) {
                     $scope.data = {
@@ -53,7 +90,8 @@ angular.module('graficos.controllers', [])
                     $scope.localidades = data.lista;
                     $scope.localidades.forEach(function(el, i) {
                         if(el.loc_cod == '1000') {
-                            $scope.localidade = el;
+                            $scope.total = $scope.localidade = el;
+                            $scope.busca = false;
                         }
                     });
                 })

@@ -11,53 +11,51 @@
 <body>
     <div class="container dashboard">
         <div class="row" ng-controller="menuControllerDashboards">
-            <div class="col-lg-12">
-                <div class="panel panel-default">
-                    <h2>{{ item.currentNode.nome }} - {{ localidade.loc_nome }}</h2>
-                </div>
-            </div>
-            <div class="col-lg-3">
-                <ul class="nav nav-tabs">
-                    <li ng-class="{active: menu_var}"><a ng-click="menu_var = true">Variáveis</a></li>
-                    <li ng-class="{active: !menu_var}"><a ng-click="menu_var = false">Localidades</a></li>
-                </ul>
-                <div class="panel panel-default menu-esquerda">
-                    <div class="variaveis" ng-show="menu_var">
-                        <div angular-treeview="true" tree-id="item" tree-model="data" tree-data="data"
-                             node-id="id" node-label="nome" node-children="itens">
-                        </div>
-                    </div>
-                    <div class="localidades" ng-hide="menu_var">
+            <div class="panel panel-default clearfix">
+                <div class="col-lg-12">
+                    <div class="col-lg-3">
+                        <div>Eixo:</div>
                         <form>
+                            <select ng-model="eixo" class="form-control">
+                                <option ng-repeat="eixo in eixos" ng-value="$index" ng-selected="selected">{{ eixo }}</option>
+                            </select>
+                        </form>
+                    </div>
+                    <div class="col-lg-7 col-lg-offset-1">
+                        <div>Localidade:</div>
+                        <ul class="nav nav-pills">
+                            <li ng-class="{active: filtro.loc_nivel==99}">
+                                <a ng-click="setLocal(total)">Total do Estado</a>
+                            </li>
+                            <li ng-class="{active: filtro.loc_nivel==30}">
+                                <a ng-click="setNivel(30)">Regioes Metropolitanas</a>
+                            </li>
+                            <li ng-class="{active: filtro.loc_nivel==10}">
+                                <a ng-click="setNivel(10)">Regioes Administrativas</a>
+                            </li>
+                            <li ng-class="{active: filtro.loc_nivel==70}">
+                                <a ng-click="setNivel(70)">Municipios</a>
+                            </li>
+                        </ul>
+                        <form ng-show="busca">
                             <div class="input-group">
                                 <input class="form-control" type="text" ng-model="filtro.$" placeholder="Busca">
-                                <span class="input-group-btn">
-                                    <button class="btn btn-default" type="button" ng-click="filtro.$ = ''" title="Limpar filtro"><i class="fa fa-times"></i></button>
-                                </span>
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="button" ng-click="filtro.$ = ''" title="Limpar filtro"><i class="fa fa-times"></i></button>
+                            </span>
                             </div>
-                            <label class="radio">
-                                <input type="radio" ng-model="filtro.loc_nivel" value="70">
-                                Municipios
-                            </label>
-                            <label class="radio">
-                                <input type="radio" ng-model="filtro.loc_nivel" value="10">
-                                Regiões Administrativas
-                            </label>
-                            <label class="radio">
-                                <input type="radio" ng-model="filtro.loc_nivel" value="30">
-                                Regiões Metropolitanas
-                            </label>
-                            <label class="radio">
-                                <input type="radio" ng-model="filtro.loc_nivel" value="0">
-                                Tudo
-                            </label>
+                            <div class="lista" ng-class="{municipios: filtro.loc_nivel==70, ra: filtro.loc_nivel==10}">
+                                <a class="local" ng-repeat="local in localidades | filter: filtro | orderBy:['loc_nivel','nome']" ng-click="setLocal(local)">{{ local.loc_nome }}</a>
+                            </div>
                         </form>
-                        <a class="local" ng-repeat="local in localidades | filter: filtro | orderBy:['loc_nivel','nome']" ng-click="setLocal(local)">{{ local.loc_nome }}</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-9">
-                <div ng-class="{'col-lg-6': item.currentNode.id.indexOf('eixo-')==0}" ng-repeat="chart in charts">
+            <div>
+                <h2>{{ eixos[eixo] }} - {{ localidade.loc_nome }}</h2>
+            </div>
+            <div class="col-lg-12">
+                <div class="col-lg-6" ng-repeat="chart in charts">
                     <div class="panel panel-default">
                         <div google-chart chart="chart" style="{{chart.cssStyle}}"></div>
                     </div>

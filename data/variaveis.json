@@ -17856,9 +17856,9 @@
                 "mun"
               ], 
               "domain": {
-                "rm": [], 
-                "mun": [], 
-                "ra": []
+                "rm": [0, 6], 
+                "mun": [0, 6], 
+                "ra": [0, 6]
               }, 
               "nome": "\u00cdndice Paulista de Responsabilidade Social \u2013 IPRS", 
               "legenda": {

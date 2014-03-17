@@ -1,0 +1,719 @@
+[
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Rede Privada exceto Conveniadas"
+            }, 
+            {
+              "f": "3", 
+              "v": 3.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Rede Municipal"
+            }, 
+            {
+              "f": "192", 
+              "v": 192.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Rede Conveniada"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Redes Estadual e Federal"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "label": "Variavel"
+        }, 
+        {
+          "type": "number", 
+          "label": "Valor"
+        }
+      ]
+    }, 
+    "type": "PieChart", 
+    "options": {
+      "legend": {
+        "position": "bottom", 
+        "maxLines": 4
+      }, 
+      "title": "Matr\u00edculas em Creche por Rede de Atendimento"
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Rede Privada exceto Conveniadas"
+            }, 
+            {
+              "f": "6", 
+              "v": 6.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Rede Municipal"
+            }, 
+            {
+              "f": "493", 
+              "v": 493.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Rede Conveniada"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": "Matr\u00edcula Inicial na Creche \u0096 Redes Estadual e Federal"
+            }, 
+            {
+              "f": "-", 
+              "v": 0.0
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "label": "Variavel"
+        }, 
+        {
+          "type": "number", 
+          "label": "Valor"
+        }
+      ]
+    }, 
+    "type": "PieChart", 
+    "options": {
+      "legend": {
+        "position": "bottom", 
+        "maxLines": 4
+      }, 
+      "title": "Matr\u00edculas em Pr\u00e9-escola por Rede de Atendimento 2012"
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "192", 
+              "v": "192"
+            }, 
+            {
+              "f": "3", 
+              "v": "3"
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "326", 
+              "v": "326"
+            }, 
+            {
+              "f": "5", 
+              "v": "5"
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "348", 
+              "v": "348"
+            }, 
+            {
+              "f": "8", 
+              "v": "8"
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "493", 
+              "v": "493"
+            }, 
+            {
+              "f": "6", 
+              "v": "6"
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2016
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "961", 
+              "v": "961"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2017
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "955", 
+              "v": "955"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2018
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "950", 
+              "v": "950"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2019
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "944", 
+              "v": "944"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2020
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "", 
+              "v": 0
+            }, 
+            {
+              "f": "937", 
+              "v": "937"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2049", 
+          "label": "Matr\u00edcula Inicial na Creche \u0096 Rede P\u00fablica e Conveniada"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2045", 
+          "label": "Matr\u00edcula Inicial na Creche \u0096 Rede Privada exceto Conveniadas"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2053", 
+          "label": "Demanda Potencial de Vagas na Creche"
+        }
+      ]
+    }, 
+    "type": "ColumnChart", 
+    "options": {
+      "isStacked": "true", 
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "Matriculas em Creche por Rede e Demanda Potencial", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "Matr\u00edculas"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "10,48", 
+              "v": "10.48"
+            }, 
+            {
+              "f": "37,82", 
+              "v": "37.82"
+            }, 
+            {
+              "f": "25,40", 
+              "v": "25.40"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "18,07", 
+              "v": "18.07"
+            }, 
+            {
+              "f": "37,97", 
+              "v": "37.97"
+            }, 
+            {
+              "f": "29,69", 
+              "v": "29.69"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "19,23", 
+              "v": "19.23"
+            }, 
+            {
+              "f": "39,56", 
+              "v": "39.56"
+            }, 
+            {
+              "f": "34,75", 
+              "v": "34.75"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "26,66", 
+              "v": "26.66"
+            }, 
+            {
+              "f": "44,26", 
+              "v": "44.26"
+            }, 
+            {
+              "f": "37,37", 
+              "v": "37.37"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2051", 
+          "label": "Matr\u00edculas na Creche em Rela\u00e7\u00e3o \u00e0 Popula\u00e7\u00e3o de 0 a 3 Anos - Ibat\u00e9"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2051", 
+          "label": "Matr\u00edculas na Creche em Rela\u00e7\u00e3o \u00e0 Popula\u00e7\u00e3o de 0 a 3 Anos - Regi\u00e3o Administrativa Central"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2051", 
+          "label": "Matr\u00edculas na Creche em Rela\u00e7\u00e3o \u00e0 Popula\u00e7\u00e3o de 0 a 3 Anos - Total do Estado de S\u00e3o Paulo"
+        }
+      ]
+    }, 
+    "type": "LineChart", 
+    "options": {
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "Taxa de Atendimento a Pr\u00e9-escola", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "Taxa de atendimento"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "93,33", 
+              "v": "93.33"
+            }, 
+            {
+              "f": "-", 
+              "v": 0
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "95,45", 
+              "v": "95.45"
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "95,56", 
+              "v": "95.56"
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "93,42", 
+              "v": "93.42"
+            }, 
+            {
+              "f": "100,00", 
+              "v": "100.00"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2054", 
+          "label": "Docentes de Creche com Ensino Superior ou Magist\u00e9rio Completo"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2055", 
+          "label": "Auxiliares de Creche com Ensino M\u00e9dio Completo"
+        }
+      ]
+    }, 
+    "type": "BarChart", 
+    "options": {
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "% de docentes com ensino superior ou magist\u00e9rio completo", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "% de docentes"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }, 
+  {
+    "cssStyle": "height:440px; width:570px;", 
+    "data": {
+      "rows": [
+        {
+          "c": [
+            {
+              "v": 2009
+            }, 
+            {
+              "f": "5,91", 
+              "v": "5.91"
+            }, 
+            {
+              "f": "6,16", 
+              "v": "6.16"
+            }, 
+            {
+              "f": "6,36", 
+              "v": "6.36"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2010
+            }, 
+            {
+              "f": "8,07", 
+              "v": "8.07"
+            }, 
+            {
+              "f": "5,83", 
+              "v": "5.83"
+            }, 
+            {
+              "f": "6,48", 
+              "v": "6.48"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2011
+            }, 
+            {
+              "f": "5,93", 
+              "v": "5.93"
+            }, 
+            {
+              "f": "5,69", 
+              "v": "5.69"
+            }, 
+            {
+              "f": "6,78", 
+              "v": "6.78"
+            }
+          ]
+        }, 
+        {
+          "c": [
+            {
+              "v": 2012
+            }, 
+            {
+              "f": "6,40", 
+              "v": "6.40"
+            }, 
+            {
+              "f": "5,51", 
+              "v": "5.51"
+            }, 
+            {
+              "f": "6,64", 
+              "v": "6.64"
+            }
+          ]
+        }
+      ], 
+      "cols": [
+        {
+          "type": "string", 
+          "id": "ano", 
+          "label": "Ano"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2056", 
+          "label": "N\u00famero M\u00e9dio de Alunos por Profissional \u0096 Creche - Ibat\u00e9"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2056", 
+          "label": "N\u00famero M\u00e9dio de Alunos por Profissional \u0096 Creche - Regi\u00e3o Administrativa Central"
+        }, 
+        {
+          "type": "number", 
+          "id": "v2056", 
+          "label": "N\u00famero M\u00e9dio de Alunos por Profissional \u0096 Creche - Total do Estado de S\u00e3o Paulo"
+        }
+      ]
+    }, 
+    "type": "ColumnChart", 
+    "options": {
+      "formatters": {}, 
+      "hAxis": {
+        "title": "Ano"
+      }, 
+      "title": "N\u00famero m\u00e9dio de alunos de creche por Profissional", 
+      "vAxis": {
+        "gridlines": {
+          "count": 6
+        }, 
+        "title": "alunos/docente"
+      }, 
+      "displayExactValues": true, 
+      "displayed": true, 
+      "legend": {
+        "position": "top", 
+        "maxLines": 1
+      }, 
+      "fill": 20
+    }
+  }
+]
