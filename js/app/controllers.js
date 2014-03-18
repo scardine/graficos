@@ -26,7 +26,6 @@ angular.module('graficos.controllers', [])
                 "Condições Socioeconômicas"
             ];
 
-
             var updateCharts = function(curr, prev) {
                 if(!curr) return;
                 var old_eixo, old_local;
@@ -115,6 +114,23 @@ angular.module('graficos.controllers', [])
                 $scope.item.currentNode = undefined;
             };
 
+            $scope.make_legend = function(mapa) {
+                var legend = {};
+                var domain, scale, i;
+                for(var j=0; j<mapa.features.length; j++) {
+                    legend[mapa.features[j]] = {};
+                    domain = mapa.domain[mapa.features[j]].sort(function(a,b){return a-b});
+                    scale = d3.scale.quantile().domain(domain).range(mapa.range);
+                    for(i=0; i<mapa.range.length; i++) {
+                        legend[mapa.features[j]][mapa.range[i]] = [];
+                    }
+                    for(i=0; i<domain.length; i++) {
+                        legend[mapa.features[j]][scale(domain[i])].push(domain[i]);
+                    }
+                }
+                return legend;
+            };
+
             $scope.$watch('item.currentNode', function(curr, prev) {
                 if(!curr) return;
 
@@ -139,7 +155,7 @@ angular.module('graficos.controllers', [])
                             ra: "Região Administrativa",
                             rm: "Regiões Metropolitanas"
                         },
-                        legenda: curr.legenda,
+                        legenda: $scope.make_legend(curr),
                         fontes: "fonte: " + curr.fonte.join(" | ")
                     })
                 }
