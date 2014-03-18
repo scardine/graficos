@@ -152,11 +152,11 @@ angular.module('graficos.controllers', [])
                         features: curr.features,
                         featureLabels: {
                             mun: "Municipios",
-                            ra: "Região Administrativa",
+                            ra: "Regiões Administrativas",
                             rm: "Regiões Metropolitanas"
                         },
                         legenda: $scope.make_legend(curr),
-                        fontes: "fonte: " + curr.fonte.join(" | ")
+                        fontes: "Fonte: " + curr.fonte.join(" , ")
                     })
                 }
             });

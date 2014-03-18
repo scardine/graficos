@@ -8,7 +8,7 @@ import locale
 
 locale.setlocale(locale.LC_ALL, 'portuguese')
 
-db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@localhost:3307/simeducacao')
+db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@172.16.16.135:3306/simeducacao')
 
 datum = []
 with open("variaveis.csv") as i:
