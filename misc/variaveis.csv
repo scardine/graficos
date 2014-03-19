@@ -1,4 +1,4 @@
-var_cod,var_nome,var_periodo,eixo,dimensao,range,domain,scale,features,Fontes
+var_cod,var_nome,var_periodo,eixo,dimensao,range,domain,scale,features,fontes
 7,Índice Paulista de Responsabilidade Social – IPRS,"2008,2010",Contexto Socioeconômico,Condições de Vida,"#0000AA,#00AA00, #FFFF00,#FFAA00,#AA0000","[0,5]",quantile,mun,Fundação Seade. Índice Paulista de Responsabilidade Social – IPRS.
 63,Taxa de Mortalidade Infantil (Por mil nascidos vivos),"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012",Contexto Socioeconômico,Saúde,"#AAAAFF,#8C8CEA,#6F6FD5,#5151BF,#3333AA","{""data"": ""source"", ""field"": ""data.valor""}",quantile,"mun,ra,rm",Fundação Seade.
 166,Matrícula Inicial no Ensino Médio,"2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012",Educação Básica,Ensino Médio,"#AAAAFF,#8C8CEA,#6F6FD5,#5151BF,#3333AA","{""data"": ""source"", ""field"": ""data.valor""}",quantile,"mun,ra,rm",Secretaria de Estado da Educação – SEE/Centro de Informações Educacionais – CIE.|Ministério da Educação – MEC/Instituto Nacional de Estudos e Pesquisas Educacionais – Inep.|Fundação Seade.

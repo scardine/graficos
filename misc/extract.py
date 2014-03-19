@@ -79,6 +79,10 @@ for variavel in datum:
                             valor = int(label[6])
                         else:
                             valor = label.replace('.', '').replace(',', '.')
+                            try:
+                                valor = float(valor)
+                            except ValueError:
+                                valor = 'N/D'
                             label = variavel["var_nome"].encode('utf-8') + ": " + label
                         writer.writerow([
                             data.localidade.loc_cod,

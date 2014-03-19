@@ -4,11 +4,27 @@ import json
 from unidecode import unidecode
 import sqlsoup
 
-db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@172.16.16.135:3306/simeducacao')
+try:
+    db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@172.16.16.135:3306/simeducacao')
+    db.execute('show tables')
+except:
+    db = sqlsoup.SQLSoup('mysql://usu_simedu:usu_simedu@127.0.0.1:3307/simeducacao')
+
 db.tb_dados.relate('var', db.tb_variavel, primaryjoin=db.tb_dados.var_cod==db.tb_variavel.var_cod, foreign_keys=[db.tb_dados.var_cod])
+db.tb_variavel.relate('fntrel', db.tb_rel_var_fnt, primaryjoin=db.tb_variavel.var_cod==db.tb_rel_var_fnt.var_cod, foreign_keys=[db.tb_rel_var_fnt.var_cod])
+db.tb_rel_var_fnt.relate('fnt', db.tb_fonte, primaryjoin=db.tb_rel_var_fnt.fnt_cod==db.tb_fonte.fnt_cod, foreign_keys=[db.tb_rel_var_fnt.fnt_cod])
 
 altura = 440
 largura = 570
+
+
+def get_fontes(dados):
+    fontes = []
+    for dado in dados:
+        for rel in dado.var.fntrel:
+            fontes.append(rel.fnt.fnt_nome)
+    return sorted(set(fontes))
+
 
 with open("localidades.tsv") as i:
     reader = csv.reader(i, delimiter='\t')
@@ -30,6 +46,14 @@ with open("localidades.tsv") as i:
 
 with open("../data/localidades.json", "wb") as o:
     o.write(json.dumps({"lista": localidades}))
+
+fontes = {}
+with open("variaveis.csv") as i:
+    reader = csv.reader(i)
+    head = reader.next()
+    for line in reader:
+        dado = dict(zip(head, line))
+        fontes[int(dado['var_cod'])] = dado['fontes']
 
 
 def get_var(f):
@@ -82,7 +106,8 @@ def eixo6_chart1(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes([masc, fem])
     }
 
     for var in vars:
@@ -147,7 +172,8 @@ def eixo6_chart2(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "none"}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     #for var in vars:
@@ -208,7 +234,9 @@ def eixo6_chart4(localidade):
             },
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
+
     }
 
     for var in vars:
@@ -269,7 +297,8 @@ def eixo6_chart3(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -329,7 +358,8 @@ def eixo6_chart5(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -391,7 +421,8 @@ def eixo6_chart6(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -452,7 +483,8 @@ def eixo6_chart7(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     anos = [2008, 2010]
@@ -551,7 +583,8 @@ def eixo6_chart9(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "none" }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -609,7 +642,8 @@ def eixo6_chart10(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "none" }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -658,7 +692,8 @@ def eixo0_chart1(localidade):
         "options": {
             "title": u"Matrículas em Pré-escola por Rede de Atendimento",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -699,7 +734,8 @@ def eixo0_chart2(localidade):
         "options": {
             "title": u"Matrículas em Pré-escola por Rede de Atendimento 2012",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -751,7 +787,8 @@ def eixo0_chart3(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -818,7 +855,8 @@ def eixo0_chart4(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -881,7 +919,8 @@ def eixo0_chart5(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -948,7 +987,8 @@ def eixo0_chart6(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1002,7 +1042,8 @@ def eixo1_chart1(localidade):
         "options": {
             "title": u"Matrículas em Creche por Rede de Atendimento",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1043,7 +1084,8 @@ def eixo1_chart2(localidade):
         "options": {
             "title": u"Matrículas em Pré-escola por Rede de Atendimento 2012",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1095,7 +1137,8 @@ def eixo1_chart3(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1162,7 +1205,8 @@ def eixo1_chart4(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1225,7 +1269,8 @@ def eixo1_chart5(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1292,7 +1337,8 @@ def eixo1_chart6(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1365,7 +1411,8 @@ def eixo4_chart1(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "top", "maxLines": 1 }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1430,7 +1477,8 @@ def eixo4_chart2(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1480,7 +1528,8 @@ def eixo4_chart3(localidade):
         "options": {
             "title": u"Distribuição das Matrículas no Ensino Médio, por Rede de Atendimento",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1533,7 +1582,8 @@ def eixo4_chart4(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1594,7 +1644,8 @@ def eixo4_chart5(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1654,7 +1705,8 @@ def eixo4_chart6(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1715,7 +1767,8 @@ def eixo4_chart7(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "none" }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1779,7 +1832,8 @@ def eixo4_chart8(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "none" }
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1846,7 +1900,8 @@ def eixo3_chart1(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1893,7 +1948,8 @@ def eixo3_chart2(localidade):
         "options": {
             "title": u"Matrículas no Ensino Técnico Integrado e Profissionalizante",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -1947,7 +2003,8 @@ def eixo3_chart3(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     anos = [2012]
@@ -2010,7 +2067,8 @@ def eixo3_chart4(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     anos = [2012]
@@ -2078,7 +2136,8 @@ def eixo5_chart1(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2138,7 +2197,8 @@ def eixo5_chart2(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2198,7 +2258,8 @@ def eixo5_chart3(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2259,7 +2320,8 @@ def eixo5_chart4(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2315,7 +2377,8 @@ def eixo2_chart1(localidade):
         "options": {
             "title": u"Distribuição das Matrículas na 1º a 4º Séries do Ensino Fundamental, por Rede de Atendimento",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2356,7 +2419,8 @@ def eixo2_chart2(localidade):
         "options": {
             "title": u"Distribuição das Matrículas na 5º a 8º Séries do Ensino Fundamental, por Rede de Atendimento",
             "legend": { "position": "bottom", "maxLines": len(vars)}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2408,7 +2472,8 @@ def eixo2_chart3(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2471,7 +2536,8 @@ def eixo2_chart4(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2532,7 +2598,8 @@ def eixo2_chart5(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2592,7 +2659,8 @@ def eixo2_chart6(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     for var in vars:
@@ -2653,7 +2721,8 @@ def eixo2_chart7(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     anos = [2007, 2011]
@@ -2716,7 +2785,8 @@ def eixo2_chart8(localidade):
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 2}
-        }
+        },
+        "fontes": get_fontes(vars)
     }
 
     anos = [2007, 2011]
