@@ -2,19 +2,55 @@
 <html lang="pt-br" ng-app="graficos">
 <head>
     <meta charset="UTF-8">
-    <title>Gráficos</title>
+    <title>SIM Educa&ccedil;&atilde;o - Mapas</title>
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/font-awesome.css">
     <link rel="stylesheet" href="css/graficos.css">
     <link rel="stylesheet" href="css/angular-treeview.css">
 </head>
 <body>
+<!--cabecalho-->
+<script type="text/javascript" src="http://www.saopaulo.sp.gov.br/barrasp/js/include_full.js.php"></script>
+
+<div class="container" style="padding-left:0px;padding-right:0px;">
+	<div class="col-md-7"><a href="/simeducacao/graficos/mapas.html"><img src="/simeducacao/img/logo_simeducacao.gif"></a></div>
+   	<div class="col-md-2 text-right"><a href="http://www.fde.sp.gov.br" target="_blank"><img src="/simeducacao/img/logo_fde.gif"></a></div>
+	<div class="col-md-3 text-right"><a href="http://www.educacao.sp.gov.br/" target="_blank"><img src="/simeducacao/img/logo_se.gif"></a></div>    
+</div>
+<div class="container" style="padding-left:0px;padding-right:0px;">
+    <nav class="navbar navbar-inverse" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+    
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-left">
+            <li><a href="/simeducacao/graficos/mapas.html">Mapas</a></li>
+            <li><a href="/simeducacao/graficos/dashboards.html">Gr&aacute;ficos</a></li>
+            <li><a href="/simeducacao/perfil/">Perfis</a></li>
+            <li><a href="/simeducacao/pesquisa/" style="border-right:none;">Pesquisa Avan&ccedil;ada</a></li>
+          </ul>
+	   <ul class="nav navbar-nav navbar-right">
+		<li><button id="faleconosco" type="button" class="btn btn-link"  data-container="body" data-toggle="popover" data-placement="bottom" data-content="Para saber mais ou tirar d&uacute;vidas sobre o conteuacute;do e a navega&ccedil;&atilde;o do SIM Educa&ccedil;&atilde;o, entre em contato com a Funda&ccedil;&atilde;o Seade pelo telefone (11) 3313-5777 ou e-mail sicseade@seade.gov.br.">Fale Conosco</button></li>
+	   </ul>
+        </div>
+      </div>
+    </nav>
+</div>
+<!--fim cabecalho-->
+
     <div class="container dashboard">
         <div class="row" ng-controller="menuControllerMapas">
             <div class="col-lg-3">
                 <div class="panel panel-default altura">
                     <div class="panel-heading">
-                        Seleção de Variáveis
+                        Sele&ccedil;&atilde;o de Vari&aacute;veis
                     </div>
                     <div class="panel-body">
                         <div angular-treeview="true" tree-id="item" tree-model="data" tree-data="data"
@@ -63,5 +99,25 @@
     <!-- script src="http://trifacta.github.io/vega/vega.js"></script -->
     <script src="js/vega.js"></script>
     <script src="js/ng-google-chart.js"></script>
+    <script type="text/javascript">
+      $(function() {
+	  $('#faleconosco').popover({
+	    placement : 'bottom'
+	});
+     });
+    </script>
+    
+<!--rodape-->
+<div class="container" style="padding-left:0; padding-right:0">
+	<nav class="navbar navbar-inverse" style="text-align:center; font-size:14px; color:#fff; margin-bottom:5px;">
+    	SIM Educa&ccedil;&atilde;o - Sistema de Informa&ccedil;&otilde;es Municipais
+    </nav>
+    <div class="col-md-6" style="font-size:11px; font-family:Verdana, Geneva, sans-serif;">Elaborado por:&nbsp;&nbsp;&nbsp;<a href="http://www.seade.gov.br" target="_blank"><img src="/simeducacao/img/logo_seade2.gif" style="vertical-align:text-bottom"></a></div>
+    <div class="col-md-6 text-right" style="font-size:11px; font-family:Verdana, Geneva, sans-serif;"><a href="http://www.planejamento.sp.gov.br/" target="_blank" style="color:#666;">Secretaria de Planejamento e Desenvolvimento Regional</a></div>
+</div>
+<!--fim rodape-->
+
+<br /><br />
+    
 </body>
 </html>
