@@ -22,7 +22,7 @@ def get_fontes(dados):
     fontes = []
     for dado in dados:
         for rel in dado.var.fntrel:
-            fontes.append(rel.fnt.fnt_nome)
+            fontes.append(rel.fnt.fnt_nome.decode('iso-8859-1'))
     return sorted(set(fontes))
 
 

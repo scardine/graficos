@@ -58,7 +58,7 @@
                 <div class="col-lg-6" ng-repeat="chart in charts">
                     <div class="panel panel-default">
                         <div google-chart chart="chart" style="{{chart.cssStyle}}"></div>
-                        <div class="fonte text-center">{{chart.fonte}}</div>
+                        <div class="fonte text-center"><small>Fontes: {{chart.fontes.join(' ')}}</small></div>
                     </div>
                 </div>
             </div>
