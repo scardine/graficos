@@ -71,8 +71,7 @@ def get_var(f):
 
 
 ######## EIXO 0 - 1 - 2 Pre-Escola | Creche | Fundamental - Sergio/LUIZA #########
-########## EIXO 0 ###############
-
+########## EIXO 0 e 1 ###############
 def eixo0_chart1(localidade):
     # Grafico Matrículas em Pré-escola, por Rede de Atendimento 2009
     vars = [
@@ -765,7 +764,6 @@ def eixo1_chart6(localidade):
 
     return chart
 
-
 ########## EIXO 2 ###############
 
 def eixo2_chart1(localidade):
@@ -1224,709 +1222,6 @@ def eixo2_chart8(localidade):
 
 
 
-##### EIXO 0 - pre-escola #########
-
-def eixo0_chart1(localidade):
-    # Grafico Matrículas em Pré-escola por Rede de Atendimento 2009
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2061,160,2059,2230]
-    ]
-
-    chart = {
-        "type": "PieChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "label": "Variavel",
-                "type": "string",
-              },
-              {
-                "label": "Valor",
-                "type": "number",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Matrículas em Pré-escola por Rede de Atendimento",
-            "legend": { "position": "bottom", "maxLines": len(vars)}
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        label = var.var.var_nome.decode('iso-8859-1')
-        c = [{"v": label}]
-        coluna = "d_2009"
-        f = getattr(var, coluna)
-        v = get_var(f)
-        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo0_chart2(localidade):
-    # Grafico Matrículas em Pré-escola por Rede de Atendimento 2012
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2061,160,2059,2230]
-    ]
-
-    chart = {
-        "type": "PieChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "label": "Variavel",
-                "type": "string",
-              },
-              {
-                "label": "Valor",
-                "type": "number",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Matrículas em Pré-escola por Rede de Atendimento 2012",
-            "legend": { "position": "bottom", "maxLines": len(vars)}
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        label = var.var.var_nome.decode('iso-8859-1')
-        c = [{"v": label}]
-        coluna = "d_2012"
-        f = getattr(var, coluna)
-        v = get_var(f)
-        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo0_chart3(localidade):
-    # Grafico Matriculas e Demanda Potencial
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2064,2061,2068]
-    ]
-
-    chart = {
-        "type": "ColumnChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Matriculas em Pré-escola por Rede e Demanda Potencial",
-            "isStacked": "true",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"Matrículas",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": "Ano"
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "top", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": var.var.var_nome.decode('iso-8859-1'),
-            "type": "number",
-        })
-
-    # dados de 2000 a 2020
-    for ano in (list(range(2009, 2013)) + list(range(2016, 2021))):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo0_chart4(localidade):
-    # Grafico Taxa de Atendimento a Pré-escola
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2066).one(),
-    ]
-    if localidade['loc_pai']:
-        pai = db.tb_localidade.filter_by(loc_cod=localidade['loc_pai']).one()
-        vars.append(
-            db.tb_dados.filter_by(loc_cod=pai.loc_cod, var_cod=2066).one(),
-        )
-        if pai.loc_pai:
-            vars.append(
-                db.tb_dados.filter_by(loc_cod=pai.loc_pai, var_cod=2066).one(),
-            )
-
-    chart = {
-        "type": "LineChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Taxa de Atendimento a Pré-escola",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"Taxa de atendimento",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": "Ano"
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "top", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        local = db.tb_localidade.filter_by(loc_cod=var.loc_cod).one()
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": u" - ".join([
-                var.var.var_nome.decode('iso-8859-1'),
-                local.loc_nome.decode('iso-8859-1'),
-            ]),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012
-    for ano in range(2009, 2013):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo0_chart5(localidade):
-    # Grafico % de docentes com ensino superior ou magistério completo
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2069]
-    ]
-
-    chart = {
-        "type": "BarChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"% de docentes com ensino superior ou magistério completo",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"% de docentes",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": "Ano"
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "top", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": var.var.var_nome.decode('iso-8859-1'),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012
-    for ano in range(2009, 2013):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo0_chart6(localidade):
-    # Grafico Número médio de alunos por docente
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2070).one(),
-    ]
-    if localidade['loc_pai']:
-        pai = db.tb_localidade.filter_by(loc_cod=localidade['loc_pai']).one()
-        vars.append(
-            db.tb_dados.filter_by(loc_cod=pai.loc_cod, var_cod=2070).one(),
-        )
-        if pai.loc_pai:
-            vars.append(
-                db.tb_dados.filter_by(loc_cod=pai.loc_pai, var_cod=2070).one(),
-            )
-
-    chart = {
-        "type": "ColumnChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Número médio de alunos por docente",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"alunos/docente",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": "Ano"
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "top", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        local = db.tb_localidade.filter_by(loc_cod=var.loc_cod).one()
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": u" - ".join([
-                var.var.var_nome.decode('iso-8859-1'),
-                local.loc_nome.decode('iso-8859-1'),
-            ]),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012
-    for ano in range(2009, 2013):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-############# EIXO 1 - CRECHE #################
-def eixo1_chart1(localidade):
-    # Grafico Matrículas em Creche, por Rede de Atendimento 2009
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2045,262,2043,2047]
-    ]
-
-    chart = {
-        "type": "PieChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "label": "Variavel",
-                "type": "string",
-              },
-              {
-                "label": "Valor",
-                "type": "number",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Matrículas em Creche, por Rede de Atendimento\n2009",
-            "legend": { "position": "bottom", "maxLines": len(vars)}
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        label = var.var.var_nome.decode('iso-8859-1')
-        c = [{"v": label}]
-        coluna = "d_2009"
-        f = getattr(var, coluna)
-        v = get_var(f)
-        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo1_chart2(localidade):
-    # Grafico Matrículas em Creche, por Rede de Atendimento 2012
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2045,262,2043,2047]
-    ]
-
-    chart = {
-        "type": "PieChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "label": "Variavel",
-                "type": "string",
-              },
-              {
-                "label": "Valor",
-                "type": "number",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Matrículas em Creche, por Rede de Atendimento\n2012",
-            "legend": { "position": "bottom", "maxLines": len(vars)}
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        label = var.var.var_nome.decode('iso-8859-1').split()[-2]
-        c = [{"v": label}]
-        coluna = "d_2012"
-        f = getattr(var, coluna)
-        v = get_var(f)
-        c.append({"v": float(v), "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo1_chart3(localidade):
-    # Grafico Matrículas em Creche, por Rede de Atendimento e Demanda Potencial
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2049,2045,2053]
-    ]
-
-    chart = {
-        "type": "ColumnChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Matrículas em Creche, por Rede de Atendimento e Demanda Potencial\n2009-2020",
-            "isStacked": "true",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"Matrículas",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": "Ano"
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "bottom", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": var.var.var_nome.decode('iso-8859-1'),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012 + 2016 a 2020
-    for ano in (list(range(2009, 2013)) + list(range(2016, 2021))):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo1_chart4(localidade):
-    # Grafico Taxa de Atendimento à Creche - 2009-2012
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2051).one(),
-    ]
-    if localidade['loc_pai']:
-        pai = db.tb_localidade.filter_by(loc_cod=localidade['loc_pai']).one()
-        vars.append(
-            db.tb_dados.filter_by(loc_cod=pai.loc_cod, var_cod=2051).one(),
-        )
-        if pai.loc_pai:
-            vars.append(
-                db.tb_dados.filter_by(loc_cod=pai.loc_pai, var_cod=2051).one(),
-            )
-
-    chart = {
-        "type": "LineChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Taxa de Atendimento à Creche\n2009-2012",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"Em %",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": ""
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "bottom", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        local = db.tb_localidade.filter_by(loc_cod=var.loc_cod).one()
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": u" - ".join([
-                var.var.var_nome.decode('iso-8859-1'),
-                local.loc_nome.decode('iso-8859-1'),
-            ]),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012
-    for ano in range(2009, 2013):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo1_chart5(localidade):
-    # Grafico Docentes de Creche com Ensino Superior ou Magistério e de Auxiliares de Creche com Ensino Médio Completo
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=c).one()
-        for c in [2054,2055]
-    ]
-
-    chart = {
-        "type": "BarChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Docentes de Creche com Ensino Superior ou Magistério e de Auxiliares de Creche com Ensino Médio Completo\n2009-2012",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"Em %",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": ""
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "none"}
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": var.var.var_nome.decode('iso-8859-1'),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012
-    for ano in range(2009, 2013):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-
-def eixo1_chart6(localidade):
-    # Grafico Número Médio de Alunos de Creche por Profissional
-    vars = [
-        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2056).one(),
-    ]
-    if localidade['loc_pai']:
-        pai = db.tb_localidade.filter_by(loc_cod=localidade['loc_pai']).one()
-        vars.append(
-            db.tb_dados.filter_by(loc_cod=pai.loc_cod, var_cod=2056).one(),
-        )
-        if pai.loc_pai:
-            vars.append(
-                db.tb_dados.filter_by(loc_cod=pai.loc_pai, var_cod=2056).one(),
-            )
-
-    chart = {
-        "type": "ColumnChart",
-        "cssStyle": "height:{}px; width:{}px;".format(altura, largura),
-        "data": {
-            "cols": [
-              {
-                "id": "ano",
-                "label": "Ano",
-                "type": "string",
-              }
-            ],
-            "rows": [],
-        },
-        "options": {
-            "title": u"Número Médio de Alunos de Creche por Profissional\n2009-2012",
-            "fill": 20,
-            "displayExactValues": True,
-            "vAxis": {
-                "title": u"Em %",
-                "gridlines": {
-                    "count": 6
-                }
-            },
-            "hAxis": {
-                "title": ""
-            },
-            "formatters": {},
-            "displayed": True,
-            "legend": { "position": "bottom", "maxLines": 1 }
-        },
-        "fontes": get_fontes(vars)
-    }
-
-    for var in vars:
-        local = db.tb_localidade.filter_by(loc_cod=var.loc_cod).one()
-        chart['data']['cols'].append({
-            "id": "v{}".format(var.var_cod),
-            "label": u" - ".join([
-                var.var.var_nome.decode('iso-8859-1'),
-                local.loc_nome.decode('iso-8859-1'),
-            ]),
-            "type": "number",
-        })
-
-    # dados de 2009 a 2012
-    for ano in range(2009, 2013):
-        c = [{"v": ano}]
-        coluna = "d_{}".format(ano)
-        for var in vars:
-            f = getattr(var, coluna)
-            v = get_var(f)
-            c.append({"v": v, "f": f.decode('iso-8859-1')})
-        chart['data']['rows'].append({"c": c})
-
-    return chart
-
-################ FIM EIXO 1 - CHECHE ########
-
-
-
 ########## EIXO 3 - Ensino Técnico - Marcelo ############
 
 # -*- coding: utf-8 -*-
@@ -1977,8 +1272,8 @@ def eixo3_chart1(localidade):
             "label": " ".join(var.var.var_nome.decode('iso-8859-1').split()[2:5]),
             "type": "number",
         })
-
-    for ano in range(2009, 2012):
+    #dados 2009 as 2012
+    for ano in range(2009, 2013):
         c = [{"v": ano}]
         coluna = "d_{}".format(ano)
         for var in vars:
@@ -2938,6 +2233,9 @@ def eixo6_chart1(localidade):
                     "count": 6
                 }
             },
+            "hAxis": {
+                "showTextEvery": 2,
+            },
             "formatters": {},
             "displayed": True,
             "legend": { "position": "bottom", "maxLines": 1 }
@@ -3090,9 +2388,11 @@ def eixo6_chart4(localidade):
 
 
 def eixo6_chart3(localidade):
-    # Grafico de populacao em idade escolar
+    # Grafico de populacao em idade escolar 1006, 2005, 2007, 1009 e 1010
     vars = [
         db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1006).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2005).one(),
+        db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=2007).one(),
         db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1009).one(),
         db.tb_dados.filter_by(loc_cod=localidade['loc_cod'], var_cod=1010).one(),
     ]
@@ -3125,7 +2425,7 @@ def eixo6_chart3(localidade):
             },
             "formatters": {},
             "displayed": True,
-            "legend": { "position": "bottom", "maxLines": 2}
+            "legend": { "position": "bottom", "maxLines": 1 }
         },
         "fontes": get_fontes(vars)
     }
@@ -3181,6 +2481,9 @@ def eixo6_chart5(localidade):
                 "gridlines": {
                     "count": 6
                 }
+            },
+            "hAxis": {
+                "showTextEvery": 2,
             },
             "formatters": {},
             "displayed": True,
@@ -3355,7 +2658,7 @@ def eixo6_chart8(localidade):
             "rows": [],
         },
         "options": {
-            "title": u"Indice Paulista de Vulnerabilidade Social, segundo Grupos",
+            "title": u"Indice Paulista de Vulnerabilidade Social, segundo Grupos\n2010",
             "legend": { "position": "bottom", "maxLines": len(vars)}
         },
         "fontes": get_fontes(vars)
@@ -3400,9 +2703,6 @@ def eixo6_chart9(localidade):
                 "gridlines": {
                     "count": 6
                 }
-            },
-			"hAxis": {
-                "showTextEvery": 2,
             },
             "formatters": {},
             "displayed": True,
@@ -3471,7 +2771,8 @@ def eixo6_chart10(localidade):
                 }
             },
             "hAxis": {
-                "title": ""
+                "title": "",
+                "showTextEvery": 2,
             },
             "formatters": {},
             "displayed": True,
