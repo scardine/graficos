@@ -18,7 +18,7 @@ angular.module('graficos.directives', [])
     .directive('vegaMap', function($timeout) {
         return {
             restrict: 'E',
-            templateUrl: '/graficos/js/app/html/vega-map.html',
+            templateUrl: '/simeducacao/graficos/js/app/html/vega-map.html',
             transclude: true,
             scope: {
                 url: '@',
