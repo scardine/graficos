@@ -52,7 +52,7 @@
                         <div>Eixo:</div>
                         <form>
                             <select ng-model="eixo" class="form-control" id="controle_select">
-                                <option ng-repeat="eixo in eixos" ng-value="$index" ng-selected="selected">{{ eixo }}</option>
+                                <option ng-repeat="eixo in eixos" ng-value="$index" ng-selected="{{eixo=='Educação Infantil - Creche'}}">{{ eixo }}</option>
                             </select>
                         </form>
                     </div>
