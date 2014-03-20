@@ -1,27 +1,27 @@
-.altura {
-  min-height: 550px;
-  position: relative; }
+.levels {line-height:30px;}
+
+.altura {min-height: 500px; position: relative;}
 
 .vega-map h1, .vega-map h2, .vega-map h3 {
   margin-top: 5px;
   text-align: center; }
-.vega-map .btn-close {
-  position: absolute;
-  top: 15px;
-  right: 15px; }
+
+.vega-map h3 {font-size:16px;}
+.vega-map h3 {font-size:16px;}
+.vega-map h3.ng-binding {padding-bottom:0px;margin-bottom:5px}
+.vega-map .btn-close {position: absolute; top: 7px; right: 15px; font-size:20px; cursor: pointer;}
+
 .vega-map .panel-heading {
   position: relative; }
-.vega-map .panel-body {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  min-height: 550px; }
+
+.vega-map .panel-body {position: relative; margin: 0; padding: 0; min-height: 500px;}
+
 .vega-map .info, .vega-map .navigate {
   position: absolute;
   padding: 10px; }
 .vega-map .info {
   width: 300px;
-  height: 240px;
+  height: 200px;
   left: 5px;
   bottom: 5px;
   border: 1px solid #eee;
@@ -69,8 +69,8 @@
 
 .vega-map-footer {
   font-size: 10px;
-  font-weight: bold;
   text-align: center;
+  font-weight: bold;
   margin: 0 auto 15px;
   width: 80%; }
 
@@ -86,8 +86,9 @@
 .dashboard .variaveis, .dashboard .localidades {
   padding: 15px; }
 .dashboard .lista {
-  height: 200px;
-  overflow: scroll;
+  min-width: 200px;
+  max-height: 200px;
+  overflow-y: auto;
   border: 1px solid #dddddd; }
   .dashboard .lista a.local {
     display: block;
@@ -98,10 +99,17 @@
       text-decoration: none;
       background-color: #e1edf7; }
   .dashboard .lista.municipios a.local {
-    width: 32%;
+    width: 99%;
     margin-right: 1%;
     float: left; }
   .dashboard .lista.ra a.local {
-    width: 49%;
+    width: 99%;
     margin-right: 1%;
     float: left; }
+
+h2.ng-binding {padding:0px; margin:0px; margin-bottom:10px; margin-top:10px; font-size:20px;}
+button.btn-link {color:#ccc; text-decoration:none;}
+button.btn-link:hover {color:#fff; background:#1e1e1e; text-decoration:none;}
+button.btn-link:active, button.btn-link:visited {color:#fff; text-decoration:none;}
+u.nav a {cursor: pointer;}
+
