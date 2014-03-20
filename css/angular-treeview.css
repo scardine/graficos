@@ -68,3 +68,8 @@ div[data-tree-model]  li .leaf , div[tree-model]  li .leaf  {
 div[data-tree-model]  li .fa-bar-chart-o , div[tree-model]  li .fa-bar-chart-o  {
     float: left;
 }
+
+div[data-tree-model]  li .fa-map-marker , div[tree-model]  li .fa-map-marker  {
+    float: left;
+margin-left:5px;margin-top:5px;
+}
