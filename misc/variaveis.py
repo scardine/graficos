@@ -140,7 +140,7 @@ for i, nome in enumerate(eixos):
                 #"domain": json.loads(line['domain']),
                 "scale": line['scale'],
                 "features": line['features'].split(","),
-                "fonte": line.get('fonte', '').split('|'),
+                "fonte": line.get('fontes', '').split('|'),
             }
             variable['domain'] = get_domain(var.var_cod, variable['anos'], line['domain'])
             variable["legenda"] = get_legend(variable['domain'])
