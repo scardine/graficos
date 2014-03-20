@@ -1,7 +1,7 @@
 <div class="panel panel-default vega-map">
     <div class="panel-heading">
         <h3>{{ title }}</h3>
-        <a class="btn btn-sm btn-primary btn-close" ng-click="remove()" title="Fechar">&times;</a>
+         <a class="btn-close" ng-click="remove()" title="Fechar"><span class="glyphicon glyphicon-remove-circle"></span></a>
     </div>
     <div class="panel-body">
         <div scope-ref="vis"></div>
@@ -16,10 +16,10 @@
         </div>
         <div class="legend">
             <div ng-repeat="rng in range">
-                <span ng-hide="legend[rng].length"> N/E </span>
+                <!--span ng-hide="legend[rng].length"> N/E </span-->
                 <span ng-show="legend[rng].length && legend[rng][0] == legend[rng][legend[rng].length-1]">{{ legend[rng][0] }}</span>
                 <span ng-show="legend[rng].length && legend[rng][0] != legend[rng][legend[rng].length-1]">de {{ legend[rng][0] }} até {{ legend[rng][legend[rng].length-1] }}</span>
-                <span class="sample" style="background-color: {{ rng }}">&nbsp;</span>
+                <span ng-show="legend[rng].length" class="sample" style="background-color: {{ rng }}">&nbsp;</span>
             </div>
         </div>
     </div>
