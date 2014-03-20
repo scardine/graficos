@@ -50,7 +50,7 @@
 						'<li data-ng-repeat="node in ' + treeModel + '">' +
 							'<i class="collapsed fa fa-plus-square" data-ng-show="node.' + nodeChildren + '.length && node.collapsed" data-ng-click="' + treeId + '.selectNodeHead(node)"></i>' +
 							'<i class="expanded fa fa-minus-square" data-ng-show="node.' + nodeChildren + '.length && !node.collapsed" data-ng-click="' + treeId + '.selectNodeHead(node)"></i>' +
-							'<i class="normal fa fa-bar-chart-o" data-ng-hide="node.' + nodeChildren + '.length"></i> ' +
+							'<i class="normal fa fa-map-marker" data-ng-hide="node.' + nodeChildren + '.length"></i> ' +
 							'<span data-ng-class="{selected: lista.indexOf(node.id) != -1, leaf: node.' + nodeChildren + '.length==0}" data-ng-click="' + treeId + '.selectNodeLabel(node)">{{node.' + nodeLabel + '}}</span>' +
 							'<div data-ng-hide="node.collapsed" data-tree-id="' + treeId + '" data-tree-model="node.' + nodeChildren + '" data-node-id=' + nodeId + ' data-node-label=' + nodeLabel + ' data-node-children=' + nodeChildren + '></div>' +
 						'</li>' +
