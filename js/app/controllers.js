@@ -15,7 +15,7 @@ angular.module('graficos.controllers', [])
                 loc_nivel: 99
             };
 
-            $scope.eixo = 0;
+            $scope.eixo = 1;
             $scope.eixos = [
                 "Educação Infantil - Pré-escola",
                 "Educação Infantil - Creche",
