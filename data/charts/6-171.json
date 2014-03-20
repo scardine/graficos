@@ -358,7 +358,11 @@
         "maxLines": 1
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Instituto Brasileiro de Geografia e Estat\u00edstica \u0096 IBGE."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -428,7 +432,12 @@
         "position": "none"
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Instituto Brasileiro de Geografia e Estat\u00edstica \u0096 IBGE.", 
+      "Instituto Brasileiro de Geografia e Estat\u00edstica \u0096 IBGE. Censo Demogr\u00e1fico."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -745,7 +754,11 @@
         "maxLines": 2
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Instituto Brasileiro de Geografia e Estat\u00edstica \u0096 IBGE."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -981,7 +994,11 @@
         }
       }, 
       "seriesType": "bars"
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Instituto Brasileiro de Geografia e Estat\u00edstica \u0096 IBGE."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -1259,7 +1276,11 @@
         "maxLines": 2
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Instituto Brasileiro de Geografia e Estat\u00edstica \u0096 IBGE."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -1614,7 +1635,10 @@
         "maxLines": 2
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Minist\u00e9rio do Trabalho e Emprego \u0096 MTE. Rela\u00e7\u00e3o Anual de Informa\u00e7\u00f5es Sociais \u0096 Rais."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -1705,7 +1729,10 @@
         "maxLines": 2
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade. \u00cdndice Paulista de Responsabilidade Social \u0096 IPRS."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -1989,7 +2016,10 @@
         "position": "none"
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -2171,6 +2201,9 @@
         "position": "none"
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade."
+    ]
   }
 ]

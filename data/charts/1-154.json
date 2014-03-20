@@ -66,7 +66,13 @@
         "maxLines": 4
       }, 
       "title": "Matr\u00edculas em Creche por Rede de Atendimento"
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep.", 
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep. Censo Escolar.", 
+      "Secretaria de Estado da Educa\u00e7\u00e3o \u0096 SEE/Centro de Informa\u00e7\u00f5es Educacionais \u0096 CIE."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -135,7 +141,13 @@
         "maxLines": 4
       }, 
       "title": "Matr\u00edculas em Pr\u00e9-escola por Rede de Atendimento 2012"
-    }
+    }, 
+    "fontes": [
+      "Funda\u00e7\u00e3o Seade.", 
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep.", 
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep. Censo Escolar.", 
+      "Secretaria de Estado da Educa\u00e7\u00e3o \u0096 SEE/Centro de Informa\u00e7\u00f5es Educacionais \u0096 CIE."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -357,7 +369,10 @@
         "maxLines": 1
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep. Censo Escolar."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -483,7 +498,10 @@
         "maxLines": 1
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep. Censo Escolar."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -588,7 +606,10 @@
         "maxLines": 1
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep. Censo Escolar."
+    ]
   }, 
   {
     "cssStyle": "height:440px; width:570px;", 
@@ -714,6 +735,9 @@
         "maxLines": 1
       }, 
       "fill": 20
-    }
+    }, 
+    "fontes": [
+      "Minist\u00e9rio da Educa\u00e7\u00e3o \u0096 MEC/Instituto Nacional de Estudos e Pesquisas Educacionais \u0096 Inep. Censo Escolar."
+    ]
   }
 ]
