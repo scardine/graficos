@@ -165,7 +165,7 @@ angular.module('graficos.controllers', [])
                 success(function (data, status, headers, config) {
                     $scope.data = data.menu;
                     // mapa default
-                    $scope.item.currentNode = data.menu[0].itens[0].itens[0];
+                    $scope.item.currentNode = data.menu[0].itens[2].itens[1];
                     $scope.mapas.append($scope.item.currentNode);
                     $scope.lista.append($scope.item.currentNode.id);
                 }).
